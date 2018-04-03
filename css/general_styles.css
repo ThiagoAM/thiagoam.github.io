@@ -1,0 +1,14 @@
+/*
+***** General Styles *****
+*/
+
+@font-face {
+	font-family: sf_regular;
+	src: url(../fonts/SanFranciscoDisplay-Regular.otf);
+}
+
+body {
+	background-color: #101010;
+	color: white;
+	font-family: sf_regular;
+}
