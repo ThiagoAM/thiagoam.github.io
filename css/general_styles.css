@@ -12,3 +12,99 @@ body {
 	color: white;
 	font-family: sf_regular;
 }
+
+/* Technology Indicator  */
+.technologyIndicator {
+	width: 80px;
+	height: 50px;
+	font-size: 20px;
+	line-height: 10px;
+}
+
+/* CENTRAL CONTAINER */
+.centralContainer {
+	position: relative;
+	background-color: #1A1A1A;
+	width: 1200px;
+	margin: auto;
+	padding: 10px;
+	height: 475px;
+	border-radius: 10px;
+}
+
+.centralContainer h1 {
+	position: relative;
+	color: white;
+	text-align: center;
+	margin: auto;
+	font-weight: bold;
+}
+
+.centralContainer #platformIndicator {
+	position: absolute;
+	text-align: center;
+	left: 0;
+	top: 0;
+}
+
+.centralContainer #platformIndicator p {
+	color: #A14AD6;
+	font-weight: bold;
+}
+
+.centralContainer #languageIndicator {
+	position: absolute;
+	text-align: center;
+	left: 0;
+	margin-left: 80px;
+	top: 0;
+}
+
+.centralContainer #languageIndicator p {
+	font-weight: bold;
+	color: #FD9426;
+}
+
+/* LEFT SIDE CONTAINER */
+.containerLefttSide {
+	position: relative;
+	margin-top: 10px;
+	width: 30%;
+	height: auto;
+	float: left;
+}
+
+.containerLefttSide a {
+	text-decoration:none;
+}
+
+.containerLefttSide p {
+	text-align: center;
+	font-weight: lighter;
+	color: #6ABCFC;
+	font-size: 22px;
+}
+
+/* RIGHT SIDE CONTAINER */
+.containerRighttSide {
+	position: relative;
+	margin-top: 10px;
+	margin-right: 20px;
+	width: 67%;
+	height: auto;
+	float: right;
+}
+
+.containerRighttSide p {
+	font-size: 22px;
+	line-height: 32px;
+}
+
+/* APP ICON IMAGE */
+.containerLefttSide img {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 90%;
+	height: auto;
+}
