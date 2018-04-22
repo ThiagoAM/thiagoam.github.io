@@ -25,10 +25,12 @@ body {
 .centralContainer {
 	position: relative;
 	background-color: #1A1A1A;
-	width: 1200px;
+	width: 75%;
+	min-width: 675px;
 	margin: auto;
 	padding: 10px;
-	height: 475px;
+	height: auto;
+	overflow: auto;
 	border-radius: 10px;
 }
 
@@ -105,6 +107,6 @@ body {
 	display: block;
 	margin-left: auto;
 	margin-right: auto;
-	width: 90%;
+	width: 65%;
 	height: auto;
 }
