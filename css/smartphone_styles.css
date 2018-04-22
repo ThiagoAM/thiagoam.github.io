@@ -3,4 +3,49 @@
 */
 @media only screen and (min-width: 120px) and (min-device-width: 120px) and (max-device-width: 599px) {
 
+  .centralContainer {
+    width: 100%;
+    border-radius: 0px;
+  }
+
+  .containerRightSide {
+  	width: 67%;
+  }
+
+  .containerRightSide p {
+  	font-size: 3vh;
+  	line-height: 4vh;
+  }
+
+  .containerLeftSide img {
+  	width: 90%;
+  }
+
+  .containerLeftSide {
+  	margin-top: 4.5vw;
+  }
+
+  .containerRightSide h1 {
+  	font-size: 4.5vw;
+  	line-height: 4.5vw;
+  }
+
+  .containerLeftSide p {
+  	font-size: 3.5vw;
+  }
+
+  .techIndicatorDiv {
+    text-align: left;
+  	width: 17%;
+  	height: 8vw;
+  	font-size: 3vw;
+  	line-height: 10px;
+  	left: 0;
+  	top: 0;
+  }
+
+  .secondIndicator {
+  	margin-left: 17%;
+  }
+
 }
