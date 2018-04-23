@@ -18,7 +18,7 @@ body {
 	position: absolute;
 	text-align: center;
 	font-weight: bold;
-	width: 100px;
+	width: 110px;
 	height: 50px;
 	font-size: 20px;
 	line-height: 10px;
@@ -27,7 +27,7 @@ body {
 }
 
 .secondIndicator {
-	margin-left: 100px;
+	margin-left: 110px;
 }
 
 #iOSApp {
@@ -52,6 +52,10 @@ body {
 
 #classe {
 	color: #AEB5C0;
+}
+
+#C_ID {
+	color: #FCE43F;
 }
 
 /* CENTRAL CONTAINER */
