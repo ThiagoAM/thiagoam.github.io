@@ -2,9 +2,26 @@
 ***** General Styles *****
 */
 
+html, body {
+	margin:0;
+	padding:0;
+}
+
 @font-face {
 	font-family: sf_regular;
 	src: url(../fonts/SanFranciscoDisplay-Regular.otf);
+}
+
+@font-face {
+	font-family: sf_regular;
+	src: url(../fonts/SanFranciscoDisplay-Bold.otf);
+	font-weight: bold;
+}
+
+@font-face {
+	font-family: sf_regular;
+	src: url(../fonts/SanFranciscoDisplay-Semibold.otf);
+	font-weight: 500;
 }
 
 body {
@@ -13,11 +30,71 @@ body {
 	font-family: sf_regular;
 }
 
+/* Profile Div */
+.profileDiv {
+	position: relative;
+	width: 675px;
+	margin: auto;
+	padding: 10px;
+	height: auto;
+	overflow: auto;
+	border-bottom-width: 2px;
+  border-bottom-color: #484848;
+  border-bottom-style: solid;
+}
+
+.profileDiv #profilePicture {
+	height: 250px;
+	width: 250px;
+	border-radius: 125px;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.profileDiv h1 {
+	text-align: center;
+}
+
+.profileDiv h2 {
+	text-align: center;
+}
+
+.profileDiv h3 {
+	font-size: 25px;
+}
+
+.profileDiv h4 {
+	font-size: 20px;
+	line-height: 5px;
+}
+
+.profileDiv p {
+	font-size: 22px;
+	line-height: 32px;
+	/*hyphens: auto;*/
+	text-align: justify;
+}
+
+.profileDiv a {
+	text-decoration: none;
+	color: #6DBDFA;
+}
+
+.phoneNumber {
+	color: #6DBDFA;
+}
+
+/* My Projects h1: */
+.myProjects {
+	text-align: center;
+}
+
 /* Technology Indicator  */
 .techIndicatorDiv {
 	position: absolute;
 	text-align: center;
-	font-weight: bold;
+	font-weight: 500;
 	width: 110px;
 	height: 50px;
 	font-size: 20px;
@@ -108,7 +185,6 @@ body {
 
 .containerLeftSide p {
 	text-align: center;
-	font-weight: lighter;
 	color: #6ABCFC;
 	font-size: 22px;
 }

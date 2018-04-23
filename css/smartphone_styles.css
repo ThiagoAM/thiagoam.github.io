@@ -3,6 +3,43 @@
 */
 @media only screen and (min-width: 120px) and (min-device-width: 120px) and (max-device-width: 599px) {
 
+  .profileDiv {
+  	width: 90%;
+  }
+
+  .profileDiv #profilePicture {
+  	width: 40%;
+    height: auto;
+  	border-radius: 50%;
+  }
+
+  .profileDiv h1 {
+  	font-size: 4.5vw;
+  }
+
+  .profileDiv h2 {
+    font-size: 3.5vw;
+  }
+
+  .profileDiv h3 {
+  	font-size: 3.5vw;
+  }
+
+  .profileDiv h4 {
+  	font-size: 3vh;
+    line-height: 2vh;
+  }
+
+  .profileDiv p {
+    font-size: 3vh;
+  	line-height: 4vh;
+  	text-align: left;
+  }
+
+  .myProjects {
+    font-size: 4.5vw;
+  }
+
   .centralContainer {
     width: 100%;
     border-radius: 0px;
@@ -35,8 +72,8 @@
   }
 
   .techIndicatorDiv {
-    text-align: left;
-  	width: 17%;
+    text-align: center;
+  	width: 14%;
   	height: 8vw;
   	font-size: 3vw;
   	line-height: 10px;
@@ -45,7 +82,7 @@
   }
 
   .secondIndicator {
-  	margin-left: 17%;
+  	margin-left: 14%;
   }
 
 }

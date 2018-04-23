@@ -3,6 +3,12 @@
 */
 @media only screen and (min-width: 600px) and (min-device-width: 600px) and (max-device-width: 1023px) {
 
+  .profileDiv {
+
+  	width: 80%;
+
+  }
+
   .centralContainer {
     width: 100%;
     border-radius: 0px;
