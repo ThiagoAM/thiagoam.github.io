@@ -8,36 +8,36 @@
   }
 
   .profileDiv #profilePicture {
-  	width: 40%;
+    width: 300px;
     height: auto;
   	border-radius: 50%;
   }
 
   .profileDiv h1 {
-  	font-size: 4.5vw;
+    font-size: 65px;
   }
 
   .profileDiv h2 {
-    font-size: 3.5vw;
+    font-size: 50px;
   }
 
   .profileDiv h3 {
-  	font-size: 3.5vw;
+    font-size: 50px;
   }
 
   .profileDiv h4 {
-  	font-size: 3vh;
-    line-height: 2vh;
+    font-size: 50px;
+    line-height: 20px;
   }
 
   .profileDiv p {
-    font-size: 3vh;
-  	line-height: 4vh;
+    font-size: 50px;
+    line-height: 65px;
   	text-align: left;
   }
 
   .myProjects {
-    font-size: 4.5vw;
+    font-size: 65px;
   }
 
   .centralContainer {
@@ -50,8 +50,8 @@
   }
 
   .containerRightSide p {
-  	font-size: 3vh;
-  	line-height: 4vh;
+    font-size: 50px;
+    line-height: 65px;
   }
 
   .containerLeftSide img {
@@ -59,30 +59,30 @@
   }
 
   .containerLeftSide {
-  	margin-top: 4.5vw;
+    margin-top: 70px;
   }
 
   .containerRightSide h1 {
-  	font-size: 4.5vw;
-  	line-height: 4.5vw;
+    font-size: 45px;
+    line-height: 55px;
   }
 
   .containerLeftSide p {
-  	font-size: 3.5vw;
+    font-size: 40px;
   }
 
   .techIndicatorDiv {
     text-align: center;
-  	width: 14%;
-  	height: 8vw;
-  	font-size: 3vw;
-  	line-height: 10px;
+    width: 140px;
+    height: 75px;
+    font-size: 30px;
+    line-height: 10px;  	
   	left: 0;
   	top: 0;
   }
 
   .secondIndicator {
-  	margin-left: 14%;
+  	margin-left: 140px;
   }
 
 }
