@@ -3,6 +3,11 @@
 */
 @media only screen and (min-width: 120px) and (min-device-width: 120px) and (max-device-width: 599px) {
 
+  .languageButton {
+    width: 300px;
+  	font-size: 40px;
+  }
+
   .profileDiv {
   	width: 90%;
   }
@@ -76,7 +81,7 @@
     width: 140px;
     height: 75px;
     font-size: 30px;
-    line-height: 10px;  	
+    line-height: 10px;
   	left: 0;
   	top: 0;
   }
