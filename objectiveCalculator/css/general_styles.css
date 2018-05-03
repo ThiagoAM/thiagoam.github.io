@@ -1,0 +1,133 @@
+/*
+***** General Styles *****
+*/
+
+html, body {
+	margin:0;
+	padding:0;
+}
+
+@font-face {
+	font-family: sf_regular;
+	src: url(../fonts/SanFranciscoDisplay-Regular.otf);
+}
+
+@font-face {
+	font-family: sf_regular;
+	src: url(../fonts/SanFranciscoDisplay-Bold.otf);
+	font-weight: bold;
+}
+
+@font-face {
+	font-family: sf_regular;
+	src: url(../fonts/SanFranciscoDisplay-Semibold.otf);
+	font-weight: 500;
+}
+
+body {
+	background-color: #101010;
+	color: white;
+	font-family: sf_regular;
+}
+
+.title {
+	font-size: 60px;
+	text-align: center;
+}
+
+.titleDescription {
+	font-size: 25px;
+	text-align: center;
+}
+
+
+
+.downloadButton {
+	color: #70BEF8;
+	text-decoration: none;
+	font-size: 25px;
+	text-align: center;
+}
+
+.centralContainer {
+	position: relative;
+	/* background-color: #1A1A1A; */
+	width: 70%;
+	min-width: 675px;
+	margin: auto;
+	padding: 10px;
+	height: auto;
+	overflow: auto;
+}
+
+.centralContainer p {
+	/* font-size: 24px;
+	line-height: 32px; */
+
+	font-size: 22px;
+  line-height: 1.45455;
+  letter-spacing: .016em;
+}
+
+.centralContainer h1 {
+	font-size: 40px;
+}
+
+.colorfulBackground {
+	position: relative;
+	background-color: #1C2D43;
+	/* background-color: #292B36; */
+	width: 100%;
+	height: auto;
+	overflow: auto;
+}
+
+/* IMAGES */
+.mainImage {
+	max-width: 900px;
+	min-width: 500px;
+	width: 90%;
+	height: auto;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.tabImage {
+	width: 40%;
+	max-width: 400px;
+	min-width: 350px;
+	height: auto;
+	float: right;
+	margin-left: 30px;
+}
+
+.iPhoneLandscape {
+	max-width: 900px;
+	min-width: 500px;
+	width: 90%;
+	height: auto;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.colorThemesImage {
+	/* max-width: 900px;
+	min-width: 500px; */
+	width: 50%;
+	height: auto;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.multitaskingIPad {
+	max-width: 900px;
+	min-width: 500px;
+	width: 90%;
+	height: auto;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
