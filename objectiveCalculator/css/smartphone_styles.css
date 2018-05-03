@@ -3,9 +3,55 @@
 */
 @media only screen and (min-width: 120px) and (min-device-width: 120px) and (max-device-width: 599px) {
 
-  .languageButton {
-    width: 350px;
+  .centralContainer {
+    width: 98%;
+    border-radius: 0px;
+  }
+
+  .title {
+  	font-size: 90px;
+  }
+
+  .titleDescription {
   	font-size: 40px;
   }
+
+  .downloadButton {
+
+  	font-size: 40px;
+
+  }
+
+  .centralContainer h1 {
+  	font-size: 60px;
+  }
+
+  .centralContainer p {
+  	font-size: 50px;
+  }
+
+  /* IMAGES */
+  .mainImage {
+  	width: 98%;
+  }
+
+  .tabImage {
+  	width: 90%;
+  	max-width: 900px;
+  	min-width: 150px;
+    display: block;
+  	margin-left: auto;
+  	margin-right: auto;
+    float: none;
+  }
+
+  .colorThemesImage {
+  	width: 100%;
+  }
+
+  .multitaskingIPad {
+  	width: 95%;
+  }
+
 
 }

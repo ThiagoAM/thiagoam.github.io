@@ -61,9 +61,6 @@ body {
 }
 
 .centralContainer p {
-	/* font-size: 24px;
-	line-height: 32px; */
-
 	font-size: 22px;
   line-height: 1.45455;
   letter-spacing: .016em;
@@ -76,7 +73,6 @@ body {
 .colorfulBackground {
 	position: relative;
 	background-color: #1C2D43;
-	/* background-color: #292B36; */
 	width: 100%;
 	height: auto;
 	overflow: auto;
@@ -100,16 +96,6 @@ body {
 	height: auto;
 	float: right;
 	margin-left: 30px;
-}
-
-.iPhoneLandscape {
-	max-width: 900px;
-	min-width: 500px;
-	width: 90%;
-	height: auto;
-	display: block;
-	margin-left: auto;
-	margin-right: auto;
 }
 
 .colorThemesImage {
