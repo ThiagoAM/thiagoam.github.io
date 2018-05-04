@@ -17,9 +17,7 @@
   }
 
   .downloadButton {
-
   	font-size: 40px;
-
   }
 
   .centralContainer h1 {
@@ -46,12 +44,20 @@
   }
 
   .colorThemesImage {
-  	width: 100%;
+  	width: 95%;
   }
 
   .multitaskingIPad {
   	width: 95%;
   }
 
+  .iPhoneBlue {
+  	width: 600px;
+  }
+
+  footer p {
+  	font-size: 35px;
+    line-height: 20px;
+  }
 
 }

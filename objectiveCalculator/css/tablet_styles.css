@@ -3,5 +3,23 @@
 */
 @media only screen and (min-width: 600px) and (min-device-width: 600px) and (max-device-width: 1023px) {
 
-  
+
+  .centralContainer {
+    width: 98%;
+    border-radius: 0px;
+  }
+
+  .centralContainer p {
+  	font-size: 24px;
+  }
+
+  .tabImage {
+  	width: 40%;
+  	margin-left: 50px;
+    margin-bottom: 50px;
+  }
+
+  .colorIPhone {
+    width: 70%;
+  }
 }
