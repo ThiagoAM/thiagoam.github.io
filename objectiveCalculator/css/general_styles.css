@@ -70,7 +70,6 @@ body {
 
 .colorfulBackground {
 	position: relative;
-	/* background-color: #1C2D43; */
 	background-color: #091A2F;
 	width: 100%;
 	height: auto;
@@ -126,6 +125,8 @@ body {
 footer p {
 	font-size: 19px;
   line-height: 10px;
+	line-height: 1.45455;
+  letter-spacing: .016em;
 }
 
 footer a {
