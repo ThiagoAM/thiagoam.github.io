@@ -46,12 +46,14 @@ body {
 }
 
 .title {
+	min-width: 600px;
 	font-size: 60px;
+	line-height: 30px;
 	text-align: center;
 }
 
 .titleDescription {
-	font-size: 25px;
+	font-size: 30px;
 	text-align: center;
 }
 
@@ -106,12 +108,13 @@ body {
 	width: 40%;
 	max-width: 400px;
 	min-width: 350px;
-	height: auto;
-	float: right;
-	margin-left: 30px;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
 }
 
 .colorThemesImage {
+	min-width: 600px;
 	width: 50%;
 	height: auto;
 	display: block;
@@ -121,7 +124,7 @@ body {
 
 .multitaskingIPad {
 	max-width: 900px;
-	min-width: 500px;
+	min-width: 600px;
 	width: 90%;
 	height: auto;
 	display: block;
