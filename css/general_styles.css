@@ -30,7 +30,7 @@ body {
 	font-family: sf_regular;
 }
 
-.languageButton {
+/* .languageButton {
 	color: #70BEF8;
 	text-decoration: none;
 	position: absolute;
@@ -42,7 +42,7 @@ body {
 	line-height: 10px;
 	right: 0;
 	top: 0;
-}
+} */
 
 /* Profile Div */
 .profileDiv {
@@ -70,7 +70,7 @@ body {
 	text-align: center;
 }
 
-.profileDiv h2 {
+.profileDiv h2 {D
 	text-align: center;
 }
 
