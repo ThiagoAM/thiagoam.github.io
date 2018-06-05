@@ -1,0 +1,92 @@
+@media only screen and (min-width: 600px) and (min-device-width: 600px) and (max-device-width: 1023px) {
+
+header {
+	width: 100%;
+	height: 75px;
+	background-color: #24292E;
+}
+
+header p {
+	color: #BDBEC0;
+	font-weight: 500;
+	line-height: 42.5px;
+}
+
+header #on {
+	color: white;
+}
+
+.mainHeaderDiv {
+	width: 100%;
+	height: 100%;
+	margin: auto;
+	/* min-width: 675px; */
+}
+
+/* - - - - Left-side Buttons: - - - - - */
+.headerButton {
+	height: 100%;
+	float: left;
+}
+		#portfolioButton {
+			width: 182px;
+		}
+
+		#objectiveCalculatorButton {
+			width: 232px;
+			/* background-color: blue; */
+		}
+
+.headerButton:hover {
+	background-color: #3A3F43;
+}
+
+.headerButtonImage {
+	float: left;
+	position: relative;
+	height: auto;
+	display: block;
+	width: 50px;
+	left: 12px;
+	top: 12.5px;
+}
+		#portfolioButtonImage {
+			border-radius: 25px;
+		}
+
+		#objectiveButtonImage {
+			border-radius: 10px;
+		}
+
+.headerButtonTittle {
+	display: block;
+	position: relative;
+	float: right;
+	right: 0;
+	height: 100%;
+}
+
+		#portfolioButtonTittle {
+			width: 110px;
+		}
+
+		#objectiveCalculatorButtonTittle {
+			width: 160px;
+		}
+
+/* LANGUAGE BUTTONS: */
+.headerLanguageButton {
+	width: 75px;
+	height: 100%;
+	float: right;
+}
+
+.headerLanguageButton:hover {
+	background-color: #3A3F43;
+}
+
+.languageButtonTittle p {
+	text-align: center;
+}
+
+}

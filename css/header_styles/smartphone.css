@@ -1,0 +1,71 @@
+@media only screen and (min-width: 120px) and (min-device-width: 120px) and (max-device-width: 599px) {
+
+  header {
+  	width: 100%;
+  	height: 100px;
+  	background-color: #24292E;
+  }
+
+  .mainHeaderDiv {
+  	width: 100%;
+  	height: 100%;
+  	margin: auto;
+  	/* min-width: 675px; */
+  }
+
+  /* - - - - Left-side Buttons: - - - - - */
+  .headerButton {
+  	height: 100%;
+  	float: left;
+  }
+  		#portfolioButton {
+  			width: 100px;
+  		}
+
+  		#objectiveCalculatorButton {
+  			width: 100px;
+  		}
+
+  .headerButton:hover {
+  	background-color: #3A3F43;
+  }
+
+  .headerButtonImage {
+  	float: left;
+  	position: relative;
+  	height: auto;
+  	display: block;
+  	width: 70px;
+  	left: 12px;
+  	top: 15px;
+  }
+  		#portfolioButtonImage {
+  			border-radius: 35px;
+  		}
+
+  		#objectiveButtonImage {
+  			border-radius: 15px;
+  		}
+
+  .headerButtonTittle {
+    display: none;
+  }
+
+  /* LANGUAGE BUTTONS: */
+  .headerLanguageButton {
+  	width: 100px;
+  	height: 100%;
+  	float: right;    
+  }
+
+  .headerLanguageButton:hover {
+  	background-color: #3A3F43;
+  }
+
+  .languageButtonTittle p {
+    font-size: 27.5px;
+  	text-align: center;
+  }
+
+
+}

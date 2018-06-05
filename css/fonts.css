@@ -1,0 +1,16 @@
+@font-face {
+	font-family: sf_regular;
+	src: url(../fonts/SanFranciscoDisplay-Regular.otf);
+}
+
+@font-face {
+	font-family: sf_regular;
+	src: url(../fonts/SanFranciscoDisplay-Bold.otf);
+	font-weight: bold;
+}
+
+@font-face {
+	font-family: sf_regular;
+	src: url(../fonts/SanFranciscoDisplay-Semibold.otf);
+	font-weight: 500;
+}
