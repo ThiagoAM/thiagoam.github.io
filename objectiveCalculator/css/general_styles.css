@@ -113,6 +113,14 @@ body {
 	margin-right: auto;
 }
 
+.iPhoneXImage {
+	width: 400px;
+	height: auto;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+
 .colorThemesImage {
 	min-width: 600px;
 	width: 50%;
@@ -123,9 +131,10 @@ body {
 }
 
 .multitaskingIPad {
-	max-width: 900px;
-	min-width: 600px;
-	width: 90%;
+	/* max-width: 900px;
+	min-width: 600px; */
+	/* width: 40%; */
+	width: 600px;
 	height: auto;
 	display: block;
 	margin-left: auto;
