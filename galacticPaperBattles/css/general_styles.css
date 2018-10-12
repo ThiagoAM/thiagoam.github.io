@@ -1,0 +1,174 @@
+/*
+***** General Styles *****
+*/
+
+html, body {
+	margin:0;
+	padding:0;
+	font-family: helvetica;
+}
+
+@font-face {
+	font-family: sf_regular;
+	src: url(../fonts/SanFranciscoDisplay-Regular.otf);
+}
+
+@font-face {
+	font-family: sf_regular;
+	src: url(../fonts/SanFranciscoDisplay-Bold.otf);
+	font-weight: bold;
+}
+
+@font-face {
+	font-family: sf_regular;
+	src: url(../fonts/SanFranciscoDisplay-Semibold.otf);
+	font-weight: 500;
+}
+
+body {
+	background-color: #101010;
+	color: white;
+	font-family: sf_regular, helvetica;
+}
+
+#youtubePlayer {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.languageButton {
+	color: #2f5875;
+	text-decoration: none;
+	position: absolute;
+	text-align: right;
+	width: 50px;
+	height: 50px;
+	font-size: 20px;
+	line-height: 10px;
+	margin: 20px;
+	right: 0;
+	top: 0;
+}
+
+.title {
+	min-width: 600px;
+	font-size: 60px;
+	line-height: 30px;
+	text-align: center;
+}
+
+.titleDescription {
+	font-size: 30px;
+	text-align: center;
+}
+
+.downloadButton {
+	color: #70BEF8;
+	text-decoration: none;
+	font-size: 25px;
+	text-align: center;
+}
+
+.centralContainer {
+	position: relative;
+	/* background-color: #1A1A1A; */
+	width: 70%;
+	min-width: 675px;
+	margin: auto;
+	padding: 10px;
+	height: auto;
+	overflow: auto;
+}
+
+.centralContainer p {
+	font-size: 22px;
+  line-height: 1.45455;
+  letter-spacing: .016em;
+}
+
+.centralContainer h1 {
+	font-size: 40px;
+}
+
+.colorfulBackground {
+	position: relative;
+	background-color: #091A2F;
+	width: 100%;
+	height: auto;
+	overflow: auto;
+}
+
+/* IMAGES */
+.mainImage {
+	max-width: 450px;
+	min-width: 250px;
+	width: 90%;
+	height: auto;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.tabImage {
+	min-width: 550px;
+	width: 70%;
+	height: auto;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.image2 {
+	width: 600px;
+	height: auto;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.iPhoneXImage {
+	width: 400px;
+	height: auto;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.colorThemesImage {
+	min-width: 600px;
+	width: 50%;
+	height: auto;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.multitaskingIPad {
+	/* max-width: 900px;
+	min-width: 600px; */
+	/* width: 40%; */
+	width: 600px;
+	height: auto;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.iPhoneBlue {
+	width: 400px;
+	height: auto;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+footer p {
+	font-size: 19px;
+  line-height: 10px;
+}
+
+footer a {
+	color: #70BEF8;
+	text-decoration: none;
+}
