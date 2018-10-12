@@ -26,6 +26,10 @@
   			width: 100px;
   		}
 
+      #galacticPaperBattlesButton {
+        width: 100px;
+      }
+
   .headerButton:hover {
   	background-color: #3A3F43;
   }
@@ -55,7 +59,7 @@
   .headerLanguageButton {
   	width: 100px;
   	height: 100%;
-  	float: right;    
+  	float: right;
   }
 
   .headerLanguageButton:hover {

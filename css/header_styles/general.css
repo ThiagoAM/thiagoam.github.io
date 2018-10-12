@@ -19,10 +19,11 @@ header #on {
 }
 
 .mainHeaderDiv {
-	width: 70%;
+	width: 90%;
 	height: 100%;
 	margin: auto;
-	min-width: 675px;
+	/* min-width: 675px; */
+	min-width: 810px;
 }
 
 /* - - - - Left-side Buttons: - - - - - */
