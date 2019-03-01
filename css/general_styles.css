@@ -109,7 +109,7 @@ body {
 	position: absolute;
 	text-align: center;
 	font-weight: 500;
-	width: 110px;
+	width: 120px;
 	height: 50px;
 	font-size: 20px;
 	line-height: 10px;
@@ -122,11 +122,19 @@ body {
 }
 
 #iOSApp {
-	color: #24D0FC;
+	color: #FFFFFF;
+}
+
+#flutterApp {
+	color: #AEB5BF;
 }
 
 #swift {
 	color: #F61B52;
+}
+
+#dart {
+	color: #1B9CE2;
 }
 
 #htlm_5 {
