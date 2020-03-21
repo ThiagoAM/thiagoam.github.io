@@ -21,9 +21,9 @@ header #on {
 .mainHeaderDiv {
 	width: 90%;
 	height: 100%;
-	margin: auto;
-	/* min-width: 675px; */
-	min-width: 810px;
+	margin: auto;	
+	/*min-width: 810px;*/
+	min-width: 1024px;
 }
 
 /* - - - - Left-side Buttons: - - - - - */
