@@ -9,7 +9,7 @@
 			"systemName": null,
 			"assetName": null
 		},
-		"text": "Newer news text here."
+		"text": "Newer news text here.",
 	},
 	"746b1f00-e0db-42f5-9eb3-28a99cf28020": {
 		"date": "2022/04/21 17:00",
@@ -21,7 +21,7 @@
 			"systemName": null,
 			"assetName": null
 		},
-		"text": "20 new currencies were added!"		
+		"text": "20 new currencies were added!",
 	},
 	"sklfjslkdfjslkdfjlk": {
 		"date": "2022/04/21 12:00",
@@ -33,6 +33,6 @@
 			"systemName": null,
 			"assetName": null
 		},
-		"text": "Older news text here."
-	}
+		"text": "Older news text here.",
+	},
 }
