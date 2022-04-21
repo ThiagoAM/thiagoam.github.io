@@ -9,7 +9,8 @@
 			"systemName": null,
 			"assetName": null
 		},
-		"text": "Newer news text here.",
+		"text": "Newer news text here."
+	},
 	"746b1f00-e0db-42f5-9eb3-28a99cf28020": {
 		"date": "2022/04/21 17:00",
 		"type": "newVersion",
@@ -33,4 +34,5 @@
 			"assetName": null
 		},
 		"text": "Older news text here."
+	}
 }
