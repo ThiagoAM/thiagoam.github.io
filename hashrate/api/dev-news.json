@@ -13,6 +13,7 @@
       "externalUrl":{
          "prefixText":"Source:",
          "url":"https://boards.4channel.org/g/",
+         "title": "Tap here!",
          "urlButtonTitle:":"Tap here to see the source"
       }
    },
@@ -30,6 +31,7 @@
       "externalUrl":{
          "prefixText":null,
          "url":null,
+         "title": null,
          "urlButtonTitle:":null
       }
    },
