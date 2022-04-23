@@ -12,9 +12,8 @@
       "text":"Urgent news!!! Ethereum is now proof of stake!!!",
       "externalUrl":{
          "prefixText":"Source:",
-         "url":"https://boards.4channel.org/g/",
-         "title": "Tap here!",
-         "urlButtonTitle:":"Tap here to see the source"
+         "title":"Tap here!",
+         "url":"https://boards.4channel.org/g/"
       }
    },
    "746b1f00-e0db-42f5-9eb3-28a99cf28020":{
@@ -31,7 +30,7 @@
       "externalUrl":{
          "prefixText":null,
          "url":null,
-         "title": null,
+         "title":null,
          "urlButtonTitle:":null
       }
    },
