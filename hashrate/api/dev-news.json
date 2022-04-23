@@ -1,21 +1,4 @@
 {
-   "xxsdlfsdkljflkskxx":{
-      "date":"2022/04/22 05:19",
-      "type":"regular",
-      "version":null,
-      "title":"[DEV] New Information!!!",
-      "mainImage":{
-         "url":null,
-         "systemName":"flame.fill",
-         "assetName":null
-      },
-      "text":"Urgent news!!! Ethereum is now proof of stake!!!",
-      "externalUrl":{
-         "prefixText":"Source:",
-         "title":"Tap here!",
-         "url":"https://boards.4channel.org/g/"
-      }
-   },
    "746b1f00-e0db-42f5-9eb3-28a99cf28020":{
       "date":"2022/04/21 17:00",
       "type":"newVersion",
@@ -29,9 +12,8 @@
       "text":"20 new currencies were added! Here's the list of them:\n\n• UAH 🇺🇦\n• KPW 🇰🇵\n• TWD 🇹🇼\n• YER 🇾🇪\n• ARS 🇦🇷\n• UYU 🇺🇾\n• PYG 🇵🇾\n• IRR 🇮🇷\n• KZT 🇰🇿\n• CLP 🇨🇱\n• BOB 🇧🇴\n• PEN 🇵🇪\n• VEF 🇻🇪\n• CUP 🇨🇺\n• GTQ 🇬🇹\n• DOP 🇩🇴\n• EGP 🇪🇬\n• MNT 🇲🇳\n• VND 🇻🇳\n• BYN 🇧🇾",
       "externalUrl":{
          "prefixText":null,
-         "url":null,
          "title":null,
-         "urlButtonTitle:":null
+         "url":null
       }
    },
 }
