@@ -1,21 +1,4 @@
 {
-	"382848483-e0db-42f5-9eb3-2300230235":{
-      "date":"2022/04/23 23:59",
-      "type":"regular",
-      "version":null,
-      "title":"[DEV] 4Chan Test",
-      "mainImage":{
-         "url":"https://i.4cdn.org/g/1650674522686.jpg",
-         "systemName":null,
-         "assetName":null
-      },
-      "text":"just upgraded from a 2600 to 58003XD programs are opening twice as fast, what the f",
-      "externalUrl":{
-         "prefixText":"Link:",
-         "title":"4Chan - /g/",
-         "url":"https://boards.4channel.org/g/thread/86630398"
-      }
-   },
    "746b1f00-e0db-42f5-9eb3-28a99cf28020":{
       "date":"2022/04/22 20:00",
       "type":"newVersion",
