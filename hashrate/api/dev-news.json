@@ -9,7 +9,7 @@
          "systemName":"hammer",
          "assetName":null
       },
-      "text":"I'm currently working on adding new pools and coins to the app. The next version should come with Hiveon support, but don't worry, many more are coming after that! Alephium miners and Nanopool users will soon get full support from Hashrate as well!",
+      "text":"I'm currently working on adding new pools and coins to the app. The next version should come with Hiveon support, but don't worry, many more are coming after that! Alephium miners and Nanopool users will soon get full support from Hashrate as well!\n",
       "externalUrl":{
          "prefixText":"Enjoying Hashrate?",
          "title":"⭐️ Rate this app! ⭐️",
@@ -26,7 +26,7 @@
          "systemName":null,
          "assetName":"hashrateLogo"
       },
-      "text":"Some bugs were fixed:\n• Fixed a performance issue on macOS\n• Fixed some issues with the calculator\n\nIf you are enjoying this app, please don't forget to rate it on the App Store, that would help me a lot!",
+      "text":"Some bugs were fixed:\n• Fixed a performance issue on macOS\n• Fixed some issues with the calculator",
       "externalUrl":{
          "prefixText":null,
          "title":null,
