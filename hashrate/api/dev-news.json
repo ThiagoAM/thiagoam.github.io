@@ -3,15 +3,15 @@
       "date":"2022/04/26 07:30",
       "type":"regular",
       "version":null,
-      "title":"[DEV] What I'm working on",
+      "title":"What I'm working on",
       "mainImage":{
          "url":null,
          "systemName":"hammer",
          "assetName":null
       },
-      "text":"I'm currently working on adding new pool and coins to the app. The next version should come with Hiveon support, but don't worry, many more are coming after that! Alephium miners and Nanopool users will soon get full support from Hashrate!",
+      "text":"I'm currently working on adding new pools and coins to the app. The next version should come with Hiveon support, but don't worry, many more are coming after that! Alephium miners and Nanopool users will soon get full support from Hashrate as well!",
       "externalUrl":{
-         "prefixText":null,
+         "prefixText":"Enjoying Hashrate?",
          "title":"⭐️ Rate this app! ⭐️",
          "url":"itms-apps://itunes.apple.com/app/id1589030959?mt=8&action=write-review"
       }
@@ -20,7 +20,7 @@
       "date":"2022/04/25 00:00",
       "type":"newVersion",
       "version":"1.3.2",
-      "title":"[DEV] What's new in version 1.3.2",
+      "title":"What's new in version 1.3.2",
       "mainImage":{
          "url":null,
          "systemName":null,
@@ -37,7 +37,7 @@
       "date":"2022/04/22 20:00",
       "type":"newVersion",
       "version":"1.3.1",
-      "title":"[DEV] What's new in version 1.3.1",
+      "title":"What's new in version 1.3.1",
       "mainImage":{
          "url":null,
          "systemName":null,
