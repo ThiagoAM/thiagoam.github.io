@@ -1,8 +1,25 @@
 {
-	"146a019f-33f7-4b3b-8a1a-f1055e6e20eb":{
-      "date":"2022/04/25 00:00",
+   "6b83362c-b407-45a0-b1e6-e073a7d6e062":{
+      "date":"2022/04/26 07:30",
       "type":"regular",
       "version":null,
+      "title":"[DEV] What I'm working on",
+      "mainImage":{
+         "url":null,
+         "systemName":"hammer",
+         "assetName":null
+      },
+      "text":"I'm currently working on adding new pool and coins to the app. The next version should come with Hiveon support, but don't worry, many more are coming after that! Alephium miners and Nanopool users will soon get full support from Hashrate!",
+      "externalUrl":{
+         "prefixText":null,
+         "title":"⭐️ Rate this app! ⭐️",
+         "url":"itms-apps://itunes.apple.com/app/id1589030959?mt=8&action=write-review"
+      }
+   },
+   "146a019f-33f7-4b3b-8a1a-f1055e6e20eb":{
+      "date":"2022/04/25 00:00",
+      "type":"newVersion",
+      "version":"1.3.2",
       "title":"[DEV] What's new in version 1.3.2",
       "mainImage":{
          "url":null,
@@ -12,8 +29,8 @@
       "text":"Some bugs were fixed:\n• Fixed a performance issue on macOS\n• Fixed some issues with the calculator\n\nIf you are enjoying this app, please don't forget to rate it on the App Store, that would help me a lot!",
       "externalUrl":{
          "prefixText":null,
-         "title":"⭐️ Rate this app! ⭐️",
-         "url":"itms-apps://itunes.apple.com/app/id1589030959?mt=8&action=write-review"
+         "title":null,
+         "url":null
       }
    },
    "746b1f00-e0db-42f5-9eb3-28a99cf28020":{
