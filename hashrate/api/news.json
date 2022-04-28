@@ -1,4 +1,21 @@
 {
+   "fafce015-d3a8-48cd-876f-e68e64dde28c":{
+      "date":"2022/04/28 11:00",
+      "type":"regular",
+      "version":null,
+      "title":"iOS 14 crash bug",
+      "mainImage":{
+         "url":null,
+         "systemName":"ladybug.fill",
+         "assetName":null
+      },
+      "text":"Some iOS 14.8 and iPadOS 14.6 users are experiencing an issue that makes the app crash while launching. If you need to use the app right away, please update it to iOS 15.\n\nI'm currently trying to figure out exactly what's going on, so if you want to stick to iOS 14, please wait for the new fixed version.",
+      "externalUrl":{
+         "prefixText":null,
+         "title":null,
+         "url":null
+      }
+   },
    "6b83362c-b407-45a0-b1e6-e073a7d6e062":{
       "date":"2022/04/26 07:30",
       "type":"regular",
