@@ -9,7 +9,7 @@
          "systemName":null,
          "assetName":"hiveonLogo"
       },
-      "text":"Full Hiveon support is finally here! This version also fixes the following bugs:\n• iOS 14 crash on startup\n• iPadOS crash on some devices",
+      "text":"Full Hiveon Pool support is finally here! This version also fixes the following bugs:\n\n• iOS 14 crash on startup\n• iPadOS crash on some devices",
       "externalUrl":{
          "prefixText":null,
          "title":null,
@@ -43,7 +43,7 @@
          "systemName":"ladybug.fill",
          "assetName":null
       },
-      "text":"Some iOS 14.8 and iPadOS 14.6 users are experiencing an issue that makes the app crash while launching. If you need to use the app right away, please update it to iOS 15.\n\nI'm currently trying to figure out exactly what's going on, so if you want to stick to iOS 14, please wait for the new fixed version.",
+      "text":"Some iOS 14.8 and iPadOS 14.6 users are experiencing an issue that makes the app crash while launching. If you need to use the app right away, please update it to iOS 15.",
       "externalUrl":{
          "prefixText":null,
          "title":null,
