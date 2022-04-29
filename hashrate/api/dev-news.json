@@ -7,7 +7,7 @@
       "mainImage":{
          "url":null,
          "systemName":null,
-         "assetName":"hiveonLogo"
+         "assetName":"x"
       },
       "text":"Full Hiveon Pool support is finally here! This version also fixes the following bugs:\n\n• iOS 14 crash on startup\n• iPadOS crash on some devices",
       "externalUrl":{
