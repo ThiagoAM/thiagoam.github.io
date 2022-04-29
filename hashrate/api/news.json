@@ -1,4 +1,21 @@
 {
+   "e2f5663f-e0fc-438d-ab0a-15c1c9f13221":{
+      "date":"2022/04/29 08:00",
+      "type":"regular",
+      "version":null,
+      "title":"[Update] iOS 14 and iPadOS bugs",
+      "mainImage":{
+         "url":null,
+         "systemName":"ladybug",
+         "assetName":null
+      },
+      "text":"The iOS 14 bug will be fixed in the new upcoming 1.3.3 version. Please check if the update is already avaiable for you on the App Store.\n\nThis version will also fix another bug that only happened on iPadOS (14 and 15) and made the app crash as well.",
+      "externalUrl":{
+         "prefixText":null,
+         "title":"Check for updates",
+         "url":"itms-apps://itunes.apple.com/app/id1234567890"
+      }
+   },
    "fafce015-d3a8-48cd-876f-e68e64dde28c":{
       "date":"2022/04/28 11:00",
       "type":"regular",
@@ -9,7 +26,7 @@
          "systemName":"ladybug.fill",
          "assetName":null
       },
-      "text":"Some iOS 14.8 and iPadOS 14.6 users are experiencing an issue that makes the app crash while launching. If you need to use the app right away, please update it to iOS 15.\n\nI'm currently trying to figure out exactly what's going on, so if you want to stick to iOS 14, please wait for the new fixed version.",
+      "text":"Some iOS 14 users are experiencing an issue that makes the app crash while launching. If you need to use the app right away, please update it to iOS 15.\n\nThere is a similar bug in iPadOS that will be fixed in the next version (1.3.3).",
       "externalUrl":{
          "prefixText":null,
          "title":null,
@@ -31,23 +48,6 @@
          "prefixText":"Enjoying Hashrate?",
          "title":"⭐️ Rate this app! ⭐️",
          "url":"itms-apps://itunes.apple.com/app/id1589030959?mt=8&action=write-review"
-      }
-   },
-   "146a019f-33f7-4b3b-8a1a-f1055e6e20eb":{
-      "date":"2022/04/25 00:00",
-      "type":"newVersion",
-      "version":"1.3.2",
-      "title":"What's new in version 1.3.2",
-      "mainImage":{
-         "url":null,
-         "systemName":null,
-         "assetName":"hashrateLogo"
-      },
-      "text":"Some bugs were fixed:\n• Fixed a performance issue on macOS\n• Fixed some issues with the calculator",
-      "externalUrl":{
-         "prefixText":null,
-         "title":null,
-         "url":null
       }
    },
    "746b1f00-e0db-42f5-9eb3-28a99cf28020":{
