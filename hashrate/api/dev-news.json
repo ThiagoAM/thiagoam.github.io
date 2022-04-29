@@ -43,7 +43,7 @@
          "systemName":"ladybug.fill",
          "assetName":null
       },
-      "text":"Some iOS 14 users are experiencing an issue that makes the app crash while launching. If you need to use the app right away, please update it to iOS 15.",
+      "text":"Some iOS 14 users are experiencing an issue that makes the app crash while launching. If you need to use the app right away, please update it to iOS 15.\n\nThere is a similar bug in iPadOS that will be fixed in the next version (1.3.3).",
       "externalUrl":{
          "prefixText":null,
          "title":null,
