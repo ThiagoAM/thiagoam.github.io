@@ -20,13 +20,13 @@
       "date":"2022/04/29 08:00",
       "type":"regular",
       "version":null,
-      "title":"[Update] iOS 14 crash bug",
+      "title":"[Update] iOS 14 and iPadOS bugs",
       "mainImage":{
          "url":null,
          "systemName":"ladybug.fill",
          "assetName":null
       },
-      "text":"The bug was fixed in the new upcoming 1.3.3 version. Please check if the update is already avaiable for you on the App Store.\n\nThis version will also fix another bug that only happened on iPadOS (14 and 15) and made the app crash as well.",
+      "text":"The bug will be fixed in the new upcoming 1.3.3 version. Please check if the update is already avaiable for you on the App Store.\n\nThis version will also fix another bug that only happened on iPadOS (14 and 15) and made the app crash as well.",
       "externalUrl":{
          "prefixText":null,
          "title":"Check for updates",
