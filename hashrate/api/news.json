@@ -1,49 +1,32 @@
 {
-   "e2f5663f-e0fc-438d-ab0a-15c1c9f13221":{
-      "date":"2022/04/29 08:00",
-      "type":"regular",
-      "version":null,
-      "title":"[Update] iOS 14 and iPadOS bugs",
+   "402e8336-be23-459d-966d-b699d6021054":{
+      "date":"2022/04/30 09:50",
+      "type":"newVersion",
+      "version":"1.3.3",
+      "title":"What's new in version 1.3.3",
       "mainImage":{
-         "url":null,
-         "systemName":"ladybug",
+         "url":"https://thiagoam.github.io/hashrate/images/hiveonLogo.png",
+         "systemName":null,
          "assetName":null
       },
-      "text":"The iOS 14 bug will be fixed in the new upcoming 1.3.3 version. Please check if the update is already avaiable for you on the App Store.\n\nThis version will also fix another bug that only happened on iPadOS (14 and 15) and made the app crash as well.",
-      "externalUrl":{
-         "prefixText":null,
-         "title":"Check for updates",
-         "url":"itms-apps://itunes.apple.com/app/id1234567890"
-      }
-   },
-   "fafce015-d3a8-48cd-876f-e68e64dde28c":{
-      "date":"2022/04/28 11:00",
-      "type":"regular",
-      "version":null,
-      "title":"iOS 14 crash bug",
-      "mainImage":{
-         "url":null,
-         "systemName":"ladybug.fill",
-         "assetName":null
-      },
-      "text":"Some iOS 14 users are experiencing an issue that makes the app crash while launching. If you need to use the app right away, please update it to iOS 15.\n\nThere is a similar bug in iPadOS that will be fixed in the next version (1.3.3).",
+      "text":"Full Hiveon Pool support is finally here! This version also fixes the following bugs:\n\n• iOS 14 crash on startup\n• iPadOS crash on some devices",
       "externalUrl":{
          "prefixText":null,
          "title":null,
          "url":null
       }
    },
-   "6b83362c-b407-45a0-b1e6-e073a7d6e062":{
-      "date":"2022/04/26 07:30",
+   "8d9e2099-657f-4397-958c-16e3aadf1cd0":{
+      "date":"2022/04/30 09:30",
       "type":"regular",
       "version":null,
       "title":"What I'm working on",
       "mainImage":{
          "url":null,
-         "systemName":"hammer",
+         "systemName":"hammer.circle.fill",
          "assetName":null
       },
-      "text":"I'm currently working on adding new pools and coins to the app. The next version should come with Hiveon support, but don't worry, many more are coming after that! Alephium miners and Nanopool users will soon get full support from Hashrate as well!\n",
+      "text":"I'm currently working on adding Alephium support to Hashrate. Stay tuned!",
       "externalUrl":{
          "prefixText":"Enjoying Hashrate?",
          "title":"⭐️ Rate this app! ⭐️",
