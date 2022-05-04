@@ -1,5 +1,24 @@
 [
    {
+      "id":"lkajslkdfjaldjflkadhghz,mxnvzbvnmzb",
+      "date":"2022/04/30 09:50",
+      "type":"newVersion",
+      "version":"2.0",
+      "title":"TEST NEW VERSION",
+      "mainImage":{         
+         "systemName":null,
+         "assetName":null,
+         "emoji":null,
+         "url":null
+      },
+      "text":"lajskldfa lkasjdklf alksdjfkl adlkajflksad klasjdflk asdfklaj klfads",
+      "externalUrl":{
+         "prefixText":null,
+         "title":null,
+         "url":null
+      }
+   },
+   {
       "id":"lkajsdlkf**8$#&#*$xxlhh",
       "date":"2022/05/04 00:30",
       "type":"regular",
@@ -45,7 +64,7 @@
       "title":"What's new in version 1.3.3",
       "mainImage":{         
          "systemName":null,
-         "assetName":null,
+         "assetName":"hiveonLogo",
          "emoji":null,
          "url":"https://thiagoam.github.io/hashrate/images/hiveonLogo.png"
       },
