@@ -1,15 +1,15 @@
 [
    {
-      "id":"lkajslkdfdlsk&*&*&*&55klsflksdf2;;lxx",
+      "id":"lkajsdlkf**8$#&#*$xxlhh",
       "date":"2022/05/04 00:30",
       "type":"regular",
       "version":null,
-      "title":"Emoji Test",
+      "title":"Fallback to URL test",
       "mainImage":{
-         "url":null,
          "systemName":null,
-         "assetName":null,
-         "emoji":"🤬"
+         "assetName":"invalidAssetName",
+         "emoji":null,
+         "url":"https://i.4cdn.org/g/1651627821066.jpg",
       },
       "text":"Ayy lmao!!!",
       "externalUrl":{
@@ -24,11 +24,11 @@
       "type":"regular",
       "version":null,
       "title":"Test no image",
-      "mainImage":{
-         "url":null,
+      "mainImage":{         
          "systemName":null,
          "assetName":null,
-         "emoji":null
+         "emoji":null,
+         "url":null
       },
       "text":"00y x0nro",
       "externalUrl":{
@@ -43,11 +43,11 @@
       "type":"newVersion",
       "version":"1.3.3",
       "title":"What's new in version 1.3.3",
-      "mainImage":{
-         "url":"https://thiagoam.github.io/hashrate/images/hiveonLogo.png",
+      "mainImage":{         
          "systemName":null,
          "assetName":null,
-         "emoji":null
+         "emoji":null,
+         "url":"https://thiagoam.github.io/hashrate/images/hiveonLogo.png"
       },
       "text":"Full Hiveon Pool support is finally here! This version also fixes the following bugs:\n\n• iOS 14 crash on startup\n• iPadOS crash on some devices",
       "externalUrl":{
@@ -62,11 +62,11 @@
       "type":"regular",
       "version":null,
       "title":"What I'm working on",
-      "mainImage":{
-         "url":null,
+      "mainImage":{         
          "systemName":"hammer.circle.fill",
          "assetName":null,
-         "emoji":null
+         "emoji":null,
+         "url":null
       },
       "text":"I'm currently working on adding Alephium support to Hashrate. Stay tuned!",
       "externalUrl":{
