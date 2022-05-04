@@ -1,5 +1,24 @@
 [
    {
+      "id":"alslsldkdksjdj2939#94948^^^$",
+      "date":"2022/04/30 09:30",
+      "type":"regular",
+      "version":null,
+      "title":"Test no image",
+      "mainImage":{
+         "url":null,
+         "systemName":null,
+         "assetName":null,
+         "emoji":null
+      },
+      "text":"I'm currently working on adding Alephium support to Hashrate. Stay tuned!",
+      "externalUrl":{
+         "prefixText":null,
+         "title":null,
+         "url":null
+      }
+   },
+   {
       "id":"402e8336-be23-459d-966d-b699d6021054",
       "date":"2022/04/30 09:50",
       "type":"newVersion",
