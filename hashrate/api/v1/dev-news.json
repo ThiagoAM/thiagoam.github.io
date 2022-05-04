@@ -1,0 +1,40 @@
+[
+   {
+      "id":"402e8336-be23-459d-966d-b699d6021054",
+      "date":"2022/04/30 09:50",
+      "type":"newVersion",
+      "version":"1.3.3",
+      "title":"What's new in version 1.3.3",
+      "mainImage":{
+         "url":"https://thiagoam.github.io/hashrate/images/hiveonLogo.png",
+         "systemName":null,
+         "assetName":null,
+         "emoji":null
+      },
+      "text":"Full Hiveon Pool support is finally here! This version also fixes the following bugs:\n\n• iOS 14 crash on startup\n• iPadOS crash on some devices",
+      "externalUrl":{
+         "prefixText":null,
+         "title":null,
+         "url":null
+      }
+   },
+   {
+      "id":"8d9e2099-657f-4397-958c-16e3aadf1cd0",
+      "date":"2022/04/30 09:30",
+      "type":"regular",
+      "version":null,
+      "title":"What I'm working on",
+      "mainImage":{
+         "url":null,
+         "systemName":"hammer.circle.fill",
+         "assetName":null,
+         "emoji":null
+      },
+      "text":"I'm currently working on adding Alephium support to Hashrate. Stay tuned!",
+      "externalUrl":{
+         "prefixText":"Enjoying Hashrate?",
+         "title":"⭐️ Rate this app! ⭐️",
+         "url":"itms-apps://itunes.apple.com/app/id1589030959?mt=8&action=write-review"
+      }
+   }
+]
