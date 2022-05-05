@@ -8,7 +8,7 @@
       "mainImage":{         
          "systemName":"hammer.circle.fill",
          "assetName":null,
-         "emoji":null,
+         "emoji":"🔨",
          "url":null
       },
       "text":"I'm currently working on adding Alephium support to Hashrate. Stay tuned!",
