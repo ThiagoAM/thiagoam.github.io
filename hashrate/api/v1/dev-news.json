@@ -1,40 +1,21 @@
 [
    {
-      "id":"lkajsdlkf**8$#&#*$xxlhh",
-      "date":"2022/05/04 00:30",
+      "id":"8d9e2099-657f-4397-958c-16e3aadf1cd0",
+      "date":"2022/04/30 10:00",
       "type":"regular",
       "version":null,
-      "title":"Fallback to URL test",
-      "mainImage":{
-         "systemName":null,
-         "assetName":"moneroLogo",
-         "emoji":null,
-         "url":"https://i.4cdn.org/g/1651627821066.jpg",
-      },
-      "text":"Ayy lmao!!!",
-      "externalUrl":{
-         "prefixText":null,
-         "title":null,
-         "url":null
-      }
-   },
-   {
-      "id":"alslsldkdksjdj2939#94948^^^$",
-      "date":"2022/05/04 00:30",
-      "type":"regular",
-      "version":null,
-      "title":"Test no image",
+      "title":"What I'm working on",
       "mainImage":{         
          "systemName":null,
          "assetName":null,
-         "emoji":null,
+         "emoji":"🔨",
          "url":null
       },
-      "text":"00y x0nro",
+      "text":"I'm currently working on adding Alephium support to Hashrate. Stay tuned!",
       "externalUrl":{
-         "prefixText":null,
-         "title":null,
-         "url":null
+         "prefixText":"Enjoying Hashrate?",
+         "title":"⭐️ Rate this app! ⭐️",
+         "url":"itms-apps://itunes.apple.com/app/id1589030959?mt=8&action=write-review"
       }
    },
    {
@@ -54,25 +35,6 @@
          "prefixText":null,
          "title":null,
          "url":null
-      }
-   },
-   {
-      "id":"8d9e2099-657f-4397-958c-16e3aadf1cd0",
-      "date":"2022/04/30 09:30",
-      "type":"regular",
-      "version":null,
-      "title":"What I'm working on",
-      "mainImage":{         
-         "systemName":"hammer.circle.fill",
-         "assetName":null,
-         "emoji":null,
-         "url":null
-      },
-      "text":"I'm currently working on adding Alephium support to Hashrate. Stay tuned!",
-      "externalUrl":{
-         "prefixText":"Enjoying Hashrate?",
-         "title":"⭐️ Rate this app! ⭐️",
-         "url":"itms-apps://itunes.apple.com/app/id1589030959?mt=8&action=write-review"
       }
    }
 ]
