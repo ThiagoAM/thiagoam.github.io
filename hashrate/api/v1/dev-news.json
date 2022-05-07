@@ -1,5 +1,24 @@
 [
    {
+      "id":"bf08ce71-7133-4d66-87a8-c63641e932bd",
+      "date":"2022/05/07 20:15",
+      "type":"newVersion",
+      "version":"1.4.0",
+      "title":"What's new in version 1.4.0",
+      "mainImage":{         
+         "systemName":null,
+         "assetName":"alephiumLogo",
+         "emoji":null,
+         "url":"https://thiagoam.github.io/hashrate/images/alephiumLogo.png"
+      },
+      "text":"Hashrate now supports alephium through HeroMiners pool! This update also brings the following improvements:\n\n• Flux support in HeroMiners\n• Monero support in HeroMiners\n• Interface improvements and bug fixes",
+      "externalUrl":{
+         "prefixText":null,
+         "title":null,
+         "url":null
+      }
+   },
+   {
       "id":"8d9e2099-657f-4397-958c-16e3aadf1cd0",
       "date":"2022/04/30 10:00",
       "type":"regular",
