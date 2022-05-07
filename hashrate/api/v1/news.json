@@ -11,30 +11,11 @@
          "emoji":null,
          "url":"https://thiagoam.github.io/hashrate/images/alephiumLogo.png"
       },
-      "text":"Hashrate now supports alephium through HeroMiners pool! This update also brings the following improvements:\n\n• Flux support in HeroMiners\n• Monero support in HeroMiners\n• Interface improvements and bug fixes",
+      "text":"Hashrate now supports Alephium through HeroMiners pool! This update also brings the following improvements:\n\n• Flux support in HeroMiners\n• Monero support in HeroMiners\n• Interface improvements and bug fixes",
       "externalUrl":{
          "prefixText":null,
          "title":null,
          "url":null
-      }
-   },
-   {
-      "id":"8d9e2099-657f-4397-958c-16e3aadf1cd0",
-      "date":"2022/04/30 10:00",
-      "type":"regular",
-      "version":null,
-      "title":"What I'm working on",
-      "mainImage":{         
-         "systemName":null,
-         "assetName":null,
-         "emoji":"🔨",
-         "url":null
-      },
-      "text":"I'm currently working on adding Alephium support to Hashrate. Stay tuned!",
-      "externalUrl":{
-         "prefixText":"Enjoying Hashrate?",
-         "title":"⭐️ Rate this app! ⭐️",
-         "url":"itms-apps://itunes.apple.com/app/id1589030959?mt=8&action=write-review"
       }
    },
    {
