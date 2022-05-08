@@ -17,24 +17,5 @@
          "title":null,
          "url":null
       }
-   },
-   {
-      "id":"402e8336-be23-459d-966d-b699d6021054",
-      "date":"2022/04/30 09:50",
-      "type":"newVersion",
-      "version":"1.3.3",
-      "title":"What's new in version 1.3.3",
-      "mainImage":{         
-         "systemName":null,
-         "assetName":"hiveonLogo",
-         "emoji":null,
-         "url":"https://thiagoam.github.io/hashrate/images/hiveonLogo.png"
-      },
-      "text":"Full Hiveon Pool support is finally here! This version also fixes the following bugs:\n\n• iOS 14 crash on startup\n• iPadOS crash on some devices",
-      "externalUrl":{
-         "prefixText":null,
-         "title":null,
-         "url":null
-      }
    }
 ]
