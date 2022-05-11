@@ -11,7 +11,7 @@
          "emoji":"🗝",
          "url":null
       },
-      "text":"Nvidia miners rejoice! T-Rex miner 0.26.1 was officially released with 100% LHR unlock for most LHR cards (except RTX 3080 12GB and RTX 3050).\n\nIf you're a HiveOS user and want to update you need to:\n\n1) Update your HiveOS to the latest version\n2) Unset your Flightsheet\n3) Update your Nvidia drivers to 510.xx (you can run the nvidia-driver-update command)\n4) Edit your Flightsheet, click on 'Setup Miner Config' over T-Rex Miner and select version 0.26.1, then click on Apply Changes\n5) Set your Flight Sheet again\n6) Enjoy!\n\n For Windows users:\n1) Update your Nvidia driver to 512.xx\n2) Install T-Rex 0.26.1\n3) Reboot\n4) Start mining again and enjoy!",
+      "text":"Nvidia miners rejoice! T-Rex miner 0.26.1 was officially released with 100% LHR unlock for most LHR cards (except RTX 3080 12GB and RTX 3050).\n\nIf you're a HiveOS user and want to update you need to:\n\n1) Update your HiveOS to the latest version\n2) Unset your Flight Sheet\n3) Update your Nvidia drivers to 510.xx (you can run the nvidia-driver-update command)\n4) Edit your Flight Sheet, click on 'Setup Miner Config' over T-Rex Miner and select version 0.26.1, then click on Apply Changes\n5) Set your Flight Sheet again\n6) Enjoy!\n\n For Windows users:\n\n1) Update your Nvidia driver to 512.xx\n2) Install T-Rex 0.26.1\n3) Reboot\n4) Start mining again and enjoy!",
       "externalUrl":{
          "prefixText":"Enjoying Hashrate?",
          "title":"⭐️ Rate this app! ⭐️",
