@@ -1,5 +1,24 @@
 [
    {
+      "id":"660a81ce-31b3-4d54-b5d8-bfe54300238e",
+      "date":"2022/05/13 02:30",
+      "type":"regular",
+      "version":null,
+      "title":"Hiveon Pool bug - No stats appearing",
+      "mainImage":{         
+         "systemName":null,
+         "assetName":null,
+         "emoji":"🐞",
+         "url":null
+      },
+      "text":"There's an issue going on with some Hiveon users where no stats are being displayed. The fix will come in the next version (1.4.1).\n\nYou don't need to wait though, you can fix it by yourself right now by using your wallet with only lowercased letters, like this:\n\n0xd8fEBBFF96b4b28360126A817E8715e0398E4C63\n\nto lowercased:\n\n0xd8febbff96b4b28360126a817e8715e0398e4c63 <-- Use this one",
+      "externalUrl":{
+         "prefixText":"Enjoying Hashrate?",
+         "title":"⭐️ Rate this app! ⭐️",
+         "url":"itms-apps://itunes.apple.com/app/id1589030959?mt=8&action=write-review"
+      }
+   },
+   {
       "id":"cd4d1504-2fd6-4562-9990-bb49671fa5ab",
       "date":"2022/05/11 09:00",
       "type":"regular",
@@ -13,9 +32,9 @@
       },
       "text":"Nvidia miners rejoice! T-Rex miner 0.26.1 was officially released with 100% LHR unlock for most LHR cards (except RTX 3080 12GB and RTX 3050).\n\nIf you're a HiveOS user and want to update you need to:\n\n1) Update your HiveOS to the latest version\n2) Unset your Flight Sheet\n3) Update your Nvidia drivers to 510.xx (you can run the nvidia-driver-update command)\n4) Edit your Flight Sheet, click on 'Setup Miner Config' over T-Rex Miner and select version 0.26.1, then click on Apply Changes\n5) Reboot\n6) Set your Flight Sheet again\n7) Enjoy!\n\n For Windows users:\n\n1) Update your Nvidia driver to 512.xx\n2) Install T-Rex 0.26.1\n3) Reboot\n4) Start mining again and enjoy!",
       "externalUrl":{
-         "prefixText":"Enjoying Hashrate?",
-         "title":"⭐️ Rate this app! ⭐️",
-         "url":"itms-apps://itunes.apple.com/app/id1589030959?mt=8&action=write-review"
+         "prefixText":null,
+         "title":null,
+         "url":null
       }
    },
    {
