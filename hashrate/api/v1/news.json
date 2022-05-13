@@ -1,5 +1,24 @@
 [
    {
+      "id":"ed9c8796-be8e-4d99-bee4-87a7ffe4fa4c",
+      "date":"2022/05/13 13:00",
+      "type":"newVersion",
+      "version":"1.4.1",
+      "title":"What's new in version 1.4.1",
+      "mainImage":{         
+         "systemName":null,
+         "assetName":"hiveonLogo",
+         "emoji":null,
+         "url":"https://thiagoam.github.io/hashrate/images/hiveonLogo.png"
+      },
+      "text":"• Fixing an issue that occurred on some Hiveon wallets and prevented stats from being displayed\n• Some other minor bug fixes and interface improvements\n• Decreasing the app's icon a bit (macOS)",
+      "externalUrl":{
+         "prefixText":null,
+         "title":null,
+         "url":null
+      }
+   },
+   {
       "id":"660a81ce-31b3-4d54-b5d8-bfe54300238e",
       "date":"2022/05/13 02:30",
       "type":"regular",
