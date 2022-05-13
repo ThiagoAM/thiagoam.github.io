@@ -11,7 +11,7 @@
          "emoji":"🐞",
          "url":null
       },
-      "text":"There's an issue with some Hiveon users where no stats are being displayed. The fix will come in the next version (1.4.1).\n\nYou don't need to wait though, you can fix it yourself right now by using your wallet with only lowercased letters, like this:\n\n0xd8fEBBFF96b4b28360126A817E8715e0398E4C63\n\nlowercased:\n0xd8febbff96b4b28360126a817e8715e0398e4c63",
+      "text":"There's an issue with some Hiveon users where no stats are being displayed. The fix will come in the next version (1.4.1).\n\nYou don't need to wait though, you can fix it yourself right now by using your wallet with only lowercased letters, like this:\n\n0xd8fEBBFF96b4b28360126A817E8715e0398E4C63\n\nto lowercased:\n\n0xd8febbff96b4b28360126a817e8715e0398e4c63 <-- Use this one",
       "externalUrl":{
          "prefixText":"Enjoying Hashrate?",
          "title":"⭐️ Rate this app! ⭐️",
