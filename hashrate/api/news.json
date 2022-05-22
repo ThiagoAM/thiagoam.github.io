@@ -1,18 +1,18 @@
 {
-   "bf08ce71-7133-4d66-87a8-c63641e932bd":{
-      "date":"2022/05/07 20:15",
-      "type":"regular",
-      "version":null,
-      "title":"What's new in version 1.4.0",
+   "be254116-c23d-488c-bc34-75c443f31a42":{
+      "date":"2022/05/22 06:30",
+      "type":"newVersion",
+      "version":"1.4.2",
+      "title":"What's new in version 1.4.2",
       "mainImage":{
-         "url":"https://thiagoam.github.io/hashrate/images/alephiumLogo.png",
+         "url":"https://thiagoam.github.io/hashrate/images/zilliqaLogo.png",
          "systemName":null,
          "assetName":null
       },
-      "text":"Hashrate now supports Alephium through HeroMiners pool! This update also brings the following improvements:\n\n• Flux support in HeroMiners\n• Monero support in HeroMiners\n• Interface improvements and bug fixes\n\nYou're currently in an outdated version, please update to version 1.4.0.",
+      "text":"A very requested feature was added: Dual mining on Ezil Pool! This version also fixes some bugs and adds a 'Report Bug' functionality to the app.\n\nYour app is very outdated, Please update right away!",
       "externalUrl":{
          "prefixText":null,
-         "title":"Update to 1.4.0",
+         "title":"Update to 1.4.2",
          "url":"itms-apps://itunes.apple.com/app/id1589030959"
       }
    }
