@@ -1,5 +1,24 @@
 [
    {
+      "id":"f4c74b93-ba39-494a-94a0-324031a55731",
+      "date":"2022/06/01 01:00",
+      "type":"newVersion",
+      "version":"1.5.0",
+      "title":"What's new in version 1.5.0",
+      "mainImage":{
+         "systemName":null,
+         "assetName":"hashrateLogo",
+         "emoji":null,
+         "url":null
+      },
+      "text":"Big update incoming!\n• New Medium sized Widget!\n• New Extra-Large Widget (iPad only)!\n• New currency supported: AED 🇦🇪\n• Interface improvements and bug fixes",
+      "externalUrl":{
+         "prefixText":null,
+         "title":null,
+         "url":null
+      }
+   },
+   {
       "id":"be254116-c23d-488c-bc34-75c443f31a42",
       "date":"2022/05/22 06:30",
       "type":"newVersion",
@@ -50,25 +69,6 @@
          "url":null
       },
       "text":"Nvidia miners rejoice! T-Rex miner 0.26.x was officially released with 100% LHR unlock for most LHR cards (except RTX 3080 12GB and RTX 3050).\n\nIf you're a HiveOS user and want to update you need to:\n\n1) Update your HiveOS to the latest version\n2) Unset your Flight Sheet\n3) Update your Nvidia drivers to 510.xx (you can run the nvidia-driver-update command)\n4) Edit your Flight Sheet, click on 'Setup Miner Config' over T-Rex Miner and select version 0.26.x, then click on Apply Changes\n5) Reboot\n6) Set your Flight Sheet again\n7) Enjoy!\n\n For Windows users:\n\n1) Update your Nvidia driver to 512.xx\n2) Install T-Rex 0.26.x\n3) Reboot\n4) Start mining again and enjoy!",
-      "externalUrl":{
-         "prefixText":null,
-         "title":null,
-         "url":null
-      }
-   },
-   {
-      "id":"ed9c8796-be8e-4d99-bee4-87a7ffe4fa4c",
-      "date":"2022/05/13 13:00",
-      "type":"newVersion",
-      "version":"1.4.1",
-      "title":"What's new in version 1.4.1",
-      "mainImage":{         
-         "systemName":null,
-         "assetName":"hiveonLogo",
-         "emoji":null,
-         "url":"https://thiagoam.github.io/hashrate/images/hiveonLogo.png"
-      },
-      "text":"• Fixing an issue that occurred on some Hiveon wallets and prevented stats from being displayed\n• Some other minor bug fixes and interface improvements\n• Decreasing the app's icon size a bit (macOS)",
       "externalUrl":{
          "prefixText":null,
          "title":null,
