@@ -1,5 +1,24 @@
 [
    {
+      "id":"07d384c4-96c7-4f7a-b780-00fbbf21fbdc",
+      "date":"2022/06/05 19:30",
+      "type":"newVersion",
+      "version":"1.5.1",
+      "title":"What's new in version 1.5.1",
+      "mainImage":{
+         "systemName":null,
+         "assetName":"hashrateLogo",
+         "emoji":null,
+         "url":null
+      },
+      "text":"• Now you can manually set a payout limit for Hiveon pool miners\n• Fixing an issue in Ezil pool that prevented ETH only miners from seeing the stats \n• More bug fixes and interface improvements",
+      "externalUrl":{
+         "prefixText":null,
+         "title":null,
+         "url":null
+      }
+   },
+   {
       "id":"f4c74b93-ba39-494a-94a0-324031a55731",
       "date":"2022/06/01 01:00",
       "type":"newVersion",
