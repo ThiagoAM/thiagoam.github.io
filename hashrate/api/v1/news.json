@@ -1,17 +1,17 @@
 [
    {
-      "id":"4b91c17f-c6c1-434f-bd9e-0de86d5820e4",
-      "date":"2022/06/12 15:00",
+      "id":"31fcafe8-a26b-4db3-9ede-d1e2627c3c70",
+      "date":"2022/06/19 07:00",
       "type":"newVersion",
-      "version":"1.5.2",
-      "title":"What's new in version 1.5.2",
+      "version":"1.6.0",
+      "title":"What's new in version 1.6.0",
       "mainImage":{
          "systemName":null,
          "assetName":"hashrateLogo",
          "emoji":null,
          "url":null
       },
-      "text":"• Fixing an issue with 2Miner's reward estimations\n• Fixing an issue that made Herominers fail to display some miners stats\n• Fixing an issue with Hiveon ETC stats not being shown",
+      "text":"Huge update incoming!\n* Awesome new icon!\n* New Farm Widgets! View all of you miners most important stats in a single widget!\n* Total power cost, net profits and ROI now available for your farms\n* Total unpaid balance for farms\n* Quick access to your miner's wallet in the Miner Detail Screen\n* Bug fixes and performance improvements\nThanks for choosing Hashrate!",
       "externalUrl":{
          "prefixText":null,
          "title":null,
@@ -19,8 +19,8 @@
       }
    },
    {
-      "id":"3322d693-4855-4fbd-b10b-29fd66828dfc",
-      "date":"2022/05/22 06:00",
+      "id":"de490793-d4af-4984-9844-36e03429b108",
+      "date":"2022/06/19 06:55",
       "type":"regular",
       "version":null,
       "title":"Please, rate this app!",
@@ -35,44 +35,6 @@
          "prefixText":"Enjoying this app?",
          "title":"⭐️ Review Hashrate! ⭐️",
          "url":"itms-apps://itunes.apple.com/app/id1589030959?mt=8&action=write-review"
-      }
-   },
-   {
-      "id":"07d384c4-96c7-4f7a-b780-00fbbf21fbdc",
-      "date":"2022/06/05 19:30",
-      "type":"newVersion",
-      "version":"1.5.1",
-      "title":"What's new in version 1.5.1",
-      "mainImage":{
-         "systemName":null,
-         "assetName":"hashrateLogo",
-         "emoji":null,
-         "url":null
-      },
-      "text":"• Now you can manually set a payout limit for Hiveon pool miners\n• Fixing an issue in Ezil pool that prevented ETH only miners from seeing the stats \n• More bug fixes and interface improvements",
-      "externalUrl":{
-         "prefixText":null,
-         "title":null,
-         "url":null
-      }
-   },
-   {
-      "id":"f4c74b93-ba39-494a-94a0-324031a55731",
-      "date":"2022/06/01 01:00",
-      "type":"newVersion",
-      "version":"1.5.0",
-      "title":"What's new in version 1.5.0",
-      "mainImage":{
-         "systemName":null,
-         "assetName":"hashrateLogo",
-         "emoji":null,
-         "url":null
-      },
-      "text":"Big update incoming!\n• New Medium sized Widget!\n• New Extra-Large Widget (iPad only)!\n• New currency supported: AED 🇦🇪\n• Interface improvements and bug fixes",
-      "externalUrl":{
-         "prefixText":null,
-         "title":null,
-         "url":null
       }
    }
 ]
