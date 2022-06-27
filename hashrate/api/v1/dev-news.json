@@ -11,7 +11,7 @@
          "emoji":null,
          "url":null
       },
-      "text":"• Improved Farm Widgets\n• Now you can send requests for new pools\n• Fixing an issue with Herominers now showing stats\n• Bug fixes",
+      "text":"• Improved Farm Widgets\n• Now you can send requests for new pools\n• Fixing an issue with Herominers not showing stats\n• Bug fixes",
       "externalUrl":{
          "prefixText":null,
          "title":null,
