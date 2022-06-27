@@ -1,5 +1,43 @@
 [
    {
+      "id":"b6c4ecb0-81fd-4941-835d-3045f1e6500f",
+      "date":"2022/06/26 21:15",
+      "type":"newVersion",
+      "version":"1.6.1",
+      "title":"What's new in version 1.6.1",
+      "mainImage":{
+         "systemName":null,
+         "assetName":"hashrateLogo",
+         "emoji":null,
+         "url":null
+      },
+      "text":"",
+      "externalUrl":{
+         "prefixText":null,
+         "title":null,
+         "url":null
+      }
+   },
+   {
+      "id":"de490793-d4af-4984-9844-36e03429b108",
+      "date":"2022/06/19 07:05",
+      "type":"regular",
+      "version":null,
+      "title":"Please, rate this app!",
+      "mainImage":{         
+         "systemName":null,
+         "assetName":null,
+         "emoji":"👍",
+         "url":null
+      },
+      "text":"If you're feeling generous with your time, please support me by leaving a nice review in the App Store. As an independent developer, it means the world to me. Thank you!",
+      "externalUrl":{
+         "prefixText":"Enjoying this app?",
+         "title":"⭐️ Review Hashrate! ⭐️",
+         "url":"itms-apps://itunes.apple.com/app/id1589030959?mt=8&action=write-review"
+      }
+   },
+   {
       "id":"31fcafe8-a26b-4db3-9ede-d1e2627c3c70",
       "date":"2022/06/19 07:00",
       "type":"newVersion",
@@ -16,25 +54,6 @@
          "prefixText":null,
          "title":null,
          "url":null
-      }
-   },
-   {
-      "id":"de490793-d4af-4984-9844-36e03429b108",
-      "date":"2022/06/19 06:55",
-      "type":"regular",
-      "version":null,
-      "title":"Please, rate this app!",
-      "mainImage":{         
-         "systemName":null,
-         "assetName":null,
-         "emoji":"👍",
-         "url":null
-      },
-      "text":"If you're feeling generous with your time, please support me by leaving a nice review in the App Store. As an independent developer, it means the world to me. Thank you!",
-      "externalUrl":{
-         "prefixText":"Enjoying this app?",
-         "title":"⭐️ Review Hashrate! ⭐️",
-         "url":"itms-apps://itunes.apple.com/app/id1589030959?mt=8&action=write-review"
       }
    }
 ]
