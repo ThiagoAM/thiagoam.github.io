@@ -1,5 +1,24 @@
 [
    {
+      "id":"9ece8c23-439f-4aeb-8119-41685a467970",
+      "date":"2022/07/01 08:02",
+      "type":"regular",
+      "version":null,
+      "title":"Ethereum network difficulty dropped around 20%",
+      "mainImage":{
+         "systemName":null,
+         "assetName":"hashrateLogo",
+         "emoji":null,
+         "url":null
+      },
+      "text":"You might have noticed a nice bump in your ETH profits estimation, that's because the Ethereum network difficulty just dropped around 20%. Happy mining!",
+      "externalUrl":{
+         "prefixText":"Ethereum difficulty chart:",
+         "title":null,
+         "url":"https://2miners.com/eth-network-difficulty"
+      }
+   },
+   {
       "id":"b6c4ecb0-81fd-4941-835d-3045f1e6500f",
       "date":"2022/06/26 21:15",
       "type":"newVersion",
