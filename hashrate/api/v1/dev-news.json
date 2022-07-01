@@ -11,11 +11,30 @@
          "emoji":null,
          "url":"https://github.com/ThiagoAM/thiagoam.github.io/blob/master/hashrate/images/eth-difficulty.png?raw=true"
       },
-      "text":"You might have noticed a nice bump in your ETH profits estimation, that's because the Ethereum network difficulty just dropped around 20%. Happy mining!",
+      "text":"You might have noticed a nice bump in your ETH profits estimation, that's because the Ethereum network difficulty just dropped around 20%. That's the network's biggest dip in difficulty ever! Happy mining!",
       "externalUrl":{
          "prefixText":null,
          "title":"2Miners Ethereum Difficulty Chart →",
          "url":"https://2miners.com/eth-network-difficulty"
+      }
+   },
+   {
+      "id":"de490793-d4af-4984-9844-36e03429b108",
+      "date":"2022/06/26 21:20",
+      "type":"regular",
+      "version":null,
+      "title":"Please, rate this app!",
+      "mainImage":{         
+         "systemName":null,
+         "assetName":null,
+         "emoji":"👍",
+         "url":null
+      },
+      "text":"If you're feeling generous with your time, please support me by leaving a nice review in the App Store. As an independent developer, it means the world to me. Thank you!",
+      "externalUrl":{
+         "prefixText":"Enjoying this app?",
+         "title":"⭐️ Review Hashrate! ⭐️",
+         "url":"itms-apps://itunes.apple.com/app/id1589030959?mt=8&action=write-review"
       }
    },
    {
@@ -35,25 +54,6 @@
          "prefixText":null,
          "title":null,
          "url":null
-      }
-   },
-   {
-      "id":"de490793-d4af-4984-9844-36e03429b108",
-      "date":"2022/06/19 07:05",
-      "type":"regular",
-      "version":null,
-      "title":"Please, rate this app!",
-      "mainImage":{         
-         "systemName":null,
-         "assetName":null,
-         "emoji":"👍",
-         "url":null
-      },
-      "text":"If you're feeling generous with your time, please support me by leaving a nice review in the App Store. As an independent developer, it means the world to me. Thank you!",
-      "externalUrl":{
-         "prefixText":"Enjoying this app?",
-         "title":"⭐️ Review Hashrate! ⭐️",
-         "url":"itms-apps://itunes.apple.com/app/id1589030959?mt=8&action=write-review"
       }
    },
    {
