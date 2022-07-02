@@ -1,17 +1,36 @@
 [
    {
+      "id":"88537836-1220-4cb6-9c98-e4f957c687b3",
+      "date":"2022/07/02 07:33",
+      "type":"newVersion",
+      "version":"1.6.2",
+      "title":"What's new in version 1.6.2",
+      "mainImage":{
+         "systemName":null,
+         "assetName":"hashrateLogo",
+         "emoji":null,
+         "url":null
+      },
+      "text":"* WoolyPooly support!\n* New supported coin: Conflux (CFX)!\n* More supported coins for Herominers\n* Some bug fixes",
+      "externalUrl":{
+         "prefixText":null,
+         "title":null,
+         "url":null
+      }
+   },
+   {
       "id":"9ece8c23-439f-4aeb-8119-41685a467970",
       "date":"2022/07/01 08:02",
       "type":"regular",
       "version":null,
-      "title":"Ethereum network difficulty dropped around 20%!",
+      "title":"Ethereum network difficulty dropped by around 20%!",
       "mainImage":{
          "systemName":null,
          "assetName":null,
          "emoji":null,
          "url":"https://github.com/ThiagoAM/thiagoam.github.io/blob/master/hashrate/images/eth-difficulty.png?raw=true"
       },
-      "text":"You might have noticed a nice bump in your ETH profits estimation, that's because the Ethereum network difficulty just dropped around 20%. That's the network's biggest dip in difficulty ever! Happy mining!",
+      "text":"You might have noticed a nice bump in your ETH profits estimation, that's because the Ethereum network difficulty just dropped by around 20%. That's the network's biggest dip in difficulty ever! Happy mining!",
       "externalUrl":{
          "prefixText":null,
          "title":"2Miners Ethereum Difficulty Chart →",
