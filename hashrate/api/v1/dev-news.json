@@ -1,5 +1,24 @@
 [
    {
+      "id":"0bc35415-f806-477c-94a9-271265803f09",
+      "date":"2022/07/02 07:33",
+      "type":"newVersion",
+      "version":"1.6.3",
+      "title":"What's new in version 1.6.3",
+      "mainImage":{
+         "systemName":null,
+         "assetName":"hashrateLogo",
+         "emoji":null,
+         "url":null
+      },
+      "text":"* Aion support!\n* Some bug fixes",
+      "externalUrl":{
+         "prefixText":null,
+         "title":null,
+         "url":null
+      }
+   },
+   {
       "id":"88537836-1220-4cb6-9c98-e4f957c687b3",
       "date":"2022/07/02 07:33",
       "type":"newVersion",
