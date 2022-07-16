@@ -1,5 +1,43 @@
 [
    {
+      "id":"dcdb797d-9f86-45de-9ca9-57303f4f1445",
+      "date":"2022/07/16 07:00",
+      "type":"newVersion",
+      "version":"1.6.4",
+      "title":"What's new in version 1.6.4",
+      "mainImage":{
+         "systemName":null,
+         "assetName":"hashrateLogo",
+         "emoji":null,
+         "url":null
+      },
+      "text":"Big update incoming!\n* MinerPool support!\n* Firo support!\n* Bitcoin Gold support!\n* Fixed WoolyPooly's color theme\n* Bug fixes",
+      "externalUrl":{
+         "prefixText":null,
+         "title":null,
+         "url":null
+      }
+   },
+   {
+      "id":"de490793-d4af-4984-9844-36e03429b108",
+      "date":"2022/06/26 21:20",
+      "type":"regular",
+      "version":null,
+      "title":"Please, rate this app!",
+      "mainImage":{         
+         "systemName":null,
+         "assetName":null,
+         "emoji":"👍",
+         "url":null
+      },
+      "text":"If you're feeling generous with your time, please support me by leaving a nice review in the App Store. As an independent developer, it means the world to me. Thank you!",
+      "externalUrl":{
+         "prefixText":"Enjoying this app?",
+         "title":"⭐️ Review Hashrate! ⭐️",
+         "url":"itms-apps://itunes.apple.com/app/id1589030959?mt=8&action=write-review"
+      }
+   },
+   {
       "id":"0bc35415-f806-477c-94a9-271265803f09",
       "date":"2022/07/02 07:33",
       "type":"newVersion",
@@ -31,82 +69,6 @@
          "url":null
       },
       "text":"* WoolyPooly support!\n* New supported coin: Conflux (CFX)!\n* More supported coins for Herominers\n* Some bug fixes",
-      "externalUrl":{
-         "prefixText":null,
-         "title":null,
-         "url":null
-      }
-   },
-   {
-      "id":"9ece8c23-439f-4aeb-8119-41685a467970",
-      "date":"2022/07/01 08:02",
-      "type":"regular",
-      "version":null,
-      "title":"Ethereum network difficulty dropped by around 20%!",
-      "mainImage":{
-         "systemName":null,
-         "assetName":null,
-         "emoji":null,
-         "url":"https://github.com/ThiagoAM/thiagoam.github.io/blob/master/hashrate/images/eth-difficulty.png?raw=true"
-      },
-      "text":"You might have noticed a nice bump in your ETH profits estimation, that's because the Ethereum network difficulty just dropped by around 20%. That's the network's biggest dip in difficulty ever! Happy mining!",
-      "externalUrl":{
-         "prefixText":null,
-         "title":"2Miners Ethereum Difficulty Chart →",
-         "url":"https://2miners.com/eth-network-difficulty"
-      }
-   },
-   {
-      "id":"de490793-d4af-4984-9844-36e03429b108",
-      "date":"2022/06/26 21:20",
-      "type":"regular",
-      "version":null,
-      "title":"Please, rate this app!",
-      "mainImage":{         
-         "systemName":null,
-         "assetName":null,
-         "emoji":"👍",
-         "url":null
-      },
-      "text":"If you're feeling generous with your time, please support me by leaving a nice review in the App Store. As an independent developer, it means the world to me. Thank you!",
-      "externalUrl":{
-         "prefixText":"Enjoying this app?",
-         "title":"⭐️ Review Hashrate! ⭐️",
-         "url":"itms-apps://itunes.apple.com/app/id1589030959?mt=8&action=write-review"
-      }
-   },
-   {
-      "id":"b6c4ecb0-81fd-4941-835d-3045f1e6500f",
-      "date":"2022/06/26 21:15",
-      "type":"newVersion",
-      "version":"1.6.1",
-      "title":"What's new in version 1.6.1",
-      "mainImage":{
-         "systemName":null,
-         "assetName":"hashrateLogo",
-         "emoji":null,
-         "url":null
-      },
-      "text":"• Improved Farm Widgets\n• Now you can send requests for new pools\n• Fixing an issue with Herominers not showing stats\n• Bug fixes",
-      "externalUrl":{
-         "prefixText":null,
-         "title":null,
-         "url":null
-      }
-   },
-   {
-      "id":"31fcafe8-a26b-4db3-9ede-d1e2627c3c70",
-      "date":"2022/06/19 07:00",
-      "type":"newVersion",
-      "version":"1.6.0",
-      "title":"What's new in version 1.6.0",
-      "mainImage":{
-         "systemName":null,
-         "assetName":"hashrateLogo",
-         "emoji":null,
-         "url":null
-      },
-      "text":"Huge update incoming!\n* Awesome new icon!\n* New Farm Widgets! View all of you miners most important stats in a single widget!\n* Total power cost, net profits and ROI now available for your farms\n* Total unpaid balance for farms\n* Quick access to your miner's wallet in the Miner Detail Screen\n* Bug fixes and performance improvements\nThanks for choosing Hashrate!",
       "externalUrl":{
          "prefixText":null,
          "title":null,
