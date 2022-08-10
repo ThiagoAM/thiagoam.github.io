@@ -1,17 +1,17 @@
 [
    {
-      "id":"dcdb797d-9f86-45de-9ca9-57303f4f1445",
-      "date":"2022/07/16 07:00",
+      "id":"d4390ea0-2eb5-4811-a251-8cb9849ad78e",
+      "date":"2022/08/10 06:00",
       "type":"newVersion",
-      "version":"1.6.4",
-      "title":"What's new in version 1.6.4",
+      "version":"1.6.6",
+      "title":"What's new in version 1.6.6",
       "mainImage":{
          "systemName":null,
          "assetName":"hashrateLogo",
          "emoji":null,
          "url":null
       },
-      "text":"Big update incoming!\n* MinerPool support!\n* Firo support!\n* Bitcoin Gold support!\n* Fixed WoolyPooly's color theme\n* Bug fixes",
+      "text":"Fixing an issue with Herominers workers counter.",
       "externalUrl":{
          "prefixText":null,
          "title":null,
@@ -35,44 +35,6 @@
          "prefixText":"Enjoying this app?",
          "title":"⭐️ Review Hashrate! ⭐️",
          "url":"itms-apps://itunes.apple.com/app/id1589030959?mt=8&action=write-review"
-      }
-   },
-   {
-      "id":"0bc35415-f806-477c-94a9-271265803f09",
-      "date":"2022/07/02 07:33",
-      "type":"newVersion",
-      "version":"1.6.3",
-      "title":"What's new in version 1.6.3",
-      "mainImage":{
-         "systemName":null,
-         "assetName":"hashrateLogo",
-         "emoji":null,
-         "url":null
-      },
-      "text":"* Aion support!\n* Some bug fixes",
-      "externalUrl":{
-         "prefixText":null,
-         "title":null,
-         "url":null
-      }
-   },
-   {
-      "id":"88537836-1220-4cb6-9c98-e4f957c687b3",
-      "date":"2022/07/02 07:33",
-      "type":"newVersion",
-      "version":"1.6.2",
-      "title":"What's new in version 1.6.2",
-      "mainImage":{
-         "systemName":null,
-         "assetName":"hashrateLogo",
-         "emoji":null,
-         "url":null
-      },
-      "text":"* WoolyPooly support!\n* New supported coin: Conflux (CFX)!\n* More supported coins for Herominers\n* Some bug fixes",
-      "externalUrl":{
-         "prefixText":null,
-         "title":null,
-         "url":null
       }
    }
 ]
