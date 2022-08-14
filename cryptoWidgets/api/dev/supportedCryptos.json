@@ -1,0 +1,30 @@
+[
+{
+	"ticker": "BTC",
+	"name": "Bitcoin",
+	"slugs": null,
+	"iconName": "btcIcon",
+	"iconUrl": null,
+},
+{
+	"ticker": "ETH",
+	"name": "Ethereum",
+	"slugs": null,
+	"iconName": "ethIcon",
+	"iconUrl": null,
+},
+{
+	"ticker": "XCH",
+	"name": "Chia",
+	"slugs": null,
+	"iconName": "xchIcon",
+	"iconUrl": null,
+},
+{
+	"ticker": "XMR",
+	"name": "Monero",
+	"slugs": null,
+	"iconName": "xmrIcon",
+	"iconUrl": null,
+}
+]
