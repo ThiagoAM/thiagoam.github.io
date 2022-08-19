@@ -1,5 +1,24 @@
 [
    {
+      "id":"1f929f4c-b1d0-4254-9c54-67a0c59f5582",
+      "date":"2022/08/19 06:00",
+      "type":"regular",
+      "version":null,
+      "title":"MineXMR shuts down today",
+      "mainImage":{         
+         "systemName":null,
+         "assetName":"minexmrLogo",
+         "emoji":null,
+         "url":null
+      },
+      "text":"Please reconfigure your miners to use a different pool before this date. Any miners that are not updated before August 19 will stop working.",
+      "externalUrl":{
+         "prefixText":"Source:",
+         "title":"MineXMR",
+         "url":"https://minexmr.com"
+      }
+   },
+   {
       "id":"d4390ea0-2eb5-4811-a251-8cb9849ad78e",
       "date":"2022/08/10 06:00",
       "type":"newVersion",
