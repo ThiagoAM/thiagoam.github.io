@@ -1,10 +1,29 @@
 [
    {
+      "id":"09888839-9077-45f2-9ef2-f6d36e605200",
+      "date":"2022/08/21 02:00",
+      "type":"newVersion",
+      "version":"1.6.7",
+      "title":"What's new in version 1.6.7",
+      "mainImage":{
+         "systemName":null,
+         "assetName":"hashrateLogo",
+         "emoji":null,
+         "url":null
+      },
+      "text":"* New supported pool: Crazypool\n* Added KASPA support to WoolyPooly",
+      "externalUrl":{
+         "prefixText":null,
+         "title":null,
+         "url":null
+      }
+   },
+   {
       "id":"1f929f4c-b1d0-4254-9c54-67a0c59f5582",
       "date":"2022/08/19 06:00",
       "type":"regular",
       "version":null,
-      "title":"MineXMR shuts down today",
+      "title":"MineXMR ceased its operations",
       "mainImage":{         
          "systemName":null,
          "assetName":"minexmrLogo",
