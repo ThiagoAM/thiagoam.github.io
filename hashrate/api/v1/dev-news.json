@@ -19,6 +19,25 @@
       }
    },
    {
+      "id":"0eb71d9d-ea64-40e3-bb9f-2c0c4ce83f5f",
+      "date":"2022/07/16 06:55",
+      "type":"regular",
+      "version":null,
+      "title":"Please, rate this app!",
+      "mainImage":{         
+         "systemName":null,
+         "assetName":null,
+         "emoji":"👍",
+         "url":null
+      },
+      "text":"If you're feeling generous with your time, please support me by leaving a nice review in the App Store. As an independent developer, it means the world to me. Thank you!",
+      "externalUrl":{
+         "prefixText":"Enjoying this app?",
+         "title":"⭐️ Review Hashrate! ⭐️",
+         "url":"itms-apps://itunes.apple.com/app/id1589030959?mt=8&action=write-review"
+      }
+   },
+   {
       "id":"1f929f4c-b1d0-4254-9c54-67a0c59f5582",
       "date":"2022/08/19 06:00",
       "type":"regular",
@@ -54,25 +73,6 @@
          "prefixText":null,
          "title":null,
          "url":null
-      }
-   },
-   {
-      "id":"0eb71d9d-ea64-40e3-bb9f-2c0c4ce83f5f",
-      "date":"2022/07/16 06:55",
-      "type":"regular",
-      "version":null,
-      "title":"Please, rate this app!",
-      "mainImage":{         
-         "systemName":null,
-         "assetName":null,
-         "emoji":"👍",
-         "url":null
-      },
-      "text":"If you're feeling generous with your time, please support me by leaving a nice review in the App Store. As an independent developer, it means the world to me. Thank you!",
-      "externalUrl":{
-         "prefixText":"Enjoying this app?",
-         "title":"⭐️ Review Hashrate! ⭐️",
-         "url":"itms-apps://itunes.apple.com/app/id1589030959?mt=8&action=write-review"
       }
    }
 ]
