@@ -1,5 +1,43 @@
 [
    {
+      "id":"9445ebbe-da2f-4222-be05-9dc5bf57a3b3",
+      "date":"2022/09/03 18:00",
+      "type":"regular",
+      "version":null,
+      "title":"Hashrate Pro is 80% Off!",
+      "mainImage":{         
+         "systemName":null,
+         "assetName":"hashrateLogo",
+         "emoji":null,
+         "url":null
+      },
+      "text":"If you want to get all of Hashrate Pro's advantages, you should do it right now! Hashrate Pro is 80% off for a limited amount of time!",
+      "externalUrl":{
+         "prefixText":null,
+         "title":null,
+         "url":null
+      }
+   },
+   {
+      "id":"8f3acb74-6a22-4786-9314-bfae15868ab6",
+      "date":"2022/07/16 06:55",
+      "type":"regular",
+      "version":null,
+      "title":"Please, rate this app!",
+      "mainImage":{         
+         "systemName":null,
+         "assetName":null,
+         "emoji":"👍",
+         "url":null
+      },
+      "text":"If you're feeling generous with your time, please support me by leaving a nice review in the App Store. As an independent developer, it means the world to me. Thank you!",
+      "externalUrl":{
+         "prefixText":"Enjoying this app?",
+         "title":"⭐️ Review Hashrate! ⭐️",
+         "url":"itms-apps://itunes.apple.com/app/id1589030959?mt=8&action=write-review"
+      }
+   },
+   {
       "id":"a9ac8399-d8b1-4ad0-ba52-a08286cbd6e5",
       "date":"2022/08/22 06:00",
       "type":"newVersion",
@@ -38,25 +76,6 @@
       }
    },
    {
-      "id":"0eb71d9d-ea64-40e3-bb9f-2c0c4ce83f5f",
-      "date":"2022/07/16 06:55",
-      "type":"regular",
-      "version":null,
-      "title":"Please, rate this app!",
-      "mainImage":{         
-         "systemName":null,
-         "assetName":null,
-         "emoji":"👍",
-         "url":null
-      },
-      "text":"If you're feeling generous with your time, please support me by leaving a nice review in the App Store. As an independent developer, it means the world to me. Thank you!",
-      "externalUrl":{
-         "prefixText":"Enjoying this app?",
-         "title":"⭐️ Review Hashrate! ⭐️",
-         "url":"itms-apps://itunes.apple.com/app/id1589030959?mt=8&action=write-review"
-      }
-   },
-   {
       "id":"1f929f4c-b1d0-4254-9c54-67a0c59f5582",
       "date":"2022/08/19 06:00",
       "type":"regular",
@@ -73,25 +92,6 @@
          "prefixText":"Source:",
          "title":"MineXMR",
          "url":"https://minexmr.com"
-      }
-   },
-   {
-      "id":"d4390ea0-2eb5-4811-a251-8cb9849ad78e",
-      "date":"2022/08/10 06:00",
-      "type":"newVersion",
-      "version":"1.6.6",
-      "title":"What's new in version 1.6.6",
-      "mainImage":{
-         "systemName":null,
-         "assetName":"hashrateLogo",
-         "emoji":null,
-         "url":null
-      },
-      "text":"Fixing an issue with Herominers workers counter.",
-      "externalUrl":{
-         "prefixText":null,
-         "title":null,
-         "url":null
       }
    }
 ]
