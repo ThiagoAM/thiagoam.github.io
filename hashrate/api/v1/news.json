@@ -1,5 +1,24 @@
 [
    {
+      "id":"c6a4175f-d2bd-4405-b772-b6ba9e98550a",
+      "date":"2022/09/05 03:00",
+      "type":"newVersion",
+      "version":"1.6.9",
+      "title":"What's new in version 1.6.9",
+      "mainImage":{
+         "systemName":null,
+         "assetName":"hashrateLogo",
+         "emoji":null,
+         "url":null
+      },
+      "text":"* Fixing an issue with Flexpool's charts being reversed\n* Removing MineXMR from the available pools",
+      "externalUrl":{
+         "prefixText":null,
+         "title":null,
+         "url":null
+      }
+   },
+   {
       "id":"9445ebbe-da2f-4222-be05-9dc5bf57a3b3",
       "date":"2022/09/03 18:00",
       "type":"regular",
@@ -73,25 +92,6 @@
          "prefixText":null,
          "title":null,
          "url":null
-      }
-   },
-   {
-      "id":"1f929f4c-b1d0-4254-9c54-67a0c59f5582",
-      "date":"2022/08/19 06:00",
-      "type":"regular",
-      "version":null,
-      "title":"MineXMR ceased its operations",
-      "mainImage":{         
-         "systemName":null,
-         "assetName":"minexmrLogo",
-         "emoji":null,
-         "url":null
-      },
-      "text":"Please reconfigure your miners to use a different pool before this date. Any miners that are not updated before August 19 will stop working.",
-      "externalUrl":{
-         "prefixText":"Source:",
-         "title":"MineXMR",
-         "url":"https://minexmr.com"
       }
    }
 ]
