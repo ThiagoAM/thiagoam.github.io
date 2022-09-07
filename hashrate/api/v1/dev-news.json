@@ -19,25 +19,6 @@
       }
    },
    {
-      "id":"9445ebbe-da2f-4222-be05-9dc5bf57a3b3",
-      "date":"2022/09/03 18:00",
-      "type":"regular",
-      "version":null,
-      "title":"Hashrate Pro is 80% Off!",
-      "mainImage":{         
-         "systemName":null,
-         "assetName":"hashrateLogo",
-         "emoji":null,
-         "url":null
-      },
-      "text":"If you want to get all of Hashrate Pro's advantages, you should do it right now! Hashrate Pro is 80% off for a limited amount of time!",
-      "externalUrl":{
-         "prefixText":null,
-         "title":null,
-         "url":null
-      }
-   },
-   {
       "id":"8f3acb74-6a22-4786-9314-bfae15868ab6",
       "date":"2022/07/16 06:55",
       "type":"regular",
