@@ -1,0 +1,74 @@
+/*
+***** Smartphone Styles *****
+*/
+@media only screen and (min-width: 120px) and (min-device-width: 120px) and (max-device-width: 599px) {
+
+  .languageButton {
+    width: 100px;
+  	font-size: 40px;
+    margin: 30px;
+  }
+
+  .centralContainer {
+    width: 90%;
+    border-radius: 0px;
+  }
+
+  .title {
+  	font-size: 90px;
+  }
+
+  .titleDescription {
+  	font-size: 40px;
+  }
+
+  .downloadButton {
+  	font-size: 40px;
+  }
+
+  .centralContainer h1 {
+  	font-size: 60px;
+  }
+
+  .centralContainer p {
+  	font-size: 50px;
+  }
+
+  /* IMAGES */
+  .mainImage {
+  	width: 98%;
+  }
+
+  .tabImage {
+  	width: 90%;
+  	max-width: 900px;
+  	min-width: 150px;
+    display: block;
+  	margin-left: auto;
+  	margin-right: auto;
+    float: none;
+  }
+
+  .iPhoneXImage {
+    width: 80%;
+  }
+
+  .colorThemesImage {
+  	width: 95%;
+  }
+
+  .multitaskingIPad {
+  	width: 90%;
+  }
+
+  .iPhoneBlue {
+  	width: 600px;
+  }
+
+  footer p {
+  	font-size: 30px;
+    line-height: 1.45455;
+    letter-spacing: .016em;
+  }
+
+}
