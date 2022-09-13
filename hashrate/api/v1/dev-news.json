@@ -25,6 +25,25 @@
       }
    },
    {
+      "id":"7d1a0bcc-917b-43b1-99da-04b0dc97427a",
+      "date":"2022/09/13 01:35",
+      "type":"newVersion",
+      "version":"1.7.0",
+      "title":"What's new in version 1.7.0",
+      "mainImage":{
+         "systemName":null,
+         "assetName":"hashrateLogo",
+         "emoji":null,
+         "url":null
+      },
+      "text":"Very big update incoming!\n* Lock Screen Widgets for your top mining rigs! (iOS 16 required)\n* Neoxa support for Minerpool, 2Miners and Herominers\n * Ravencoin support for Hiveon Pool\n* Fixing an issue with Herominer's Flux reward estimation being too big\n* Improving 2Miners reward estimations\n\nThanks for everyone that sent a bug report or a feature request! I'm working on all of your requests!",
+      "externalUrl":{
+         "prefixText":null,
+         "title":null,
+         "url":null
+      }
+   },
+   {
       "id":"c6a4175f-d2bd-4405-b772-b6ba9e98550a",
       "date":"2022/09/05 03:00",
       "type":"newVersion",
@@ -60,44 +79,6 @@
          "prefixText":"Enjoying this app?",
          "title":"⭐️ Review Hashrate! ⭐️",
          "url":"itms-apps://itunes.apple.com/app/id1589030959?mt=8&action=write-review"
-      }
-   },
-   {
-      "id":"a9ac8399-d8b1-4ad0-ba52-a08286cbd6e5",
-      "date":"2022/08/22 06:00",
-      "type":"newVersion",
-      "version":"1.6.8",
-      "title":"What's new in version 1.6.8",
-      "mainImage":{
-         "systemName":null,
-         "assetName":"hashrateLogo",
-         "emoji":null,
-         "url":null
-      },
-      "text":"Fixing an issue with Kaspa in WoolyPooly not displaying the stats.",
-      "externalUrl":{
-         "prefixText":null,
-         "title":null,
-         "url":null
-      }
-   },
-   {
-      "id":"09888839-9077-45f2-9ef2-f6d36e605200",
-      "date":"2022/08/21 02:00",
-      "type":"newVersion",
-      "version":"1.6.7",
-      "title":"What's new in version 1.6.7",
-      "mainImage":{
-         "systemName":null,
-         "assetName":"hashrateLogo",
-         "emoji":null,
-         "url":null
-      },
-      "text":"* New supported pool: Crazypool\n* Added KASPA support to WoolyPooly",
-      "externalUrl":{
-         "prefixText":null,
-         "title":null,
-         "url":null
       }
    }
 ]
