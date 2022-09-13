@@ -1,5 +1,30 @@
 [
    {
+      "id":"",
+      "date":"2022/09/13 01:30",
+      "type":"newVersion",
+      "version":"1.7.0",
+      "title":"What's new in version 1.7.0",
+      "mainImage":{
+         "systemName":null,
+         "assetName":"hashrateLogo",
+         "emoji":null,
+         "url":null
+      },
+      "bigImage": {
+         "systemName":null,
+         "assetName":null,
+         "emoji":null,
+         "url":null
+      },
+      "text":"* Fixing an issue with Flexpool's charts being reversed\n* Removing MineXMR from the available pools",
+      "externalUrl":{
+         "prefixText":null,
+         "title":null,
+         "url":null
+      }
+   },
+   {
       "id":"c6a4175f-d2bd-4405-b772-b6ba9e98550a",
       "date":"2022/09/05 03:00",
       "type":"newVersion",
