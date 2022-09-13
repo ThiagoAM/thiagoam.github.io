@@ -36,26 +36,13 @@
          "emoji":null,
          "url":null
       },
-      "text":"Very big update incoming!\n* Lock Screen Widgets for your top mining rigs! (iOS 16 required)\n* Neoxa support for Minerpool, 2Miners and Herominers\n * Ravencoin support for Hiveon Pool\n* Fixing an issue with Herominer's Flux reward estimation being too big\n* Improving 2Miners reward estimations\n\nThanks for everyone that sent a bug report or a feature request! I'm working on all of your requests!",
-      "externalUrl":{
-         "prefixText":null,
-         "title":null,
-         "url":null
-      }
-   },
-   {
-      "id":"c6a4175f-d2bd-4405-b772-b6ba9e98550a",
-      "date":"2022/09/05 03:00",
-      "type":"newVersion",
-      "version":"1.6.9",
-      "title":"What's new in version 1.6.9",
-      "mainImage":{
+      "bigImage": {
          "systemName":null,
-         "assetName":"hashrateLogo",
+         "assetName":null,
          "emoji":null,
-         "url":null
+         "url":"https://thiagoam.github.io/hashrate/images/hashrate-lockscreen-widgets.jpg"
       },
-      "text":"* Fixing an issue with Flexpool's charts being reversed\n* Removing MineXMR from the available pools",
+      "text":"Very big update incoming!\n* Lock Screen Widgets for your top mining rigs! (iOS 16 required)\n* Neoxa support for Minerpool, 2Miners and Herominers\n * Ravencoin support for Hiveon Pool\n* Fixing an issue with Herominer's Flux reward estimation being too big\n* Improving 2Miners reward estimations\n\nThanks for everyone that sent a bug report or a feature request! I'm working on all of your requests!",
       "externalUrl":{
          "prefixText":null,
          "title":null,
