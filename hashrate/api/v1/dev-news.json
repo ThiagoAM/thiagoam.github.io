@@ -9,7 +9,7 @@
          "systemName":null,
          "assetName":null,
          "emoji":null,
-         "url":null
+         "url":"https://thiagoam.github.io/hashrate/images/s2crypto-icon.png"
       },
       "bigImage": {
          "systemName":null,
@@ -50,7 +50,7 @@
       }
    },
    {
-      "id":"8f3acb74-6a22-4786-9314-bfae15868ab6",
+      "id":"114567f1-15c9-4968-8e72-1b86f19246a0",
       "date":"2022/07/16 06:55",
       "type":"regular",
       "version":null,
