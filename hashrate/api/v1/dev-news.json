@@ -15,7 +15,7 @@
          "systemName":null,
          "assetName":null,
          "emoji":null,
-         "url":null
+         "url":"https://thiagoam.github.io/hashrate/images/s2crypto-promo.png"
       },
       "text":"* Fixing an issue with Flexpool's charts being reversed\n* Removing MineXMR from the available pools",
       "externalUrl":{
