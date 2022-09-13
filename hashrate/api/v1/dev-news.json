@@ -2,12 +2,12 @@
    {
       "id":"05a38148-d7a9-4c58-ad42-17103e323ffc",
       "date":"2022/09/13 01:30",
-      "type":"newVersion",
-      "version":"1.7.0",
-      "title":"What's new in version 1.7.0",
+      "type":"regular",
+      "version":null,
+      "title":"New app made by me: S2 Crypto!",
       "mainImage":{
          "systemName":null,
-         "assetName":"hashrateLogo",
+         "assetName":null,
          "emoji":null,
          "url":null
       },
@@ -17,10 +17,10 @@
          "emoji":null,
          "url":"https://thiagoam.github.io/hashrate/images/s2crypto-promo.png"
       },
-      "text":"Downlaod S2 Crypto right now!!!",
+      "text":"S2 Crypto was just released by me! Now you can check your favorite crypto prices on your Lock Screen!\nThis app requires iOS 16.",
       "externalUrl":{
          "prefixText":null,
-         "title":null,
+         "title":"Check it out in the App Store",
          "url":null
       }
    },
