@@ -1,5 +1,30 @@
 [
    {
+      "id":"05a38148-d7a9-4c58-ad42-17103e323ffc",
+      "date":"2022/09/13 01:30",
+      "type":"regular",
+      "version":null,
+      "title":"New app made by me: S2 Crypto!",
+      "mainImage":{
+         "systemName":null,
+         "assetName":null,
+         "emoji":null,
+         "url":"https://thiagoam.github.io/hashrate/images/s2crypto-icon.png"
+      },
+      "bigImage": {
+         "systemName":null,
+         "assetName":null,
+         "emoji":null,
+         "url":"https://thiagoam.github.io/hashrate/images/s2crypto-promo.png"
+      },
+      "text":"S2 Crypto was just released by me! Now you can check your favorite crypto prices on your Lock Screen!\nThis app requires iOS 16.",
+      "externalUrl":{
+         "prefixText":null,
+         "title":"Check it out in the App Store",
+         "url":"itms-apps://itunes.apple.com/app/id1644559545?mt=8&action=write-review"
+      }
+   },
+   {
       "id":"1d8f7cdb-0fe4-4b72-b68b-a9e5d6b53912",
       "date":"2022/09/15 05:00",
       "type":"regular",
