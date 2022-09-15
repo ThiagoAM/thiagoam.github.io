@@ -1,5 +1,30 @@
 [
    {
+      "id":"1d8f7cdb-0fe4-4b72-b68b-a9e5d6b53912",
+      "date":"2022/09/15 05:00",
+      "type":"regular",
+      "version":null,
+      "title":"Ethereum mining has ended",
+      "mainImage":{
+         "systemName":null,
+         "assetName":"ethereumLogo",
+         "emoji":null,
+         "url":null
+      },
+      "bigImage": {
+         "systemName":null,
+         "assetName":null,
+         "emoji":null,
+         "url":null
+      },
+      "text":"The Merge has finally happened, therefore Ethereum mining is over. It has been a fun ride! Time to move on to another coins. Support PoW!",
+      "externalUrl":{
+         "prefixText":null,
+         "title":null,
+         "url":null
+      }
+   },
+   {
       "id":"7d1a0bcc-917b-43b1-99da-04b0dc97427a",
       "date":"2022/09/13 01:35",
       "type":"newVersion",
