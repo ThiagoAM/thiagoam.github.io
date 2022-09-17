@@ -1,5 +1,30 @@
 [
    {
+      "id":"ab4660b5-5428-43a0-8b76-00afb84f0230",
+      "date":"2022/09/17 05:20",
+      "type":"newVersion",
+      "version":"1.7.1",
+      "title":"What's new in version 1.7.1",
+      "mainImage":{
+         "systemName":null,
+         "assetName":"hashrateLogo",
+         "emoji":null,
+         "url":null
+      },
+      "bigImage": {
+         "systemName":null,
+         "assetName":null,
+         "emoji":null,
+         "url":null
+      },
+      "text":"* Adding Ethereum PoW (ETHW) and Cortex (CTXC) support for Herominers, 2Miners and WoolyPooly\n* Fixing an issue with RVN support for Hiveon Pool\n* Defaulting to reported hashrate for lock screen widgets\n* Fixing and issue with ETC in Herominers not displaying the stats\n* Fixing an issue with some miners in 2Miners not displaying the reported hashrate when it was available",
+      "externalUrl":{
+         "prefixText":null,
+         "title":null,
+         "url":null
+      }
+   },
+   {
       "id":"05a38148-d7a9-4c58-ad42-17103e323ffc",
       "date":"2022/09/13 01:30",
       "type":"regular",
