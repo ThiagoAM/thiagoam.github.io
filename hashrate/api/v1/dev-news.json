@@ -1,5 +1,30 @@
 [
    {
+      "id":"4317b020-af22-4fc0-bb4f-66c525da8329",
+      "date":"2022/09/17 05:20",
+      "type":"newVersion",
+      "version":"1.7.2",
+      "title":"What's new in version 1.7.2",
+      "mainImage":{
+         "systemName":null,
+         "assetName":"hashrateLogo",
+         "emoji":null,
+         "url":null
+      },
+      "bigImage": {
+         "systemName":null,
+         "assetName":null,
+         "emoji":null,
+         "url":null
+      },
+      "text":"Big update incoming!\n* NEW supported pool: Nanopool!\n* Improving the calculator's reliability and simplifying its usage\n* Fixing an issue that made Herominer's Neoxa reward estimations too big\n* Fixing an issue with ConFlux stats in WoolyPooly\n* Adding WoolyPooly Solo to the supported pools\n* Improving the appearance of the circular lock screen widgets when there are offline workers\n* Fixing many bugs reported by the users\n* Interface improvements",
+      "externalUrl":{
+         "prefixText":null,
+         "title":null,
+         "url":null
+      }
+   },
+   {
       "id":"ab4660b5-5428-43a0-8b76-00afb84f0230",
       "date":"2022/09/17 05:20",
       "type":"newVersion",
