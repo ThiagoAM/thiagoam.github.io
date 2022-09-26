@@ -1,5 +1,49 @@
 [
    {
+      "id":"4317b020-af22-4fc0-bb4f-66c525da8329",
+      "date":"2022/09/26 14:00",
+      "type":"newVersion",
+      "version":"1.7.2",
+      "title":"What's new in version 1.7.2",
+      "mainImage":{
+         "systemName":null,
+         "assetName":"hashrateLogo",
+         "emoji":null,
+         "url":null
+      },
+      "bigImage": {
+         "systemName":null,
+         "assetName":null,
+         "emoji":null,
+         "url":null
+      },
+      "text":"Big update incoming!\n* NEW supported pool: Nanopool!\n* Improving the calculator's reliability and simplifying its usage\n* Fixing an issue that made Herominer's Neoxa reward estimations too big\n* Fixing an issue with Conflux stats in WoolyPooly\n* Adding WoolyPooly Solo to the supported pools\n* Improving the appearance of the circular lock screen widgets when there are offline workers\n* Fixing many bugs reported by the users\n* Interface improvements",
+      "externalUrl":{
+         "prefixText":null,
+         "title":null,
+         "url":null
+      }
+   },
+   {
+      "id":"1a08ebdb-b8c1-4da1-a4dc-de6102dba1f3",
+      "date":"2022/09/26 13:55",
+      "type":"regular",
+      "version":null,
+      "title":"Please, rate this app!",
+      "mainImage":{         
+         "systemName":null,
+         "assetName":null,
+         "emoji":"👍",
+         "url":null
+      },
+      "text":"If you're feeling generous with your time, please support me by leaving a nice review in the App Store. As an independent developer, it means the world to me. Thank you!",
+      "externalUrl":{
+         "prefixText":"Enjoying this app?",
+         "title":"⭐️ Review Hashrate! ⭐️",
+         "url":"itms-apps://itunes.apple.com/app/id1589030959?mt=8&action=write-review"
+      }
+   },
+   {
       "id":"ab4660b5-5428-43a0-8b76-00afb84f0230",
       "date":"2022/09/17 05:20",
       "type":"newVersion",
@@ -97,25 +141,6 @@
          "prefixText":null,
          "title":null,
          "url":null
-      }
-   },
-   {
-      "id":"114567f1-15c9-4968-8e72-1b86f19246a0",
-      "date":"2022/07/16 06:55",
-      "type":"regular",
-      "version":null,
-      "title":"Please, rate this app!",
-      "mainImage":{         
-         "systemName":null,
-         "assetName":null,
-         "emoji":"👍",
-         "url":null
-      },
-      "text":"If you're feeling generous with your time, please support me by leaving a nice review in the App Store. As an independent developer, it means the world to me. Thank you!",
-      "externalUrl":{
-         "prefixText":"Enjoying this app?",
-         "title":"⭐️ Review Hashrate! ⭐️",
-         "url":"itms-apps://itunes.apple.com/app/id1589030959?mt=8&action=write-review"
       }
    }
 ]
