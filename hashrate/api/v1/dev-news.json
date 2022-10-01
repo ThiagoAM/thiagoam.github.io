@@ -1,5 +1,30 @@
 [
    {
+      "id":"77475db6-2e24-4a97-96d5-afa1b4d49d92",
+      "date":"2022/10/01 06:00",
+      "type":"newVersion",
+      "version":"1.7.4",
+      "title":"What's new in version 1.7.4",
+      "mainImage":{
+         "systemName":null,
+         "assetName":"hashrateLogo",
+         "emoji":null,
+         "url":null
+      },
+      "bigImage": {
+         "systemName":null,
+         "assetName":null,
+         "emoji":null,
+         "url":null
+      },
+      "text":"More bug fixes reported by you!\n* Fixing some issues with zeroed hashrates for lock-screen widgets\n* Fixing a bug in 2Miners BTG balance always being at 100%\n* Fixing a Herominers issue with Beam stats not being shown\n* Fixing an issue with Herominers ETHW stats not showing up\nThank you! New pools coming soon!",
+      "externalUrl":{
+         "prefixText":null,
+         "title":null,
+         "url":null
+      }
+   },
+   {
       "id":"4317b020-af22-4fc0-bb4f-66c525da8329",
       "date":"2022/09/26 14:00",
       "type":"newVersion",
