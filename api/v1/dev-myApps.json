@@ -6,5 +6,37 @@
     "longDescription": null,
     "iconUrl": "https://thiagoam.github.io/hashrate/images/s2crypto-icon.png",
     "localIconName": "s2CryptoLogo"
+  },
+  {
+    "appId": "1589030959",
+    "name": "Hashrate",
+    "shortDescription": "The only with Widgets!",
+    "longDescription": null,
+    "iconUrl": "https://thiagoam.github.io/hashrate/images/hashrate-icon.png",
+    "localIconName": "hashrateLogo"
+  },
+  {
+    "appId": "1500152877",
+    "name": "Instrument Scales",
+    "shortDescription": "The best scale viewer ever!",
+    "longDescription": null,
+    "iconUrl": "https://thiagoam.github.io/hashrate/images/s2crypto-icon.png",
+    "localIconName": "instrumentScalesLogo"
+  },
+  {
+    "appId": "1417391531",
+    "name": "Galactic Paper Battles",
+    "shortDescription": "Paper Space Shooter!",
+    "longDescription": null,
+    "iconUrl": "https://thiagoam.github.io/hashrate/images/galacticPaperBattles-icon.png",
+    "localIconName": "galacticPaperBattlesLogo"
+  },
+  {
+    "appId": "1287000522",
+    "name": "Objective Calculator",
+    "shortDescription": "The only calculator with tabs!",
+    "longDescription": null,
+    "iconUrl": "https://thiagoam.github.io/hashrate/images/objectiveCalculator-icon.png",
+    "localIconName": "objectiveCalculatorLogo"
   }
 ]
