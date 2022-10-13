@@ -1,0 +1,10 @@
+[
+  {
+    "appId": "1644559545",
+    "name": "S2 Crypto",
+    "shortDescription": "Crypto on your Lock Screen!",
+    "longDescription": null,
+    "iconUrl": "https://thiagoam.github.io/hashrate/images/s2crypto-icon.png",
+    "localIconName": "s2CryptoLogo"
+  }
+]
