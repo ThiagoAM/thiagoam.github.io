@@ -1,10 +1,10 @@
 [
    {
-      "id":"77475db6-2e24-4a97-96d5-afa1b4d49d92",
-      "date":"2022/10/01 06:00",
+      "id":"3bb96140-fb23-43bf-b011-726e5c2affb0",
+      "date":"2022/10/15 14:30",
       "type":"newVersion",
-      "version":"1.7.4",
-      "title":"What's new in version 1.7.4",
+      "version":"1.8.0",
+      "title":"What's new in version 1.8.0",
       "mainImage":{
          "systemName":null,
          "assetName":"hashrateLogo",
@@ -17,7 +17,7 @@
          "emoji":null,
          "url":null
       },
-      "text":"More bug fixes reported by you!\n* Fixing some issues with zeroed hashrates for lock-screen widgets\n* Fixing a bug in 2Miners BTG balance always being at 100%\n* Fixing a Herominers issue with Beam stats not being shown\n* Fixing an issue with Herominers ETHW stats not showing up\nThank you! New pools coming soon!",
+      "text":"Big update incoming!\n* Removing all the free user ads \n* FluxPools finally supported!\n* ETHF support\n* Many interface improvements\n* Bug fixes",
       "externalUrl":{
          "prefixText":null,
          "title":null,
@@ -25,8 +25,8 @@
       }
    },
    {
-      "id":"1a08ebdb-b8c1-4da1-a4dc-de6102dba1f3",
-      "date":"2022/09/26 13:55",
+      "id":"266c1751-0450-4f24-ada5-25d8c6fb7a75",
+      "date":"2022/10/15 14:25",
       "type":"regular",
       "version":null,
       "title":"Please, rate this app!",
@@ -41,131 +41,6 @@
          "prefixText":"Enjoying this app?",
          "title":"⭐️ Review Hashrate! ⭐️",
          "url":"itms-apps://itunes.apple.com/app/id1589030959?mt=8&action=write-review"
-      }
-   },
-   {
-      "id":"4317b020-af22-4fc0-bb4f-66c525da8329",
-      "date":"2022/09/26 14:00",
-      "type":"newVersion",
-      "version":"1.7.2",
-      "title":"What's new in version 1.7.2",
-      "mainImage":{
-         "systemName":null,
-         "assetName":"hashrateLogo",
-         "emoji":null,
-         "url":null
-      },
-      "bigImage": {
-         "systemName":null,
-         "assetName":null,
-         "emoji":null,
-         "url":null
-      },
-      "text":"Big update incoming!\n* NEW supported pool: Nanopool!\n* Improving the calculator's reliability and simplifying its usage\n* Fixing an issue that made Herominer's Neoxa reward estimations too big\n* Fixing an issue with Conflux stats in WoolyPooly\n* Adding WoolyPooly Solo to the supported pools\n* Improving the appearance of the circular lock screen widgets when there are offline workers\n* Fixing many bugs reported by the users\n* Interface improvements",
-      "externalUrl":{
-         "prefixText":null,
-         "title":null,
-         "url":null
-      }
-   },
-   {
-      "id":"ab4660b5-5428-43a0-8b76-00afb84f0230",
-      "date":"2022/09/17 05:20",
-      "type":"newVersion",
-      "version":"1.7.1",
-      "title":"What's new in version 1.7.1",
-      "mainImage":{
-         "systemName":null,
-         "assetName":"hashrateLogo",
-         "emoji":null,
-         "url":null
-      },
-      "bigImage": {
-         "systemName":null,
-         "assetName":null,
-         "emoji":null,
-         "url":null
-      },
-      "text":"* Adding Ethereum PoW (ETHW) and Cortex (CTXC) support for Herominers, 2Miners and WoolyPooly\n* Fixing an issue with RVN support for Hiveon Pool\n* Defaulting to reported hashrate for lock screen widgets\n* Fixing and issue with ETC in Herominers not displaying the stats\n* Fixing an issue with some miners in 2Miners not displaying the reported hashrate when it was available",
-      "externalUrl":{
-         "prefixText":null,
-         "title":null,
-         "url":null
-      }
-   },
-   {
-      "id":"05a38148-d7a9-4c58-ad42-17103e323ffc",
-      "date":"2022/09/13 01:30",
-      "type":"regular",
-      "version":null,
-      "title":"New app made by me: S2 Crypto!",
-      "mainImage":{
-         "systemName":null,
-         "assetName":null,
-         "emoji":null,
-         "url":"https://thiagoam.github.io/hashrate/images/s2crypto-icon.png"
-      },
-      "bigImage": {
-         "systemName":null,
-         "assetName":null,
-         "emoji":null,
-         "url":"https://thiagoam.github.io/hashrate/images/s2crypto-promo.png"
-      },
-      "text":"S2 Crypto was just released by me! Now you can check your favorite crypto prices on your Lock Screen!\nThis app requires iOS 16.",
-      "externalUrl":{
-         "prefixText":null,
-         "title":"Check it out in the App Store",
-         "url":"itms-apps://itunes.apple.com/app/id1644559545"
-      }
-   },
-   {
-      "id":"1d8f7cdb-0fe4-4b72-b68b-a9e5d6b53912",
-      "date":"2022/09/15 05:00",
-      "type":"regular",
-      "version":null,
-      "title":"Ethereum mining has ended",
-      "mainImage":{
-         "systemName":null,
-         "assetName":"ethereumLogo",
-         "emoji":null,
-         "url":null
-      },
-      "bigImage": {
-         "systemName":null,
-         "assetName":null,
-         "emoji":null,
-         "url":null
-      },
-      "text":"The Merge has finally happened, therefore Ethereum mining is over. It has been a fun ride! Time to move on to another coins. Support PoW!",
-      "externalUrl":{
-         "prefixText":null,
-         "title":null,
-         "url":null
-      }
-   },
-   {
-      "id":"7d1a0bcc-917b-43b1-99da-04b0dc97427a",
-      "date":"2022/09/13 01:35",
-      "type":"newVersion",
-      "version":"1.7.0",
-      "title":"What's new in version 1.7.0",
-      "mainImage":{
-         "systemName":null,
-         "assetName":"hashrateLogo",
-         "emoji":null,
-         "url":null
-      },
-      "bigImage": {
-         "systemName":null,
-         "assetName":null,
-         "emoji":null,
-         "url":"https://thiagoam.github.io/hashrate/images/hashrate-lockscreen-widgets.jpg"
-      },
-      "text":"Very big update incoming!\n* Lock Screen Widgets for your top mining rigs! (iOS 16 required)\n* Neoxa support for Minerpool, 2Miners and Herominers\n * Ravencoin support for Hiveon Pool\n* Fixing an issue with Herominer's Flux reward estimation being too big\n* Improving 2Miners reward estimations\n\nThanks for everyone that sent a bug report or a feature request! I'm working on all of your requests!",
-      "externalUrl":{
-         "prefixText":null,
-         "title":null,
-         "url":null
       }
    }
 ]
