@@ -1,5 +1,32 @@
 [
    {
+      "id":"6c79fd9b-7896-4570-aaf7-f80e13dd2a19",
+      "date":"2022/11/04 23:30",
+      "type":"regular",
+      "version":null,
+      "title":"Hashrate Pro is 50% off!",
+      "freeUsersOnly": true,
+      "proUsersOnly": null,
+      "mainImage":{
+         "systemName":null,
+         "assetName":"hashrateLogo",
+         "emoji":null,
+         "url":null
+      },
+      "bigImage": {
+         "systemName":null,
+         "assetName":null,
+         "emoji":null,
+         "url":null
+      },
+      "text":"Hashrate Pro is 50% off for a limited amount of time, don't let this change go by!",
+      "externalUrl":{
+         "prefixText":null,
+         "title":null,
+         "url":null
+      }
+   },
+   {
       "id":"3bb96140-fb23-43bf-b011-726e5c2affb0",
       "date":"2022/10/15 14:30",
       "type":"newVersion",
