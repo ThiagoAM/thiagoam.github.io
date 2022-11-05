@@ -23,7 +23,8 @@
       "externalUrl":{
          "prefixText":null,
          "title":null,
-         "url":null
+         "url":null,
+         "opensPurchaseScreen":true,
       }
    },
    {
