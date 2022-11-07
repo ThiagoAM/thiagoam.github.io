@@ -1,10 +1,40 @@
 [
    {
+      "id":"6c79fd9b-7896-4570-aaf7-f80e13dd2a19",
+      "date":"2022/11/04 23:30",
+      "type":"regular",
+      "version":null,
+      "title":"Hashrate Pro is 50% off!",
+      "freeUsersOnly": true,
+      "proUsersOnly": null,
+      "mainImage":{
+         "systemName":null,
+         "assetName":"hashrateLogo",
+         "emoji":null,
+         "url":null
+      },
+      "bigImage": {
+         "systemName":null,
+         "assetName":null,
+         "emoji":null,
+         "url":null
+      },
+      "text":"Hashrate Pro is 50% OFF for a limited amount of time, don't let this change go by!",
+      "externalUrl":{
+         "prefixText":null,
+         "title":null,
+         "url":null,
+         "opensPurchaseScreen":true
+      }
+   },
+   {
       "id":"3bb96140-fb23-43bf-b011-726e5c2affb0",
       "date":"2022/10/15 14:30",
       "type":"newVersion",
       "version":"1.8.0",
       "title":"What's new in version 1.8.0",
+      "freeUsersOnly": null,
+      "proUsersOnly": null,
       "mainImage":{
          "systemName":null,
          "assetName":"hashrateLogo",
@@ -21,7 +51,8 @@
       "externalUrl":{
          "prefixText":null,
          "title":null,
-         "url":null
+         "url":null,
+         "opensPurchaseScreen":null
       }
    },
    {
@@ -30,6 +61,8 @@
       "type":"regular",
       "version":null,
       "title":"Please, rate this app!",
+      "freeUsersOnly": null,
+      "proUsersOnly": null,
       "mainImage":{         
          "systemName":null,
          "assetName":null,
@@ -40,7 +73,8 @@
       "externalUrl":{
          "prefixText":"Enjoying this app?",
          "title":"⭐️ Review Hashrate! ⭐️",
-         "url":"itms-apps://itunes.apple.com/app/id1589030959?mt=8&action=write-review"
+         "url":"itms-apps://itunes.apple.com/app/id1589030959?mt=8&action=write-review",
+         "opensPurchaseScreen":null
       }
    }
 ]
