@@ -1,5 +1,55 @@
 [
    {
+      "id":"c8f0299d-0892-46b1-8954-448492957795",
+      "date":"2022/11/19 20:30",
+      "type":"newVersion",
+      "version":"1.8.2",
+      "title":"What's new in version 1.8.2",
+      "freeUsersOnly": null,
+      "proUsersOnly": null,
+      "mainImage":{
+         "systemName":null,
+         "assetName":"hashrateLogo",
+         "emoji":null,
+         "url":null
+      },
+      "bigImage": {
+         "systemName":null,
+         "assetName":null,
+         "emoji":null,
+         "url":null
+      },
+      "text":"* Adding Meowcoin and Radiant support to the app\n* Adding support for all coins in the calculator\n* Fixing some issues with Ezil, WoolyPooly and Herominers stats",
+      "externalUrl":{
+         "prefixText":null,
+         "title":null,
+         "url":null,
+         "opensPurchaseScreen":null
+      }
+   },
+   {
+      "id":"ec7b222e-cecf-46b1-914c-c18b5e8c2d44",
+      "date":"2022/10/15 14:25",
+      "type":"regular",
+      "version":null,
+      "title":"Please, rate this app!",
+      "freeUsersOnly": null,
+      "proUsersOnly": null,
+      "mainImage":{         
+         "systemName":null,
+         "assetName":null,
+         "emoji":"👍",
+         "url":null
+      },
+      "text":"If you're feeling generous with your time, please support me by leaving a nice review in the App Store. As an independent developer, it means the world to me. Thank you!",
+      "externalUrl":{
+         "prefixText":"Enjoying this app?",
+         "title":"⭐️ Review Hashrate! ⭐️",
+         "url":"itms-apps://itunes.apple.com/app/id1589030959?mt=8&action=write-review",
+         "opensPurchaseScreen":null
+      }
+   },
+   {
       "id":"3bb96140-fb23-43bf-b011-726e5c2affb0",
       "date":"2022/10/15 14:30",
       "type":"newVersion",
@@ -24,28 +74,6 @@
          "prefixText":null,
          "title":null,
          "url":null,
-         "opensPurchaseScreen":null
-      }
-   },
-   {
-      "id":"266c1751-0450-4f24-ada5-25d8c6fb7a75",
-      "date":"2022/10/15 14:25",
-      "type":"regular",
-      "version":null,
-      "title":"Please, rate this app!",
-      "freeUsersOnly": null,
-      "proUsersOnly": null,
-      "mainImage":{         
-         "systemName":null,
-         "assetName":null,
-         "emoji":"👍",
-         "url":null
-      },
-      "text":"If you're feeling generous with your time, please support me by leaving a nice review in the App Store. As an independent developer, it means the world to me. Thank you!",
-      "externalUrl":{
-         "prefixText":"Enjoying this app?",
-         "title":"⭐️ Review Hashrate! ⭐️",
-         "url":"itms-apps://itunes.apple.com/app/id1589030959?mt=8&action=write-review",
          "opensPurchaseScreen":null
       }
    }
