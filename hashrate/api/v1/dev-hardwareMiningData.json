@@ -1,0 +1,40 @@
+[
+	{
+		"brand": "Nvidia",
+		"name": "RTX 3070",
+		"type": "GPU",
+		"miningPerformance": [
+			{
+				"algo": "Ethash",
+				"hash": 60.0,
+				"rate": "MH/s",
+				"watts": 130.0
+			},
+			{
+				"algo": "KawPow",
+				"hash": 27.6,
+				"rate": "MH/s",
+				"watts": 180.0
+			}
+		]
+	},
+	{
+		"brand": "AMD",
+		"name": "RX 6700 XT",
+		"type": "GPU",
+		"miningPerformance": [
+			{
+				"algo": "Ethash",
+				"hash": 46.0,
+				"rate": "MH/s",
+				"watts": 100.0
+			},
+			{
+				"algo": "KawPow",
+				"hash": 22.0,
+				"rate": "MH/s",
+				"watts": 120.0
+			}
+		]
+	}
+]
