@@ -3,6 +3,7 @@
 		"brand": "Nvidia",
 		"name": "RTX 3070",
 		"type": "GPU",
+		"msrp": 499.0,
 		"miningPerformance": [
 			{
 				"algo": "Ethash",
@@ -22,6 +23,7 @@
 		"brand": "AMD",
 		"name": "RX 6700 XT",
 		"type": "GPU",
+		"msrp": 479.0,
 		"miningPerformance": [
 			{
 				"algo": "Ethash",
@@ -34,6 +36,26 @@
 				"hash": 22.0,
 				"rate": "MH/s",
 				"watts": 120.0
+			}
+		]
+	},
+	{
+		"brand": "Nvidia",
+		"name": "RTX 3060",
+		"type": "GPU",
+		"msrp": 499.0,
+		"miningPerformance": [
+			{
+				"algo": "Ethash",
+				"hash": 41.0,
+				"rate": "MH/s",
+				"watts": 110.0
+			},
+			{
+				"algo": "KawPow",
+				"hash": 22.0,
+				"rate": "MH/s",
+				"watts": 140.0
 			}
 		]
 	}
