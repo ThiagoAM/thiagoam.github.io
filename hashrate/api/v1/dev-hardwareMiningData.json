@@ -305,6 +305,310 @@
 	},
 	{
 		"brand": "Nvidia",
+		"name": "RTX 3080 Ti",
+		"type": "GPU",
+		"msrp": 1119.0,
+		"miningPerformance": [
+			{
+				"algo": "Ethash",
+				"hash": 117.0,
+				"rate": "MH/s",
+				"watts": 330.0
+			},
+			{
+				"algo": "Ethash4G",
+				"hash": 117.0,
+				"rate": "MH/s",
+				"watts": 330.0
+			},
+			{
+				"algo": "Zhash",
+				"hash": 130.0,
+				"rate": "H/s",
+				"watts": 300.0
+			},
+			{
+				"algo": "CNHeavy",
+				"hash": 0.0,
+				"rate": "H/s",
+				"watts": 0.0
+			},
+			{
+				"algo": "CNGPU",
+				"hash": 4200.0,
+				"rate": "H/s",
+				"watts": 300.0
+			},
+			{
+				"algo": "CNFast",
+				"hash": 0.0,
+				"rate": "H/s",
+				"watts": 0.0
+			},
+			{
+				"algo": "Cortex",
+				"hash": 5.6,
+				"rate": "H/s",
+				"watts": 300.0
+			},
+			{
+				"algo": "Aion",
+				"hash": 520.0,
+				"rate": "H/s",
+				"watts": 300.0
+			},
+			{
+				"algo": "CuckooCycle",
+				"hash": 13.5,
+				"rate": "H/s",
+				"watts": 300.0
+			},
+			{
+				"algo": "Cuckaroo(d)29",
+				"hash": 14.4,
+				"rate": "H/s",
+				"watts": 300.0
+			},
+			{
+				"algo": "kHeavyHash",
+				"hash": 1010.0,
+				"rate": "MH/s",
+				"watts": 220.0
+			},
+			{
+				"algo": "Cuckatoo32",
+				"hash": 1.15,
+				"rate": "H/s",
+				"watts": 280.0
+			},
+			{
+				"algo": "Beam",
+				"hash": 54.0,
+				"rate": "H/s",
+				"watts": 300.0
+			},
+			{
+				"algo": "RandomX",
+				"hash": 0.0,
+				"rate": "H/s",
+				"watts": 0.0
+			},
+			{
+				"algo": "NeoScrypt",
+				"hash": 0.0,
+				"rate": "H/s",
+				"watts": 0.0
+			},
+			{
+				"algo": "Autolykos",
+				"hash": 265.0,
+				"rate": "MH/s",
+				"watts": 290.0
+			},
+			{
+				"algo": "Octopus",
+				"hash": 99.0,
+				"rate": "MH/s",
+				"watts": 350.0
+			},
+			{
+				"algo": "EquihashZero",
+				"hash": 73.0,
+				"rate": "H/s",
+				"watts": 300.0
+			},
+			{
+				"algo": "ZelHash",
+				"hash": 97.0,
+				"rate": "H/s",
+				"watts": 280.0
+			},
+			{
+				"algo": "KawPow",
+				"hash": 50.0,
+				"rate": "MH/s",
+				"watts": 350.0
+			},
+			{
+				"algo": "ProgPow",
+				"hash": 40.0,
+				"rate": "MH/s",
+				"watts": 300.0
+			},
+			{
+				"algo": "X25X",
+				"hash": 0.0,
+				"rate": "MH/s",
+				"watts": 0.0
+			},
+			{
+				"algo": "FiroPow",
+				"hash": 50.0,
+				"rate": "MH/s",
+				"watts": 350.0
+			},
+			{
+				"algo": "Verthash",
+				"hash": 2.0,
+				"rate": "MH/s",
+				"watts": 280.0
+			}
+		]
+	},
+	{
+		"brand": "Nvidia",
+		"name": "RTX 3080",
+		"type": "GPU",
+		"msrp": 699.0,
+		"miningPerformance": [
+			{
+				"algo": "Ethash",
+				"hash": 98.0,
+				"rate": "MH/s",
+				"watts": 240.0
+			},
+			{
+				"algo": "Ethash4G",
+				"hash": 98.0,
+				"rate": "MH/s",
+				"watts": 240.0
+			},
+			{
+				"algo": "Zhash",
+				"hash": 134.0,
+				"rate": "H/s",
+				"watts": 250.0
+			},
+			{
+				"algo": "CNHeavy",
+				"hash": 2400.0,
+				"rate": "H/s",
+				"watts": 250.0
+			},
+			{
+				"algo": "CNGPU",
+				"hash": 3700.0,
+				"rate": "H/s",
+				"watts": 250.0
+			},
+			{
+				"algo": "CNFast",
+				"hash": 4100.0,
+				"rate": "H/s",
+				"watts": 250.0
+			},
+			{
+				"algo": "Cortex",
+				"hash": 4.4,
+				"rate": "H/s",
+				"watts": 230.0
+			},
+			{
+				"algo": "Aion",
+				"hash": 470.0,
+				"rate": "H/s",
+				"watts": 250.0
+			},
+			{
+				"algo": "CuckooCycle",
+				"hash": 14.2,
+				"rate": "H/s",
+				"watts": 250.0
+			},
+			{
+				"algo": "Cuckaroo(d)29",
+				"hash": 14.3,
+				"rate": "H/s",
+				"watts": 250.0
+			},
+			{
+				"algo": "kHeavyHash",
+				"hash": 910.0,
+				"rate": "MH/s",
+				"watts": 200.0
+			},
+			{
+				"algo": "Cuckatoo32",
+				"hash": 0.9,
+				"rate": "H/s",
+				"watts": 250.0
+			},
+			{
+				"algo": "Beam",
+				"hash": 46.5,
+				"rate": "H/s",
+				"watts": 250.0
+			},
+			{
+				"algo": "RandomX",
+				"hash": 1500.0,
+				"rate": "H/s",
+				"watts": 250.0
+			},
+			{
+				"algo": "NeoScrypt",
+				"hash": 0.0,
+				"rate": "H/s",
+				"watts": 0.0
+			},
+			{
+				"algo": "Autolykos",
+				"hash": 220.0,
+				"rate": "MH/s",
+				"watts": 220.0
+			},
+			{
+				"algo": "Octopus",
+				"hash": 77.0,
+				"rate": "MH/s",
+				"watts": 250.0
+			},
+			{
+				"algo": "EquihashZero",
+				"hash": 63.0,
+				"rate": "H/s",
+				"watts": 250.0
+			},
+			{
+				"algo": "ZelHash",
+				"hash": 96.0,
+				"rate": "H/s",
+				"watts": 260.0
+			},
+			{
+				"algo": "KawPow",
+				"hash": 39.5,
+				"rate": "MH/s",
+				"watts": 250.0
+			},
+			{
+				"algo": "ProgPow",
+				"hash": 38.9,
+				"rate": "MH/s",
+				"watts": 250.0
+			},
+			{
+				"algo": "X25X",
+				"hash": 11.1,
+				"rate": "MH/s",
+				"watts": 250.0
+			},
+			{
+				"algo": "FiroPow",
+				"hash": 41.0,
+				"rate": "MH/s",
+				"watts": 250.0
+			},
+			{
+				"algo": "Verthash",
+				"hash": 1.45,
+				"rate": "MH/s",
+				"watts": 240.0
+			}
+		]
+	},
+	{
+		"brand": "Nvidia",
 		"name": "RTX 3070",
 		"type": "GPU",
 		"msrp": 499.0,
