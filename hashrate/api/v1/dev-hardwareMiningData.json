@@ -3798,5 +3798,309 @@
 				"watts": 70.0
 			}
 		]
+	},
+	{
+		"brand": "AMD",
+		"name": "RX Vega 64",
+		"type": "GPU",
+		"msrp": 499.0,
+		"miningPerformance": [
+			{
+				"algo": "Ethash",
+				"hash": 50.0,
+				"rate": "MH/s",
+				"watts": 180.0
+			},
+			{
+				"algo": "Ethash4G",
+				"hash": 50.0,
+				"rate": "MH/s",
+				"watts": 180.0
+			},
+			{
+				"algo": "Zhash",
+				"hash": 38.0,
+				"rate": "H/s",
+				"watts": 250.0
+			},
+			{
+				"algo": "CNHeavy",
+				"hash": 1500.0,
+				"rate": "H/s",
+				"watts": 220.0
+			},
+			{
+				"algo": "CNGPU",
+				"hash": 1650.0,
+				"rate": "H/s",
+				"watts": 270.0
+			},
+			{
+				"algo": "CNFast",
+				"hash": 3700.0,
+				"rate": "H/s",
+				"watts": 220.0
+			},
+			{
+				"algo": "Cortex",
+				"hash": 2.0,
+				"rate": "H/s",
+				"watts": 200.0
+			},
+			{
+				"algo": "Aion",
+				"hash": 145.0,
+				"rate": "H/s",
+				"watts": 210.0
+			},
+			{
+				"algo": "CuckooCycle",
+				"hash": 4.6,
+				"rate": "H/s",
+				"watts": 250.0
+			},
+			{
+				"algo": "Cuckaroo(d)29",
+				"hash": 4.5,
+				"rate": "H/s",
+				"watts": 250.0
+			},
+			{
+				"algo": "kHeavyHash",
+				"hash": 300.0,
+				"rate": "MH/s",
+				"watts": 210.0
+			},
+			{
+				"algo": "Cuckatoo32",
+				"hash": 0.4,
+				"rate": "H/s",
+				"watts": 260.0
+			},
+			{
+				"algo": "Beam",
+				"hash": 29.0,
+				"rate": "H/s",
+				"watts": 240.0
+			},
+			{
+				"algo": "RandomX",
+				"hash": 1160.0,
+				"rate": "H/s",
+				"watts": 160.0
+			},
+			{
+				"algo": "NeoScrypt",
+				"hash": 2000.0,
+				"rate": "H/s",
+				"watts": 250.0
+			},
+			{
+				"algo": "Autolykos",
+				"hash": 125.0,
+				"rate": "MH/s",
+				"watts": 170.0
+			},
+			{
+				"algo": "Octopus",
+				"hash": 8.0,
+				"rate": "MH/s",
+				"watts": 16.0
+			},
+			{
+				"algo": "EquihashZero",
+				"hash": 25.5,
+				"rate": "H/s",
+				"watts": 250.0
+			},
+			{
+				"algo": "ZelHash",
+				"hash": 19.0,
+				"rate": "H/s",
+				"watts": 160.0
+			},
+			{
+				"algo": "KawPow",
+				"hash": 23.5,
+				"rate": "MH/s",
+				"watts": 250.0
+			},
+			{
+				"algo": "ProgPow",
+				"hash": 17.5,
+				"rate": "MH/s",
+				"watts": 270.0
+			},
+			{
+				"algo": "X25X",
+				"hash": 2.1,
+				"rate": "MH/s",
+				"watts": 160.0
+			},
+			{
+				"algo": "FiroPow",
+				"hash": 26.0,
+				"rate": "MH/s",
+				"watts": 250.0
+			},
+			{
+				"algo": "Verthash",
+				"hash": 0.74,
+				"rate": "MH/s",
+				"watts": 160.0
+			}
+		]
+	},
+	{
+		"brand": "AMD",
+		"name": "RX Vega 56",
+		"type": "GPU",
+		"msrp": 399.0,
+		"miningPerformance": [
+			{
+				"algo": "Ethash",
+				"hash": 49.0,
+				"rate": "MH/s",
+				"watts": 170.0
+			},
+			{
+				"algo": "Ethash4G",
+				"hash": 49.0,
+				"rate": "MH/s",
+				"watts": 170.0
+			},
+			{
+				"algo": "Zhash",
+				"hash": 34.0,
+				"rate": "H/s",
+				"watts": 230.0
+			},
+			{
+				"algo": "CNHeavy",
+				"hash": 1380.0,
+				"rate": "H/s",
+				"watts": 200.0
+			},
+			{
+				"algo": "CNGPU",
+				"hash": 1300.0,
+				"rate": "H/s",
+				"watts": 250.0
+			},
+			{
+				"algo": "CNFast",
+				"hash": 3600.0,
+				"rate": "H/s",
+				"watts": 200.0
+			},
+			{
+				"algo": "Cortex",
+				"hash": 1.8,
+				"rate": "H/s",
+				"watts": 190.0
+			},
+			{
+				"algo": "Aion",
+				"hash": 130.0,
+				"rate": "H/s",
+				"watts": 200.0
+			},
+			{
+				"algo": "CuckooCycle",
+				"hash": 4.3,
+				"rate": "H/s",
+				"watts": 230.0
+			},
+			{
+				"algo": "Cuckaroo(d)29",
+				"hash": 4.2,
+				"rate": "H/s",
+				"watts": 230.0
+			},
+			{
+				"algo": "kHeavyHash",
+				"hash": 270.0,
+				"rate": "MH/s",
+				"watts": 200.0
+			},
+			{
+				"algo": "Cuckatoo32",
+				"hash": 0.35,
+				"rate": "H/s",
+				"watts": 230.0
+			},
+			{
+				"algo": "Beam",
+				"hash": 28.0,
+				"rate": "H/s",
+				"watts": 220.0
+			},
+			{
+				"algo": "RandomX",
+				"hash": 1040.0,
+				"rate": "H/s",
+				"watts": 150.0
+			},
+			{
+				"algo": "NeoScrypt",
+				"hash": 1600.0,
+				"rate": "H/s",
+				"watts": 230.0
+			},
+			{
+				"algo": "Autolykos",
+				"hash": 120.0,
+				"rate": "MH/s",
+				"watts": 160.0
+			},
+			{
+				"algo": "Octopus",
+				"hash": 7.0,
+				"rate": "MH/s",
+				"watts": 150.0
+			},
+			{
+				"algo": "EquihashZero",
+				"hash": 24.1,
+				"rate": "H/s",
+				"watts": 230.0
+			},
+			{
+				"algo": "ZelHash",
+				"hash": 18.0,
+				"rate": "H/s",
+				"watts": 150.0
+			},
+			{
+				"algo": "KawPow",
+				"hash": 22.0,
+				"rate": "MH/s",
+				"watts": 230.0
+			},
+			{
+				"algo": "ProgPow",
+				"hash": 15.5,
+				"rate": "MH/s",
+				"watts": 250.0
+			},
+			{
+				"algo": "X25X",
+				"hash": 1.8,
+				"rate": "MH/s",
+				"watts": 150.0
+			},
+			{
+				"algo": "FiroPow",
+				"hash": 23.5,
+				"rate": "MH/s",
+				"watts": 230.0
+			},
+			{
+				"algo": "Verthash",
+				"hash": 0.74,
+				"rate": "MH/s",
+				"watts": 160.0
+			}
+		]
 	}
 ]
