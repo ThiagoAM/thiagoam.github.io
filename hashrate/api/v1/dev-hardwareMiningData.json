@@ -760,28 +760,28 @@
 		]
 	},
 	{
-		"brand": "AMD",
-		"name": "RX 6700 XT",
+		"brand": "Nvidia",
+		"name": "RTX 3060 Ti",
 		"type": "GPU",
-		"msrp": 479.0,
+		"msrp": 399.0,
 		"miningPerformance": [
 			{
 				"algo": "Ethash",
-				"hash": 46.0,
+				"hash": 60.0,
 				"rate": "MH/s",
-				"watts": 100.0
+				"watts": 140.0
 			},
 			{
 				"algo": "Ethash4G",
-				"hash": 46.0,
+				"hash": 60.0,
 				"rate": "MH/s",
-				"watts": 100.0
+				"watts": 140.0
 			},
 			{
 				"algo": "Zhash",
-				"hash": 57.0,
+				"hash": 95.0,
 				"rate": "H/s",
-				"watts": 120.0
+				"watts": 180.0
 			},
 			{
 				"algo": "CNHeavy",
@@ -791,9 +791,9 @@
 			},
 			{
 				"algo": "CNGPU",
-				"hash": 2000.0,
+				"hash": 2850.0,
 				"rate": "H/s",
-				"watts": 130.0
+				"watts": 190.0
 			},
 			{
 				"algo": "CNFast",
@@ -803,45 +803,45 @@
 			},
 			{
 				"algo": "Cortex",
-				"hash": 2.2,
+				"hash": 0.0,
 				"rate": "H/s",
-				"watts": 150.0
+				"watts": 0.0
 			},
 			{
 				"algo": "Aion",
-				"hash": 0.0,
+				"hash": 370.0,
 				"rate": "H/s",
-				"watts": 0.0
+				"watts": 190.0
 			},
 			{
 				"algo": "CuckooCycle",
-				"hash": 0.0,
+				"hash": 9.8,
 				"rate": "H/s",
-				"watts": 0.0
+				"watts": 190.0
 			},
 			{
 				"algo": "Cuckaroo(d)29",
-				"hash": 0.0,
+				"hash": 9.7,
 				"rate": "H/s",
-				"watts": 0.0
+				"watts": 190.0
 			},
 			{
 				"algo": "kHeavyHash",
-				"hash": 460.0,
+				"hash": 480.0,
 				"rate": "MH/s",
 				"watts": 100.0
 			},
 			{
 				"algo": "Cuckatoo32",
-				"hash": 0.0,
+				"hash": 0.5,
 				"rate": "H/s",
-				"watts": 0.0
+				"watts": 190.0
 			},
 			{
 				"algo": "Beam",
-				"hash": 22.0,
+				"hash": 32.5,
 				"rate": "H/s",
-				"watts": 120.0
+				"watts": 190.0
 			},
 			{
 				"algo": "RandomX",
@@ -857,15 +857,15 @@
 			},
 			{
 				"algo": "Autolykos",
-				"hash": 90.0,
+				"hash": 160.0,
 				"rate": "MH/s",
-				"watts": 110.0
+				"watts": 130.0
 			},
 			{
 				"algo": "Octopus",
-				"hash": 24.0,
+				"hash": 48.0,
 				"rate": "MH/s",
-				"watts": 170.0
+				"watts": 190.0
 			},
 			{
 				"algo": "EquihashZero",
@@ -875,21 +875,21 @@
 			},
 			{
 				"algo": "ZelHash",
-				"hash": 37.0,
+				"hash": 58.0,
 				"rate": "H/s",
-				"watts": 130.0
+				"watts": 150.0
 			},
 			{
 				"algo": "KawPow",
-				"hash": 22.0,
+				"hash": 27.0,
 				"rate": "MH/s",
-				"watts": 120.0
+				"watts": 190.0
 			},
 			{
 				"algo": "ProgPow",
-				"hash": 19.0,
+				"hash": 26.0,
 				"rate": "MH/s",
-				"watts": 170.0
+				"watts": 190.0
 			},
 			{
 				"algo": "X25X",
@@ -899,15 +899,15 @@
 			},
 			{
 				"algo": "FiroPow",
-				"hash": 22.0,
+				"hash": 25.0,
 				"rate": "MH/s",
-				"watts": 120.0
+				"watts": 150.0
 			},
 			{
 				"algo": "Verthash",
-				"hash": 0.73,
+				"hash": 1.19,
 				"rate": "MH/s",
-				"watts": 80.0
+				"watts": 140.0
 			}
 		]
 	},
@@ -1060,6 +1060,158 @@
 				"hash": 0.85,
 				"rate": "MH/s",
 				"watts": 130.0
+			}
+		]
+	},
+	{
+		"brand": "AMD",
+		"name": "RX 6700 XT",
+		"type": "GPU",
+		"msrp": 479.0,
+		"miningPerformance": [
+			{
+				"algo": "Ethash",
+				"hash": 46.0,
+				"rate": "MH/s",
+				"watts": 100.0
+			},
+			{
+				"algo": "Ethash4G",
+				"hash": 46.0,
+				"rate": "MH/s",
+				"watts": 100.0
+			},
+			{
+				"algo": "Zhash",
+				"hash": 57.0,
+				"rate": "H/s",
+				"watts": 120.0
+			},
+			{
+				"algo": "CNHeavy",
+				"hash": 0.0,
+				"rate": "H/s",
+				"watts": 0.0
+			},
+			{
+				"algo": "CNGPU",
+				"hash": 2000.0,
+				"rate": "H/s",
+				"watts": 130.0
+			},
+			{
+				"algo": "CNFast",
+				"hash": 0.0,
+				"rate": "H/s",
+				"watts": 0.0
+			},
+			{
+				"algo": "Cortex",
+				"hash": 2.2,
+				"rate": "H/s",
+				"watts": 150.0
+			},
+			{
+				"algo": "Aion",
+				"hash": 0.0,
+				"rate": "H/s",
+				"watts": 0.0
+			},
+			{
+				"algo": "CuckooCycle",
+				"hash": 0.0,
+				"rate": "H/s",
+				"watts": 0.0
+			},
+			{
+				"algo": "Cuckaroo(d)29",
+				"hash": 0.0,
+				"rate": "H/s",
+				"watts": 0.0
+			},
+			{
+				"algo": "kHeavyHash",
+				"hash": 460.0,
+				"rate": "MH/s",
+				"watts": 100.0
+			},
+			{
+				"algo": "Cuckatoo32",
+				"hash": 0.0,
+				"rate": "H/s",
+				"watts": 0.0
+			},
+			{
+				"algo": "Beam",
+				"hash": 22.0,
+				"rate": "H/s",
+				"watts": 120.0
+			},
+			{
+				"algo": "RandomX",
+				"hash": 0.0,
+				"rate": "H/s",
+				"watts": 0.0
+			},
+			{
+				"algo": "NeoScrypt",
+				"hash": 0.0,
+				"rate": "H/s",
+				"watts": 0.0
+			},
+			{
+				"algo": "Autolykos",
+				"hash": 90.0,
+				"rate": "MH/s",
+				"watts": 110.0
+			},
+			{
+				"algo": "Octopus",
+				"hash": 24.0,
+				"rate": "MH/s",
+				"watts": 170.0
+			},
+			{
+				"algo": "EquihashZero",
+				"hash": 0.0,
+				"rate": "H/s",
+				"watts": 0.0
+			},
+			{
+				"algo": "ZelHash",
+				"hash": 37.0,
+				"rate": "H/s",
+				"watts": 130.0
+			},
+			{
+				"algo": "KawPow",
+				"hash": 22.0,
+				"rate": "MH/s",
+				"watts": 120.0
+			},
+			{
+				"algo": "ProgPow",
+				"hash": 19.0,
+				"rate": "MH/s",
+				"watts": 170.0
+			},
+			{
+				"algo": "X25X",
+				"hash": 0.0,
+				"rate": "MH/s",
+				"watts": 0.0
+			},
+			{
+				"algo": "FiroPow",
+				"hash": 22.0,
+				"rate": "MH/s",
+				"watts": 120.0
+			},
+			{
+				"algo": "Verthash",
+				"hash": 0.73,
+				"rate": "MH/s",
+				"watts": 80.0
 			}
 		]
 	}
