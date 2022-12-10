@@ -12,10 +12,130 @@
 				"watts": 130.0
 			},
 			{
+				"algo": "Ethash4G",
+				"hash": 60.0,
+				"rate": "MH/s",
+				"watts": 130.0
+			},
+			{
+				"algo": "CNHeavy",
+				"hash": 1750.0,
+				"rate": "H/s",
+				"watts": 180.0
+			},
+			{
+				"algo": "CNGPU",
+				"hash": 2900.0,
+				"rate": "H/s",
+				"watts": 180.0
+			},
+			{
+				"algo": "CNFast",
+				"hash": 3400.0,
+				"rate": "H/s",
+				"watts": 170.0
+			},
+			{
+				"algo": "Cortex",
+				"hash": 3.6,
+				"rate": "H/s",
+				"watts": 170.0
+			},
+			{
+				"algo": "Aion",
+				"hash": 390.0,
+				"rate": "H/s",
+				"watts": 180.0
+			},
+			{
+				"algo": "CuckooCycle",
+				"hash": 10.2,
+				"rate": "H/s",
+				"watts": 180.0
+			},
+			{
+				"algo": "Cuckaroo(d)29",
+				"hash": 10.3,
+				"rate": "H/s",
+				"watts": 180.0
+			},
+			{
+				"algo": "kHeavyHash",
+				"hash": 590.0,
+				"rate": "MH/s",
+				"watts": 120.0
+			},
+			{
+				"algo": "Cuckatoo32",
+				"hash": 0.7,
+				"rate": "H/s",
+				"watts": 180.0
+			},
+			{
+				"algo": "Beam",
+				"hash": 34.0,
+				"rate": "H/s",
+				"watts": 180.0
+			},
+			{
+				"algo": "RandomX",
+				"hash": 1030.0,
+				"rate": "H/s",
+				"watts": 160.0
+			},
+			{
+				"algo": "Autolykos",
+				"hash": 160.0,
+				"rate": "MH/s",
+				"watts": 130.0
+			},
+			{
+				"algo": "Octopus",
+				"hash": 52.7,
+				"rate": "MH/s",
+				"watts": 180.0
+			},
+			{
+				"algo": "EquihashZero",
+				"hash": 55.0,
+				"rate": "H/s",
+				"watts": 180.0
+			},
+			{
+				"algo": "ZelHash",
+				"hash": 68.0,
+				"rate": "H/s",
+				"watts": 150.0
+			},
+			{
 				"algo": "KawPow",
 				"hash": 27.6,
 				"rate": "MH/s",
 				"watts": 180.0
+			},
+			{
+				"algo": "ProgPow",
+				"hash": 27.4,
+				"rate": "MH/s",
+				"watts": 180.0
+			},
+			{
+				"algo": "X25X",
+				"hash": 8.0,
+				"rate": "MH/s",
+				"watts": 180.0
+			},
+			{
+				"algo": "FiroPow",
+				"hash": 25.0,
+				"rate": "MH/s",
+				"watts": 150.0
+			},
+			{
+				"algo": "Verthash",
+				"hash": 1.19,
+				"rate": "MH/s",
+				"watts": 140.0
 			}
 		]
 	},
@@ -41,9 +161,9 @@
 	},
 	{
 		"brand": "Nvidia",
-		"name": "RTX 3060",
+		"name": "RTX 3060 12GB",
 		"type": "GPU",
-		"msrp": 499.0,
+		"msrp": 329.0,
 		"miningPerformance": [
 			{
 				"algo": "Ethash",
