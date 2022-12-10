@@ -1065,7 +1065,7 @@
 	},
 	{
 		"brand": "Nvidia",
-		"name": "RTX 3060 12GB",
+		"name": "RTX 3060",
 		"type": "GPU",
 		"msrp": 329.0,
 		"miningPerformance": [
@@ -3649,7 +3649,7 @@
 	},
 	{
 		"brand": "AMD",
-		"name": "RX 5500 XT 8GB",
+		"name": "RX 5500 XT",
 		"type": "GPU",
 		"msrp": 199.0,
 		"miningPerformance": [

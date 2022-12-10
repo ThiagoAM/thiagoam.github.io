@@ -1,5 +1,33 @@
 [
    {
+      "id":"13fb5a8b-a487-4535-945c-bbe4a233a903",
+      "date":"2022/12/10 20:30",
+      "type":"newVersion",
+      "version":"1.8.3",
+      "title":"What's new in version 1.8.3",
+      "freeUsersOnly": null,
+      "proUsersOnly": null,
+      "mainImage":{
+         "systemName":null,
+         "assetName":"hashrateLogo",
+         "emoji":null,
+         "url":null
+      },
+      "bigImage": {
+         "systemName":null,
+         "assetName":null,
+         "emoji":null,
+         "url":null
+      },
+      "text":"* New calculator GPU mode for pro users!\n* Adding Kaspa support for Herominers\n* Fixing some bugs",
+      "externalUrl":{
+         "prefixText":null,
+         "title":null,
+         "url":null,
+         "opensPurchaseScreen":null
+      }
+   },
+   {
       "id":"c8f0299d-0892-46b1-8954-448492957795",
       "date":"2022/11/19 20:30",
       "type":"newVersion",
