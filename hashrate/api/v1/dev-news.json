@@ -1,5 +1,33 @@
 [
    {
+      "id":"833f3c5b-f082-4a5a-b0a5-9121b10aba8a",
+      "date":"2023/02/08 00:30",
+      "type":"newVersion",
+      "version":"1.8.5",
+      "title":"What's new in version 1.8.5",
+      "freeUsersOnly": null,
+      "proUsersOnly": null,
+      "mainImage":{
+         "systemName":null,
+         "assetName":"hashrateLogo",
+         "emoji":null,
+         "url":null
+      },
+      "bigImage": {
+         "systemName":null,
+         "assetName":null,
+         "emoji":null,
+         "url":null
+      },
+      "text":"Nexa support for WoolyPooly!",
+      "externalUrl":{
+         "prefixText":null,
+         "title":null,
+         "url":null,
+         "opensPurchaseScreen":null
+      }
+   },
+   {
       "id":"eaa97c37-026b-448f-8331-6f64d8f071ed",
       "date":"2023/01/15 20:30",
       "type":"newVersion",
