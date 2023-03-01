@@ -6,6 +6,12 @@
 		"msrp": 1599,
 		"miningPerformance": [
 			{
+				"algo": "NexaPow",
+				"hash": 262,
+				"rate": "MH/s",
+				"watts": 380.0
+			},
+			{
 				"algo": "Ethash",
 				"hash": 127.0,
 				"rate": "MH/s",
@@ -157,6 +163,12 @@
 		"type": "GPU",
 		"msrp": 1199,
 		"miningPerformance": [
+			{
+				"algo": "NexaPow",
+				"hash": 151,
+				"rate": "MH/s",
+				"watts": 250.0
+			},
 			{
 				"algo": "Ethash",
 				"hash": 87.0,
@@ -310,6 +322,12 @@
 		"msrp": 1999.0,
 		"miningPerformance": [
 			{
+				"algo": "NexaPow",
+				"hash": 110,
+				"rate": "MH/s",
+				"watts": 200.0
+			},
+			{
 				"algo": "Ethash",
 				"hash": 128.0,
 				"rate": "MH/s",
@@ -461,6 +479,12 @@
 		"type": "GPU",
 		"msrp": 1499.0,
 		"miningPerformance": [
+			{
+				"algo": "NexaPow",
+				"hash": 108,
+				"rate": "MH/s",
+				"watts": 200.0
+			},
 			{
 				"algo": "Ethash",
 				"hash": 119.0,
@@ -614,6 +638,12 @@
 		"msrp": 1119.0,
 		"miningPerformance": [
 			{
+				"algo": "NexaPow",
+				"hash": 97,
+				"rate": "MH/s",
+				"watts": 200.0
+			},
+			{
 				"algo": "Ethash",
 				"hash": 117.0,
 				"rate": "MH/s",
@@ -765,6 +795,12 @@
 		"type": "GPU",
 		"msrp": 699.0,
 		"miningPerformance": [
+			{
+				"algo": "NexaPow",
+				"hash": 85,
+				"rate": "MH/s",
+				"watts": 200.0
+			},
 			{
 				"algo": "Ethash",
 				"hash": 98.0,
@@ -918,6 +954,12 @@
 		"msrp": 599.0,
 		"miningPerformance": [
 			{
+				"algo": "NexaPow",
+				"hash": 62,
+				"rate": "MH/s",
+				"watts": 140.0
+			},
+			{
 				"algo": "Ethash",
 				"hash": 80.0,
 				"rate": "MH/s",
@@ -1069,6 +1111,12 @@
 		"type": "GPU",
 		"msrp": 499.0,
 		"miningPerformance": [
+			{
+				"algo": "NexaPow",
+				"hash": 62,
+				"rate": "MH/s",
+				"watts": 130.0
+			},
 			{
 				"algo": "Ethash",
 				"hash": 60.0,
@@ -1222,6 +1270,12 @@
 		"msrp": 399.0,
 		"miningPerformance": [
 			{
+				"algo": "NexaPow",
+				"hash": 52,
+				"rate": "MH/s",
+				"watts": 110.0
+			},
+			{
 				"algo": "Ethash",
 				"hash": 60.0,
 				"rate": "MH/s",
@@ -1373,6 +1427,12 @@
 		"type": "GPU",
 		"msrp": 329.0,
 		"miningPerformance": [
+			{
+				"algo": "NexaPow",
+				"hash": 33,
+				"rate": "MH/s",
+				"watts": 90.0
+			},
 			{
 				"algo": "Ethash",
 				"hash": 41.0,
@@ -1526,6 +1586,12 @@
 		"msrp": 999.0,
 		"miningPerformance": [
 			{
+				"algo": "NexaPow",
+				"hash": 63.5,
+				"rate": "MH/s",
+				"watts": 160.0
+			},
+			{
 				"algo": "Ethash",
 				"hash": 62.0,
 				"rate": "MH/s",
@@ -1677,6 +1743,12 @@
 		"type": "GPU",
 		"msrp": 649.0,
 		"miningPerformance": [
+			{
+				"algo": "NexaPow",
+				"hash": 43,
+				"rate": "MH/s",
+				"watts": 150.0
+			},
 			{
 				"algo": "Ethash",
 				"hash": 62.0,
@@ -1830,6 +1902,12 @@
 		"msrp": 579.0,
 		"miningPerformance": [
 			{
+				"algo": "NexaPow",
+				"hash": 36,
+				"rate": "MH/s",
+				"watts": 120.0
+			},
+			{
 				"algo": "Ethash",
 				"hash": 61.0,
 				"rate": "MH/s",
@@ -1981,6 +2059,12 @@
 		"type": "GPU",
 		"msrp": 479.0,
 		"miningPerformance": [
+			{
+				"algo": "NexaPow",
+				"hash": 23,
+				"rate": "MH/s",
+				"watts": 100.0
+			},
 			{
 				"algo": "Ethash",
 				"hash": 46.0,
@@ -2134,6 +2218,12 @@
 		"msrp": 379.0,
 		"miningPerformance": [
 			{
+				"algo": "NexaPow",
+				"hash": 18.5,
+				"rate": "MH/s",
+				"watts": 80.0
+			},
+			{
 				"algo": "Ethash",
 				"hash": 32.0,
 				"rate": "MH/s",
@@ -2285,6 +2375,12 @@
 		"type": "GPU",
 		"msrp": 330.0,
 		"miningPerformance": [
+			{
+				"algo": "NexaPow",
+				"hash": 18,
+				"rate": "MH/s",
+				"watts": 70.0
+			},
 			{
 				"algo": "Ethash",
 				"hash": 28.5,
@@ -2438,6 +2534,12 @@
 		"msrp": 999.0,
 		"miningPerformance": [
 			{
+				"algo": "NexaPow",
+				"hash": 52,
+				"rate": "MH/s",
+				"watts": 150.0
+			},
+			{
 				"algo": "Ethash",
 				"hash": 55.2,
 				"rate": "MH/s",
@@ -2589,6 +2691,12 @@
 		"type": "GPU",
 		"msrp": 699.0,
 		"miningPerformance": [
+			{
+				"algo": "NexaPow",
+				"hash": 38,
+				"rate": "MH/s",
+				"watts": 130.0
+			},
 			{
 				"algo": "Ethash",
 				"hash": 41.0,
@@ -2742,6 +2850,12 @@
 		"msrp": 599.0,
 		"miningPerformance": [
 			{
+				"algo": "NexaPow",
+				"hash": 31,
+				"rate": "MH/s",
+				"watts": 100.0
+			},
+			{
 				"algo": "Ethash",
 				"hash": 41.0,
 				"rate": "MH/s",
@@ -2893,6 +3007,12 @@
 		"type": "GPU",
 		"msrp": 349.0,
 		"miningPerformance": [
+			{
+				"algo": "NexaPow",
+				"hash": 27,
+				"rate": "MH/s",
+				"watts": 90.0
+			},
 			{
 				"algo": "Ethash",
 				"hash": 31.0,
@@ -3046,6 +3166,12 @@
 		"msrp": 279.0,
 		"miningPerformance": [
 			{
+				"algo": "NexaPow",
+				"hash": 21,
+				"rate": "MH/s",
+				"watts": 60.0
+			},
+			{
 				"algo": "Ethash",
 				"hash": 28.0,
 				"rate": "MH/s",
@@ -3198,6 +3324,12 @@
 		"msrp": 229.0,
 		"miningPerformance": [
 			{
+				"algo": "NexaPow",
+				"hash": 20,
+				"rate": "MH/s",
+				"watts": 60.0
+			},
+			{
 				"algo": "Ethash",
 				"hash": 29.0,
 				"rate": "MH/s",
@@ -3349,6 +3481,12 @@
 		"type": "GPU",
 		"msrp": 219.0,
 		"miningPerformance": [
+			{
+				"algo": "NexaPow",
+				"hash": 18,
+				"rate": "MH/s",
+				"watts": 60.0
+			},
 			{
 				"algo": "Ethash",
 				"hash": 24.0,
@@ -4566,6 +4704,12 @@
 		"msrp": 229.0,
 		"miningPerformance": [
 			{
+				"algo": "NexaPow",
+				"hash": 5,
+				"rate": "MH/s",
+				"watts": 110.0
+			},
+			{
 				"algo": "Ethash",
 				"hash": 30.5,
 				"rate": "MH/s",
@@ -4717,6 +4861,12 @@
 		"type": "GPU",
 		"msrp": 229.0,
 		"miningPerformance": [
+			{
+				"algo": "NexaPow",
+				"hash": 4,
+				"rate": "MH/s",
+				"watts": 110.0
+			},
 			{
 				"algo": "Ethash",
 				"hash": 27.9,
