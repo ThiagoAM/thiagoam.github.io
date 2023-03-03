@@ -1,10 +1,10 @@
 [
    {
-      "id":"833f3c5b-f082-4a5a-b0a5-9121b10aba8a",
-      "date":"2023/02/08 00:30",
+      "id":"3e009d4d-5424-4b65-9157-f6f6289d38f3",
+      "date":"2023/03/03 00:30",
       "type":"newVersion",
-      "version":"1.8.5",
-      "title":"What's new in version 1.8.5",
+      "version":"1.8.6",
+      "title":"What's new in version 1.8.6",
       "freeUsersOnly": null,
       "proUsersOnly": null,
       "mainImage":{
@@ -19,7 +19,7 @@
          "emoji":null,
          "url":null
       },
-      "text":"Nexa support for WoolyPooly!",
+      "text":"Much improved Nexa support!",
       "externalUrl":{
          "prefixText":null,
          "title":null,
@@ -28,92 +28,8 @@
       }
    },
    {
-      "id":"eaa97c37-026b-448f-8331-6f64d8f071ed",
-      "date":"2023/01/15 20:30",
-      "type":"newVersion",
-      "version":"1.8.4",
-      "title":"What's new in version 1.8.4",
-      "freeUsersOnly": null,
-      "proUsersOnly": null,
-      "mainImage":{
-         "systemName":null,
-         "assetName":"hashrateLogo",
-         "emoji":null,
-         "url":null
-      },
-      "bigImage": {
-         "systemName":null,
-         "assetName":null,
-         "emoji":null,
-         "url":null
-      },
-      "text":"Calculator improvements",
-      "externalUrl":{
-         "prefixText":null,
-         "title":null,
-         "url":null,
-         "opensPurchaseScreen":null
-      }
-   },
-   {
-      "id":"13fb5a8b-a487-4535-945c-bbe4a233a903",
-      "date":"2022/12/10 20:30",
-      "type":"newVersion",
-      "version":"1.8.3",
-      "title":"What's new in version 1.8.3",
-      "freeUsersOnly": null,
-      "proUsersOnly": null,
-      "mainImage":{
-         "systemName":null,
-         "assetName":"hashrateLogo",
-         "emoji":null,
-         "url":null
-      },
-      "bigImage": {
-         "systemName":null,
-         "assetName":null,
-         "emoji":null,
-         "url":null
-      },
-      "text":"* New calculator GPU mode for pro users!\n* Adding Kaspa support for Herominers\n* Fixing some bugs",
-      "externalUrl":{
-         "prefixText":null,
-         "title":null,
-         "url":null,
-         "opensPurchaseScreen":null
-      }
-   },
-   {
-      "id":"c8f0299d-0892-46b1-8954-448492957795",
-      "date":"2022/11/19 20:30",
-      "type":"newVersion",
-      "version":"1.8.2",
-      "title":"What's new in version 1.8.2",
-      "freeUsersOnly": null,
-      "proUsersOnly": null,
-      "mainImage":{
-         "systemName":null,
-         "assetName":"hashrateLogo",
-         "emoji":null,
-         "url":null
-      },
-      "bigImage": {
-         "systemName":null,
-         "assetName":null,
-         "emoji":null,
-         "url":null
-      },
-      "text":"* Adding Meowcoin and Radiant support to the app\n* Adding support for all coins in the calculator\n* Fixing some issues with Ezil, WoolyPooly and Herominers stats",
-      "externalUrl":{
-         "prefixText":null,
-         "title":null,
-         "url":null,
-         "opensPurchaseScreen":null
-      }
-   },
-   {
-      "id":"ec7b222e-cecf-46b1-914c-c18b5e8c2d44",
-      "date":"2022/10/15 14:25",
+      "id":"32007810-dc6d-412e-9355-3a5654ad07fc",
+      "date":"2023/03/03 00:25",
       "type":"regular",
       "version":null,
       "title":"Please, rate this app!",
@@ -130,34 +46,6 @@
          "prefixText":"Enjoying this app?",
          "title":"⭐️ Review Hashrate! ⭐️",
          "url":"itms-apps://itunes.apple.com/app/id1589030959?mt=8&action=write-review",
-         "opensPurchaseScreen":null
-      }
-   },
-   {
-      "id":"3bb96140-fb23-43bf-b011-726e5c2affb0",
-      "date":"2022/10/15 14:30",
-      "type":"newVersion",
-      "version":"1.8.0",
-      "title":"What's new in version 1.8.0",
-      "freeUsersOnly": null,
-      "proUsersOnly": null,
-      "mainImage":{
-         "systemName":null,
-         "assetName":"hashrateLogo",
-         "emoji":null,
-         "url":null
-      },
-      "bigImage": {
-         "systemName":null,
-         "assetName":null,
-         "emoji":null,
-         "url":null
-      },
-      "text":"Big update incoming!\n* Removing all the free user ads \n* FluxPools finally supported!\n* ETHF support\n* Many interface improvements\n* Bug fixes",
-      "externalUrl":{
-         "prefixText":null,
-         "title":null,
-         "url":null,
          "opensPurchaseScreen":null
       }
    }
