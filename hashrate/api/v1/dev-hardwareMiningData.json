@@ -317,6 +317,164 @@
 	},
 	{
 		"brand": "Nvidia",
+		"name": "RTX 4070 Ti",
+		"type": "GPU",
+		"msrp": 799,
+		"miningPerformance": [
+			{
+				"algo": "NexaPow",
+				"hash": 135.0,
+				"rate": "MH/s",
+				"watts": 210.0
+			},
+			{
+				"algo": "Ethash",
+				"hash": 65.0,
+				"rate": "MH/s",
+				"watts": 120.0
+			},
+			{
+				"algo": "Ethash4G",
+				"hash": 65.0,
+				"rate": "MH/s",
+				"watts": 120.0
+			},
+			{
+				"algo": "Zhash",
+				"hash": 135.0,
+				"rate": "H/s",
+				"watts": 160.0
+			},
+			{
+				"algo": "CNHeavy",
+				"hash": 0.0,
+				"rate": "H/s",
+				"watts": 0.0
+			},
+			{
+				"algo": "CNGPU",
+				"hash": 0.0,
+				"rate": "H/s",
+				"watts": 0.0
+			},
+			{
+				"algo": "CNFast",
+				"hash": 0.0,
+				"rate": "H/s",
+				"watts": 0.0
+			},
+			{
+				"algo": "Cortex",
+				"hash": 0,
+				"rate": "H/s",
+				"watts": 0.0
+			},
+			{
+				"algo": "Aion",
+				"hash": 0.0,
+				"rate": "H/s",
+				"watts": 0.0
+			},
+			{
+				"algo": "CuckooCycle",
+				"hash": 0.0,
+				"rate": "H/s",
+				"watts": 0.0
+			},
+			{
+				"algo": "Cuckaroo(d)29",
+				"hash": 0,
+				"rate": "H/s",
+				"watts": 0.0
+			},
+			{
+				"algo": "kHeavyHash",
+				"hash": 1000.0,
+				"rate": "MH/s",
+				"watts": 120.0
+			},
+			{
+				"algo": "Cuckatoo32",
+				"hash": 1.0,
+				"rate": "H/s",
+				"watts": 140.0
+			},
+			{
+				"algo": "Beam",
+				"hash": 0.0,
+				"rate": "H/s",
+				"watts": 0.0
+			},
+			{
+				"algo": "RandomX",
+				"hash": 0.0,
+				"rate": "H/s",
+				"watts": 0.0
+			},
+			{
+				"algo": "NeoScrypt",
+				"hash": 0.0,
+				"rate": "H/s",
+				"watts": 0.0
+			},
+			{
+				"algo": "Autolykos",
+				"hash": 130.0,
+				"rate": "MH/s",
+				"watts": 100.0
+			},
+			{
+				"algo": "Octopus",
+				"hash": 62.0,
+				"rate": "MH/s",
+				"watts": 170.0
+			},
+			{
+				"algo": "EquihashZero",
+				"hash": 0.0,
+				"rate": "H/s",
+				"watts": 0.0
+			},
+			{
+				"algo": "ZelHash",
+				"hash": 88.0,
+				"rate": "H/s",
+				"watts": 150.0
+			},
+			{
+				"algo": "KawPow",
+				"hash": 32.0,
+				"rate": "MH/s",
+				"watts": 170.0
+			},
+			{
+				"algo": "ProgPow",
+				"hash": 0.0,
+				"rate": "MH/s",
+				"watts": 0.0
+			},
+			{
+				"algo": "X25X",
+				"hash": 0.0,
+				"rate": "MH/s",
+				"watts": 0.0
+			},
+			{
+				"algo": "FiroPow",
+				"hash": 32.5,
+				"rate": "MH/s",
+				"watts": 170.0
+			},
+			{
+				"algo": "Verthash",
+				"hash": 1.0,
+				"rate": "MH/s",
+				"watts": 100.0
+			}
+		]
+	},
+	{
+		"brand": "Nvidia",
 		"name": "RTX 3090 Ti",
 		"type": "GPU",
 		"msrp": 1999.0,
