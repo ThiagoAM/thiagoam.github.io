@@ -1,10 +1,10 @@
 [
    {
-      "id":"3e009d4d-5424-4b65-9157-f6f6289d38f3",
-      "date":"2023/03/03 00:30",
+      "id":"4e92a7b4-6fb8-4e49-96f2-2d87550b1b02",
+      "date":"2023/04/12 22:50",
       "type":"newVersion",
-      "version":"1.8.6",
-      "title":"What's new in version 1.8.6",
+      "version":"2.0.0",
+      "title":"What's new in version 2.0.0",
       "freeUsersOnly": null,
       "proUsersOnly": null,
       "mainImage":{
@@ -19,7 +19,7 @@
          "emoji":null,
          "url":null
       },
-      "text":"Much improved Nexa support!",
+      "text":"We're thrilled to announce the latest update to Hashrate!\n\n* New widget: You can now display multiple miners for a single farm on your home screen. This new widget provides even more flexibility for monitoring your mining rigs.\n* Improved interface: We've made several improvements to the app's interface, making it more user-friendly and intuitive than ever before.\n* Preferred tab selector: With our new tab selector, you can now choose which tab you want to open by default when you launch the app.\n* Added K1 Pool support: We've added support for the popular K1 Pool, giving you even more options for tracking your mining activities.\n* Bug fixes: We've fixed several bugs and made performance enhancements to ensure the app runs smoothly.\n\nWith these new features, Hashrate is more powerful than ever before. Update now and experience the best mining app on the market!",
       "externalUrl":{
          "prefixText":null,
          "title":null,
@@ -28,11 +28,11 @@
       }
    },
    {
-      "id":"32007810-dc6d-412e-9355-3a5654ad07fc",
-      "date":"2023/03/03 00:25",
+      "id":"5d5c55e5-5a79-49f9-9d80-893c2c7f44e2",
+      "date":"2023/04/12 22:50",
       "type":"regular",
       "version":null,
-      "title":"Please, rate this app!",
+      "title":"Your Feedback Matters: Please Consider Leaving a Review!",
       "freeUsersOnly": null,
       "proUsersOnly": null,
       "mainImage":{         
@@ -41,7 +41,7 @@
          "emoji":"👍",
          "url":null
       },
-      "text":"If you're feeling generous with your time, please support me by leaving a nice review in the App Store. As an independent developer, it means the world to me. Thank you!",
+      "text":"If you enjoy using Hashrate, please consider leaving a review in the App Store. As an independent developer, positive feedback means the world to me and helps me continue to improve the app. Thank you for your support!",
       "externalUrl":{
          "prefixText":"Enjoying this app?",
          "title":"⭐️ Review Hashrate! ⭐️",
