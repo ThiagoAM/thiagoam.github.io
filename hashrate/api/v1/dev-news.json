@@ -19,7 +19,7 @@
          "emoji":null,
          "url":null
       },
-      "text":"Iron Fish support added for the following pools:\n* Kryptex\n* HeroMiners\n* Flexpool\n* Ezil\n* F2Pool",
+      "text":"Iron Fish support added for the following pools:\n\n* Kryptex\n* HeroMiners\n* Flexpool\n* Ezil\n* F2Pool\n\nAlso:\n\n* Kaspa support for 2Miners and F2Pool\n* ZIL support for K1 Pool\n* ETHW and ETHF support for Crazypool",
       "externalUrl":{
          "prefixText":null,
          "title":null,
