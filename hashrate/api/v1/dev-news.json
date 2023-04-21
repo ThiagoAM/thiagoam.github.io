@@ -1,5 +1,55 @@
 [
    {
+      "id":"bac820af-d81d-422e-88bb-aeef6d171f83",
+      "date":"2023/04/21 05:50",
+      "type":"newVersion",
+      "version":"2.0.2",
+      "title":"What's new in version 2.0.2",
+      "freeUsersOnly": null,
+      "proUsersOnly": null,
+      "mainImage":{
+         "systemName":null,
+         "assetName":"ironFishLogo",
+         "emoji":null,
+         "url":null
+      },
+      "bigImage": {
+         "systemName":null,
+         "assetName":null,
+         "emoji":null,
+         "url":null
+      },
+      "text":"Iron Fish support added for the following pools:\n* Kryptex\n* HeroMiners\n* Flexpool\n* Ezil\n* F2Pool",
+      "externalUrl":{
+         "prefixText":null,
+         "title":null,
+         "url":null,
+         "opensPurchaseScreen":null
+      }
+   },
+   {
+      "id":"5d5c55e5-5a79-49f9-9d80-893c2c7f44e2",
+      "date":"2023/04/21 05:30",
+      "type":"regular",
+      "version":null,
+      "title":"Your Feedback Matters: Please Consider Leaving a Review!",
+      "freeUsersOnly": null,
+      "proUsersOnly": null,
+      "mainImage":{         
+         "systemName":null,
+         "assetName":null,
+         "emoji":"👍",
+         "url":null
+      },
+      "text":"If you enjoy using Hashrate, please consider leaving a review in the App Store. As an independent developer, positive feedback means the world to me and helps me continue to improve the app. Thank you for your support!",
+      "externalUrl":{
+         "prefixText":"Enjoying this app?",
+         "title":"⭐️ Review Hashrate! ⭐️",
+         "url":"itms-apps://itunes.apple.com/app/id1589030959?mt=8&action=write-review",
+         "opensPurchaseScreen":null
+      }
+   },
+   {
       "id":"9719a28b-cd01-4396-a954-8f710e81916c",
       "date":"2023/04/17 10:00",
       "type":"newVersion",
@@ -24,28 +74,6 @@
          "prefixText":null,
          "title":null,
          "url":null,
-         "opensPurchaseScreen":null
-      }
-   },
-   {
-      "id":"5d5c55e5-5a79-49f9-9d80-893c2c7f44e2",
-      "date":"2023/04/12 22:50",
-      "type":"regular",
-      "version":null,
-      "title":"Your Feedback Matters: Please Consider Leaving a Review!",
-      "freeUsersOnly": null,
-      "proUsersOnly": null,
-      "mainImage":{         
-         "systemName":null,
-         "assetName":null,
-         "emoji":"👍",
-         "url":null
-      },
-      "text":"If you enjoy using Hashrate, please consider leaving a review in the App Store. As an independent developer, positive feedback means the world to me and helps me continue to improve the app. Thank you for your support!",
-      "externalUrl":{
-         "prefixText":"Enjoying this app?",
-         "title":"⭐️ Review Hashrate! ⭐️",
-         "url":"itms-apps://itunes.apple.com/app/id1589030959?mt=8&action=write-review",
          "opensPurchaseScreen":null
       }
    },
