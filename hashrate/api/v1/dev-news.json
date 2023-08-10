@@ -1,5 +1,55 @@
 [
    {
+      "id":"56dc8ed4-8f1b-422d-91c1-fefa2d7963fa",
+      "date":"2023/08/09 23:30",
+      "type":"newVersion",
+      "version":"2.0.4",
+      "title":"What's new in version 2.0.4",
+      "freeUsersOnly": null,
+      "proUsersOnly": null,
+      "mainImage":{
+         "systemName":null,
+         "assetName":"dynexLogo",
+         "emoji":null,
+         "url":"https://github.com/ThiagoAM/thiagoam.github.io/raw/master/hashrate/images/dynex-logo.png"
+      },
+      "bigImage": {
+         "systemName":null,
+         "assetName":null,
+         "emoji":null,
+         "url":null
+      },
+      "text":"* EkaPool + Dynex support!\n* Hiveon Pool now supports Kaspa and Bitcoin\n* K1 Pool now supports Kaspa, ETHW and RXD\n* Nanopool now supports Kaspa and IronFish\n* 2Miners now supports Nexa\n* Bug fixes\n* Performance improvements",
+      "externalUrl":{
+         "prefixText":null,
+         "title":null,
+         "url":null,
+         "opensPurchaseScreen":null
+      }
+   },
+   {
+      "id":"469d847e-8ae8-4864-b06d-7af0661c6f8e",
+      "date":"2023/08/09 23:25",
+      "type":"regular",
+      "version":null,
+      "title":"Your Feedback Matters: Please Consider Leaving a Review!",
+      "freeUsersOnly": null,
+      "proUsersOnly": null,
+      "mainImage":{         
+         "systemName":null,
+         "assetName":null,
+         "emoji":"👍",
+         "url":null
+      },
+      "text":"If you enjoy using Hashrate, please consider leaving a review in the App Store. As an independent developer, positive feedback means the world to me and helps me continue to improve the app. Thank you for your support!",
+      "externalUrl":{
+         "prefixText":"Enjoying this app?",
+         "title":"⭐️ Review Hashrate! ⭐️",
+         "url":"itms-apps://itunes.apple.com/app/id1589030959?mt=8&action=write-review",
+         "opensPurchaseScreen":null
+      }
+   },
+   {
       "id":"bac820af-d81d-422e-88bb-aeef6d171f83",
       "date":"2023/04/21 05:50",
       "type":"newVersion",
@@ -26,29 +76,7 @@
          "url":null,
          "opensPurchaseScreen":null
       }
-   },
-   {
-      "id":"5d5c55e5-5a79-49f9-9d80-893c2c7f44e2",
-      "date":"2023/04/21 05:30",
-      "type":"regular",
-      "version":null,
-      "title":"Your Feedback Matters: Please Consider Leaving a Review!",
-      "freeUsersOnly": null,
-      "proUsersOnly": null,
-      "mainImage":{         
-         "systemName":null,
-         "assetName":null,
-         "emoji":"👍",
-         "url":null
-      },
-      "text":"If you enjoy using Hashrate, please consider leaving a review in the App Store. As an independent developer, positive feedback means the world to me and helps me continue to improve the app. Thank you for your support!",
-      "externalUrl":{
-         "prefixText":"Enjoying this app?",
-         "title":"⭐️ Review Hashrate! ⭐️",
-         "url":"itms-apps://itunes.apple.com/app/id1589030959?mt=8&action=write-review",
-         "opensPurchaseScreen":null
-      }
-   },
+   },   
    {
       "id":"9719a28b-cd01-4396-a954-8f710e81916c",
       "date":"2023/04/17 10:00",
