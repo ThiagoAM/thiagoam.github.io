@@ -8,7 +8,7 @@
 			{
 				"algo": "DynexSolve",
 				"hash": 9.30,
-				"rate": "MH/s",
+				"rate": "KH/s",
 				"watts": 250.0
 			},
 			{
@@ -178,7 +178,7 @@
 			{
 				"algo": "DynexSolve",
 				"hash": 6.90,
-				"rate": "MH/s",
+				"rate": "KH/s",
 				"watts": 180.0
 			},
 			{
@@ -342,7 +342,7 @@
 			{
 				"algo": "DynexSolve",
 				"hash": 5.10,
-				"rate": "MH/s",
+				"rate": "KH/s",
 				"watts": 120.0
 			},
 			{
@@ -506,7 +506,7 @@
 			{
 				"algo": "DynexSolve",
 				"hash": 4.40,
-				"rate": "MH/s",
+				"rate": "KH/s",
 				"watts": 120.0
 			},
 			{
@@ -670,7 +670,7 @@
 			{
 				"algo": "DynexSolve",
 				"hash": 3.20,
-				"rate": "MH/s",
+				"rate": "KH/s",
 				"watts": 90.0
 			},
 			{
@@ -834,7 +834,7 @@
 			{
 				"algo": "DynexSolve",
 				"hash": 5.50,
-				"rate": "MH/s",
+				"rate": "KH/s",
 				"watts": 160.0
 			},
 			{
@@ -998,7 +998,7 @@
 			{
 				"algo": "DynexSolve",
 				"hash": 5.30,
-				"rate": "MH/s",
+				"rate": "KH/s",
 				"watts": 190.0
 			},
 			{
@@ -1162,7 +1162,7 @@
 			{
 				"algo": "DynexSolve",
 				"hash": 4.60,
-				"rate": "MH/s",
+				"rate": "KH/s",
 				"watts": 170.0
 			},
 			{
@@ -1326,7 +1326,7 @@
 			{
 				"algo": "DynexSolve",
 				"hash": 3.80,
-				"rate": "MH/s",
+				"rate": "KH/s",
 				"watts": 160.0
 			},
 			{
@@ -1490,7 +1490,7 @@
 			{
 				"algo": "DynexSolve",
 				"hash": 3.20,
-				"rate": "MH/s",
+				"rate": "KH/s",
 				"watts": 110.0
 			},
 			{
@@ -1654,7 +1654,7 @@
 			{
 				"algo": "DynexSolve",
 				"hash": 3.10,
-				"rate": "MH/s",
+				"rate": "KH/s",
 				"watts": 100.0
 			},
 			{
@@ -1818,7 +1818,7 @@
 			{
 				"algo": "DynexSolve",
 				"hash": 3.0,
-				"rate": "MH/s",
+				"rate": "KH/s",
 				"watts": 90.0
 			},
 			{
@@ -1982,7 +1982,7 @@
 			{
 				"algo": "DynexSolve",
 				"hash": 2.30,
-				"rate": "MH/s",
+				"rate": "KH/s",
 				"watts": 80.0
 			},
 			{
@@ -2146,7 +2146,7 @@
 			{
 				"algo": "DynexSolve",
 				"hash": 7.20,
-				"rate": "MH/s",
+				"rate": "KH/s",
 				"watts": 140.0
 			},
 			{
@@ -2310,7 +2310,7 @@
 			{
 				"algo": "DynexSolve",
 				"hash": 6.80,
-				"rate": "MH/s",
+				"rate": "KH/s",
 				"watts": 130.0
 			},
 			{
@@ -2474,7 +2474,7 @@
 			{
 				"algo": "DynexSolve",
 				"hash": 6.30,
-				"rate": "MH/s",
+				"rate": "KH/s",
 				"watts": 130.0
 			},
 			{
@@ -2638,7 +2638,7 @@
 			{
 				"algo": "DynexSolve",
 				"hash": 4.30,
-				"rate": "MH/s",
+				"rate": "KH/s",
 				"watts": 90.0
 			},
 			{
@@ -2802,7 +2802,7 @@
 			{
 				"algo": "DynexSolve",
 				"hash": 2.80,
-				"rate": "MH/s",
+				"rate": "KH/s",
 				"watts": 60.0
 			},
 			{
@@ -2966,7 +2966,7 @@
 			{
 				"algo": "DynexSolve",
 				"hash": 2.80,
-				"rate": "MH/s",
+				"rate": "KH/s",
 				"watts": 60.0
 			},
 			{
@@ -3130,7 +3130,7 @@
 			{
 				"algo": "DynexSolve",
 				"hash": 4.50,
-				"rate": "MH/s",
+				"rate": "KH/s",
 				"watts": 180.0
 			},
 			{
@@ -3294,7 +3294,7 @@
 			{
 				"algo": "DynexSolve",
 				"hash": 3.40,
-				"rate": "MH/s",
+				"rate": "KH/s",
 				"watts": 115.0
 			},
 			{
@@ -3458,7 +3458,7 @@
 			{
 				"algo": "DynexSolve",
 				"hash": 2.90,
-				"rate": "MH/s",
+				"rate": "KH/s",
 				"watts": 100.0
 			},
 			{
@@ -3622,7 +3622,7 @@
 			{
 				"algo": "DynexSolve",
 				"hash": 2.30,
-				"rate": "MH/s",
+				"rate": "KH/s",
 				"watts": 90.0
 			},
 			{
@@ -3786,7 +3786,7 @@
 			{
 				"algo": "DynexSolve",
 				"hash": 1.90,
-				"rate": "MH/s",
+				"rate": "KH/s",
 				"watts": 60.0
 			},
 			{
@@ -3950,7 +3950,7 @@
 			{
 				"algo": "DynexSolve",
 				"hash": 1.80,
-				"rate": "MH/s",
+				"rate": "KH/s",
 				"watts": 70.0
 			},
 			{
@@ -4114,7 +4114,7 @@
 			{
 				"algo": "DynexSolve",
 				"hash": 1.60,
-				"rate": "MH/s",
+				"rate": "KH/s",
 				"watts": 50.0
 			},
 			{
@@ -4278,7 +4278,7 @@
 			{
 				"algo": "DynexSolve",
 				"hash": 3.20,
-				"rate": "MH/s",
+				"rate": "KH/s",
 				"watts": 120.0
 			},
 			{
@@ -4436,7 +4436,7 @@
 			{
 				"algo": "DynexSolve",
 				"hash": 2.90,
-				"rate": "MH/s",
+				"rate": "KH/s",
 				"watts": 110.0
 			},
 			{
@@ -4594,7 +4594,7 @@
 			{
 				"algo": "DynexSolve",
 				"hash": 2.40,
-				"rate": "MH/s",
+				"rate": "KH/s",
 				"watts": 80.0
 			},
 			{
@@ -4752,7 +4752,7 @@
 			{
 				"algo": "DynexSolve",
 				"hash": 1.50,
-				"rate": "MH/s",
+				"rate": "KH/s",
 				"watts": 50.0
 			},
 			{
@@ -4910,7 +4910,7 @@
 			{
 				"algo": "DynexSolve",
 				"hash": 0.0,
-				"rate": "MH/s",
+				"rate": "KH/s",
 				"watts": 0.0
 			},
 			{
@@ -5068,7 +5068,7 @@
 			{
 				"algo": "DynexSolve",
 				"hash": 4.40,
-				"rate": "MH/s",
+				"rate": "KH/s",
 				"watts": 160.0
 			},
 			{
@@ -5226,7 +5226,7 @@
 			{
 				"algo": "DynexSolve",
 				"hash": 3.70,
-				"rate": "MH/s",
+				"rate": "KH/s",
 				"watts": 150.0
 			},
 			{
@@ -5384,7 +5384,7 @@
 			{
 				"algo": "DynexSolve",
 				"hash": 1.90,
-				"rate": "MH/s",
+				"rate": "KH/s",
 				"watts": 110.0
 			},
 			{
@@ -5548,7 +5548,7 @@
 			{
 				"algo": "DynexSolve",
 				"hash": 0.0,
-				"rate": "MH/s",
+				"rate": "KH/s",
 				"watts": 0.0
 			},
 			{
