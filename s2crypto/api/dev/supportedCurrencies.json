@@ -2,276 +2,331 @@
    {
       "flagEmoji":"🇦🇪",
       "prefix":"AED",
-      "ticker":"AED"
+      "ticker":"AED",
+      "name":"درهم إماراتي"
    },
    {
       "flagEmoji":"🇦🇷",
       "prefix":"$",
-      "ticker":"ARS"
+      "ticker":"ARS",
+      "name":"Peso argentino"
    },
    {
       "flagEmoji":"🇦🇺",
       "prefix":"$",
-      "ticker":"AUD"
+      "ticker":"AUD",
+      "name":"Dólar australiano"
    },
    {
       "flagEmoji":"🇧🇬",
       "prefix":"лв",
-      "ticker":"BGN"
+      "ticker":"BGN",
+      "name":"Български лев"
    },
    {
       "flagEmoji":"🇧🇴",
       "prefix":"Bs",
-      "ticker":"BOB"
+      "ticker":"BOB",
+      "name":"Boliviano"
    },
    {
       "flagEmoji":"🇧🇷",
       "prefix":"R$",
-      "ticker":"BRL"
+      "ticker":"BRL",
+      "name":"Real brasileiro"
    },
    {
       "flagEmoji":"🇧🇾",
       "prefix":"Br",
-      "ticker":"BYN"
+      "ticker":"BYN",
+      "name":"Белорусский рубль"
    },
    {
       "flagEmoji":"🇨🇦",
       "prefix":"$",
-      "ticker":"CAD"
+      "ticker":"CAD",
+      "name":"Dollar canadien"
    },
    {
       "flagEmoji":"🇨🇭",
       "prefix":"CHF",
-      "ticker":"CHF"
+      "ticker":"CHF",
+      "name":"Franc suisse"
    },
    {
       "flagEmoji":"🇨🇱",
       "prefix":"$",
-      "ticker":"CLP"
+      "ticker":"CLP",
+      "name":"Peso chileno"
    },
    {
       "flagEmoji":"🇨🇳",
       "prefix":"¥",
-      "ticker":"CNY"
+      "ticker":"CNY",
+      "name":"人民币"
    },
    {
       "flagEmoji":"🇨🇴",
       "prefix":"$",
-      "ticker":"COP"
+      "ticker":"COP",
+      "name":"Peso colombiano"
    },
    {
       "flagEmoji":"🇨🇺",
       "prefix":"$MN",
-      "ticker":"CUP"
+      "ticker":"CUP",
+      "name":"Peso cubano"
    },
    {
       "flagEmoji":"🇨🇿",
       "prefix":"Kč",
-      "ticker":"CZK"
+      "ticker":"CZK",
+      "name":"Česká koruna"
    },
    {
       "flagEmoji":"🇩🇰",
       "prefix":"kr",
-      "ticker":"DKK"
+      "ticker":"DKK",
+      "name":"Dansk krone"
    },
    {
       "flagEmoji":"🇩🇴",
       "prefix":"RD$",
-      "ticker":"DOP"
+      "ticker":"DOP",
+      "name":"Peso dominicano"
    },
    {
       "flagEmoji":"🇪🇬",
       "prefix":"E£",
-      "ticker":"EGP"
+      "ticker":"EGP",
+      "name":"جنيه مصري"
    },
    {
       "flagEmoji":"🇪🇺",
       "prefix":"€",
-      "ticker":"EUR"
+      "ticker":"EUR",
+      "name":"Euro"
    },
    {
       "flagEmoji":"🇬🇧",
       "prefix":"£",
-      "ticker":"GBP"
+      "ticker":"GBP",
+      "name":"Pound sterling"
    },
    {
       "flagEmoji":"🇬🇹",
       "prefix":"Q",
-      "ticker":"GTQ"
+      "ticker":"GTQ",
+      "name":"Quetzal guatemalteco"
    },
    {
       "flagEmoji":"🇭🇰",
       "prefix":"$",
-      "ticker":"HKD"
+      "ticker":"HKD",
+      "name":"港元"
    },
    {
       "flagEmoji":"🇭🇷",
       "prefix":"kn",
-      "ticker":"HRK"
+      "ticker":"HRK",
+      "name":"Hrvatska kuna"
    },
    {
       "flagEmoji":"🇭🇺",
       "prefix":"Ft",
-      "ticker":"HUF"
+      "ticker":"HUF",
+      "name":"Magyar forint"
    },
    {
       "flagEmoji":"🇮🇩",
       "prefix":"Rp",
-      "ticker":"IDR"
+      "ticker":"IDR",
+      "name":"Rupiah Indonesia"
    },
    {
       "flagEmoji":"🇮🇱",
       "prefix":"₪",
-      "ticker":"ILS"
+      "ticker":"ILS",
+      "name":"שקל חדש"
    },
    {
       "flagEmoji":"🇮🇳",
       "prefix":"₹",
-      "ticker":"INR"
+      "ticker":"INR",
+      "name":"रुपया"
    },
    {
       "flagEmoji":"🇮🇷",
       "prefix":"﷼",
-      "ticker":"IRR"
+      "ticker":"IRR",
+      "name":"ریال ایران"
    },
    {
       "flagEmoji":"🇮🇸",
       "prefix":"kr",
-      "ticker":"ISK"
+      "ticker":"ISK",
+      "name":"Íslensk króna"
    },
    {
       "flagEmoji":"🇯🇵",
       "prefix":"¥",
-      "ticker":"JPY"
+      "ticker":"JPY",
+      "name":"円"
    },
    {
       "flagEmoji":"🇰🇵",
       "prefix":"₩",
-      "ticker":"KPW"
+      "ticker":"KPW",
+      "name":"조선민주주의인민공화국 원"
    },
    {
       "flagEmoji":"🇰🇷",
       "prefix":"₩",
-      "ticker":"KRW"
+      "ticker":"KRW",
+      "name":"대한민국 원"
    },
    {
       "flagEmoji":"🇰🇿",
       "prefix":"₸",
-      "ticker":"KZT"
+      "ticker":"KZT",
+      "name":"Қазақстан теңгесі"
    },
    {
       "flagEmoji":"🇲🇳",
       "prefix":"₮",
-      "ticker":"MNT"
+      "ticker":"MNT",
+      "name":"Монгол төгрөг"
    },
    {
       "flagEmoji":"🇲🇽",
       "prefix":"$",
-      "ticker":"MXN"
+      "ticker":"MXN",
+      "name":"Peso mexicano"
    },
    {
       "flagEmoji":"🇲🇾",
       "prefix":"RM",
-      "ticker":"MYR"
+      "ticker":"MYR",
+      "name":"Ringgit Malaysia"
    },
    {
       "flagEmoji":"🇳🇴",
       "prefix":"kr",
-      "ticker":"NOK"
+      "ticker":"NOK",
+      "name":"Norsk krone"
    },
    {
       "flagEmoji":"🇳🇿",
       "prefix":"$",
-      "ticker":"NZD"
+      "ticker":"NZD",
+      "name":"New Zealand dollar"
    },
    {
       "flagEmoji":"🇵🇪",
       "prefix":"S\/",
-      "ticker":"PEN"
+      "ticker":"PEN",
+      "name":"Sol peruano"
    },
    {
       "flagEmoji":"🇵🇭",
       "prefix":"₱",
-      "ticker":"PHP"
+      "ticker":"PHP",
+      "name":"Piso Pilipino"
    },
    {
       "flagEmoji":"🇵🇱",
       "prefix":"zł",
-      "ticker":"PLN"
+      "ticker":"PLN",
+      "name":"Złoty polski"
    },
    {
       "flagEmoji":"🇵🇾",
       "prefix":"₲",
-      "ticker":"PYG"
+      "ticker":"PYG",
+      "name":"Guaraní paraguayo"
    },
    {
       "flagEmoji":"🇷🇴",
       "prefix":"lei",
-      "ticker":"RON"
+      "ticker":"RON",
+      "name":"Leu românesc"
    },
    {
       "flagEmoji":"🇷🇺",
       "prefix":"₽",
-      "ticker":"RUB"
+      "ticker":"RUB",
+      "name":"Российский рубль"
    },
    {
       "flagEmoji":"🇸🇪",
       "prefix":"kr",
-      "ticker":"SEK"
+      "ticker":"SEK",
+      "name":"Svensk krona"
    },
    {
       "flagEmoji":"🇸🇬",
       "prefix":"$",
-      "ticker":"SGD"
+      "ticker":"SGD",
+      "name":"Singapore dollar"
    },
    {
       "flagEmoji":"🇹🇭",
       "prefix":"฿",
-      "ticker":"THB"
+      "ticker":"THB",
+      "name":"บาท"
    },
    {
       "flagEmoji":"🇹🇷",
       "prefix":"₺",
-      "ticker":"TRY"
+      "ticker":"TRY",
+      "name":"Türk lirası"
    },
    {
       "flagEmoji":"🇹🇼",
       "prefix":"NT$",
-      "ticker":"TWD"
+      "ticker":"TWD",
+      "name":"新台幣"
    },
    {
       "flagEmoji":"🇺🇦",
       "prefix":"₴",
-      "ticker":"UAH"
+      "ticker":"UAH",
+      "name":"Українська гривня"
    },
    {
       "flagEmoji":"🇺🇸",
       "prefix":"$",
-      "ticker":"USD"
+      "ticker":"USD",
+      "name":"US dollar"
    },
    {
       "flagEmoji":"🇺🇾",
       "prefix":"$",
-      "ticker":"UYU"
+      "ticker":"UYU",
+      "name":"Peso uruguayo"
    },
    {
       "flagEmoji":"🇻🇪",
       "prefix":"Bs.F",
-      "ticker":"VEF"
+      "ticker":"VEF",
+      "name":"Bolívar fuerte"
    },
    {
       "flagEmoji":"🇻🇳",
       "prefix":"₫",
-      "ticker":"VND"
+      "ticker":"VND",
+      "name":"Đồng Việt Nam"
    },
    {
       "flagEmoji":"🇾🇪",
       "prefix":"ر.ي, ﷼",
-      "ticker":"YER"
+      "ticker":"YER",
+      "name":"ريال يمني"
    },
    {
       "flagEmoji":"🇿🇦",
       "prefix":"R",
-      "ticker":"ZAR"
+      "ticker":"ZAR",
+      "name":"Rand"
    }
 ]
