@@ -1,0 +1,191 @@
+[
+  {
+    "id": "diarista001",
+    "nome": "Joana Santos",
+    "avaliacao": 5.0,
+    "url_foto_perfil": "https://teste.com/imagem.png",
+    "cidade": "Brasília",
+    "uf": "DF",
+    "sobre": "Com uma habilidade incrível para organizar espaços, Joana traz harmonia e limpeza a cada canto da casa. Apaixonada por detalhes, ela não deixa nenhum cantinho sem brilho.",
+    "comentarios": [
+      {
+        "id": "comentario001",
+        "nome_comentador": "Thiago",
+        "comentario": "Joana transformou meu apartamento! Nunca vi alguém tão dedicada e atenciosa com a limpeza."
+      },
+      {
+        "id": "comentario002",
+        "nome_comentador": "Bianca",
+        "comentario": "Incrível como Joana organiza tudo. Ela tem um talento especial para deixar tudo impecável!"
+      }
+    ]
+  },
+  {
+    "id": "diarista002",
+    "nome": "Marina Guedes",
+    "avaliacao": 4.3,
+    "url_foto_perfil": "https://teste.com/imagem.png",
+    "cidade": "São Paulo",
+    "uf": "SP",
+    "sobre": "Marina é uma especialista em limpeza sustentável. Utiliza produtos ecológicos e sempre tem dicas úteis sobre como manter a casa limpa e saudável.",
+    "comentarios": [
+      {
+        "id": "comentario003",
+        "nome_comentador": "Thiago",
+        "comentario": "A atenção da Marina com o meio ambiente é admirável. Ela limpa a casa e ainda cuida do planeta!"
+      },
+      {
+        "id": "comentario004",
+        "nome_comentador": "Bianca",
+        "comentario": "Amei as dicas de limpeza sustentável da Marina. Além de limpar minha casa, ela me ensinou muito!"
+      }
+    ]
+  },
+  {
+    "id": "diarista003",
+    "nome": "Carlos Eduardo",
+    "avaliacao": 4.8,
+    "url_foto_perfil": "https://teste.com/imagem.png",
+    "cidade": "Curitiba",
+    "uf": "PR",
+    "sobre": "Carlos é conhecido por sua rapidez e eficiência. Limpa grandes áreas em tempo recorde, mantendo sempre a qualidade.",
+    "comentarios": [
+      {
+        "id": "comentario005",
+        "nome_comentador": "Pedro",
+        "comentario": "O Carlos é muito rápido e eficiente. Fiquei impressionado com a rapidez e qualidade do seu trabalho."
+      },
+      {
+        "id": "comentario006",
+        "nome_comentador": "Laura",
+        "comentario": "Carlos deixou minha casa brilhando em pouquíssimo tempo. Super recomendo!"
+      }
+    ]
+  },
+  {
+    "id": "diarista004",
+    "nome": "Camila Oliveira",
+    "avaliacao": 4.9,
+    "url_foto_perfil": "https://teste.com/imagem.png",
+    "cidade": "Rio de Janeiro",
+    "uf": "RJ",
+    "sobre": "Camila é apaixonada por criar um ambiente aconchegante. Sua atenção aos detalhes e sua simpatia tornam a limpeza uma experiência agradável.",
+    "comentarios": [
+      {
+        "id": "comentario007",
+        "nome_comentador": "Rafael",
+        "comentario": "Camila é ótima! Ela não só limpa, mas também traz um sorriso ao meu rosto com sua simpatia."
+      },
+      {
+        "id": "comentario008",
+        "nome_comentador": "Amanda",
+        "comentario": "Minha casa nunca pareceu tão acolhedora como depois que Camila a limpou. Incrível!"
+      }
+    ]
+  },
+  {
+    "id": "diarista005",
+    "nome": "Lucas Silva",
+    "avaliacao": 4.7,
+    "url_foto_perfil": "https://teste.com/imagem.png",
+    "cidade": "Salvador",
+    "uf": "BA",
+    "sobre": "Lucas é especializado em limpeza profunda. Ele garante que sua casa fique impecável de cima a baixo, sem deixar nada para trás.",
+    "comentarios": [
+      {
+        "id": "comentario009",
+        "nome_comentador": "Fernanda",
+        "comentario": "Lucas fez um trabalho incrível. Minha casa está brilhando como nunca!"
+      },
+      {
+        "id": "comentario010",
+        "nome_comentador": "Rodrigo",
+        "comentario": "Nunca vi alguém tão minucioso na limpeza. Lucas é o melhor!"
+      }
+    ]
+  },
+  {
+    "id": "diarista006",
+    "nome": "Mariana Almeida",
+    "avaliacao": 4.5,
+    "url_foto_perfil": "https://teste.com/imagem.png",
+    "cidade": "Fortaleza",
+    "uf": "CE",
+    "sobre": "Mariana é uma verdadeira amante dos animais. Ela não apenas limpa sua casa, mas também se preocupa com o bem-estar dos seus bichinhos de estimação.",
+        "comentarios": [
+      {
+        "id": "comentario013",
+        "nome_comentador": "Alexandre",
+        "comentario": "Eduarda é uma organizadora nata. Minha casa nunca esteve tão bem arrumada e prática."
+      },
+      {
+        "id": "comentario014",
+        "nome_comentador": "Isabela",
+        "comentario": "Eduarda é incrível! Ela deixou minha casa tão organizada que até meus filhos ficaram impressionados."
+      }
+    ]
+  },
+  {
+    "id": "diarista008",
+    "nome": "Paulo Rodrigues",
+    "avaliacao": 4.8,
+    "url_foto_perfil": "https://teste.com/imagem.png",
+    "cidade": "Porto Alegre",
+    "uf": "RS",
+    "sobre": "Paulo é mestre em limpeza profissional de escritórios. Ele mantém seu ambiente de trabalho impecável para garantir uma atmosfera produtiva.",
+    "comentarios": [
+      {
+        "id": "comentario015",
+        "nome_comentador": "Mariana",
+        "comentario": "Paulo é o nosso segredo para manter o escritório sempre organizado e limpo. Ele é essencial para o nosso sucesso."
+      },
+      {
+        "id": "comentario016",
+        "nome_comentador": "Luciana",
+        "comentario": "Paulo faz um trabalho incrível. É um alívio chegar no escritório e encontrar tudo em ordem."
+      }
+    ]
+  },
+  {
+    "id": "diarista009",
+    "nome": "Isabel Oliveira",
+    "avaliacao": 4.9,
+    "url_foto_perfil": "https://teste.com/imagem.png",
+    "cidade": "Belém",
+    "uf": "PA",
+    "sobre": "Isabel é uma perfeccionista. Ela garante que cada canto da sua casa esteja limpo e organizado como nenhum outro.",
+    "comentarios": [
+      {
+        "id": "comentario017",
+        "nome_comentador": "Roberto",
+        "comentario": "Isabel é incansável na limpeza. Minha casa nunca esteve tão impecável."
+      },
+      {
+        "id": "comentario018",
+        "nome_comentador": "Renata",
+        "comentario": "Isabel é minha diarista favorita. Ela deixa tudo tão perfeito que parece um hotel cinco estrelas."
+      }
+    ]
+  },
+  {
+    "id": "diarista010",
+    "nome": "Gustavo Ferreira",
+    "avaliacao": 4.7,
+    "url_foto_perfil": "https://teste.com/imagem.png",
+    "cidade": "Florianópolis",
+    "uf": "SC",
+    "sobre": "Gustavo é apaixonado por criar ambientes acolhedores. Sua atenção aos detalhes e habilidades culinárias surpreendem seus clientes.",
+    "comentarios": [
+      {
+        "id": "comentario019",
+        "nome_comentador": "Marina",
+        "comentario": "Gustavo não só deixou minha casa impecável, mas também preparou uma refeição deliciosa. Ele é incrível!"
+      },
+      {
+        "id": "comentario020",
+        "nome_comentador": "André",
+        "comentario": "Gustavo é um verdadeiro talento. Minha casa está linda e a comida estava divina."
+      }
+    ]
+  },
+]
