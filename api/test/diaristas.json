@@ -24,7 +24,7 @@
     "id": "diarista002",
     "nome": "Marina Guedes",
     "avaliacao": 4.3,
-    "url_foto_perfil": "https://raw.githubusercontent.com/ThiagoAM/thiagoam.github.io/master/api/test/images/diarista_1.jpg",
+    "url_foto_perfil": "https://raw.githubusercontent.com/ThiagoAM/thiagoam.github.io/master/api/test/images/diarista_2.png",
     "cidade": "São Paulo",
     "uf": "SP",
     "sobre": "Marina é uma especialista em limpeza sustentável. Utiliza produtos ecológicos e sempre tem dicas úteis sobre como manter a casa limpa e saudável.",
@@ -45,7 +45,7 @@
     "id": "diarista003",
     "nome": "Carlos Eduardo",
     "avaliacao": 4.8,
-    "url_foto_perfil": "https://raw.githubusercontent.com/ThiagoAM/thiagoam.github.io/master/api/test/images/diarista_1.jpg",
+    "url_foto_perfil": "https://raw.githubusercontent.com/ThiagoAM/thiagoam.github.io/master/api/test/images/diarista_3.png",
     "cidade": "Curitiba",
     "uf": "PR",
     "sobre": "Carlos é conhecido por sua rapidez e eficiência. Limpa grandes áreas em tempo recorde, mantendo sempre a qualidade.",
@@ -66,7 +66,7 @@
     "id": "diarista004",
     "nome": "Camila Oliveira",
     "avaliacao": 4.9,
-    "url_foto_perfil": "https://raw.githubusercontent.com/ThiagoAM/thiagoam.github.io/master/api/test/images/diarista_1.jpg",
+    "url_foto_perfil": "https://raw.githubusercontent.com/ThiagoAM/thiagoam.github.io/master/api/test/images/diarista_4.png",
     "cidade": "Rio de Janeiro",
     "uf": "RJ",
     "sobre": "Camila é apaixonada por criar um ambiente aconchegante. Sua atenção aos detalhes e sua simpatia tornam a limpeza uma experiência agradável.",
@@ -87,7 +87,7 @@
     "id": "diarista005",
     "nome": "Lucas Silva",
     "avaliacao": 4.7,
-    "url_foto_perfil": "https://raw.githubusercontent.com/ThiagoAM/thiagoam.github.io/master/api/test/images/diarista_1.jpg",
+    "url_foto_perfil": "https://raw.githubusercontent.com/ThiagoAM/thiagoam.github.io/master/api/test/images/diarista_5.png",
     "cidade": "Salvador",
     "uf": "BA",
     "sobre": "Lucas é especializado em limpeza profunda. Ele garante que sua casa fique impecável de cima a baixo, sem deixar nada para trás.",
@@ -108,7 +108,7 @@
     "id": "diarista006",
     "nome": "Mariana Almeida",
     "avaliacao": 4.5,
-    "url_foto_perfil": "https://raw.githubusercontent.com/ThiagoAM/thiagoam.github.io/master/api/test/images/diarista_1.jpg",
+    "url_foto_perfil": "https://raw.githubusercontent.com/ThiagoAM/thiagoam.github.io/master/api/test/images/diarista_6.png",
     "cidade": "Fortaleza",
     "uf": "CE",
     "sobre": "Mariana é uma verdadeira amante dos animais. Ela não apenas limpa sua casa, mas também se preocupa com o bem-estar dos seus bichinhos de estimação.",
@@ -129,7 +129,7 @@
     "id": "diarista008",
     "nome": "Paulo Rodrigues",
     "avaliacao": 4.8,
-    "url_foto_perfil": "https://raw.githubusercontent.com/ThiagoAM/thiagoam.github.io/master/api/test/images/diarista_1.jpg",
+    "url_foto_perfil": "https://raw.githubusercontent.com/ThiagoAM/thiagoam.github.io/master/api/test/images/diarista_7.png",
     "cidade": "Porto Alegre",
     "uf": "RS",
     "sobre": "Paulo é mestre em limpeza profissional de escritórios. Ele mantém seu ambiente de trabalho impecável para garantir uma atmosfera produtiva.",
@@ -150,7 +150,7 @@
     "id": "diarista009",
     "nome": "Isabel Oliveira",
     "avaliacao": 4.9,
-    "url_foto_perfil": "https://raw.githubusercontent.com/ThiagoAM/thiagoam.github.io/master/api/test/images/diarista_1.jpg",
+    "url_foto_perfil": "https://raw.githubusercontent.com/ThiagoAM/thiagoam.github.io/master/api/test/images/diarista_8.png",
     "cidade": "Belém",
     "uf": "PA",
     "sobre": "Isabel é uma perfeccionista. Ela garante que cada canto da sua casa esteja limpo e organizado como nenhum outro.",
@@ -164,27 +164,6 @@
         "id": "comentario018",
         "nome_comentador": "Renata",
         "comentario": "Isabel é minha diarista favorita. Ela deixa tudo tão perfeito que parece um hotel cinco estrelas."
-      }
-    ]
-  },
-  {
-    "id": "diarista010",
-    "nome": "Gustavo Ferreira",
-    "avaliacao": 4.7,
-    "url_foto_perfil": "https://raw.githubusercontent.com/ThiagoAM/thiagoam.github.io/master/api/test/images/diarista_1.jpg",
-    "cidade": "Florianópolis",
-    "uf": "SC",
-    "sobre": "Gustavo é apaixonado por criar ambientes acolhedores. Sua atenção aos detalhes e habilidades culinárias surpreendem seus clientes.",
-    "comentarios": [
-      {
-        "id": "comentario019",
-        "nome_comentador": "Marina",
-        "comentario": "Gustavo não só deixou minha casa impecável, mas também preparou uma refeição deliciosa. Ele é incrível!"
-      },
-      {
-        "id": "comentario020",
-        "nome_comentador": "André",
-        "comentario": "Gustavo é um verdadeiro talento. Minha casa está linda e a comida estava divina."
       }
     ]
   }
