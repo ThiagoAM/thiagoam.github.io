@@ -1,164 +1,30 @@
 [
-   {
-      "id":"200de406-51bb-4b33-a5bc-5ed11dcb7ba2",
-      "date":"2023/08/09 16:50",
-      "type":"newVersion",
-      "version":"2.0.5",
-      "title":"What's new in version 2.0.5",
-      "freeUsersOnly": null,
-      "proUsersOnly": null,
-      "mainImage":{
-         "systemName":null,
-         "assetName":"dynexLogo",
-         "emoji":null,
-         "url":"https://github.com/ThiagoAM/thiagoam.github.io/raw/master/hashrate/images/dynex-logo.png"
-      },
-      "bigImage": {
-         "systemName":null,
-         "assetName":null,
-         "emoji":null,
-         "url":null
-      },
-      "text":"* Herominers now supports Dynex!\n* Massive improvements and fixes to the calculator\nThanks for choosing Hashrate!",
-      "externalUrl":{
-         "prefixText":null,
-         "title":null,
-         "url":null,
-         "opensPurchaseScreen":null
-      }
-   },
-   {
-      "id":"56dc8ed4-8f1b-422d-91c1-fefa2d7963fa",
-      "date":"2023/08/09 23:30",
-      "type":"newVersion",
-      "version":"2.0.4",
-      "title":"What's new in version 2.0.4",
-      "freeUsersOnly": null,
-      "proUsersOnly": null,
-      "mainImage":{
-         "systemName":null,
-         "assetName":"dynexLogo",
-         "emoji":null,
-         "url":"https://github.com/ThiagoAM/thiagoam.github.io/raw/master/hashrate/images/dynex-logo.png"
-      },
-      "bigImage": {
-         "systemName":null,
-         "assetName":null,
-         "emoji":null,
-         "url":null
-      },
-      "text":"* EkaPool + Dynex support!\n* Hiveon Pool now supports Kaspa and Bitcoin\n* K1 Pool now supports Kaspa, ETHW and RXD\n* Nanopool now supports Kaspa and IronFish\n* 2Miners now supports Nexa\n* Bug fixes\n* Performance improvements",
-      "externalUrl":{
-         "prefixText":null,
-         "title":null,
-         "url":null,
-         "opensPurchaseScreen":null
-      }
-   },
-   {
-      "id":"469d847e-8ae8-4864-b06d-7af0661c6f8e",
-      "date":"2023/08/09 23:25",
-      "type":"regular",
-      "version":null,
-      "title":"Your Feedback Matters: Please Consider Leaving a Review!",
-      "freeUsersOnly": null,
-      "proUsersOnly": null,
-      "mainImage":{         
-         "systemName":null,
-         "assetName":null,
-         "emoji":"👍",
-         "url":null
-      },
-      "text":"If you enjoy using Hashrate, please consider leaving a review in the App Store. As an independent developer, positive feedback means the world to me and helps me continue to improve the app. Thank you for your support!",
-      "externalUrl":{
-         "prefixText":"Enjoying this app?",
-         "title":"⭐️ Review Hashrate! ⭐️",
-         "url":"itms-apps://itunes.apple.com/app/id1589030959?mt=8&action=write-review",
-         "opensPurchaseScreen":null
-      }
-   },
-   {
-      "id":"bac820af-d81d-422e-88bb-aeef6d171f83",
-      "date":"2023/04/21 05:50",
-      "type":"newVersion",
-      "version":"2.0.2",
-      "title":"What's new in version 2.0.2",
-      "freeUsersOnly": null,
-      "proUsersOnly": null,
-      "mainImage":{
-         "systemName":null,
-         "assetName":"ironFishLogo",
-         "emoji":null,
-         "url":"https://github.com/ThiagoAM/thiagoam.github.io/raw/master/hashrate/images/ironFish-icon.png"
-      },
-      "bigImage": {
-         "systemName":null,
-         "assetName":null,
-         "emoji":null,
-         "url":null
-      },
-      "text":"Iron Fish support added for the following pools:\n\n* Kryptex\n* HeroMiners\n* Flexpool\n* Ezil\n* F2Pool\n\nAlso:\n\n* Kaspa support for 2Miners and F2Pool\n* ZIL support for K1 Pool\n* ETHW and ETHF support for Crazypool",
-      "externalUrl":{
-         "prefixText":null,
-         "title":null,
-         "url":null,
-         "opensPurchaseScreen":null
-      }
-   },   
-   {
-      "id":"9719a28b-cd01-4396-a954-8f710e81916c",
-      "date":"2023/04/17 10:00",
-      "type":"newVersion",
-      "version":"2.0.1",
-      "title":"What's new in version 2.0.1",
-      "freeUsersOnly": null,
-      "proUsersOnly": null,
-      "mainImage":{
-         "systemName":null,
-         "assetName":"hashrateLogo",
-         "emoji":null,
-         "url":null
-      },
-      "bigImage": {
-         "systemName":null,
-         "assetName":null,
-         "emoji":null,
-         "url":null
-      },
-      "text":"* New pool added: Kryptex!\n* Bug fixes",
-      "externalUrl":{
-         "prefixText":null,
-         "title":null,
-         "url":null,
-         "opensPurchaseScreen":null
-      }
-   },
-   {
-      "id":"4e92a7b4-6fb8-4e49-96f2-2d87550b1b02",
-      "date":"2023/04/12 22:50",
-      "type":"newVersion",
-      "version":"2.0.0",
-      "title":"What's new in version 2.0.0",
-      "freeUsersOnly": null,
-      "proUsersOnly": null,
-      "mainImage":{
-         "systemName":null,
-         "assetName":"hashrateLogo",
-         "emoji":null,
-         "url":null
-      },
-      "bigImage": {
-         "systemName":null,
-         "assetName":null,
-         "emoji":null,
-         "url":null
-      },
-      "text":"We're thrilled to announce the latest update to Hashrate!\n\n* New widget: You can now display multiple miners for a single farm on your home screen. This new widget provides even more flexibility for monitoring your mining rigs.\n* Improved interface: We've made several improvements to the app's interface, making it more user-friendly and intuitive than ever before.\n* Preferred tab selector: With our new tab selector, you can now choose which tab you want to open by default when you launch the app.\n* Added K1 Pool support: We've added support for the popular K1 Pool, giving you even more options for tracking your mining activities.\n* Bug fixes: We've fixed several bugs and made performance enhancements to ensure the app runs smoothly.\n\nWith these new features, Hashrate is more powerful than ever before. Update now and experience the best mining app on the market!",
-      "externalUrl":{
-         "prefixText":null,
-         "title":null,
-         "url":null,
-         "opensPurchaseScreen":null
-      }
-   }
+  {
+    "id": "200de406-51bb-4b33-a5bc-5ed11dcb7ba2",
+    "date": "2024/04/02 10:40",
+    "type": "newVersion",
+    "version": "3.0.0",
+    "title": "What's new in version 3.0.0",
+    "freeUsersOnly": null,
+    "proUsersOnly": null,
+    "mainImage": {
+      "systemName": null,
+      "assetName": null,
+      "emoji": null,
+      "url": null
+    },
+    "bigImage": {
+      "systemName": null,
+      "assetName": null,
+      "emoji": null,
+      "url": null
+    },
+    "text": "We're thrilled to announce the launch of Hashrate version 3.0, a groundbreaking update where we've reinvented the app from the ground up to bring you a more comprehensive and user-friendly mining tool. Here's what's new:\n• Favorite Crypto Price Tracker: Keep an eye on any cryptocurrency's price directly in the app or through our new widgets.\n• Wallet Tracking: You can now manually add your crypto wallets to track the total value of your investments seamlessly.\n• New Calculator Modes: Introducing Converter and Compound Interest calculators to help you manage your earnings more effectively.\n• Data Export and Import: Easily backup or sync your data across devices privately with our new data transfer features.\n •Expanded Pool Support: We've added new pools including Kaspa pool, Vipor.net, and KaspaMiners, and enhanced support for existing pools with additional coin options.\n• Interface Overhaul: Experience our completely redesigned interface, making navigation and functionality smoother than ever.\n• Widget Compatibility Note: We apologize for any inconvenience, but due to these extensive updates, old widgets are not compatible with version 3.0. Please remove any previous widgets and replace them with the new ones to enjoy the full benefits of the update.\n• We've poured our hearts into making version 3.0 a tool that not only meets your mining needs but also respects your privacy and security. This comprehensive overhaul is our commitment to providing you with the best mining tool available, designed to empower you to maximize profitability without compromising on privacy or security.\n\nThank you for your continuous support and happy mining!",
+    "externalUrl": {
+      "prefixText": null,
+      "title": null,
+      "url": null,
+      "opensPurchaseScreen": null
+    }
+  }
 ]
