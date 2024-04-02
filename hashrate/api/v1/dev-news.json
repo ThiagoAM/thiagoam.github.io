@@ -1,6 +1,34 @@
 [
   {
     "id": "200de406-51bb-4b33-a5bc-5ed11dcb7ba2",
+    "date": "2024/04/02 11:05",
+    "type": "newVersion",
+    "version": "3.0.1",
+    "title": "What's new in version 3.0.1",
+    "freeUsersOnly": null,
+    "proUsersOnly": null,
+    "mainImage": {
+      "systemName": "ant.fill",
+      "assetName": null,
+      "emoji": null,
+      "url": null
+    },
+    "bigImage": {
+      "systemName": null,
+      "assetName": null,
+      "emoji": null,
+      "url": null
+    },
+    "text": "We've resolved a glitch affecting the 'Restore Purchases' and 'Purchase' buttons that emerged in version 3.0.0. Our apologies for any inconvenience caused!",
+    "externalUrl": {
+      "prefixText": null,
+      "title": null,
+      "url": null,
+      "opensPurchaseScreen": null
+    }
+  },
+  {
+    "id": "200de406-51bb-4b33-a5bc-5ed11dcb7ba2",
     "date": "2024/04/02 10:40",
     "type": "newVersion",
     "version": "3.0.0",
