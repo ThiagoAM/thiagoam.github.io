@@ -9,9 +9,9 @@
     "proUsersOnly": null,
     "mainImage": {
       "systemName": null,
-      "assetName": null,
+      "assetName": "hashrateIcon",
       "emoji": null,
-      "url": null
+      "url": "https://github.com/ThiagoAM/thiagoam.github.io/raw/master/hashrate/images/new-hashrate-icon.png"
     },
     "bigImage": {
       "systemName": null,
