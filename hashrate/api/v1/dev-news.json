@@ -1,5 +1,33 @@
 [
   {
+    "id": "e82f55c3-c62c-4d02-bcfc-9a0436bcb4fb",
+    "date": "2024/04/08 01:40",
+    "type": "newVersion",
+    "version": "3.0.2",
+    "title": "What's new in version 3.0.2",
+    "freeUsersOnly": null,
+    "proUsersOnly": null,
+    "mainImage": {
+      "systemName": "ant.fill",
+      "assetName": null,
+      "emoji": null,
+      "url": null
+    },
+    "bigImage": {
+      "systemName": null,
+      "assetName": null,
+      "emoji": null,
+      "url": null
+    },
+    "text": "Here's what we've improved in the latest update:\n\n•Corrected PYI reward estimations to display more accurate figures.\n• Made the 'Restore Purchases' button more prominent for easier access.\n• Enhanced interface compatibility and visuals for iPad users.\n• Resolved a bug where HeroMiners BTG charts were not displaying.\n• Adjusted BTG reward estimation to reflect more precise values.\n• Updated HeroMiners PYI payout limits to ensure they're set appropriately.\n• Fixed discrepancies in balance and payout limits for 2Miners ETC.\n• Corrected the order of the shares chart in 2Miners for better readability.\n\nWe're committed to providing you with the most accurate and user-friendly experience. Thanks for your continued support!",
+    "externalUrl": {
+      "prefixText": null,
+      "title": null,
+      "url": null,
+      "opensPurchaseScreen": null
+    }
+  },
+  {
     "id": "b0b391b1-c4db-4996-9398-78e6ade43419",
     "date": "2024/04/02 11:05",
     "type": "newVersion",
