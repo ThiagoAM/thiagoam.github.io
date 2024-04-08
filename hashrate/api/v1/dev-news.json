@@ -8,10 +8,10 @@
     "freeUsersOnly": null,
     "proUsersOnly": null,
     "mainImage": {
-      "systemName": "ant.fill",
-      "assetName": null,
+      "systemName": null,
+      "assetName": "hashrateIcon",
       "emoji": null,
-      "url": null
+      "url": "https://github.com/ThiagoAM/thiagoam.github.io/raw/master/hashrate/images/new-hashrate-icon.png"
     },
     "bigImage": {
       "systemName": null,
