@@ -1,5 +1,33 @@
 [
   {
+    "id": "7e24bf0f-f17c-4a78-a3bb-7fbca1194ed1",
+    "date": "2024/04/08 01:40",
+    "type": "newVersion",
+    "version": "3.0.3",
+    "title": "What's new in version 3.0.3",
+    "freeUsersOnly": null,
+    "proUsersOnly": null,
+    "mainImage": {
+      "systemName": null,
+      "assetName": "hashrateIcon",
+      "emoji": null,
+      "url": "https://github.com/ThiagoAM/thiagoam.github.io/raw/master/hashrate/images/new-hashrate-icon.png"
+    },
+    "bigImage": {
+      "systemName": null,
+      "assetName": null,
+      "emoji": null,
+      "url": null
+    },
+    "text": "Here’s what’s new in our latest update:\n\nEnhanced the converter calculator, adding more features for greater functionality.\n\n• Updated the appearance of various screens for a more consistent and streamlined design.\n\n• Refined the iPad user interface to improve usability and aesthetics.\n\nWe're dedicated to continually enhancing your experience. Thanks for your support!",
+    "externalUrl": {
+      "prefixText": null,
+      "title": null,
+      "url": null,
+      "opensPurchaseScreen": null
+    }
+  },
+  {
     "id": "055ced04-befb-4a97-9cc9-7ab468159bf8",
     "date": "2024/04/08 01:40",
     "type": "newVersion",
