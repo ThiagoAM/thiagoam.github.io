@@ -1,5 +1,33 @@
 [
   {
+    "id": "61e04f5a-a369-484e-9002-c7ee84ac2398",
+    "date": "2024/11/28 23:00",
+    "type": "regular",
+    "version": null,
+    "title": "Black Friday Special: 66% OFF Hashrate Pro!",
+    "freeUsersOnly": true,
+    "proUsersOnly": null,
+    "mainImage": {
+      "systemName": null,
+      "assetName": null,
+      "emoji": null,
+      "url": null
+    },
+    "bigImage": {
+      "systemName": "tag",
+      "assetName": null,
+      "emoji": null,
+      "url": null
+    },
+    "text": "Upgrade to Hashrate Pro this Black Friday and save 66%! Don't miss this limited-time offer!",
+    "externalUrl": {
+      "prefixText": null,
+      "title": "Get the Deal!",
+      "url": null,
+      "opensPurchaseScreen": true
+    }
+  },
+  {
     "id": "7e24bf0f-f17c-4a78-a3bb-7fbca1194ed1",
     "date": "2024/04/08 01:40",
     "type": "newVersion",
