@@ -4,6 +4,241 @@
     "reward24h": 0.00000055,
     "updatedAt": "2025-01-11T11:25:00-03:00"
   },
+  "ZEN": {
+    "hashes": 1000000,
+    "reward24h": 0.407968,
+    "updatedAt": "2025-01-12T20:48:00-03:00"
+  },
+  "DBIX": {
+    "hashes": 1000000,
+    "reward24h": 9.274583,
+    "updatedAt": "2025-01-12T20:48:00-03:00"
+  },
+  "GAME": {
+    "hashes": 1000000000,
+    "reward24h": 18.198189,
+    "updatedAt": "2025-01-12T20:48:00-03:00"
+  },
+  "FTC": {
+    "hashes": 1000000,
+    "reward24h": 22.926815,
+    "updatedAt": "2025-01-12T20:48:00-03:00"
+  },
+  "ZCL": {
+    "hashes": 0,
+    "reward24h": 0,
+    "updatedAt": "2025-01-12T20:48:00-03:00"
+  },
+  "DERO": {
+    "hashes": 0,
+    "reward24h": 0,
+    "updatedAt": "2025-01-12T20:48:00-03:00"
+  },
+  "QRL": {
+    "hashes": 1000000,
+    "reward24h": 45.890485,
+    "updatedAt": "2025-01-12T20:48:00-03:00"
+  },
+  "CLO": {
+    "hashes": 0,
+    "reward24h": 0,
+    "updatedAt": "2025-01-12T20:48:00-03:00"
+  },
+  "CLOAK": {
+    "hashes": 0,
+    "reward24h": 0,
+    "updatedAt": "2025-01-12T20:48:00-03:00"
+  },
+  "UNO": {
+    "hashes": 0,
+    "reward24h": 0,
+    "updatedAt": "2025-01-12T20:48:00-03:00"
+  },
+  "XVC": {
+    "hashes": 0,
+    "reward24h": 0,
+    "updatedAt": "2025-01-12T20:48:00-03:00"
+  },
+  "DGB": {
+    "hashes": 0,
+    "reward24h": 0,
+    "updatedAt": "2025-01-12T20:48:00-03:00"
+  },
+  "ARRR": {
+    "hashes": 0,
+    "reward24h": 0,
+    "updatedAt": "2025-01-12T20:48:00-03:00"
+  },
+  "BCN": {
+    "hashes": 0,
+    "reward24h": 0,
+    "updatedAt": "2025-01-12T20:48:00-03:00"
+  },
+  "SIGT": {
+    "hashes": 0,
+    "reward24h": 0,
+    "updatedAt": "2025-01-12T20:48:00-03:00"
+  },
+  "PIRL": {
+    "hashes": 0,
+    "reward24h": 0,
+    "updatedAt": "2025-01-12T20:48:00-03:00"
+  },
+  "BTX": {
+    "hashes": 0,
+    "reward24h": 0,
+    "updatedAt": "2025-01-12T20:48:00-03:00"
+  },
+  "VTC": {
+    "hashes": 0,
+    "reward24h": 0,
+    "updatedAt": "2025-01-12T20:48:00-03:00"
+  },
+  "NMC": {
+    "hashes": 0,
+    "reward24h": 0,
+    "updatedAt": "2025-01-12T20:48:00-03:00"
+  },
+  "TUBE": {
+    "hashes": 0,
+    "reward24h": 0,
+    "updatedAt": "2025-01-12T20:48:00-03:00"
+  },
+  "ADZ": {
+    "hashes": 0,
+    "reward24h": 0,
+    "updatedAt": "2025-01-12T20:48:00-03:00"
+  },
+  "ETP": {
+    "hashes": 0,
+    "reward24h": 0,
+    "updatedAt": "2025-01-12T20:48:00-03:00"
+  },
+  "MUE": {
+    "hashes": 0,
+    "reward24h": 0,
+    "updatedAt": "2025-01-12T20:48:00-03:00"
+  },
+  "XHV": {
+    "hashes": 0,
+    "reward24h": 0,
+    "updatedAt": "2025-01-12T20:48:00-03:00"
+  },
+  "QRK": {
+    "hashes": 0,
+    "reward24h": 0,
+    "updatedAt": "2025-01-12T20:48:00-03:00"
+  },
+  "MONA": {
+    "hashes": 0,
+    "reward24h": 0,
+    "updatedAt": "2025-01-12T20:48:00-03:00"
+  },
+  "LUX": {
+    "hashes": 0,
+    "reward24h": 0,
+    "updatedAt": "2025-01-12T20:48:00-03:00"
+  },
+  "HUSH": {
+    "hashes": 0,
+    "reward24h": 0,
+    "updatedAt": "2025-01-12T20:48:00-03:00"
+  },
+  "MSR": {
+    "hashes": 0,
+    "reward24h": 0,
+    "updatedAt": "2025-01-12T20:48:00-03:00"
+  },
+  "RYO": {
+    "hashes": 0,
+    "reward24h": 0,
+    "updatedAt": "2025-01-12T20:48:00-03:00"
+  },
+  "AEON": {
+    "hashes": 0,
+    "reward24h": 0,
+    "updatedAt": "2025-01-12T20:48:00-03:00"
+  },
+  "XVG": {
+    "hashes": 0,
+    "reward24h": 0,
+    "updatedAt": "2025-01-12T20:48:00-03:00"
+  },
+  "PPC": {
+    "hashes": 0,
+    "reward24h": 0,
+    "updatedAt": "2025-01-12T20:48:00-03:00"
+  },
+  "KMD": {
+    "hashes": 0,
+    "reward24h": 0,
+    "updatedAt": "2025-01-12T20:48:00-03:00"
+  },
+  "SMART": {
+    "hashes": 0,
+    "reward24h": 0,
+    "updatedAt": "2025-01-12T20:48:00-03:00"
+  },
+  "XDN": {
+    "hashes": 0,
+    "reward24h": 0,
+    "updatedAt": "2025-01-12T20:48:00-03:00"
+  },
+  "VIVO": {
+    "hashes": 0,
+    "reward24h": 0,
+    "updatedAt": "2025-01-12T20:48:00-03:00"
+  },
+  "ETHF": {
+    "hashes": 0,
+    "reward24h": 0,
+    "updatedAt": "2025-01-12T20:48:00-03:00"
+  },
+  "AUR": {
+    "hashes": 0,
+    "reward24h": 0,
+    "updatedAt": "2025-01-12T20:48:00-03:00"
+  },
+  "RTM": {
+    "hashes": 0,
+    "reward24h": 0,
+    "updatedAt": "2025-01-12T20:48:00-03:00"
+  },
+  "WDC": {
+    "hashes": 0,
+    "reward24h": 0,
+    "updatedAt": "2025-01-12T20:48:00-03:00"
+  },
+  "VIA": {
+    "hashes": 0,
+    "reward24h": 0,
+    "updatedAt": "2025-01-12T20:48:00-03:00"
+  },
+  "CANN": {
+    "hashes": 0,
+    "reward24h": 0,
+    "updatedAt": "2025-01-12T20:48:00-03:00"
+  },
+  "TRTL": {
+    "hashes": 0,
+    "reward24h": 0,
+    "updatedAt": "2025-01-12T20:48:00-03:00"
+  },
+  "UBQ": {
+    "hashes": 0,
+    "reward24h": 0,
+    "updatedAt": "2025-01-12T20:48:00-03:00"
+  },
+  "CKB": {
+    "hashes": 0,
+    "reward24h": 0,
+    "updatedAt": "2025-01-12T20:48:00-03:00"
+  },
+  "CTXC": {
+    "hashes": 0,
+    "reward24h": 0,
+    "updatedAt": "2025-01-12T20:48:00-03:00"
+  },
   "RXD": {
     "hashes": 100000000000000,
     "reward24h": 226339.57609,

@@ -2,365 +2,298 @@
   {
     "name": "SHA-256",
     "cryptoTickers": [
-      "BTC", "BCH", "BSV", "XEC", "PPC",
-      "NMC", "UNO", "ELP", "ECA", "BBTC",
-      "DNotes", "CMC"
+      "BTC",
+      "BCH",
+      "BSV",
+      "XEC",
+      "PPC",
+      "NMC",
+      "UNO",
+      "ELP",
+      "ECA",
+      "BBTC",
+      "DNotes",
+      "CMC"
     ]
   },
   {
     "name": "Scrypt",
     "cryptoTickers": [
-      "LTC", "DOGE", "DGB", "XVG", "GAME",
-      "EMD", "XLC", "NSR", "AUR", "GRC",
-      "SPR", "VIA", "CLAM", "WDC", "ULTC",
+      "LTC",
+      "DOGE",
+      "DGB",
+      "XVG",
+      "GAME",
+      "EMD",
+      "XLC",
+      "NSR",
+      "AUR",
+      "GRC",
+      "SPR",
+      "VIA",
+      "CLAM",
+      "WDC",
+      "ULTC",
       "PSC"
     ]
   },
   {
     "name": "Ethash",
     "cryptoTickers": [
-      "ETH", "ETC", "EXP", "UBQ",
-      "ETP", "DBIX", "MIX", "CLO",
-      "MOAC", "PIRL"
+      "ETC",
+      "EXP",
+      "UBQ",
+      "ETP",
+      "DBIX",
+      "MIX",
+      "CLO",
+      "MOAC",
+      "PIRL"
     ]
   },
   {
     "name": "ProgPoW",
-    "cryptoTickers": [
-      "ETHW", "ETHF", "VTC", "Zero"
-    ]
+    "cryptoTickers": ["ETHW", "ETHF", "VTC", "Zero"]
   },
   {
     "name": "RandomX",
-    "cryptoTickers": [
-      "XMR", "WOWNERO", "AEON"
-    ]
+    "cryptoTickers": ["XMR", "WOWNERO", "AEON"]
   },
   {
     "name": "RandomSFX",
-    "cryptoTickers": [
-      "SFX"
-    ]
+    "cryptoTickers": ["SFX"]
   },
   {
     "name": "CryptoNight",
     "cryptoTickers": [
-      "BCN", "XDN", "XHV", "TUBE", "DERO",
-      "MSR", "OMBRE", "QRL", "IPBC", "MCM"
+      "BCN",
+      "XDN",
+      "XHV",
+      "TUBE",
+      "DERO",
+      "MSR",
+      "OMBRE",
+      "QRL",
+      "IPBC",
+      "MCM"
     ]
   },
   {
     "name": "CryptoNightV7",
-    "cryptoTickers": [
-      "XMC", "XAO"
-    ]
+    "cryptoTickers": ["XMC", "XAO"]
   },
   {
     "name": "CryptoNightR",
-    "cryptoTickers": [
-      "XMR"
-    ]
+    "cryptoTickers": ["XMR"]
   },
   {
     "name": "CryptoNightHeavy",
-    "cryptoTickers": [
-      "TRTL", "RYO"
-    ]
+    "cryptoTickers": ["TRTL", "RYO"]
   },
   {
     "name": "Equihash",
     "cryptoTickers": [
-      "ZEC", "ZEN", "KMD", "BTCZ", "BTG",
-      "HUSH", "SAFE", "ARRR", "ZCL"
+      "ZEC",
+      "ZEN",
+      "KMD",
+      "BTCZ",
+      "BTG",
+      "HUSH",
+      "SAFE",
+      "ARRR",
+      "ZCL"
     ]
   },
   {
     "name": "Equihash 144_5",
-    "cryptoTickers": [
-      "ASF", "XSG", "Safex", "BEAM", "LOKI"
-    ]
+    "cryptoTickers": ["ASF", "XSG", "Safex", "BEAM", "LOKI"]
   },
   {
     "name": "Equihash 192_7",
-    "cryptoTickers": [
-      "GRFT", "XZC", "FIRO", "ZERO"
-    ]
+    "cryptoTickers": ["GRFT", "XZC", "FIRO", "ZERO"]
   },
   {
     "name": "Equihash 125_4",
-    "cryptoTickers": [
-      "ZEL", "SAFE"
-    ]
+    "cryptoTickers": ["ZEL", "SAFE"]
   },
   {
     "name": "ZHash",
-    "cryptoTickers": [
-      "ZEL", "BTCZ"
-    ]
+    "cryptoTickers": ["ZEL", "BTCZ"]
   },
   {
     "name": "BeamHash",
-    "cryptoTickers": [
-      "BEAM"
-    ]
+    "cryptoTickers": ["BEAM"]
   },
   {
     "name": "kHeavyHash",
-    "cryptoTickers": [
-      "KAS"
-    ]
+    "cryptoTickers": ["KAS"]
   },
   {
     "name": "Eaglesong",
-    "cryptoTickers": [
-      "CKB"
-    ]
+    "cryptoTickers": ["CKB"]
   },
   {
     "name": "Autolykos",
-    "cryptoTickers": [
-      "ERG"
-    ]
+    "cryptoTickers": ["ERG"]
   },
   {
     "name": "Autolykos v2",
-    "cryptoTickers": [
-      "ERG"
-    ]
+    "cryptoTickers": ["ERG"]
   },
   {
     "name": "KawPoW",
-    "cryptoTickers": [
-      "RVN"
-    ]
+    "cryptoTickers": ["RVN"]
   },
   {
     "name": "X11",
-    "cryptoTickers": [
-      "DASH", "PURA", "CANN", "MUE", "ADZ",
-      "CINNI", "AUR"
-    ]
+    "cryptoTickers": ["DASH", "PURA", "CANN", "MUE", "ADZ", "CINNI", "AUR"]
   },
   {
     "name": "X12",
-    "cryptoTickers": [
-      "DigitalPriceClassic"
-    ]
+    "cryptoTickers": ["DigitalPriceClassic"]
   },
   {
     "name": "X13",
-    "cryptoTickers": [
-      "SMART", "CLOAK", "XVC", "B3", "GPUC"
-    ]
+    "cryptoTickers": ["SMART", "CLOAK", "XVC", "B3", "GPUC"]
   },
   {
     "name": "X14",
-    "cryptoTickers": [
-      "X14Coin"
-    ]
+    "cryptoTickers": ["X14Coin"]
   },
   {
     "name": "X15",
-    "cryptoTickers": [
-      "HTML", "VTA"
-    ]
+    "cryptoTickers": ["HTML", "VTA"]
   },
   {
     "name": "X16R",
-    "cryptoTickers": [
-      "RVN", "VGO"
-    ]
+    "cryptoTickers": ["RVN", "VGO"]
   },
   {
     "name": "X16Rv2",
-    "cryptoTickers": [
-      "RVN"
-    ]
+    "cryptoTickers": ["RVN"]
   },
   {
     "name": "X16S",
-    "cryptoTickers": [
-      "XSH", "BitCash"
-    ]
+    "cryptoTickers": ["XSH", "BitCash"]
   },
   {
     "name": "X17",
-    "cryptoTickers": [
-      "XVG", "DGB"
-    ]
+    "cryptoTickers": ["XVG", "DGB"]
   },
   {
     "name": "X21S",
-    "cryptoTickers": [
-      "X21S Coin"
-    ]
+    "cryptoTickers": ["X21S Coin"]
   },
   {
     "name": "X25X",
-    "cryptoTickers": [
-      "Shield"
-    ]
+    "cryptoTickers": ["Shield"]
   },
   {
     "name": "GhostRider",
-    "cryptoTickers": [
-      "RTM"
-    ]
+    "cryptoTickers": ["RTM"]
   },
   {
     "name": "Cuckoo Cycle",
-    "cryptoTickers": [
-      "GRIN", "BHD", "Aeternity"
-    ]
+    "cryptoTickers": ["GRIN", "BHD", "Aeternity"]
   },
   {
     "name": "Cuckatoo31+",
-    "cryptoTickers": [
-      "GRIN"
-    ]
+    "cryptoTickers": ["GRIN"]
   },
   {
     "name": "Cuckarood29",
-    "cryptoTickers": [
-      "GRIN"
-    ]
+    "cryptoTickers": ["GRIN"]
   },
   {
     "name": "Cuckaroo29s",
-    "cryptoTickers": [
-      "SWAP"
-    ]
+    "cryptoTickers": ["SWAP"]
   },
   {
     "name": "Cuckaroo29",
-    "cryptoTickers": [
-      "CTXC"
-    ]
+    "cryptoTickers": ["CTXC"]
   },
   {
     "name": "Blake2b",
-    "cryptoTickers": [
-      "SC"
-    ]
+    "cryptoTickers": ["SC"]
   },
   {
     "name": "Blake2s",
-    "cryptoTickers": [
-      "NRG", "BCO"
-    ]
+    "cryptoTickers": ["NRG", "BCO"]
   },
   {
     "name": "Blake256",
-    "cryptoTickers": [
-      "SLS", "NEOS"
-    ]
+    "cryptoTickers": ["SLS", "NEOS"]
   },
   {
     "name": "Blake256r14",
-    "cryptoTickers": [
-      "DCR"
-    ]
+    "cryptoTickers": ["DCR"]
   },
   {
     "name": "Blake256r8",
-    "cryptoTickers": [
-      "NANO"
-    ]
+    "cryptoTickers": ["NANO"]
   },
   {
     "name": "Argon2d",
-    "cryptoTickers": [
-      "PIRL", "UFO"
-    ]
+    "cryptoTickers": ["PIRL", "UFO"]
   },
   {
     "name": "Argon2id",
-    "cryptoTickers": [
-      "Webchain", "Wage"
-    ]
+    "cryptoTickers": ["Webchain", "Wage"]
   },
   {
     "name": "MTP",
-    "cryptoTickers": [
-      "FIRO", "XZC"
-    ]
+    "cryptoTickers": ["FIRO", "XZC"]
   },
   {
     "name": "FiroPoW",
-    "cryptoTickers": [
-      "FIRO"
-    ]
+    "cryptoTickers": ["FIRO"]
   },
   {
     "name": "Yescrypt",
-    "cryptoTickers": [
-      "YTN", "BSTY"
-    ]
+    "cryptoTickers": ["YTN", "BSTY"]
   },
   {
     "name": "Yespower",
-    "cryptoTickers": [
-      "RIO", "ARRR"
-    ]
+    "cryptoTickers": ["RIO", "ARRR"]
   },
   {
     "name": "NeoScrypt",
-    "cryptoTickers": [
-      "FTC", "VIVO"
-    ]
+    "cryptoTickers": ["FTC", "VIVO"]
   },
   {
     "name": "Quark",
-    "cryptoTickers": [
-      "QRK"
-    ]
+    "cryptoTickers": ["QRK"]
   },
   {
     "name": "Quibit",
-    "cryptoTickers": [
-      "Q2C"
-    ]
+    "cryptoTickers": ["Q2C"]
   },
   {
     "name": "Lyra2RE",
-    "cryptoTickers": [
-      "VTC", "MONA"
-    ]
+    "cryptoTickers": ["VTC", "MONA"]
   },
   {
     "name": "Lyra2REv2",
-    "cryptoTickers": [
-      "VTC", "MONA", "DGB", "SYS", "XVG"
-    ]
+    "cryptoTickers": ["VTC", "MONA", "DGB", "SYS", "XVG"]
   },
   {
     "name": "Lyra2z",
-    "cryptoTickers": [
-      "XZC", "VITAE"
-    ]
+    "cryptoTickers": ["XZC", "VITAE"]
   },
   {
     "name": "Timetravel10",
-    "cryptoTickers": [
-      "BTX"
-    ]
+    "cryptoTickers": ["BTX"]
   },
   {
     "name": "Groestl",
-    "cryptoTickers": [
-      "DGB", "GROESTL"
-    ]
+    "cryptoTickers": ["DGB", "GROESTL"]
   },
   {
     "name": "Skunkhash",
-    "cryptoTickers": [
-      "SIGT"
-    ]
+    "cryptoTickers": ["SIGT"]
   },
   {
     "name": "PHI1612",
-    "cryptoTickers": [
-      "EXCL", "LUX"
-    ]
+    "cryptoTickers": ["EXCL", "LUX"]
   }
 ]
