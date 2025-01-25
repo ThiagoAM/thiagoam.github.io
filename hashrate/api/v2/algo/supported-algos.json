@@ -17,6 +17,38 @@
     ]
   },
   {
+    "name": "Blake (2b-Sia)",
+    "cryptoTickers": ["SC"]
+  },
+  {
+    "name": "Blake (2s-Kadena)",
+    "cryptoTickers": ["KDA"]
+  },
+  {
+    "name": "Etchash",
+    "cryptoTickers": ["ETC"]
+  },
+  {
+    "name": "Cuckatoo32",
+    "cryptoTickers": ["GRIN"]
+  },
+  {
+    "name": "Cryptonite",
+    "cryptoTickers": ["XCN"]
+  },
+  {
+    "name": "Odocrypt",
+    "cryptoTickers": ["DGB"]
+  },
+  {
+    "name": "LBRY",
+    "cryptoTickers": ["LBC"]
+  },
+  {
+    "name": "Handshake",
+    "cryptoTickers": ["HNS"]
+  },
+  {
     "name": "Scrypt",
     "cryptoTickers": [
       "LTC",
