@@ -17,6 +17,22 @@
     ]
   },
   {
+    "name": "Blake (2b)",
+    "cryptoTickers": ["SC", "NANO"]
+  },
+  {
+    "name": "Tensority",
+    "cryptoTickers": ["BTM"]
+  },
+  {
+    "name": "Keccak",
+    "cryptoTickers": ["SMART"]
+  },
+  {
+    "name": "Blake (14r)",
+    "cryptoTickers": ["DCR"]
+  },
+  {
     "name": "Blake (2b-Sia)",
     "cryptoTickers": ["SC"]
   },
