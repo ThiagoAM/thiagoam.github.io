@@ -1,0 +1,1394 @@
+[
+  {
+    "id": "28a1fee2-bccb-4afe-a8e1-03db387d2454",
+    "name": "D1 Hydro",
+    "brand": "VolcMiner",
+    "type": "asic",
+    "releaseDate": "2025-02-01T00:00:00Z",
+    "algoPerfList": [
+      {
+        "algoName": "Scrypt",
+        "longHashrate": 30000000000,
+        "powerConsumptionWatts": 7600
+      }
+    ],
+    "price": 13600,
+    "imageUrl": null
+  },
+  {
+    "id": "cbc3dd55-b592-4605-8e5d-78c07c4878f6",
+    "name": "ALEO AE0",
+    "brand": "IceRiver",
+    "type": "asic",
+    "releaseDate": "2025-03-01T00:00:00Z",
+    "algoPerfList": [
+      {
+        "algoName": "zkSNARK",
+        "longHashrate": 50000000,
+        "powerConsumptionWatts": 100
+      }
+    ],
+    "price": 1869,
+    "imageUrl": null
+  },
+  {
+    "id": "f019d578-0f8a-412c-b512-d0b03791a053",
+    "name": "Antminer S21e XP Hyd 3U",
+    "brand": "Bitmain",
+    "type": "asic",
+    "releaseDate": "2025-01-01T00:00:00Z",
+    "algoPerfList": [
+      {
+        "algoName": "SHA-256",
+        "longHashrate": 860000000000000,
+        "powerConsumptionWatts": 11180
+      }
+    ],
+    "price": 14112,
+    "imageUrl": null
+  },
+  {
+    "id": "dde08b65-2068-429c-b75f-48e9b9a0c1b6",
+    "name": "AE-BOX",
+    "brand": "Goldshell",
+    "type": "asic",
+    "releaseDate": "2025-02-01T00:00:00Z",
+    "algoPerfList": [
+      {
+        "algoName": "zkSNARK",
+        "longHashrate": 37000000,
+        "powerConsumptionWatts": 360
+      }
+    ],
+    "price": 2299,
+    "imageUrl": null
+  },
+  {
+    "id": "3c05db31-c95a-4dd4-afc0-f42350ada576",
+    "name": "Antminer L9",
+    "brand": "Bitmain",
+    "type": "asic",
+    "releaseDate": "2024-05-01T00:00:00Z",
+    "algoPerfList": [
+      {
+        "algoName": "Scrypt",
+        "longHashrate": 17000000000,
+        "powerConsumptionWatts": 3260
+      }
+    ],
+    "price": 9720,
+    "imageUrl": null
+  },
+  {
+    "id": "19a36eb9-e1c3-41fb-96e8-c713162d3a13",
+    "name": "D1",
+    "brand": "VoicMiner",
+    "type": "asic",
+    "releaseDate": "2024-10-01T00:00:00Z",
+    "algoPerfList": [
+      {
+        "algoName": "Scrypt",
+        "longHashrate": 17000000000,
+        "powerConsumptionWatts": 3900
+      }
+    ],
+    "price": 8350,
+    "imageUrl": null
+  },
+  {
+    "id": "301b86b0-0ad4-4149-aca0-95e97beff738",
+    "name": "Antminer L9",
+    "brand": "Bitmain",
+    "type": "asic",
+    "releaseDate": "2024-05-01T00:00:00Z",
+    "algoPerfList": [
+      {
+        "algoName": "Scrypt",
+        "longHashrate": 16000000000,
+        "powerConsumptionWatts": 3360
+      }
+    ],
+    "price": 9730,
+    "imageUrl": null
+  },
+  {
+    "id": "ff6f3967-e9ab-474d-b919-32f9eeaeb594",
+    "name": "DG Hydro 1",
+    "brand": "ElphaPex",
+    "type": "asic",
+    "releaseDate": "2025-02-01T00:00:00Z",
+    "algoPerfList": [
+      {
+        "algoName": "Scrypt",
+        "longHashrate": 20000000000,
+        "powerConsumptionWatts": 6200
+      }
+    ],
+    "price": 8750,
+    "imageUrl": null
+  },
+  {
+    "id": "76e4d6b2-d13b-4e4a-bce9-dc492ea82893",
+    "name": "D1",
+    "brand": "VoicMiner",
+    "type": "asic",
+    "releaseDate": "2024-08-01T00:00:00Z",
+    "algoPerfList": [
+      {
+        "algoName": "Scrypt",
+        "longHashrate": 15150000000,
+        "powerConsumptionWatts": 3450
+      }
+    ],
+    "price": 8350,
+    "imageUrl": null
+  },
+  {
+    "id": "94283721-cdf4-496f-8bf0-f1b5b1b3ff10",
+    "name": "X44-P",
+    "brand": "Jasminer",
+    "type": "asic",
+    "releaseDate": "2025-06-01T00:00:00Z",
+    "algoPerfList": [
+      {
+        "algoName": "EtHash",
+        "longHashrate": 23400000000,
+        "powerConsumptionWatts": 2550
+      }
+    ],
+    "price": 10386,
+    "imageUrl": null
+  },
+  {
+    "id": "6c99dc9a-76e7-425c-86d5-d634b1dd38d8",
+    "name": "Antminer S21 XP+ Hyd",
+    "brand": "Bitmain",
+    "type": "asic",
+    "releaseDate": "2025-07-01T00:00:00Z",
+    "algoPerfList": [
+      {
+        "algoName": "SHA-256",
+        "longHashrate": 500000000000000,
+        "powerConsumptionWatts": 5500
+      }
+    ],
+    "price": 15059,
+    "imageUrl": null
+  },
+  {
+    "id": "c9efabae-d4b7-411c-bdf0-694d8123efdf",
+    "name": "Antminer S21 XP Hyd",
+    "brand": "Bitmain",
+    "type": "asic",
+    "releaseDate": "2024-10-01T00:00:00Z",
+    "algoPerfList": [
+      {
+        "algoName": "SHA-256",
+        "longHashrate": 473000000000000,
+        "powerConsumptionWatts": 5676
+      }
+    ],
+    "price": 10150,
+    "imageUrl": null
+  },
+  {
+    "id": "0142c4bb-4d8f-4340-b3c0-4992c11b5e66",
+    "name": "DG 1+",
+    "brand": "ElphaPex",
+    "type": "asic",
+    "releaseDate": "2024-04-01T00:00:00Z",
+    "algoPerfList": [
+      {
+        "algoName": "Scrypt",
+        "longHashrate": 14000000000,
+        "powerConsumptionWatts": 3920
+      }
+    ],
+    "price": 6800,
+    "imageUrl": null
+  },
+  {
+    "id": "c53dace1-fe77-4c92-b3bb-a93c294ffae9",
+    "name": "D1 Lite",
+    "brand": "VoicMiner",
+    "type": "asic",
+    "releaseDate": "2025-02-01T00:00:00Z",
+    "algoPerfList": [
+      {
+        "algoName": "Scrypt",
+        "longHashrate": 14000000000,
+        "powerConsumptionWatts": 4000
+      }
+    ],
+    "price": 6980,
+    "imageUrl": null
+  },
+  {
+    "id": "a32da660-3087-4a68-99f4-130fd7c466a6",
+    "name": "Antminer S21e XP Hyd",
+    "brand": "Bitmain",
+    "type": "asic",
+    "releaseDate": "2024-11-01T00:00:00Z",
+    "algoPerfList": [
+      {
+        "algoName": "SHA-256",
+        "longHashrate": 430000000000000,
+        "powerConsumptionWatts": 5590
+      }
+    ],
+    "price": 11150,
+    "imageUrl": null
+  },
+  {
+    "id": "a281778e-d3f1-44ac-91c7-43cac2c92361",
+    "name": "DG 1",
+    "brand": "ElphaPex",
+    "type": "asic",
+    "releaseDate": "2024-02-01T00:00:00Z",
+    "algoPerfList": [
+      {
+        "algoName": "Scrypt",
+        "longHashrate": 11000000000,
+        "powerConsumptionWatts": 3420
+      }
+    ],
+    "price": 6300,
+    "imageUrl": null
+  },
+  {
+    "id": "1e42631a-5b52-4b7b-b33e-23f8fefa49dc",
+    "name": "Teraflux AI3680",
+    "brand": "Auradine",
+    "type": "asic",
+    "releaseDate": "2024-12-01T00:00:00Z",
+    "algoPerfList": [
+      {
+        "algoName": "SHA-256",
+        "longHashrate": 375000000000000,
+        "powerConsumptionWatts": 5625
+      }
+    ],
+    "price": null,
+    "imageUrl": null
+  },
+  {
+    "id": "87d04aa2-4b77-4945-8479-22903617f150",
+    "name": "SealMiner A2 Hyd",
+    "brand": "Bitdeer",
+    "type": "asic",
+    "releaseDate": "2025-02-01T00:00:00Z",
+    "algoPerfList": [
+      {
+        "algoName": "SHA-256",
+        "longHashrate": 446000000000000,
+        "powerConsumptionWatts": 7360
+      }
+    ],
+    "price": 7180,
+    "imageUrl": null
+  },
+  {
+    "id": "7141a89f-f388-42bd-af4c-5fd4c901b08b",
+    "name": "Antminer S21 XP Imm.",
+    "brand": "Bitmain",
+    "type": "asic",
+    "releaseDate": "2024-09-01T00:00:00Z",
+    "algoPerfList": [
+      {
+        "algoName": "SHA-256",
+        "longHashrate": 300000000000000,
+        "powerConsumptionWatts": 4050
+      }
+    ],
+    "price": 6700,
+    "imageUrl": null
+  },
+  {
+    "id": "c92cc2c3-bb4e-459d-91a0-65bef2ca1529",
+    "name": "WhatsMiner M66S++",
+    "brand": "MicroBT",
+    "type": "asic",
+    "releaseDate": "2024-12-01T00:00:00Z",
+    "algoPerfList": [
+      {
+        "algoName": "SHA-256",
+        "longHashrate": 356000000000000,
+        "powerConsumptionWatts": 5518
+      }
+    ],
+    "price": 8660,
+    "imageUrl": null
+  },
+  {
+    "id": "0e0f2a42-f23f-4876-abae-140fcd99f0c6",
+    "name": "WhatsMiner M63S+",
+    "brand": "MicroBT",
+    "type": "asic",
+    "releaseDate": "2024-08-01T00:00:00Z",
+    "algoPerfList": [
+      {
+        "algoName": "SHA-256",
+        "longHashrate": 424000000000000,
+        "powerConsumptionWatts": 7208
+      }
+    ],
+    "price": 11660,
+    "imageUrl": null
+  },
+  {
+    "id": "8d1e5759-b013-47a9-bfae-09596b08bde4",
+    "name": "Antminer L7",
+    "brand": "Bitmain",
+    "type": "asic",
+    "releaseDate": "2021-10-01T00:00:00Z",
+    "algoPerfList": [
+      {
+        "algoName": "Scrypt",
+        "longHashrate": 9500000000,
+        "powerConsumptionWatts": 3425
+      }
+    ],
+    "price": 4199,
+    "imageUrl": null
+  },
+  {
+    "id": "895d532a-e740-4936-a1ed-814e0391659a",
+    "name": "EZ100-PRO",
+    "brand": "Bombax Miner",
+    "type": "asic",
+    "releaseDate": "2024-06-01T00:00:00Z",
+    "algoPerfList": [
+      {
+        "algoName": "EtHash",
+        "longHashrate": 15500000000,
+        "powerConsumptionWatts": 3100
+      }
+    ],
+    "price": 13050,
+    "imageUrl": null
+  },
+  {
+    "id": "778bf749-0397-466b-8885-2fec96131979",
+    "name": "Antminer S21+ Hyd",
+    "brand": "Bitmain",
+    "type": "asic",
+    "releaseDate": "2025-02-01T00:00:00Z",
+    "algoPerfList": [
+      {
+        "algoName": "SHA-256",
+        "longHashrate": 319000000000000,
+        "powerConsumptionWatts": 4785
+      }
+    ],
+    "price": 5136,
+    "imageUrl": null
+  },
+  {
+    "id": "8dee58f9-1461-461e-8bcf-9f6cb940508d",
+    "name": "Antminer S21 XP",
+    "brand": "Bitmain",
+    "type": "asic",
+    "releaseDate": "2024-09-01T00:00:00Z",
+    "algoPerfList": [
+      {
+        "algoName": "SHA-256",
+        "longHashrate": 270000000000000,
+        "powerConsumptionWatts": 3645
+      }
+    ],
+    "price": 5950,
+    "imageUrl": null
+  },
+  {
+    "id": "95409cae-8290-4e1b-a284-d751411bbdd8",
+    "name": "Antminer L7",
+    "brand": "Bitmain",
+    "type": "asic",
+    "releaseDate": "2022-01-01T00:00:00Z",
+    "algoPerfList": [
+      {
+        "algoName": "Scrypt",
+        "longHashrate": 9300000000,
+        "powerConsumptionWatts": 3425
+      }
+    ],
+    "price": 4400,
+    "imageUrl": null
+  },
+  {
+    "id": "29de41aa-b5cc-4831-a84e-39001497ef96",
+    "name": "Antminer L7",
+    "brand": "Bitmain",
+    "type": "asic",
+    "releaseDate": "2021-10-01T00:00:00Z",
+    "algoPerfList": [
+      {
+        "algoName": "Scrypt",
+        "longHashrate": 9160000000,
+        "powerConsumptionWatts": 3425
+      }
+    ],
+    "price": 6200,
+    "imageUrl": null
+  },
+  {
+    "id": "56041400-88e4-4d2f-8ce8-250580778505",
+    "name": "Antminer S21 Hyd",
+    "brand": "Bitmain",
+    "type": "asic",
+    "releaseDate": "2024-01-01T00:00:00Z",
+    "algoPerfList": [
+      {
+        "algoName": "SHA-256",
+        "longHashrate": 335000000000000,
+        "powerConsumptionWatts": 5360
+      }
+    ],
+    "price": 5370,
+    "imageUrl": null
+  },
+  {
+    "id": "d9c00b7e-43d2-4a83-8f24-ca979d64fe82",
+    "name": "Antminer L7",
+    "brand": "Bitmain",
+    "type": "asic",
+    "releaseDate": "2022-01-01T00:00:00Z",
+    "algoPerfList": [
+      {
+        "algoName": "Scrypt",
+        "longHashrate": 9050000000,
+        "powerConsumptionWatts": 3425
+      }
+    ],
+    "price": 4199,
+    "imageUrl": null
+  },
+  {
+    "id": "4aebd2d0-b5c2-468f-8eff-a714816273b6",
+    "name": "EZ100",
+    "brand": "Bombax Miner",
+    "type": "asic",
+    "releaseDate": "2024-04-01T00:00:00Z",
+    "algoPerfList": [
+      {
+        "algoName": "EtHash",
+        "longHashrate": 12500000000,
+        "powerConsumptionWatts": 2300
+      }
+    ],
+    "price": 9899,
+    "imageUrl": null
+  },
+  {
+    "id": "6e79558e-6fe0-424b-aa02-2c79aad25ce5",
+    "name": "Antminer L7",
+    "brand": "Bitmain",
+    "type": "asic",
+    "releaseDate": "2022-01-01T00:00:00Z",
+    "algoPerfList": [
+      {
+        "algoName": "Scrypt",
+        "longHashrate": 8800000000,
+        "powerConsumptionWatts": 3425
+      }
+    ],
+    "price": 4400,
+    "imageUrl": null
+  },
+  {
+    "id": "a21d7338-e268-40e2-a6eb-e593da38bea7",
+    "name": "V2",
+    "brand": "iPollo",
+    "type": "asic",
+    "releaseDate": "2024-11-01T00:00:00Z",
+    "algoPerfList": [
+      {
+        "algoName": "EtHash",
+        "longHashrate": 10000000000,
+        "powerConsumptionWatts": 1500
+      }
+    ],
+    "price": 11999,
+    "imageUrl": null
+  },
+  {
+    "id": "70da13f0-2c36-434c-9cf7-87aab021663c",
+    "name": "L1",
+    "brand": "Fluminer",
+    "type": "asic",
+    "releaseDate": "2024-10-01T00:00:00Z",
+    "algoPerfList": [
+      {
+        "algoName": "Scrypt",
+        "longHashrate": 5300000000,
+        "powerConsumptionWatts": 1200
+      }
+    ],
+    "price": 3098,
+    "imageUrl": null
+  },
+  {
+    "id": "2c0bc784-d050-4405-8072-0196193b11ac",
+    "name": "WhatsMiner M66S+",
+    "brand": "MicroBT",
+    "type": "asic",
+    "releaseDate": "2024-08-01T00:00:00Z",
+    "algoPerfList": [
+      {
+        "algoName": "SHA-256",
+        "longHashrate": 318000000000000,
+        "powerConsumptionWatts": 5406
+      }
+    ],
+    "price": 5740,
+    "imageUrl": null
+  },
+  {
+    "id": "88e527ab-161e-40de-ab36-fdcb56c51e80",
+    "name": "WhatsMiner M63S",
+    "brand": "MicroBT",
+    "type": "asic",
+    "releaseDate": "2023-10-01T00:00:00Z",
+    "algoPerfList": [
+      {
+        "algoName": "SHA-256",
+        "longHashrate": 390000000000000,
+        "powerConsumptionWatts": 7215
+      }
+    ],
+    "price": 6116,
+    "imageUrl": null
+  },
+  {
+    "id": "6dbe02b6-a63d-4fbe-9d28-33efec0506aa",
+    "name": "Antminer S21 Pro",
+    "brand": "Bitmain",
+    "type": "asic",
+    "releaseDate": "2024-06-01T00:00:00Z",
+    "algoPerfList": [
+      {
+        "algoName": "SHA-256",
+        "longHashrate": 234000000000000,
+        "powerConsumptionWatts": 3531
+      }
+    ],
+    "price": 4200,
+    "imageUrl": null
+  },
+  {
+    "id": "5c072207-144e-4286-8226-e1822717d1d3",
+    "name": "WhatsMiner M60S++",
+    "brand": "MicroBT",
+    "type": "asic",
+    "releaseDate": "2024-12-01T00:00:00Z",
+    "algoPerfList": [
+      {
+        "algoName": "SHA-256",
+        "longHashrate": 226000000000000,
+        "powerConsumptionWatts": 3600
+      }
+    ],
+    "price": 5478,
+    "imageUrl": null
+  },
+  {
+    "id": "93a461f4-aa63-40db-b6d8-ba9f6ac95725",
+    "name": "Antminer S19 XP Hyd 3U",
+    "brand": "Bitmain",
+    "type": "asic",
+    "releaseDate": "2025-01-01T00:00:00Z",
+    "algoPerfList": [
+      {
+        "algoName": "SHA-256",
+        "longHashrate": 512000000000000,
+        "powerConsumptionWatts": 10600
+      }
+    ],
+    "price": 11490,
+    "imageUrl": null
+  },
+  {
+    "id": "1c67a5d6-74c0-4125-9295-e131b8d7d08f",
+    "name": "SealMiner A2",
+    "brand": "Bitdeer",
+    "type": "asic",
+    "releaseDate": "2025-02-01T00:00:00Z",
+    "algoPerfList": [
+      {
+        "algoName": "SHA-256",
+        "longHashrate": 226000000000000,
+        "powerConsumptionWatts": 3730
+      }
+    ],
+    "price": 3640,
+    "imageUrl": null
+  },
+  {
+    "id": "ed7b6dcc-61b5-470d-82ca-762d7c3be9ba",
+    "name": "Antminer S21 Imm.",
+    "brand": "Bitmain",
+    "type": "asic",
+    "releaseDate": "2024-12-01T00:00:00Z",
+    "algoPerfList": [
+      {
+        "algoName": "SHA-256",
+        "longHashrate": 301000000000000,
+        "powerConsumptionWatts": 5569
+      }
+    ],
+    "price": 3397,
+    "imageUrl": null
+  },
+  {
+    "id": "8f28ef49-af22-4452-8061-6921de4d85c5",
+    "name": "WhatsMiner M66S",
+    "brand": "MicroBT",
+    "type": "asic",
+    "releaseDate": "2023-10-01T00:00:00Z",
+    "algoPerfList": [
+      {
+        "algoName": "SHA-256",
+        "longHashrate": 298000000000000,
+        "powerConsumptionWatts": 5513
+      }
+    ],
+    "price": 5460,
+    "imageUrl": null
+  },
+  {
+    "id": "f492fd26-c774-4ccc-894a-b25ed797943a",
+    "name": "Antminer S21+",
+    "brand": "Bitmain",
+    "type": "asic",
+    "releaseDate": "2025-02-01T00:00:00Z",
+    "algoPerfList": [
+      {
+        "algoName": "SHA-256",
+        "longHashrate": 216000000000000,
+        "powerConsumptionWatts": 3564
+      }
+    ],
+    "price": 3340,
+    "imageUrl": null
+  },
+  {
+    "id": "0f3c3c2c-1249-42ed-92eb-db4190d7d1e9",
+    "name": "WhatsMiner M63S++",
+    "brand": "MicroBT",
+    "type": "asic",
+    "releaseDate": "2024-12-01T00:00:00Z",
+    "algoPerfList": [
+      {
+        "algoName": "SHA-256",
+        "longHashrate": 478000000000000,
+        "powerConsumptionWatts": 10000
+      }
+    ],
+    "price": 10575,
+    "imageUrl": null
+  },
+  {
+    "id": "4faba9a8-5867-4973-8d41-c10090c21a7a",
+    "name": "WhatsMiner M60S+",
+    "brand": "MicroBT",
+    "type": "asic",
+    "releaseDate": "2024-07-01T00:00:00Z",
+    "algoPerfList": [
+      {
+        "algoName": "SHA-256",
+        "longHashrate": 212000000000000,
+        "powerConsumptionWatts": 3600
+      }
+    ],
+    "price": 3659,
+    "imageUrl": null
+  },
+  {
+    "id": "18c7b2f4-9f3e-454e-8f9d-ab6af2120af7",
+    "name": "Avalon A1566I",
+    "brand": "Canaan",
+    "type": "asic",
+    "releaseDate": "2024-07-01T00:00:00Z",
+    "algoPerfList": [
+      {
+        "algoName": "SHA-256",
+        "longHashrate": 249000000000000,
+        "powerConsumptionWatts": 4500
+      }
+    ],
+    "price": 4995,
+    "imageUrl": null
+  },
+  {
+    "id": "c9e7dea2-4ca2-4c72-a20b-61263b1658a4",
+    "name": "Teraflux AT2880",
+    "brand": "Auradine",
+    "type": "asic",
+    "releaseDate": "2024-11-01T00:00:00Z",
+    "algoPerfList": [
+      {
+        "algoName": "SHA-256",
+        "longHashrate": 222000000000000,
+        "powerConsumptionWatts": 3850
+      }
+    ],
+    "price": null,
+    "imageUrl": null
+  },
+  {
+    "id": "b599f7d4-6df1-4dfc-bac4-9af712810929",
+    "name": "Antminer S19 XP+ Hyd",
+    "brand": "Bitmain",
+    "type": "asic",
+    "releaseDate": "2025-01-01T00:00:00Z",
+    "algoPerfList": [
+      {
+        "algoName": "SHA-256",
+        "longHashrate": 279000000000000,
+        "powerConsumptionWatts": 5301
+      }
+    ],
+    "price": 2820,
+    "imageUrl": null
+  },
+  {
+    "id": "63d3005e-ff73-4f54-a67d-5db6548283cc",
+    "name": "WhatsMiner M63",
+    "brand": "MicroBT",
+    "type": "asic",
+    "releaseDate": "2023-10-01T00:00:00Z",
+    "algoPerfList": [
+      {
+        "algoName": "SHA-256",
+        "longHashrate": 334000000000000,
+        "powerConsumptionWatts": 6646
+      }
+    ],
+    "price": 4828,
+    "imageUrl": null
+  },
+  {
+    "id": "daccb7c9-9050-4a92-a23e-eaf8c1fc53d6",
+    "name": "Antminer S21",
+    "brand": "Bitmain",
+    "type": "asic",
+    "releaseDate": "2024-01-01T00:00:00Z",
+    "algoPerfList": [
+      {
+        "algoName": "SHA-256",
+        "longHashrate": 200000000000000,
+        "powerConsumptionWatts": 3550
+      }
+    ],
+    "price": 3180,
+    "imageUrl": null
+  },
+  {
+    "id": "30608770-7eef-40cf-86dc-7fac73503774",
+    "name": "Avalon A15XP-206T",
+    "brand": "Canaan",
+    "type": "asic",
+    "releaseDate": "2024-12-01T00:00:00Z",
+    "algoPerfList": [
+      {
+        "algoName": "SHA-256",
+        "longHashrate": 206000000000000,
+        "powerConsumptionWatts": 3667
+      }
+    ],
+    "price": 2999,
+    "imageUrl": null
+  },
+  {
+    "id": "dedb9e9c-7928-4d4a-bd14-d0cb4e8ffbd1",
+    "name": "Antminer E11",
+    "brand": "Bitmain",
+    "type": "asic",
+    "releaseDate": "2025-01-01T00:00:00Z",
+    "algoPerfList": [
+      {
+        "algoName": "EtHash",
+        "longHashrate": 9500000000,
+        "powerConsumptionWatts": 2470
+      }
+    ],
+    "price": 5400,
+    "imageUrl": null
+  },
+  {
+    "id": "1247b3aa-9ad8-4e07-9e15-d6b43b350363",
+    "name": "WhatsMiner M66",
+    "brand": "MicroBT",
+    "type": "asic",
+    "releaseDate": "2023-10-01T00:00:00Z",
+    "algoPerfList": [
+      {
+        "algoName": "SHA-256",
+        "longHashrate": 280000000000000,
+        "powerConsumptionWatts": 5572
+      }
+    ],
+    "price": 3672,
+    "imageUrl": null
+  },
+  {
+    "id": "2224854d-55fe-4801-ac42-0cba125ada85",
+    "name": "Antminer E11",
+    "brand": "Bitmain",
+    "type": "asic",
+    "releaseDate": "2025-01-01T00:00:00Z",
+    "algoPerfList": [
+      {
+        "algoName": "EtHash",
+        "longHashrate": 9000000000,
+        "powerConsumptionWatts": 2340
+      }
+    ],
+    "price": 5400,
+    "imageUrl": null
+  },
+  {
+    "id": "6a42b23c-e326-4ee4-bf69-2feb1aeff5f3",
+    "name": "WhatsMiner M60S",
+    "brand": "MicroBT",
+    "type": "asic",
+    "releaseDate": "2024-01-01T00:00:00Z",
+    "algoPerfList": [
+      {
+        "algoName": "SHA-256",
+        "longHashrate": 186000000000000,
+        "powerConsumptionWatts": 3441
+      }
+    ],
+    "price": 3185,
+    "imageUrl": null
+  },
+  {
+    "id": "4b5a66de-0464-4b0e-bda0-79e44338eb61",
+    "name": "Avalon A1566",
+    "brand": "Canaan",
+    "type": "asic",
+    "releaseDate": "2024-09-01T00:00:00Z",
+    "algoPerfList": [
+      {
+        "algoName": "SHA-256",
+        "longHashrate": 185000000000000,
+        "powerConsumptionWatts": 3420
+      }
+    ],
+    "price": 2100,
+    "imageUrl": null
+  },
+  {
+    "id": "3f3a0d9b-2d47-46ed-89bb-d0055769f78c",
+    "name": "Avalon A15-194T",
+    "brand": "Canaan",
+    "type": "asic",
+    "releaseDate": "2024-12-01T00:00:00Z",
+    "algoPerfList": [
+      {
+        "algoName": "SHA-256",
+        "longHashrate": 194000000000000,
+        "powerConsumptionWatts": 3647
+      }
+    ],
+    "price": 2503,
+    "imageUrl": null
+  },
+  {
+    "id": "8461f5b2-08f4-4d05-b9f4-85074a06f2f8",
+    "name": "DG Max",
+    "brand": "Goldshell",
+    "type": "asic",
+    "releaseDate": "2024-10-01T00:00:00Z",
+    "algoPerfList": [
+      {
+        "algoName": "Scrypt",
+        "longHashrate": 6500000000,
+        "powerConsumptionWatts": 3400
+      }
+    ],
+    "price": 3380,
+    "imageUrl": null
+  },
+  {
+    "id": "b72a4659-bf12-41ad-add1-d0745421c6c6",
+    "name": "Antminer T21",
+    "brand": "Bitmain",
+    "type": "asic",
+    "releaseDate": "2024-01-01T00:00:00Z",
+    "algoPerfList": [
+      {
+        "algoName": "SHA-256",
+        "longHashrate": 190000000000000,
+        "powerConsumptionWatts": 3610
+      }
+    ],
+    "price": 2690,
+    "imageUrl": null
+  },
+  {
+    "id": "cb7a0e0a-d793-48bd-84b3-08e98cacac35",
+    "name": "D1 Mini Pre",
+    "brand": "VolcMiner",
+    "type": "asic",
+    "releaseDate": "2025-01-01T00:00:00Z",
+    "algoPerfList": [
+      {
+        "algoName": "Scrypt",
+        "longHashrate": 2200000000,
+        "powerConsumptionWatts": 500
+      }
+    ],
+    "price": 1350,
+    "imageUrl": null
+  },
+  {
+    "id": "1d90e2c1-2d7f-4d4c-85ac-98af23a84751",
+    "name": "Antminer S19 XP Hyd",
+    "brand": "Bitmain",
+    "type": "asic",
+    "releaseDate": "2022-10-01T00:00:00Z",
+    "algoPerfList": [
+      {
+        "algoName": "SHA-256",
+        "longHashrate": 257000000000000,
+        "powerConsumptionWatts": 5345
+      }
+    ],
+    "price": 2630,
+    "imageUrl": null
+  },
+  {
+    "id": "57f786ef-7c90-48a3-b71b-dd5a29f849fd",
+    "name": "V2H",
+    "brand": "iPollo",
+    "type": "asic",
+    "releaseDate": "2024-11-01T00:00:00Z",
+    "algoPerfList": [
+      {
+        "algoName": "EtHash",
+        "longHashrate": 3400000000,
+        "powerConsumptionWatts": 475
+      }
+    ],
+    "price": 2999,
+    "imageUrl": null
+  },
+  {
+    "id": "95365e19-40c1-4e72-a943-fb2dafde2db4",
+    "name": "WhatsMiner M60",
+    "brand": "MicroBT",
+    "type": "asic",
+    "releaseDate": "2024-01-01T00:00:00Z",
+    "algoPerfList": [
+      {
+        "algoName": "SHA-256",
+        "longHashrate": 172000000000000,
+        "powerConsumptionWatts": 3422
+      }
+    ],
+    "price": 2200,
+    "imageUrl": null
+  },
+  {
+    "id": "5db1b4bc-f35e-43f1-8905-3867df30af3c",
+    "name": "DG Home 1",
+    "brand": "ElphaPex",
+    "type": "asic",
+    "releaseDate": "2024-10-01T00:00:00Z",
+    "algoPerfList": [
+      {
+        "algoName": "Scrypt",
+        "longHashrate": 2000000000,
+        "powerConsumptionWatts": 620
+      }
+    ],
+    "price": 1260,
+    "imageUrl": null
+  },
+  {
+    "id": "49acc9f3-d162-4fd9-bdf6-36ab4fe4b073",
+    "name": "Antminer X5",
+    "brand": "Bitmain",
+    "type": "asic",
+    "releaseDate": "2023-09-01T00:00:00Z",
+    "algoPerfList": [
+      {
+        "algoName": "RandomX",
+        "longHashrate": 212000,
+        "powerConsumptionWatts": 1350
+      }
+    ],
+    "price": 2377,
+    "imageUrl": null
+  },
+  {
+    "id": "9b2d8ae1-d364-417e-a2b0-dcbd339cb7fb",
+    "name": "EZ100-C",
+    "brand": "Bombax Miner",
+    "type": "asic",
+    "releaseDate": "2024-05-01T00:00:00Z",
+    "algoPerfList": [
+      {
+        "algoName": "EtHash",
+        "longHashrate": 3800000000,
+        "powerConsumptionWatts": 760
+      }
+    ],
+    "price": 3550,
+    "imageUrl": null
+  },
+  {
+    "id": "f96a2029-a21b-48ac-84cb-ad61a6cbfb33",
+    "name": "A21",
+    "brand": "DragonBall Miner",
+    "type": "asic",
+    "releaseDate": "2024-12-01T00:00:00Z",
+    "algoPerfList": [
+      {
+        "algoName": "NexaPow",
+        "longHashrate": 3400000000,
+        "powerConsumptionWatts": 1800
+      }
+    ],
+    "price": 7990,
+    "imageUrl": null
+  },
+  {
+    "id": "4ec4673f-ff86-4bf9-81c4-6ba7815b79cd",
+    "name": "Antminer T19 Pro Hyd",
+    "brand": "Bitmain",
+    "type": "asic",
+    "releaseDate": "2024-02-01T00:00:00Z",
+    "algoPerfList": [
+      {
+        "algoName": "SHA-256",
+        "longHashrate": 235000000000000,
+        "powerConsumptionWatts": 5170
+      }
+    ],
+    "price": 2699,
+    "imageUrl": null
+  },
+  {
+    "id": "38bac3ca-ec47-45da-93ce-56cef8a3ca31",
+    "name": "E-DG1M",
+    "brand": "Goldshell",
+    "type": "asic",
+    "releaseDate": "2024-08-01T00:00:00Z",
+    "algoPerfList": [
+      {
+        "algoName": "Scrypt",
+        "longHashrate": 3400000000,
+        "powerConsumptionWatts": 1800
+      }
+    ],
+    "price": 2469,
+    "imageUrl": null
+  },
+  {
+    "id": "43b794e8-9427-466b-958c-7dceb296cd70",
+    "name": "BM-S3",
+    "brand": "iBeLink",
+    "type": "asic",
+    "releaseDate": "2024-03-01T00:00:00Z",
+    "algoPerfList": [
+      {
+        "algoName": "Blake2B-Sia",
+        "longHashrate": 19000000000000,
+        "powerConsumptionWatts": 3100
+      }
+    ],
+    "price": 1799,
+    "imageUrl": null
+  },
+  {
+    "id": "a0188f3b-e3d5-4551-89c6-345b9ebef0b1",
+    "name": "G1",
+    "brand": "iPollo",
+    "type": "asic",
+    "releaseDate": "2020-12-01T00:00:00Z",
+    "algoPerfList": [
+      {
+        "algoName": "Cuckatoo32",
+        "longHashrate": 36,
+        "powerConsumptionWatts": 2800
+      }
+    ],
+    "price": 4598,
+    "imageUrl": null
+  },
+  {
+    "id": "1040771f-cf46-47e5-8afd-00fd92b8c123",
+    "name": "Antminer S19j XP",
+    "brand": "Bitmain",
+    "type": "asic",
+    "releaseDate": "2024-06-01T00:00:00Z",
+    "algoPerfList": [
+      {
+        "algoName": "SHA-256",
+        "longHashrate": 151000000000000,
+        "powerConsumptionWatts": 3247
+      }
+    ],
+    "price": 1428,
+    "imageUrl": null
+  },
+  {
+    "id": "38f09df3-8096-487a-b057-ffc9d62888c8",
+    "name": "Avalon Made A1466",
+    "brand": "Canaan",
+    "type": "asic",
+    "releaseDate": "2023-08-01T00:00:00Z",
+    "algoPerfList": [
+      {
+        "algoName": "SHA-256",
+        "longHashrate": 150000000000000,
+        "powerConsumptionWatts": 3230
+      }
+    ],
+    "price": 1179,
+    "imageUrl": null
+  },
+  {
+    "id": "e1de24b0-03af-49e6-a1f1-eee1dba9073c",
+    "name": "Antminer S19 XP",
+    "brand": "Bitmain",
+    "type": "asic",
+    "releaseDate": "2022-06-01T00:00:00Z",
+    "algoPerfList": [
+      {
+        "algoName": "SHA-256",
+        "longHashrate": 140000000000000,
+        "powerConsumptionWatts": 3010
+      }
+    ],
+    "price": 1535,
+    "imageUrl": null
+  },
+  {
+    "id": "e5f51352-dbee-4402-a1a9-9612a1803e46",
+    "name": "X16-P",
+    "brand": "Jasminer",
+    "type": "asic",
+    "releaseDate": "2023-07-01T00:00:00Z",
+    "algoPerfList": [
+      {
+        "algoName": "EtHash",
+        "longHashrate": 5800000000,
+        "powerConsumptionWatts": 1900
+      }
+    ],
+    "price": 4100,
+    "imageUrl": null
+  },
+  {
+    "id": "aceaabc8-3303-418c-8f6f-b23c9a762fb5",
+    "name": "V2X",
+    "brand": "iPollo",
+    "type": "asic",
+    "releaseDate": "2024-11-01T00:00:00Z",
+    "algoPerfList": [
+      {
+        "algoName": "EtHash",
+        "longHashrate": 1200000000,
+        "powerConsumptionWatts": 165
+      }
+    ],
+    "price": 1299,
+    "imageUrl": null
+  },
+  {
+    "id": "6e99a37b-7780-43d0-ba46-aa96ca81c974",
+    "name": "X16-Q Pro",
+    "brand": "Jasminer",
+    "type": "asic",
+    "releaseDate": "2024-06-01T00:00:00Z",
+    "algoPerfList": [
+      {
+        "algoName": "EtHash",
+        "longHashrate": 2050000000,
+        "powerConsumptionWatts": 520
+      }
+    ],
+    "price": 1699,
+    "imageUrl": null
+  },
+  {
+    "id": "dfef33db-6425-4257-99c0-801cc7b77635",
+    "name": "Antminer KS5 Pro",
+    "brand": "Bitmain",
+    "type": "asic",
+    "releaseDate": "2024-03-01T00:00:00Z",
+    "algoPerfList": [
+      {
+        "algoName": "KHeavyHash",
+        "longHashrate": 21000000000000,
+        "powerConsumptionWatts": 3150
+      }
+    ],
+    "price": 2100,
+    "imageUrl": null
+  },
+  {
+    "id": "2a897c1f-9631-4e6c-9d0b-e21e4697a6bc",
+    "name": "Antminer KS5",
+    "brand": "Bitmain",
+    "type": "asic",
+    "releaseDate": "2024-03-01T00:00:00Z",
+    "algoPerfList": [
+      {
+        "algoName": "KHeavyHash",
+        "longHashrate": 20000000000000,
+        "powerConsumptionWatts": 3000
+      }
+    ],
+    "price": 2200,
+    "imageUrl": null
+  },
+  {
+    "id": "2f5edace-d4f6-4826-9fc6-4afd0fa6f927",
+    "name": "Antminer S19k Pro",
+    "brand": "Bitmain",
+    "type": "asic",
+    "releaseDate": "2023-03-01T00:00:00Z",
+    "algoPerfList": [
+      {
+        "algoName": "SHA-256",
+        "longHashrate": 120000000000000,
+        "powerConsumptionWatts": 2760
+      }
+    ],
+    "price": 995,
+    "imageUrl": null
+  },
+  {
+    "id": "710685a7-e3ea-430d-9aa9-ca1f0ad1a7ae",
+    "name": "Antminer AL1 Pro",
+    "brand": "Bitmain",
+    "type": "asic",
+    "releaseDate": "2024-09-01T00:00:00Z",
+    "algoPerfList": [
+      {
+        "algoName": "Blake3",
+        "longHashrate": 16600000000000,
+        "powerConsumptionWatts": 3730
+      }
+    ],
+    "price": 9700,
+    "imageUrl": null
+  },
+  {
+    "id": "1c260d6f-f39b-4ae2-81b1-c1aae3920e5b",
+    "name": "X16-Q",
+    "brand": "Jasminer",
+    "type": "asic",
+    "releaseDate": "2023-04-01T00:00:00Z",
+    "algoPerfList": [
+      {
+        "algoName": "EtHash",
+        "longHashrate": 1950000000,
+        "powerConsumptionWatts": 620
+      }
+    ],
+    "price": 1349,
+    "imageUrl": null
+  },
+  {
+    "id": "21456d7f-4ba0-4618-94a5-86881a338a40",
+    "name": "X16-QE",
+    "brand": "Jasminer",
+    "type": "asic",
+    "releaseDate": "2024-08-01T00:00:00Z",
+    "algoPerfList": [
+      {
+        "algoName": "EtHash",
+        "longHashrate": 1750000000,
+        "powerConsumptionWatts": 550
+      }
+    ],
+    "price": 1093,
+    "imageUrl": null
+  },
+  {
+    "id": "ae3a5fe9-01d5-4919-922d-2f3b75c26cc7",
+    "name": "Antminer AL1",
+    "brand": "Bitmain",
+    "type": "asic",
+    "releaseDate": "2024-07-01T00:00:00Z",
+    "algoPerfList": [
+      {
+        "algoName": "Blake3",
+        "longHashrate": 15600000000000,
+        "powerConsumptionWatts": 3510
+      }
+    ],
+    "price": 9300,
+    "imageUrl": null
+  },
+  {
+    "id": "51248081-7905-45cd-bb4b-54c6dab0ef8e",
+    "name": "Avalon Mini 3",
+    "brand": "Canaan",
+    "type": "asic",
+    "releaseDate": "2025-01-01T00:00:00Z",
+    "algoPerfList": [
+      {
+        "algoName": "SHA-256",
+        "longHashrate": 375000000000000,
+        "powerConsumptionWatts": 800
+      }
+    ],
+    "price": 898,
+    "imageUrl": null
+  },
+  {
+    "id": "3a6366c1-e718-4bfc-9fa9-549d164cb94d",
+    "name": "RX0",
+    "brand": "IceRiver",
+    "type": "asic",
+    "releaseDate": "2024-09-01T00:00:00Z",
+    "algoPerfList": [
+      {
+        "algoName": "SHA512256d",
+        "longHashrate": 260000000000,
+        "powerConsumptionWatts": 100
+      }
+    ],
+    "price": 395,
+    "imageUrl": null
+  },
+  {
+    "id": "73e5a7be-c21b-4c1e-b61e-5f1b336cc720",
+    "name": "Mini-DOGE III Plus",
+    "brand": "Goldshell",
+    "type": "asic",
+    "releaseDate": "2024-03-01T00:00:00Z",
+    "algoPerfList": [
+      {
+        "algoName": "Scrypt",
+        "longHashrate": 810000000,
+        "powerConsumptionWatts": 500
+      }
+    ],
+    "price": 739,
+    "imageUrl": null
+  },
+  {
+    "id": "639bf68a-affe-413d-ba4f-7d6f78b1a734",
+    "name": "Mini-DOGE III",
+    "brand": "Goldshell",
+    "type": "asic",
+    "releaseDate": "2023-10-01T00:00:00Z",
+    "algoPerfList": [
+      {
+        "algoName": "Scrypt",
+        "longHashrate": 650000000,
+        "powerConsumptionWatts": 400
+      }
+    ],
+    "price": 585,
+    "imageUrl": null
+  }
+]
