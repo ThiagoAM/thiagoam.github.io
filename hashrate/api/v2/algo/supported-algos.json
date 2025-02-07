@@ -17,6 +17,10 @@
     ]
   },
   {
+    "name": "zkSNARK",
+    "cryptoTickers": ["ALEO"]
+  },
+  {
     "name": "Blake (2b)",
     "cryptoTickers": ["SC", "NANO"]
   },
