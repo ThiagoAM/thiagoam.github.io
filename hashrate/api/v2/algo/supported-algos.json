@@ -104,6 +104,10 @@
     ]
   },
   {
+    "name": "NexaPow",
+    "cryptoTickers": ["NEXA"]
+  },
+  {
     "name": "ProgPoW",
     "cryptoTickers": ["ETHW", "ETHF", "VTC", "Zero"]
   },
