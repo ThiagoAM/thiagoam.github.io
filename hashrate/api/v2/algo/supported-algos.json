@@ -17,6 +17,18 @@
     ]
   },
   {
+    "name": "Tensority",
+    "cryptoTickers": ["BTM"]
+  },
+  {
+    "name": "Myriad-Groestl",
+    "cryptoTickers": ["XMY"]
+  },
+  {
+    "name": "SHA512256d",
+    "cryptoTickers": ["RXD"]
+  },
+  {
     "name": "Blake3",
     "cryptoTickers": ["ALPH"]
   },
@@ -271,6 +283,10 @@
   {
     "name": "Cuckaroo29",
     "cryptoTickers": ["CTXC"]
+  },
+  {
+    "name": "Blake2B-Sia",
+    "cryptoTickers": ["SC"]
   },
   {
     "name": "Blake2b",
