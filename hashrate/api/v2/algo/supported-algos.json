@@ -17,6 +17,10 @@
     ]
   },
   {
+    "name": "Blake3",
+    "cryptoTickers": ["ALPH"]
+  },
+  {
     "name": "zkSNARK",
     "cryptoTickers": ["ALEO"]
   },
