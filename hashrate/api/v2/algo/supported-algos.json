@@ -13,7 +13,8 @@
       "ECA",
       "BBTC",
       "DNotes",
-      "CMC"
+      "CMC",
+      "XEC"
     ]
   },
   {
@@ -129,7 +130,7 @@
   },
   {
     "name": "RandomX",
-    "cryptoTickers": ["XMR", "WOWNERO", "AEON"]
+    "cryptoTickers": ["XMR", "WOWNERO", "AEON", "ZEPH"]
   },
   {
     "name": "RandomSFX",
