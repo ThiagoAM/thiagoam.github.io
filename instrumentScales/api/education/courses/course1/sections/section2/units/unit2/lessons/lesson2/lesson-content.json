@@ -1,0 +1,43 @@
+{
+  "id": "content2",
+  "blocks": [
+    { "type": "heading", "value": { "values": { "en": "Lesson 2 (Remote)" } } },
+    { "type": "text", "value": { "values": { "en": "This is lesson 2." } } },
+    { "type": "divider" },
+    {
+      "type": "text",
+      "value": { "values": { "en": "Even more content here." } }
+    }
+  ],
+  "tests": [
+    {
+      "id": "test1",
+      "title": { "values": { "en": "Quick Check" } },
+      "type": "multipleChoice",
+      "question": { "values": { "en": "What is 2+2?" } },
+      "alternatives": [
+        {
+          "id": "a1",
+          "text": { "values": { "en": "4" } },
+          "image": null,
+          "audio": null,
+          "feedback": null
+        },
+        {
+          "id": "a2",
+          "text": { "values": { "en": "3" } },
+          "image": null,
+          "audio": null,
+          "feedback": null
+        }
+      ],
+      "correctAlternativeIDs": ["a1"],
+      "shuffleAlternatives": false,
+      "points": 1,
+      "timeLimitSeconds": null,
+      "explanation": null
+    }
+  ],
+  "createdAt": "1970-01-01T00:00:00Z",
+  "updatedAt": null
+}

@@ -1,0 +1,26 @@
+{
+  "id": "content3",
+  "blocks": [
+    { "type": "heading", "value": { "values": { "en": "Getting Started" } } },
+    { "type": "text", "value": { "values": { "en": "This is the first lesson of course 2." } } }
+  ],
+  "tests": [
+    {
+      "id": "test1",
+      "title": { "values": { "en": "Check" } },
+      "type": "multipleChoice",
+      "question": { "values": { "en": "Choose the correct option." } },
+      "alternatives": [
+        { "id": "a1", "text": { "values": { "en": "Correct" } }, "image": null, "audio": null, "feedback": null },
+        { "id": "a2", "text": { "values": { "en": "Incorrect" } }, "image": null, "audio": null, "feedback": null }
+      ],
+      "correctAlternativeIDs": ["a1"],
+      "shuffleAlternatives": false,
+      "points": 1,
+      "timeLimitSeconds": null,
+      "explanation": null
+    }
+  ],
+  "createdAt": "1970-01-01T00:00:00Z",
+  "updatedAt": null
+}

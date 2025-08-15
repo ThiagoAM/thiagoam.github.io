@@ -1,0 +1,29 @@
+{
+  "schemaVersion": 1,
+  "courses": [
+    {
+      "id": "course1",
+      "slug": "course-1",
+      "name": { "values": { "en": "Course 1 (Remote)" } },
+      "summary": null,
+      "image": null,
+      "tags": ["tag1"],
+      "order": 1,
+      "createdAt": "1970-01-01T00:00:00Z",
+      "updatedAt": null
+    },
+    {
+      "id": "course2",
+      "slug": "course-2",
+      "name": { "values": { "en": "Course 2 (Remote)" } },
+      "summary": null,
+      "image": null,
+      "tags": ["tag2"],
+      "order": 2,
+      "createdAt": "1970-01-01T00:00:00Z",
+      "updatedAt": null
+    }
+  ],
+  "createdAt": "1970-01-01T00:00:00Z",
+  "updatedAt": null
+}
