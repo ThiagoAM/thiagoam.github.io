@@ -1,0 +1,57 @@
+{
+  "next": null,
+  "previous": null,
+  "results": [
+    {
+      "id": 1,
+      "slug": "btc-demand-cools",
+      "title": "Asia Morning Briefing: BTC Demand Cools While “Crypto Capital is Getting More Selective,” OKX’s Gracie Lin Warns",
+      "description": "With BTC demand cooling and profit-taking accelerating, investors are rotating into ether and a handful of resilient plays while retail “altseason” fades.",
+      "published_at": "2025-08-21T00:09:00Z",
+      "created_at": "2025-08-21T00:09:00Z",
+      "kind": "news",
+      "url": "https://www.coindesk.com/markets/2025/08/21/asia-morning-briefing-btc-demand-cools-while-crypto-capital-is-getting-more-selective-okx-s-gracie-lin-warns"
+    },
+    {
+      "id": 2,
+      "slug": "ozak-ai-presale-volume",
+      "title": "Ozak AI Presale Volume Rises 80% in 7 Days as Token Price Hits $0.005",
+      "description": "Ozak AI ($OZ) presale volume surged 80% in seven days, selling over 158 million tokens and raising nearly $2 million; token now at $0.005 in Stage 4.",
+      "published_at": "2025-08-21T00:00:00Z",
+      "created_at": "2025-08-21T00:00:00Z",
+      "kind": "news",
+      "url": "https://www.ainvest.com/news/ethereum-news-today-ozak-ai-presale-volume-rises-80-7-days-token-price-hits-0-005-2508/"
+    },
+    {
+      "id": 3,
+      "slug": "crypto-down-bitcoin-bearish",
+      "title": "Why Crypto is Down Today? Bitcoin Bearish Shift, CLARITY Act Momentum, and Tether’s New US Adviser",
+      "description": "Retail traders turned ultra bearish as Bitcoin dipped below $113K; Senator Tim Scott pushes CLARITY Act, and Tether hires former White House Crypto Council director Bo Hines.",
+      "published_at": "2025-08-20T00:00:00Z",
+      "created_at": "2025-08-20T00:00:00Z",
+      "kind": "news",
+      "url": "https://www.binance.com/en/square/post/08-20-2025-crypto-news-why-crypto-is-down-today-bitcoin-bearish-shift-clarity-act-momentum-and-tether-s-new-us-adviser-20-august-28569200128225"
+    },
+    {
+      "id": 4,
+      "slug": "china-stablecoin-plan",
+      "title": "China Considering Yuan-Backed Stablecoins to Boost Global Currency Usage",
+      "description": "China may endorse yuan-backed stablecoins to internationalize its currency; plan includes rollout via Hong Kong and Shanghai, with regulatory guidance under review.",
+      "published_at": "2025-08-20T00:00:00Z",
+      "created_at": "2025-08-20T00:00:00Z",
+      "kind": "news",
+      "url": "https://www.reuters.com/business/finance/china-considering-yuan-backed-stablecoins-boost-global-currency-usage-sources-2025-08-20/"
+    },
+    {
+      "id": 5,
+      "slug": "freeze-300m-stolen-crypto",
+      "title": "Major Crackdown Freezes Over $300 Million in Cryptocurrency Stolen from Scams",
+      "description": "Law enforcement and crypto firms froze over $300 million in assets linked to scams; T3 FCU initiative and operations like Atlas and Avalanche targeted fraud in 14 countries.",
+      "published_at": "2025-08-18T00:00:00Z",
+      "created_at": "2025-08-18T00:00:00Z",
+      "kind": "news",
+      "url": "https://www.techradar.com/pro/security/major-crackdown-freezes-over-usd300-million-in-cryptocurrency-stolen-from-scams"
+    }
+  ],
+  "updatedAt": "2025-08-21T12:00:00Z"
+}
