@@ -7,7 +7,8 @@
       "description": "With BTC demand cooling and profit-taking accelerating, investors are rotating into ether and a handful of resilient plays while retail “altseason” fades.",
       "published_at": "2025-08-21T00:09:00Z",
       "created_at": "2025-08-21T00:09:00Z",
-      "url": "https://www.coindesk.com/markets/2025/08/21/asia-morning-briefing-btc-demand-cools-while-crypto-capital-is-getting-more-selective-okx-s-gracie-lin-warns"
+      "url": "https://www.coindesk.com/markets/2025/08/21/asia-morning-briefing-btc-demand-cools-while-crypto-capital-is-getting-more-selective-okx-s-gracie-lin-warns",
+      "source": "CoinDesk"
     },
     {
       "id": 2,
@@ -16,7 +17,8 @@
       "description": "Ozak AI ($OZ) presale volume surged 80% in seven days, selling over 158 million tokens and raising nearly $2 million; token now at $0.005 in Stage 4.",
       "published_at": "2025-08-21T00:00:00Z",
       "created_at": "2025-08-21T00:00:00Z",
-      "url": "https://www.ainvest.com/news/ethereum-news-today-ozak-ai-presale-volume-rises-80-7-days-token-price-hits-0-005-2508/"
+      "url": "https://www.ainvest.com/news/ethereum-news-today-ozak-ai-presale-volume-rises-80-7-days-token-price-hits-0-005-2508/",
+      "source": "AInvest"
     },
     {
       "id": 3,
@@ -25,7 +27,8 @@
       "description": "Retail traders turned ultra bearish as Bitcoin dipped below $113K; Senator Tim Scott pushes CLARITY Act, and Tether hires former White House Crypto Council director Bo Hines.",
       "published_at": "2025-08-20T00:00:00Z",
       "created_at": "2025-08-20T00:00:00Z",
-      "url": "https://www.binance.com/en/square/post/08-20-2025-crypto-news-why-crypto-is-down-today-bitcoin-bearish-shift-clarity-act-momentum-and-tether-s-new-us-adviser-20-august-28569200128225"
+      "url": "https://www.binance.com/en/square/post/08-20-2025-crypto-news-why-crypto-is-down-today-bitcoin-bearish-shift-clarity-act-momentum-and-tether-s-new-us-adviser-20-august-28569200128225",
+      "source": "Binance"
     },
     {
       "id": 4,
@@ -34,7 +37,8 @@
       "description": "China may endorse yuan-backed stablecoins to internationalize its currency; plan includes rollout via Hong Kong and Shanghai, with regulatory guidance under review.",
       "published_at": "2025-08-20T00:00:00Z",
       "created_at": "2025-08-20T00:00:00Z",
-      "url": "https://www.reuters.com/business/finance/china-considering-yuan-backed-stablecoins-boost-global-currency-usage-sources-2025-08-20/"
+      "url": "https://www.reuters.com/business/finance/china-considering-yuan-backed-stablecoins-boost-global-currency-usage-sources-2025-08-20/",
+      "source": "Reuters"
     },
     {
       "id": 5,
@@ -43,8 +47,69 @@
       "description": "Law enforcement and crypto firms froze over $300 million in assets linked to scams; T3 FCU initiative and operations like Atlas and Avalanche targeted fraud in 14 countries.",
       "published_at": "2025-08-18T00:00:00Z",
       "created_at": "2025-08-18T00:00:00Z",
-      "url": "https://www.techradar.com/pro/security/major-crackdown-freezes-over-usd300-million-in-cryptocurrency-stolen-from-scams"
+      "url": "https://www.techradar.com/pro/security/major-crackdown-freezes-over-usd300-million-in-cryptocurrency-stolen-from-scams",
+      "source": "TechRadar"
+    },
+    {
+      "id": 6,
+      "slug": "ethereum-hits-all-time-high",
+      "title": "Ethereum Price Hits New All-Time High Above $4,880 Amid Crypto Market Rally",
+      "description": "Ethereum price hits $4,880 (or around $4,885) after signals of rate cuts and ETF inflows, marking a new all-time high.",
+      "published_at": "2025-08-24T00:00:00Z",
+      "created_at": "2025-08-24T00:00:00Z",
+      "url": "https://coincentral.com/ethereum-price-hits-new-all-time-high-above-4880-amid-crypto-market-rally/",
+      "source": "CoinCentral"
+    },
+    {
+      "id": 7,
+      "slug": "xrp-spot-etf-proposals",
+      "title": "XRP Price Jumps 10% as Six Firms Update Spot XRP ETF Proposals with SEC",
+      "description": "XRP rallies as six firms submit updated spot ETF proposals to the SEC, pushing price up by around 10%.",
+      "published_at": "2025-08-24T00:00:00Z",
+      "created_at": "2025-08-24T00:00:00Z",
+      "url": "https://www.coincentral.com/ethereum-price-hits-new-all-time-high-above-4880-amid-crypto-market-rally/",
+      "source": "CoinCentral"
+    },
+    {
+      "id": 8,
+      "slug": "blockdag-presale-scarcity",
+      "title": "BlockDAG's Hybrid Tech Sparks a New Crypto Scarcity Race",
+      "description": "BlockDAG, a hybrid DAG and Proof-of-Work project, has raised over $379 million in its presale—making it one of the largest presale events in crypto history.",
+      "published_at": "2025-08-24T00:00:00Z",
+      "created_at": "2025-08-24T00:00:00Z",
+      "url": "https://www.ainvest.com/news/ethereum-news-today-blockdag-hybrid-tech-sparks-crypto-scarcity-race-2508/",
+      "source": "AInvest"
+    },
+    {
+      "id": 9,
+      "slug": "asia-wealthy-investors-crypto",
+      "title": "Asia's Wealthy Investors Seek More Crypto in Portfolios",
+      "description": "Wealthy families and family offices in Asia ramp up crypto investment, with some aiming for ~5% of portfolios; campaigns like GENIUS Act and trading activity rising.",
+      "published_at": "2025-08-21T00:00:00Z",
+      "created_at": "2025-08-21T00:00:00Z",
+      "url": "https://www.reuters.com/world/china/asias-wealthy-investors-seek-more-crypto-portfolios-2025-08-21/",
+      "source": "Reuters"
+    },
+    {
+      "id": 10,
+      "slug": "fed-bowman-less-cautious-crypto",
+      "title": "Fed’s Bowman Urges Less ‘Cautious Mindset’ on Crypto",
+      "description": "At the Wyoming Blockchain Symposium, Fed Governor Michelle Bowman urged a more proactive regulatory approach to crypto, blockchain, and AI amidst stablecoin reforms.",
+      "published_at": "2025-08-20T00:00:00Z",
+      "created_at": "2025-08-20T00:00:00Z",
+      "url": "https://www.barrons.com/articles/fed-bowman-crypto-blockchain-ai-1fcd77b6",
+      "source": "Barron's"
+    },
+    {
+      "id": 11,
+      "slug": "eric-trump-bitcoin-predictions",
+      "title": "Eric Trump Makes Bitcoin Price Predictions as He Reportedly Gets Ready to Visit Metaplanet",
+      "description": "Eric Trump calls himself a “bitcoin maxi,” forecasts BTC at $175K by year’s end—and Eyes acquisitions via American Bitcoin in Japan and Hong Kong.",
+      "published_at": "2025-08-23T00:00:00Z",
+      "created_at": "2025-08-23T00:00:00Z",
+      "url": "https://www.coindesk.com/business/2025/08/23/eric-trump-makes-bitcoin-price-predictions-as-he-reportedly-gets-ready-to-visit-metaplanet",
+      "source": "CoinDesk"
     }
   ],
-  "updatedAt": "2025-08-21T12:00:00Z"
+  "updatedAt": "2025-08-24T12:00:00Z"
 }
