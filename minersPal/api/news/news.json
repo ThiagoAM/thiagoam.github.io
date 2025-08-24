@@ -1,7 +1,6 @@
 {
   "results": [
     {
-      "id": 1,
       "slug": "btc-demand-cools",
       "title": "Asia Morning Briefing: BTC Demand Cools While “Crypto Capital is Getting More Selective,” OKX’s Gracie Lin Warns",
       "description": "With BTC demand cooling and profit-taking accelerating, investors are rotating into ether and a handful of resilient plays while retail “altseason” fades.",
@@ -11,7 +10,6 @@
       "source": "CoinDesk"
     },
     {
-      "id": 2,
       "slug": "ozak-ai-presale-volume",
       "title": "Ozak AI Presale Volume Rises 80% in 7 Days as Token Price Hits $0.005",
       "description": "Ozak AI ($OZ) presale volume surged 80% in seven days, selling over 158 million tokens and raising nearly $2 million; token now at $0.005 in Stage 4.",
@@ -21,7 +19,6 @@
       "source": "AInvest"
     },
     {
-      "id": 3,
       "slug": "crypto-down-bitcoin-bearish",
       "title": "Why Crypto is Down Today? Bitcoin Bearish Shift, CLARITY Act Momentum, and Tether’s New US Adviser",
       "description": "Retail traders turned ultra bearish as Bitcoin dipped below $113K; Senator Tim Scott pushes CLARITY Act, and Tether hires former White House Crypto Council director Bo Hines.",
@@ -31,7 +28,6 @@
       "source": "Binance"
     },
     {
-      "id": 4,
       "slug": "china-stablecoin-plan",
       "title": "China Considering Yuan-Backed Stablecoins to Boost Global Currency Usage",
       "description": "China may endorse yuan-backed stablecoins to internationalize its currency; plan includes rollout via Hong Kong and Shanghai, with regulatory guidance under review.",
@@ -41,7 +37,6 @@
       "source": "Reuters"
     },
     {
-      "id": 5,
       "slug": "freeze-300m-stolen-crypto",
       "title": "Major Crackdown Freezes Over $300 Million in Cryptocurrency Stolen from Scams",
       "description": "Law enforcement and crypto firms froze over $300 million in assets linked to scams; T3 FCU initiative and operations like Atlas and Avalanche targeted fraud in 14 countries.",
@@ -51,7 +46,6 @@
       "source": "TechRadar"
     },
     {
-      "id": 6,
       "slug": "ethereum-hits-all-time-high",
       "title": "Ethereum Price Hits New All-Time High Above $4,880 Amid Crypto Market Rally",
       "description": "Ethereum price hits $4,880 (or around $4,885) after signals of rate cuts and ETF inflows, marking a new all-time high.",
@@ -61,7 +55,6 @@
       "source": "CoinCentral"
     },
     {
-      "id": 7,
       "slug": "xrp-spot-etf-proposals",
       "title": "XRP Price Jumps 10% as Six Firms Update Spot XRP ETF Proposals with SEC",
       "description": "XRP rallies as six firms submit updated spot ETF proposals to the SEC, pushing price up by around 10%.",
@@ -71,7 +64,6 @@
       "source": "CoinCentral"
     },
     {
-      "id": 8,
       "slug": "blockdag-presale-scarcity",
       "title": "BlockDAG's Hybrid Tech Sparks a New Crypto Scarcity Race",
       "description": "BlockDAG, a hybrid DAG and Proof-of-Work project, has raised over $379 million in its presale—making it one of the largest presale events in crypto history.",
@@ -81,7 +73,6 @@
       "source": "AInvest"
     },
     {
-      "id": 9,
       "slug": "asia-wealthy-investors-crypto",
       "title": "Asia's Wealthy Investors Seek More Crypto in Portfolios",
       "description": "Wealthy families and family offices in Asia ramp up crypto investment, with some aiming for ~5% of portfolios; campaigns like GENIUS Act and trading activity rising.",
@@ -91,7 +82,6 @@
       "source": "Reuters"
     },
     {
-      "id": 10,
       "slug": "fed-bowman-less-cautious-crypto",
       "title": "Fed’s Bowman Urges Less ‘Cautious Mindset’ on Crypto",
       "description": "At the Wyoming Blockchain Symposium, Fed Governor Michelle Bowman urged a more proactive regulatory approach to crypto, blockchain, and AI amidst stablecoin reforms.",
@@ -101,7 +91,6 @@
       "source": "Barron's"
     },
     {
-      "id": 11,
       "slug": "eric-trump-bitcoin-predictions",
       "title": "Eric Trump Makes Bitcoin Price Predictions as He Reportedly Gets Ready to Visit Metaplanet",
       "description": "Eric Trump calls himself a “bitcoin maxi,” forecasts BTC at $175K by year’s end—and Eyes acquisitions via American Bitcoin in Japan and Hong Kong.",
