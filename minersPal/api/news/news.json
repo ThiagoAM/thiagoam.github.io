@@ -1,104 +1,194 @@
 {
   "results": [
     {
-      "slug": "btc-demand-cools",
-      "title": "Asia Morning Briefing: BTC Demand Cools While “Crypto Capital is Getting More Selective,” OKX’s Gracie Lin Warns",
-      "description": "With BTC demand cooling and profit-taking accelerating, investors are rotating into ether and a handful of resilient plays while retail “altseason” fades.",
-      "published_at": "2025-08-21T00:09:00Z",
-      "created_at": "2025-08-21T00:09:00Z",
-      "url": "https://www.coindesk.com/markets/2025/08/21/asia-morning-briefing-btc-demand-cools-while-crypto-capital-is-getting-more-selective-okx-s-gracie-lin-warns",
+      "slug": "eth-bulls-eye-5k",
+      "title": "Asia Morning Briefing: ETH Bulls Eyeing $5K as Flows Strengthen",
+      "description": "Ethereum outperforms bitcoin as institutional inflows build; traders watch for a test of $5,000 with macro data ahead.",
+      "published_at": "2025-08-27T01:12:00Z",
+      "created_at": "2025-08-27T01:12:00Z",
+      "url": "https://www.coindesk.com/markets/2025/08/27/asia-morning-briefing-eth-bulls-eyeing-usd5k-as-flows-strengthen",
       "source": "CoinDesk"
     },
     {
-      "slug": "ozak-ai-presale-volume",
-      "title": "Ozak AI Presale Volume Rises 80% in 7 Days as Token Price Hits $0.005",
-      "description": "Ozak AI ($OZ) presale volume surged 80% in seven days, selling over 158 million tokens and raising nearly $2 million; token now at $0.005 in Stage 4.",
-      "published_at": "2025-08-21T00:00:00Z",
-      "created_at": "2025-08-21T00:00:00Z",
-      "url": "https://www.ainvest.com/news/ethereum-news-today-ozak-ai-presale-volume-rises-80-7-days-token-price-hits-0-005-2508/",
-      "source": "AInvest"
-    },
-    {
-      "slug": "crypto-down-bitcoin-bearish",
-      "title": "Why Crypto is Down Today? Bitcoin Bearish Shift, CLARITY Act Momentum, and Tether’s New US Adviser",
-      "description": "Retail traders turned ultra bearish as Bitcoin dipped below $113K; Senator Tim Scott pushes CLARITY Act, and Tether hires former White House Crypto Council director Bo Hines.",
-      "published_at": "2025-08-20T00:00:00Z",
-      "created_at": "2025-08-20T00:00:00Z",
-      "url": "https://www.binance.com/en/square/post/08-20-2025-crypto-news-why-crypto-is-down-today-bitcoin-bearish-shift-clarity-act-momentum-and-tether-s-new-us-adviser-20-august-28569200128225",
-      "source": "Binance"
-    },
-    {
-      "slug": "china-stablecoin-plan",
-      "title": "China Considering Yuan-Backed Stablecoins to Boost Global Currency Usage",
-      "description": "China may endorse yuan-backed stablecoins to internationalize its currency; plan includes rollout via Hong Kong and Shanghai, with regulatory guidance under review.",
-      "published_at": "2025-08-20T00:00:00Z",
-      "created_at": "2025-08-20T00:00:00Z",
-      "url": "https://www.reuters.com/business/finance/china-considering-yuan-backed-stablecoins-boost-global-currency-usage-sources-2025-08-20/",
-      "source": "Reuters"
-    },
-    {
-      "slug": "freeze-300m-stolen-crypto",
-      "title": "Major Crackdown Freezes Over $300 Million in Cryptocurrency Stolen from Scams",
-      "description": "Law enforcement and crypto firms froze over $300 million in assets linked to scams; T3 FCU initiative and operations like Atlas and Avalanche targeted fraud in 14 countries.",
-      "published_at": "2025-08-18T00:00:00Z",
-      "created_at": "2025-08-18T00:00:00Z",
-      "url": "https://www.techradar.com/pro/security/major-crackdown-freezes-over-usd300-million-in-cryptocurrency-stolen-from-scams",
-      "source": "TechRadar"
-    },
-    {
-      "slug": "ethereum-hits-all-time-high",
-      "title": "Ethereum Price Hits New All-Time High Above $4,880 Amid Crypto Market Rally",
-      "description": "Ethereum price hits $4,880 (or around $4,885) after signals of rate cuts and ETF inflows, marking a new all-time high.",
-      "published_at": "2025-08-24T00:00:00Z",
-      "created_at": "2025-08-24T00:00:00Z",
-      "url": "https://coincentral.com/ethereum-price-hits-new-all-time-high-above-4880-amid-crypto-market-rally/",
-      "source": "CoinCentral"
-    },
-    {
-      "slug": "xrp-spot-etf-proposals",
-      "title": "XRP Price Jumps 10% as Six Firms Update Spot XRP ETF Proposals with SEC",
-      "description": "XRP rallies as six firms submit updated spot ETF proposals to the SEC, pushing price up by around 10%.",
-      "published_at": "2025-08-24T00:00:00Z",
-      "created_at": "2025-08-24T00:00:00Z",
-      "url": "https://www.coincentral.com/ethereum-price-hits-new-all-time-high-above-4880-amid-crypto-market-rally/",
-      "source": "CoinCentral"
-    },
-    {
-      "slug": "blockdag-presale-scarcity",
-      "title": "BlockDAG's Hybrid Tech Sparks a New Crypto Scarcity Race",
-      "description": "BlockDAG, a hybrid DAG and Proof-of-Work project, has raised over $379 million in its presale—making it one of the largest presale events in crypto history.",
-      "published_at": "2025-08-24T00:00:00Z",
-      "created_at": "2025-08-24T00:00:00Z",
-      "url": "https://www.ainvest.com/news/ethereum-news-today-blockdag-hybrid-tech-sparks-crypto-scarcity-race-2508/",
-      "source": "AInvest"
-    },
-    {
-      "slug": "asia-wealthy-investors-crypto",
-      "title": "Asia's Wealthy Investors Seek More Crypto in Portfolios",
-      "description": "Wealthy families and family offices in Asia ramp up crypto investment, with some aiming for ~5% of portfolios; campaigns like GENIUS Act and trading activity rising.",
-      "published_at": "2025-08-21T00:00:00Z",
-      "created_at": "2025-08-21T00:00:00Z",
-      "url": "https://www.reuters.com/world/china/asias-wealthy-investors-seek-more-crypto-portfolios-2025-08-21/",
-      "source": "Reuters"
-    },
-    {
-      "slug": "fed-bowman-less-cautious-crypto",
-      "title": "Fed’s Bowman Urges Less ‘Cautious Mindset’ on Crypto",
-      "description": "At the Wyoming Blockchain Symposium, Fed Governor Michelle Bowman urged a more proactive regulatory approach to crypto, blockchain, and AI amidst stablecoin reforms.",
-      "published_at": "2025-08-20T00:00:00Z",
-      "created_at": "2025-08-20T00:00:00Z",
-      "url": "https://www.barrons.com/articles/fed-bowman-crypto-blockchain-ai-1fcd77b6",
-      "source": "Barron's"
-    },
-    {
-      "slug": "eric-trump-bitcoin-predictions",
-      "title": "Eric Trump Makes Bitcoin Price Predictions as He Reportedly Gets Ready to Visit Metaplanet",
-      "description": "Eric Trump calls himself a “bitcoin maxi,” forecasts BTC at $175K by year’s end—and Eyes acquisitions via American Bitcoin in Japan and Hong Kong.",
-      "published_at": "2025-08-23T00:00:00Z",
-      "created_at": "2025-08-23T00:00:00Z",
-      "url": "https://www.coindesk.com/business/2025/08/23/eric-trump-makes-bitcoin-price-predictions-as-he-reportedly-gets-ready-to-visit-metaplanet",
+      "slug": "market-wrap-btc-lags-eth",
+      "title": "Crypto Markets Today: BTC Price Underperforms Ether; CRO Surges on Trump-Linked News",
+      "description": "Bitcoin lagged ether while Cronos (CRO) outperformed on Trump-linked developments; volumes swelled as BTC and ETH hovered near key supports.",
+      "published_at": "2025-08-27T05:00:00Z",
+      "created_at": "2025-08-27T05:00:00Z",
+      "url": "https://www.coindesk.com/markets/2025/08/27/crypto-markets-today-bitcoin-underperforms-ether-broader-market",
       "source": "CoinDesk"
+    },
+    {
+      "slug": "eth-hits-ath-4946",
+      "title": "Ethereum Tops $4,900 to New All-Time High",
+      "description": "Ether cleared $4,900 for the first time, entering price discovery amid shrinking exchange reserves and strong demand.",
+      "published_at": "2025-08-24T17:40:00Z",
+      "created_at": "2025-08-24T17:40:00Z",
+      "url": "https://www.coindesk.com/markets/2025/08/24/as-eth-breaks-above-usd4-900-analyst-sums-up-crypto-market-btc-is-exhausted-eth-isn-t",
+      "source": "CoinDesk"
+    },
+    {
+      "slug": "btc-record-aug14",
+      "title": "Bitcoin Hits Fresh Record on Fed Easing Bets",
+      "description": "Bitcoin set another record in mid-August as bets on Federal Reserve easing and institutional demand supported prices.",
+      "published_at": "2025-08-14T12:00:00Z",
+      "created_at": "2025-08-14T12:00:00Z",
+      "url": "https://www.reuters.com/business/bitcoin-hits-fresh-record-fed-easing-bets-add-tailwinds-2025-08-14/",
+      "source": "Reuters"
+    },
+    {
+      "slug": "btc-daybook-aug27",
+      "title": "Bitcoin Traders Eye Upside as BTC Holds Above $110K",
+      "description": "Day-ahead outlook notes BTC basing above $110K as bulls look to break out into month end.",
+      "published_at": "2025-08-27T11:15:00Z",
+      "created_at": "2025-08-27T11:15:00Z",
+      "url": "https://www.coindesk.com/daybook-us/2025/08/27/bitcoin-traders-eye-upside-as-btc-holds-above-usd110k-crypto-daybook-americas",
+      "source": "CoinDesk"
+    },
+    {
+      "slug": "barrons-trump-boosts-crypto",
+      "title": "Bitcoin, XRP, and Ethereum Gain: 2 Ways Trump Is Boosting Cryptos",
+      "description": "Macro hopes for lower rates and a Trump Media–Crypto.com deal around CRO helped lift major tokens, led by Cronos.",
+      "published_at": "2025-08-27T12:00:00Z",
+      "created_at": "2025-08-27T12:00:00Z",
+      "url": "https://www.barrons.com/articles/bitcoin-price-xrp-ethereum-crypto-trump-dd403db4",
+      "source": "Barron’s"
+    },
+    {
+      "slug": "solana-rally-analyst",
+      "title": "Analyst: SOL’s Powerful Rally Warrants Caution",
+      "description": "Popular traders say Solana’s strength is notable but advise profit-taking near $205–$215 or waiting for clearer signals.",
+      "published_at": "2025-08-27T12:00:00Z",
+      "created_at": "2025-08-27T12:00:00Z",
+      "url": "https://www.coindesk.com/markets/2025/08/27/if-you-missed-eth-at-usd1-400-sol-is-the-next-big-bet-analyst-explains-why",
+      "source": "CoinDesk"
+    },
+    {
+      "slug": "cardano-gains-fed-cut-bets",
+      "title": "Cardano Gains as Market Bets on Rate Cuts Despite ETF Delay",
+      "description": "ADA climbed on Aug 27 as traders looked past an ETF pause and positioned for potential Fed cuts.",
+      "published_at": "2025-08-27T15:23:00Z",
+      "created_at": "2025-08-27T15:23:00Z",
+      "url": "https://www.coindesk.com/markets/2025/08/27/cardano-spikes-on-fed-cut-bets-shrugs-off-etf-delay",
+      "source": "CoinDesk"
+    },
+    {
+      "slug": "xrp-leads-rebound",
+      "title": "XRP Jumps to Top Market Gainers; Futures OI Tops $1B",
+      "description": "XRP led a broad crypto rebound, with CME futures OI crossing $1B as traders returned after a sell-off.",
+      "published_at": "2025-08-26T13:43:00Z",
+      "created_at": "2025-08-26T13:43:00Z",
+      "url": "https://www.coindesk.com/markets/2025/08/26/xrp-jumps-8-to-top-market-gainers-solana-dogecoin-also-rise",
+      "source": "CoinDesk"
+    },
+    {
+      "slug": "xrp-etf-delays",
+      "title": "SEC Delays Multiple XRP ETF Decisions; Price Tests $2.90 Support",
+      "description": "The SEC postponed rulings on several spot XRP ETFs until October, pressuring price into a key support zone.",
+      "published_at": "2025-08-20T06:23:00Z",
+      "created_at": "2025-08-20T06:23:00Z",
+      "url": "https://www.coindesk.com/markets/2025/08/20/xrp-pushed-into-usd2-90-support-zone-amid-etf-delays-poor-security-rankings",
+      "source": "CoinDesk"
+    },
+    {
+      "slug": "dogecoin-whales-binance",
+      "title": "Dogecoin Jumps to $0.21 Despite $200M Whale Transfer to Binance",
+      "description": "DOGE weathered heavy whale flows to Binance and held near $0.21 after high-volume swings.",
+      "published_at": "2025-08-26T12:00:00Z",
+      "created_at": "2025-08-26T12:00:00Z",
+      "url": "https://www.coindesk.com/markets/2025/08/26/dogecoin-jumps-to-21-cents-despite-usd200m-whale-transfer-to-binance",
+      "source": "CoinDesk"
+    },
+    {
+      "slug": "bnb-staking-etf-filings",
+      "title": "REX-Osprey Seeks SEC Approval for BNB Staking ETF",
+      "description": "REX-Osprey filed for a BNB staking ETF, following the path set by recent Solana fund efforts.",
+      "published_at": "2025-08-27T10:08:00Z",
+      "created_at": "2025-08-27T10:08:00Z",
+      "url": "https://www.theblock.co/post/368417/rex-osprey-sec-bnb-staking-etf",
+      "source": "The Block"
+    },
+    {
+      "slug": "bnb-above-810",
+      "title": "BNB Climbs Above $810 as Buyers Target $815 Resistance",
+      "description": "BNB pressed toward resistance with talk of institutional accumulation and rising volumes.",
+      "published_at": "2025-08-12T12:00:00Z",
+      "created_at": "2025-08-12T12:00:00Z",
+      "url": "https://www.coindesk.com/markets/2025/08/12/bnb-climbs-above-usd810-as-buyers-target-usd815-resistance",
+      "source": "CoinDesk"
+    },
+    {
+      "slug": "ton-telegram-wallet-us",
+      "title": "Toncoin Extends Rally as Telegram Launches Integrated TON Wallet for U.S. Users",
+      "description": "Telegram’s rollout of TON wallet to U.S. users boosted Toncoin’s adoption and price momentum.",
+      "published_at": "2025-08-21T11:00:00Z",
+      "created_at": "2025-08-21T11:00:00Z",
+      "url": "https://www.coindesk.com/markets/2025/07/22/toncoin-extends-rally-as-telegram-launches-integrated-ton-wallet-for-87m-u-s-users",
+      "source": "CoinDesk"
+    },
+    {
+      "slug": "kaspa-range-bound",
+      "title": "Kaspa Trapped in $0.082–$0.095 Range Amid Mixed Forecasts",
+      "description": "Kaspa held in a tight range as traders debated breakout odds and watched key levels.",
+      "published_at": "2025-08-26T23:19:00Z",
+      "created_at": "2025-08-26T23:19:00Z",
+      "url": "https://www.ainvest.com/news/kaspa-trapped-0-082-0-095-range-mixed-analyst-forecasts-2508/",
+      "source": "AInvest"
+    },
+    {
+      "slug": "iceriver-hosting-kaspa-2025",
+      "title": "Kaspa Mining 2025: IceRiver Highlights Low-Cost Hosting as Key to ROI",
+      "description": "IceRiver notes rising Kaspa difficulty and stresses low-cost, high-uptime power for KS5L/KS3M class ASICs to stay profitable.",
+      "published_at": "2025-08-06T12:00:00Z",
+      "created_at": "2025-08-06T12:00:00Z",
+      "url": "https://iceriver.eu/blogs/news/kaspa-mining-2025-where-to-host-for-best-roi-iceriver-eu",
+      "source": "IceRiver EU Blog"
+    },
+    {
+      "slug": "miners-fee-drought-grim",
+      "title": "Bitcoin Miners Say Times Are ‘Grim’ as Fee Drought Threatens Network",
+      "description": "With transaction fees slumping, some miners warn of existential pressures and consolidation risks.",
+      "published_at": "2025-08-27T14:41:00Z",
+      "created_at": "2025-08-27T14:41:00Z",
+      "url": "https://www.dlnews.com/articles/markets/bitcoin-mining-suffers-grim-time-as-activity-craters/",
+      "source": "DLNews"
+    },
+    {
+      "slug": "protocol-mining-power-costs",
+      "title": "The Protocol: Bitcoin Mining Faces New Challenges as Power Costs Eat Profit",
+      "description": "Rising energy costs and a tighter post-halving environment are squeezing miner margins.",
+      "published_at": "2025-08-27T16:48:00Z",
+      "created_at": "2025-08-27T16:48:00Z",
+      "url": "https://www.coindesk.com/tech/2025/08/27/the-protocol-bitcoin-mining-faces-new-challenges-as-power-costs-eat-profit",
+      "source": "CoinDesk"
+    },
+    {
+      "slug": "iren-b200-blackwell",
+      "title": "Bitcoin Miner IREN Doubles GPU Fleet With $193M Blackwell Purchase to Accelerate AI Pivot",
+      "description": "IREN bought 4,200 additional NVIDIA Blackwell B200 GPUs, doubling its HPC fleet to 8,500 as it expands into AI cloud services.",
+      "published_at": "2025-08-25T12:00:00Z",
+      "created_at": "2025-08-25T12:00:00Z",
+      "url": "https://theminermag.com/news/2025-08-25/iren-gpu-ai-blackwell",
+      "source": "TheMinerMag"
+    },
+    {
+      "slug": "hut8-1-5gw-expansion",
+      "title": "Hut 8 Surges on Plan to Add 1.5 GW, Expanding to 19 Sites",
+      "description": "Hut 8 outlined plans to more than double power capacity with four new U.S. sites, sending shares higher.",
+      "published_at": "2025-08-26T12:00:00Z",
+      "created_at": "2025-08-26T12:00:00Z",
+      "url": "https://www.coindesk.com/business/2025/08/26/bitcoin-miner-hut-8-surges-10-on-1-5gw-expansion-plans",
+      "source": "CoinDesk"
+    },
+    {
+      "slug": "bitmain-hydro-tour-texas",
+      "title": "Bitmain Hosts Global Hydro-Cooling Tour Event in Texas",
+      "description": "Bitmain held a global hydro-cooling tour stop in Texas, showcasing liquid-cooling solutions to large-scale miners.",
+      "published_at": "2025-08-21T12:00:00Z",
+      "created_at": "2025-08-21T12:00:00Z",
+      "url": "https://www.bitmain.com/",
+      "source": "Bitmain (Company News)"
     }
   ],
-  "updatedAt": "2025-08-24T12:00:00Z"
+  "updatedAt": "2025-08-28T03:00:00Z"
 }
