@@ -1,6 +1,51 @@
 {
   "results": [
     {
+      "slug": "american-bitcoin-nasdaq-debut",
+      "title": "American Bitcoin, backed by Trump sons, aims to start trading in September",
+      "description": "American Bitcoin, a Bitcoin-mining company backed by Eric and Donald Trump Jr., is set to begin trading on Nasdaq via an all-stock merger with Gryphon Digital Mining under ticker ABTC.",
+      "published_at": "2025-08-29T00:00:00Z",
+      "created_at": "2025-08-29T00:00:00Z",
+      "url": "https://www.reuters.com/world/asia-pacific/american-bitcoin-backed-by-trumps-sons-aims-start-trading-september-2025-08-28/",
+      "source": "Reuters"
+    },
+    {
+      "slug": "btc-corporate-absorption",
+      "title": "Businesses Absorb BTC at Four Times Daily Miner Supply, Says River’s Research",
+      "description": "River’s flow-map shows corporate Bitcoin inflows are near four times the rate of new miner supply, suggesting strong institutional demand.",
+      "published_at": "2025-08-30T00:00:00Z",
+      "created_at": "2025-08-30T00:00:00Z",
+      "url": "https://www.coindesk.com/markets/2025/08/30/businesses-are-absorbing-bitcoin-at-4x-the-rate-it-is-mined-according-to-river-s-research",
+      "source": "CoinDesk"
+    },
+    {
+      "slug": "bitcoin-mining-ai-ai-cloud-expansion",
+      "title": "Iren (Bitcoin Miner) Jumps 15% After Earnings and Nvidia Partner Status",
+      "description": "Iren (formerly Iris Energy) saw its stock surge 15% after strong Q4 earnings and new status as an Nvidia preferred partner; it expanded mining capacity to 50 EH/s and added thousands of GPUs.",
+      "published_at": "2025-08-30T00:00:00Z",
+      "created_at": "2025-08-30T00:00:00Z",
+      "url": "https://www.investors.com/news/bitcoin-miner-ai-data-center-play-iren-jumps-earnings-nvidia-status/",
+      "source": "Investors.com"
+    },
+    {
+      "slug": "bitcoin-mining-local-opposition-texas",
+      "title": "Community Near Texas Bitcoin Mine Pushes to Incorporate Over Noise Concerns",
+      "description": "Residents near a MARA-operated Bitcoin mine in Texas hope to incorporate their community as-Mitchell Bend to enact stricter noise regulations, citing 24/7 drone noise despite mitigation efforts.",
+      "published_at": "2025-08-29T00:00:00Z",
+      "created_at": "2025-08-29T00:00:00Z",
+      "url": "https://www.axios.com/newsletters/axios-crypto-94f07250-82b6-11f0-a7d3-a9e2c07a2e9f",
+      "source": "Axios"
+    },
+    {
+      "slug": "no-question-btc-hits-1m",
+      "title": "“No question Bitcoin hits $1M\" — Eric Trump at BTC Asia 2025",
+      "description": "Eric Trump, co-founder of American Bitcoin, said at the Bitcoin 2025 Asia conference that there is “no question” BTC will reach $1 million in the coming years.",
+      "published_at": "2025-08-30T00:00:00Z",
+      "created_at": "2025-08-30T00:00:00Z",
+      "url": "https://cointelegraph.com/news/no-question-bitcoin-1m-eric-trump-btc-asia-2025",
+      "source": "Cointelegraph"
+    },
+    {
       "slug": "eth-bulls-eye-5k",
       "title": "Asia Morning Briefing: ETH Bulls Eyeing $5K as Flows Strengthen",
       "description": "Ethereum outperforms bitcoin as institutional inflows build; traders watch for a test of $5,000 with macro data ahead.",
