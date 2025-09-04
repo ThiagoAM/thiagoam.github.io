@@ -1,6 +1,60 @@
 {
   "results": [
     {
+      "slug": "trump-family-crypto-mining-nasdaq-debut",
+      "title": "Trump-backed mining firm American Bitcoin hits Nasdaq with $1.5 B valuation",
+      "description": "American Bitcoin Corp, backed by Eric Trump and Donald Trump Jr., debuted on Nasdaq. Shares soared to $14.52 then closed at $8.04, valuing their 20% stake at over $1.5 billion.",
+      "published_at": "2025-09-03T00:00:00Z",
+      "created_at": "2025-09-03T00:00:00Z",
+      "url": "https://www.reuters.com/business/trumps-oldest-sons-american-bitcoin-stake-worth-15-billion-stock-debut-2025-09-03/",
+      "source": "Reuters"
+    },
+    {
+      "slug": "trump-family-crypto-playbook",
+      "title": "From coins to miners: Trump family expands deep into crypto sector",
+      "description": "The Trump family’s crypto ventures span token launches, mining operations, stablecoins, memecoins and plans for crypto ETFs, intensifying scrutiny over conflicts of interest.",
+      "published_at": "2025-09-03T00:00:00Z",
+      "created_at": "2025-09-03T00:00:00Z",
+      "url": "https://www.reuters.com/markets/wealth/coins-miners-trump-familys-crypto-playbook-2025-09-03/",
+      "source": "Reuters"
+    },
+    {
+      "slug": "iren-cipher-mining-ai-rally",
+      "title": "AI expansions fuel rallies for Bitcoin miners Iren and Cipher Mining",
+      "description": "Iren (formerly Iris Energy) and Cipher Mining stocks surged as they pivot into AI, expanding GPU capacity and launching new data centers blending bitcoin mining with AI compute.",
+      "published_at": "2025-09-03T00:00:00Z",
+      "created_at": "2025-09-03T00:00:00Z",
+      "url": "https://www.investors.com/news/iren-stock-cipher-mining-cifr-bitcoin-mining-artificial-intelligence-ai/",
+      "source": "Investor’s Business Daily"
+    },
+    {
+      "slug": "cftc-polymarket-relief-defi-lending",
+      "title": "CFTC grants Polymarket relief; DeFi lending up 72% this year",
+      "description": "The CFTC granted regulatory relief to Polymarket, while institutional demand has driven a 72% growth in DeFi lending this year.",
+      "published_at": "2025-09-04T00:00:00Z",
+      "created_at": "2025-09-04T00:00:00Z",
+      "url": "https://www.tradingview.com/news/cointelegraph%3Ab431ea497094b%3A0-here-s-what-happened-in-crypto-today/",
+      "source": "Cointelegraph via TradingView"
+    },
+    {
+      "slug": "okx-fined-in-netherlands",
+      "title": "Crypto exchange OKX fined €2.25M for operating in Netherlands without approval",
+      "description": "The Dutch central bank fined OKX €2.25 million for offering services in the Netherlands without regulatory approval.",
+      "published_at": "2025-09-04T00:00:00Z",
+      "created_at": "2025-09-04T00:00:00Z",
+      "url": "https://www.amlintelligence.com/2025/09/latest-crypto-exchange-okx-fined-e2-25m-for-operating-in-netherlands-without-approval/",
+      "source": "AML Intelligence"
+    },
+    {
+      "slug": "venezuela-turns-to-usdt",
+      "title": "Venezuela allows USDT usage in private sector amid dollar shortages",
+      "description": "With U.S. dollar scarcity, Venezuela increasingly permits USDT (Tether) in private-sector currency exchanges; businesses, including PDVSA, are shifting to crypto for payments.",
+      "published_at": "2025-09-03T00:00:00Z",
+      "created_at": "2025-09-03T00:00:00Z",
+      "url": "https://www.reuters.com/business/energy/with-dollars-scarce-venezuela-currency-exchanges-turn-crypto-2025-09-03/",
+      "source": "Reuters"
+    },
+    {
       "slug": "american-bitcoin-nasdaq-debut",
       "title": "American Bitcoin, backed by Trump sons, aims to start trading in September",
       "description": "American Bitcoin, a Bitcoin-mining company backed by Eric and Donald Trump Jr., is set to begin trading on Nasdaq via an all-stock merger with Gryphon Digital Mining under ticker ABTC.",
