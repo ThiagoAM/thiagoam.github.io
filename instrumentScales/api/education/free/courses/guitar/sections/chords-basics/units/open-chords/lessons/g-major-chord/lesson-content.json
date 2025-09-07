@@ -1,0 +1,58 @@
+{
+    "id": "g-major-chord",
+    "blocks": [
+        { "type": "text", "value": { "values": { "en": "# G Major Chord\nForm the open G major chord." } } },
+        { "type": "text", "value": { "values": { "en": "Place your middle finger on low E3, index on A2, ring on high E3." } } },
+        { "type": "image", "value": { "type": "asset", "name": "guitar_g_major_chord" }, "alt": { "values": { "en": "Hand holding G chord" } }, "caption": { "values": { "en": "All six strings ring." } } },
+        { "type": "text", "value": { "values": { "en": "Strum all strings evenly." } } }
+    ],
+    "tests": [
+        {
+            "id": "q1",
+            "title": { "values": { "en": "Question 1" } },
+            "type": "multipleChoice",
+            "question": { "values": { "en": "Which fret does your index finger press?" } },
+            "alternatives": [
+                { "id": "a", "text": { "values": { "en": "Second fret of the A string" } }, "image": null, "audio": null, "feedback": null },
+                { "id": "b", "text": { "values": { "en": "First fret of the B string" } }, "image": null, "audio": null, "feedback": null }
+            ],
+            "correctAlternativeIDs": ["a"],
+            "shuffleAlternatives": false,
+            "points": 1,
+            "timeLimitSeconds": null,
+            "explanation": null
+        },
+        {
+            "id": "q2",
+            "title": { "values": { "en": "Question 2" } },
+            "type": "multipleChoice",
+            "question": { "values": { "en": "How many strings do you strum?" } },
+            "alternatives": [
+                { "id": "a", "text": { "values": { "en": "All six" } }, "image": null, "audio": null, "feedback": null },
+                { "id": "b", "text": { "values": { "en": "Only the top four" } }, "image": null, "audio": null, "feedback": null }
+            ],
+            "correctAlternativeIDs": ["a"],
+            "shuffleAlternatives": false,
+            "points": 1,
+            "timeLimitSeconds": null,
+            "explanation": null
+        },
+        {
+            "id": "q3",
+            "title": { "values": { "en": "Question 3" } },
+            "type": "multipleChoice",
+            "question": { "values": { "en": "Which finger goes on the third fret of the low E string?" } },
+            "alternatives": [
+                { "id": "a", "text": { "values": { "en": "Middle finger" } }, "image": null, "audio": null, "feedback": null },
+                { "id": "b", "text": { "values": { "en": "Pinkie" } }, "image": null, "audio": null, "feedback": null }
+            ],
+            "correctAlternativeIDs": ["a"],
+            "shuffleAlternatives": false,
+            "points": 1,
+            "timeLimitSeconds": null,
+            "explanation": null
+        }
+    ],
+    "createdAt": "2025-08-15T12:00:00Z",
+    "updatedAt": "2025-08-15T12:00:00Z"
+}

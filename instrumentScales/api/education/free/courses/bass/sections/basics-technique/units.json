@@ -1,0 +1,11 @@
+[
+    {
+        "id": "first-grooves",
+        "name": { "values": { "en": "First Grooves" } },
+        "description": { "values": { "en": "Build simple bass lines with solid timing." } },
+        "image": { "type": "asset", "name": "bass_unit_first_grooves" },
+        "order": 1,
+        "createdAt": "2025-08-15T12:00:00Z",
+        "updatedAt": "2025-08-15T12:00:00Z"
+    }
+]

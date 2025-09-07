@@ -1,0 +1,58 @@
+{
+    "id": "clap-quarter-notes",
+    "blocks": [
+        { "type": "text", "value": { "values": { "en": "# Clap Quarter Notes\nClap steadily counting 1-2-3-4." } } },
+        { "type": "text", "value": { "values": { "en": "Use a metronome set to 60 BPM." } } },
+        { "type": "image", "value": { "type": "asset", "name": "piano_clap_quarter_notes" }, "alt": { "values": { "en": "Hands clapping" } }, "caption": { "values": { "en": "Clap on every beat." } } },
+        { "type": "text", "value": { "values": { "en": "Keep the tempo even and relax your shoulders." } } }
+    ],
+    "tests": [
+        {
+            "id": "q1",
+            "title": { "values": { "en": "Question 1" } },
+            "type": "multipleChoice",
+            "question": { "values": { "en": "How many claps are in one measure of 4/4?" } },
+            "alternatives": [
+                { "id": "a", "text": { "values": { "en": "4" } }, "image": null, "audio": null, "feedback": null },
+                { "id": "b", "text": { "values": { "en": "3" } }, "image": null, "audio": null, "feedback": null }
+            ],
+            "correctAlternativeIDs": ["a"],
+            "shuffleAlternatives": false,
+            "points": 1,
+            "timeLimitSeconds": null,
+            "explanation": null
+        },
+        {
+            "id": "q2",
+            "title": { "values": { "en": "Question 2" } },
+            "type": "multipleChoice",
+            "question": { "values": { "en": "What tempo is recommended?" } },
+            "alternatives": [
+                { "id": "a", "text": { "values": { "en": "60 BPM" } }, "image": null, "audio": null, "feedback": null },
+                { "id": "b", "text": { "values": { "en": "180 BPM" } }, "image": null, "audio": null, "feedback": null }
+            ],
+            "correctAlternativeIDs": ["a"],
+            "shuffleAlternatives": false,
+            "points": 1,
+            "timeLimitSeconds": null,
+            "explanation": null
+        },
+        {
+            "id": "q3",
+            "title": { "values": { "en": "Question 3" } },
+            "type": "multipleChoice",
+            "question": { "values": { "en": "Where do you clap?" } },
+            "alternatives": [
+                { "id": "a", "text": { "values": { "en": "On every beat" } }, "image": null, "audio": null, "feedback": null },
+                { "id": "b", "text": { "values": { "en": "Only on beat 1" } }, "image": null, "audio": null, "feedback": null }
+            ],
+            "correctAlternativeIDs": ["a"],
+            "shuffleAlternatives": false,
+            "points": 1,
+            "timeLimitSeconds": null,
+            "explanation": null
+        }
+    ],
+    "createdAt": "2025-08-15T12:00:00Z",
+    "updatedAt": "2025-08-15T12:00:00Z"
+}

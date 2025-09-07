@@ -1,0 +1,197 @@
+{
+    "id": "first-notes",
+    "blocks": [
+        { "type": "text", "value": { "values": { "en": "# First Notes on the High E (E–F–G)\n\nWelcome! In this lesson you’ll play your very first fretted notes on guitar using the **high E string**. You’ll learn correct finger placement, basic **alternate picking (down–up)**, and a clean E–F–G pattern.\n\n**You will learn to:**\n- Produce a clear tone with proper fretting-hand position\n- Use **index on 1st fret (F)** and **ring on 3rd fret (G)**\n- Start alternate picking at a steady tempo\n- Practice clean, even **E–F–G** timing with a metronome.\n" } } },
+        
+        { "type": "text", "value": { "values": { "en": "## Setup & Posture\n\n- Sit or stand tall; shoulders relaxed.\n- **Pick grip:** hold a medium pick between the side of your index finger and the pad of your thumb; about **2–3 mm** of the tip showing.\n- **Fretting hand:** fingers **curved**, wrist neutral, **thumb behind the neck** (roughly opposite the 2nd finger).\n- Aim to **press just behind the fret** (toward the body) to avoid buzzing." } } },
+        {
+            "type": "image",
+            "value": { "type": "asset", "name": "images/pick_grip_closeup" },
+            "alt": { "values": { "en": "Close-up of a correct guitar pick grip with slight pick tip exposed" } },
+            "caption": { "values": { "en": "_Correct pick grip:_ relaxed hand, small pick tip exposed, pick angled slightly for smooth string contact." } }
+        },
+        { "type": "text", "value": { "values": { "en": "\n## First Fretted Note: F\n\n1. Pluck the **open high E** (thinnest string) to hear its pitch.\n2. Place your **index finger (1)** just **behind the 1st fret** on the high E.\n3. Press **firmly but lightly**—enough to stop the buzz, no more.\n4. Pick **down** then **up** to begin **alternate picking**.\n" } } },
+        
+        { "type": "text", "value": { "values": { "en": "## Next Note: G on the 3rd Fret\n\n- Use your **ring finger (3)** on the **3rd fret** of the high E for **G**.\n- Keep the knuckle curved and land on the **tip** of the finger.\n- Maintain alternate picking: **down–up–down–up**.\n" } } },
+        
+        { "type": "text", "value": { "values": { "en": "## Core Pattern: E–F–G\n\nPlay these slowly and evenly. Start at **60 BPM** and only speed up when every note rings clearly.\n\n```\nTAB (high E string only):\nE|--0--1--3--|--3--1--0--|\n     E  F  G    G  F  E\n```\n**Pro tip:** lift and place as **little** as possible; keep movements efficient.\n" } } },
+        
+        { "type": "text", "value": { "values": { "en": "## Rhythm Variations\n\nTry each for 1–2 minutes at 60 BPM:\n- **Quarter notes:** pick **D U D U** across four clicks (1 2 3 4).\n- **Eighth notes:** two picks per click (**1 & 2 & 3 & 4 &**) with **D U**.\n- **Three-note loop:** E–F–G repeatedly in eighth notes.\n- **Accent the 1:** make the first note slightly louder each bar to build timing awareness.\n" } } },
+        
+        { "type": "text", "value": { "values": { "en": "## Common Mistakes & Fixes\n\n- **Buzzing notes:** move closer to the fret and press slightly firmer.\n- **Muted string:** curl the fingertip more so it doesn’t touch adjacent strings.\n- **Uneven timing:** return to quarter notes; count out loud.\n- **Tense hand:** shake out the hand; tension kills speed and tone." } } },
+        
+        { "type": "image",
+            "value": { "type": "asset", "name": "images/posture_side" },
+            "alt": { "values": { "en": "Side view of relaxed seated guitar posture with neutral wrists" } },
+            "caption": { "values": { "en": "Relaxed posture helps tone and endurance. Keep wrists neutral; avoid collapsing the fretting-hand thumb over the neck." } }
+        },
+        
+        { "type": "text", "value": { "values": { "en": "\n## 5-Minute Micro-Routine\n\n1. :60 — Open high E with **D U** picking (focus on smoothness).\n2. :90 — **F** (1st fret) clean tone reps; 4 counts each.\n3. :90 — **G** (3rd fret) clean tone reps; 4 counts each.\n4. :60 — Loop **E–F–G** in eighth notes at 60 BPM.\n5. :30 — Cool-down: slow quarter notes, perfect tone.\n" } } },
+        
+        { "type": "text", "value": { "values": { "en": "## Next Steps\n\n- Add the **2nd fret (F#)** with your **middle finger (2)** and play **E–F–F#–G**.\n- Try **60 → 72 → 80 BPM**. Only increase when the tone is clean and timing is even." } } }
+    ],
+    "tests": [
+        {
+            "id": "q1",
+            "title": { "values": { "en": "Finger for F" } },
+            "type": "multipleChoice",
+            "question": { "values": { "en": "Which finger should play the **1st fret (F)** on the high E string in this lesson?" } },
+            "alternatives": [
+                { "id": "a", "text": { "values": { "en": "Index (1)" } }, "image": null, "audio": null, "feedback": null },
+                { "id": "b", "text": { "values": { "en": "Middle (2)" } }, "image": null, "audio": null, "feedback": null },
+                { "id": "c", "text": { "values": { "en": "Ring (3)" } }, "image": null, "audio": null, "feedback": null }
+            ],
+            "correctAlternativeIDs": ["a"],
+            "shuffleAlternatives": true,
+            "points": 1,
+            "timeLimitSeconds": null,
+            "explanation": { "values": { "en": "Use **index** for 1st fret to keep hand position consistent for beginners." } }
+        },
+        {
+            "id": "q2",
+            "title": { "values": { "en": "Note Order" } },
+            "type": "multipleChoice",
+            "question": { "values": { "en": "What is the ascending note order you practice on the high E in this lesson?" } },
+            "alternatives": [
+                { "id": "a", "text": { "values": { "en": "E – F – G" } }, "image": null, "audio": null, "feedback": null },
+                { "id": "b", "text": { "values": { "en": "E – F# – G#" } }, "image": null, "audio": null, "feedback": null },
+                { "id": "c", "text": { "values": { "en": "C – D – E" } }, "image": null, "audio": null, "feedback": null }
+            ],
+            "correctAlternativeIDs": ["a"],
+            "shuffleAlternatives": true,
+            "points": 1,
+            "timeLimitSeconds": null,
+            "explanation": { "values": { "en": "Open E, 1st-fret F, 3rd-fret G." } }
+        },
+        {
+            "id": "q3",
+            "title": { "values": { "en": "Fret Placement" } },
+            "type": "multipleChoice",
+            "question": { "values": { "en": "Where should your fingertip be for the cleanest tone?" } },
+            "alternatives": [
+                { "id": "a", "text": { "values": { "en": "Just behind the fret (toward the body)" } }, "image": null, "audio": null, "feedback": null },
+                { "id": "b", "text": { "values": { "en": "Exactly on top of the fret wire" } }, "image": null, "audio": null, "feedback": null },
+                { "id": "c", "text": { "values": { "en": "In the middle of the fret space (far from the fret)" } }, "image": null, "audio": null, "feedback": null }
+            ],
+            "correctAlternativeIDs": ["a"],
+            "shuffleAlternatives": true,
+            "points": 1,
+            "timeLimitSeconds": null,
+            "explanation": { "values": { "en": "Close to the fret reduces string rattle and buzz." } }
+        },
+        {
+            "id": "q4",
+            "title": { "values": { "en": "Finger for G" } },
+            "type": "multipleChoice",
+            "question": { "values": { "en": "Which finger plays **G** on the **3rd fret** of the high E in this lesson?" } },
+            "alternatives": [
+                { "id": "a", "text": { "values": { "en": "Ring (3)" } }, "image": null, "audio": null, "feedback": null },
+                { "id": "b", "text": { "values": { "en": "Index (1)" } }, "image": null, "audio": null, "feedback": null },
+                { "id": "c", "text": { "values": { "en": "Little (4)" } }, "image": null, "audio": null, "feedback": null }
+            ],
+            "correctAlternativeIDs": ["a"],
+            "shuffleAlternatives": true,
+            "points": 1,
+            "timeLimitSeconds": null,
+            "explanation": { "values": { "en": "Ring finger on 3rd fret keeps spacing natural for beginners." } }
+        },
+        {
+            "id": "q5",
+            "title": { "values": { "en": "Alternate Picking" } },
+            "type": "multipleChoice",
+            "question": { "values": { "en": "What best describes **alternate picking**?" } },
+            "alternatives": [
+                { "id": "a", "text": { "values": { "en": "Alternating **down** and **up** strokes in sequence" } }, "image": null, "audio": null, "feedback": null },
+                { "id": "b", "text": { "values": { "en": "Only downstrokes at all times" } }, "image": null, "audio": null, "feedback": null },
+                { "id": "c", "text": { "values": { "en": "Random stroke directions" } }, "image": null, "audio": null, "feedback": null }
+            ],
+            "correctAlternativeIDs": ["a"],
+            "shuffleAlternatives": true,
+            "points": 1,
+            "timeLimitSeconds": null,
+            "explanation": { "values": { "en": "Down–up–down–up builds efficiency and speed." } }
+        },
+        {
+            "id": "q6",
+            "title": { "values": { "en": "Starting Tempo" } },
+            "type": "multipleChoice",
+            "question": { "values": { "en": "What starting metronome tempo does the lesson recommend?" } },
+            "alternatives": [
+                { "id": "a", "text": { "values": { "en": "60 BPM" } }, "image": null, "audio": null, "feedback": null },
+                { "id": "b", "text": { "values": { "en": "140 BPM" } }, "image": null, "audio": null, "feedback": null },
+                { "id": "c", "text": { "values": { "en": "200 BPM" } }, "image": null, "audio": null, "feedback": null }
+            ],
+            "correctAlternativeIDs": ["a"],
+            "shuffleAlternatives": true,
+            "points": 1,
+            "timeLimitSeconds": null,
+            "explanation": { "values": { "en": "Start slow to ensure clean tone and even rhythm." } }
+        },
+        {
+            "id": "q7",
+            "title": { "values": { "en": "Tone Tip" } },
+            "type": "multipleChoice",
+            "question": { "values": { "en": "Which action most helps produce a **clean** note?" } },
+            "alternatives": [
+                { "id": "a", "text": { "values": { "en": "Curved fingertip close to the fret" } }, "image": null, "audio": null, "feedback": null },
+                { "id": "b", "text": { "values": { "en": "Flattening the finger pad across the string" } }, "image": null, "audio": null, "feedback": null },
+                { "id": "c", "text": { "values": { "en": "Placing the finger directly on top of the fret wire" } }, "image": null, "audio": null, "feedback": null }
+            ],
+            "correctAlternativeIDs": ["a"],
+            "shuffleAlternatives": true,
+            "points": 1,
+            "timeLimitSeconds": null,
+            "explanation": { "values": { "en": "Curved fingertip and proximity to the fret reduce buzzing and muting." } }
+        },
+        {
+            "id": "q8",
+            "title": { "values": { "en": "Counting Eighths" } },
+            "type": "multipleChoice",
+            "question": { "values": { "en": "In **4/4** time at 60 BPM, how many **eighth-note** picks occur in one bar?" } },
+            "alternatives": [
+                { "id": "a", "text": { "values": { "en": "8" } }, "image": null, "audio": null, "feedback": null },
+                { "id": "b", "text": { "values": { "en": "4" } }, "image": null, "audio": null, "feedback": null },
+                { "id": "c", "text": { "values": { "en": "6" } }, "image": null, "audio": null, "feedback": null }
+            ],
+            "correctAlternativeIDs": ["a"],
+            "shuffleAlternatives": true,
+            "points": 1,
+            "timeLimitSeconds": null,
+            "explanation": { "values": { "en": "Eighth notes are two per beat; 4 beats × 2 = 8." } }
+        },
+        {
+            "id": "q9",
+            "title": { "values": { "en": "Fix the Buzz" } },
+            "type": "multipleChoice",
+            "question": { "values": { "en": "Your **F** is buzzing. What’s the **best** first fix to try?" } },
+            "alternatives": [
+                { "id": "a", "text": { "values": { "en": "Move closer to the fret and press a touch firmer" } }, "image": null, "audio": null, "feedback": null },
+                { "id": "b", "text": { "values": { "en": "Move farther from the fret and press harder" } }, "image": null, "audio": null, "feedback": null },
+                { "id": "c", "text": { "values": { "en": "Ignore it and play faster" } }, "image": null, "audio": null, "feedback": null }
+            ],
+            "correctAlternativeIDs": ["a"],
+            "shuffleAlternatives": true,
+            "points": 1,
+            "timeLimitSeconds": null,
+            "explanation": { "values": { "en": "Placement near the fret improves tone with less effort." } }
+        },
+        {
+            "id": "q10",
+            "title": { "values": { "en": "Stroke Order" } },
+            "type": "multipleChoice",
+            "question": { "values": { "en": "For two eighth notes in a row, which picking is correct for **alternate picking**?" } },
+            "alternatives": [
+                { "id": "a", "text": { "values": { "en": "Down then Up" } }, "image": null, "audio": null, "feedback": null },
+                { "id": "b", "text": { "values": { "en": "Up then Up" } }, "image": null, "audio": null, "feedback": null },
+                { "id": "c", "text": { "values": { "en": "Down then Down" } }, "image": null, "audio": null, "feedback": null }
+            ],
+            "correctAlternativeIDs": ["a"],
+            "shuffleAlternatives": true,
+            "points": 1,
+            "timeLimitSeconds": null,
+            "explanation": { "values": { "en": "Alternating directions (D–U) keeps motion economical." } }
+        }
+    ],
+    "createdAt": "2025-08-15T12:00:00Z",
+    "updatedAt": "2025-08-16T12:00:00Z"
+}

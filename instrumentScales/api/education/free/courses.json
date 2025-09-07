@@ -1,0 +1,40 @@
+{
+    "schemaVersion": 1,
+    "createdAt": "2025-08-15T12:00:00Z",
+    "updatedAt": "2025-08-15T12:00:00Z",
+    "courses": [
+        {
+            "id": "guitar",
+            "slug": "guitar",
+            "name": { "values": { "en": "Guitar" } },
+            "summary": { "values": { "en": "Start your journey with basic chords and techniques." } },
+            "image": { "type": "asset", "name": "guitar_cover" },
+            "tags": ["guitar", "beginner"],
+            "order": 1,
+            "createdAt": "2025-08-15T12:00:00Z",
+            "updatedAt": "2025-08-15T12:00:00Z"
+        },
+        {
+            "id": "bass",
+            "slug": "bass",
+            "name": { "values": { "en": "Bass" } },
+            "summary": { "values": { "en": "Learn foundational grooves and fingerstyle technique." } },
+            "image": { "type": "asset", "name": "bass_cover" },
+            "tags": ["bass", "beginner"],
+            "order": 2,
+            "createdAt": "2025-08-15T12:00:00Z",
+            "updatedAt": "2025-08-15T12:00:00Z"
+        },
+        {
+            "id": "piano",
+            "slug": "piano",
+            "name": { "values": { "en": "Piano" } },
+            "summary": { "values": { "en": "Posture, hand position and your first melodies." } },
+            "image": { "type": "asset", "name": "piano_cover" },
+            "tags": ["piano", "beginner"],
+            "order": 3,
+            "createdAt": "2025-08-15T12:00:00Z",
+            "updatedAt": "2025-08-15T12:00:00Z"
+        }
+    ]
+}

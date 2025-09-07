@@ -1,0 +1,11 @@
+[
+    {
+        "id": "open-chords",
+        "name": { "values": { "en": "Open Chords" } },
+        "description": { "values": { "en": "Familiarize yourself with open-position chords." } },
+        "image": { "type": "asset", "name": "guitar_unit_open_chords" },
+        "order": 1,
+        "createdAt": "2025-08-15T12:00:00Z",
+        "updatedAt": "2025-08-15T12:00:00Z"
+    }
+]

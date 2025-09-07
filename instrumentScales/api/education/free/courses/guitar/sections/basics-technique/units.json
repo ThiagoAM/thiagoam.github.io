@@ -1,0 +1,11 @@
+[
+    {
+        "id": "first-steps",
+        "name": { "values": { "en": "First Steps" } },
+        "description": { "values": { "en": "Tuning and first notes." } },
+        "image": { "type": "asset", "name": "guitar_unit_first_steps" },
+        "order": 1,
+        "createdAt": "2025-08-15T12:00:00Z",
+        "updatedAt": "2025-08-15T12:00:00Z"
+    }
+]

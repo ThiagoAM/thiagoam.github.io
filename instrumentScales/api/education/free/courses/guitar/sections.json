@@ -1,0 +1,20 @@
+[
+    {
+        "id": "basics-technique",
+        "name": { "values": { "en": "Basics & Technique" } },
+        "description": { "values": { "en": "Fundamental skills for new guitarists." } },
+        "image": { "type": "asset", "name": "guitar_basics_section" },
+        "order": 1,
+        "createdAt": "2025-08-15T12:00:00Z",
+        "updatedAt": "2025-08-15T12:00:00Z"
+    },
+    {
+        "id": "chords-basics",
+        "name": { "values": { "en": "Chord Basics" } },
+        "description": { "values": { "en": "Learn first open chords." } },
+        "image": { "type": "asset", "name": "guitar_chords_section" },
+        "order": 2,
+        "createdAt": "2025-08-15T12:00:00Z",
+        "updatedAt": "2025-08-15T12:00:00Z"
+    }
+]

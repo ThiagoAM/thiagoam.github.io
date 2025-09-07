@@ -1,0 +1,22 @@
+[
+    {
+        "id": "clap-quarter-notes",
+        "level": "beginner",
+        "difficulty": "easy",
+        "name": { "values": { "en": "Clap Quarter Notes" } },
+        "description": { "values": { "en": "Practice steady beats with quarter notes." } },
+        "order": 1,
+        "createdAt": "2025-08-15T12:00:00Z",
+        "updatedAt": "2025-08-15T12:00:00Z"
+    },
+    {
+        "id": "tap-half-notes",
+        "level": "beginner",
+        "difficulty": "easy",
+        "name": { "values": { "en": "Tap Half Notes" } },
+        "description": { "values": { "en": "Feel the duration of half notes." } },
+        "order": 2,
+        "createdAt": "2025-08-15T12:00:00Z",
+        "updatedAt": "2025-08-15T12:00:00Z"
+    }
+]

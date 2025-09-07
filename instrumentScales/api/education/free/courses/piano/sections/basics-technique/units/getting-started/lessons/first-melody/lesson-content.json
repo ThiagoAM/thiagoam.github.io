@@ -1,0 +1,166 @@
+{
+    "id": "first-melody",
+    "blocks": [
+        { "type": "text", "value": { "values": { "en": "# First Melody\nPlay C, D, E with your right hand and then mirror with the left." } } },
+        { "type": "text", "value": { "values": { "en": "Place your thumb (finger 1) on middle C." } } },
+        { "type": "text", "value": { "values": { "en": "Use fingers 1-2-3 for the notes C-D-E." } } },
+        { "type": "image", "value": { "type": "asset", "name": "piano_first_melody" }, "alt": { "values": { "en": "Hands playing the first melody" } }, "caption": { "values": { "en": "Hands playing the notes C-D-E." } } },
+        { "type": "text", "value": { "values": { "en": "Play slowly with a metronome and keep a steady rhythm." } } },
+        { "type": "text", "value": { "values": { "en": "Practice hands separately before combining them." } } },
+        { "type": "text", "value": { "values": { "en": "Keep wrists relaxed and let fingers hover over the keys." } } }
+    ],
+    "tests": [
+        {
+            "id": "q1",
+            "title": { "values": { "en": "Question 1" } },
+            "type": "multipleChoice",
+            "question": { "values": { "en": "Which note do you start on?" } },
+            "alternatives": [
+                { "id": "a", "text": { "values": { "en": "Middle C" } }, "image": null, "audio": null, "feedback": null },
+                { "id": "b", "text": { "values": { "en": "A" } }, "image": null, "audio": null, "feedback": null }
+            ],
+            "correctAlternativeIDs": ["a"],
+            "shuffleAlternatives": false,
+            "points": 1,
+            "timeLimitSeconds": null,
+            "explanation": null
+        },
+        {
+            "id": "q2",
+            "title": { "values": { "en": "Question 2" } },
+            "type": "multipleChoice",
+            "question": { "values": { "en": "Which fingers play C-D-E?" } },
+            "alternatives": [
+                { "id": "a", "text": { "values": { "en": "1-2-3" } }, "image": null, "audio": null, "feedback": null },
+                { "id": "b", "text": { "values": { "en": "2-3-4" } }, "image": null, "audio": null, "feedback": null }
+            ],
+            "correctAlternativeIDs": ["a"],
+            "shuffleAlternatives": false,
+            "points": 1,
+            "timeLimitSeconds": null,
+            "explanation": null
+        },
+        {
+            "id": "q3",
+            "title": { "values": { "en": "Question 3" } },
+            "type": "multipleChoice",
+            "question": { "values": { "en": "Should you use a metronome?" } },
+            "alternatives": [
+                { "id": "a", "text": { "values": { "en": "Yes" } }, "image": null, "audio": null, "feedback": null },
+                { "id": "b", "text": { "values": { "en": "No" } }, "image": null, "audio": null, "feedback": null }
+            ],
+            "correctAlternativeIDs": ["a"],
+            "shuffleAlternatives": false,
+            "points": 1,
+            "timeLimitSeconds": null,
+            "explanation": null
+        },
+        {
+            "id": "q4",
+            "title": { "values": { "en": "Question 4" } },
+            "type": "multipleChoice",
+            "question": { "values": { "en": "How should your wrists feel?" } },
+            "alternatives": [
+                { "id": "a", "text": { "values": { "en": "Relaxed" } }, "image": null, "audio": null, "feedback": null },
+                { "id": "b", "text": { "values": { "en": "Stiff" } }, "image": null, "audio": null, "feedback": null }
+            ],
+            "correctAlternativeIDs": ["a"],
+            "shuffleAlternatives": false,
+            "points": 1,
+            "timeLimitSeconds": null,
+            "explanation": null
+        },
+        {
+            "id": "q5",
+            "title": { "values": { "en": "Question 5" } },
+            "type": "multipleChoice",
+            "question": { "values": { "en": "After playing with the right hand, what should you do?" } },
+            "alternatives": [
+                { "id": "a", "text": { "values": { "en": "Mirror with the left hand" } }, "image": null, "audio": null, "feedback": null },
+                { "id": "b", "text": { "values": { "en": "Stop" } }, "image": null, "audio": null, "feedback": null }
+            ],
+            "correctAlternativeIDs": ["a"],
+            "shuffleAlternatives": false,
+            "points": 1,
+            "timeLimitSeconds": null,
+            "explanation": null
+        },
+        {
+            "id": "q6",
+            "title": { "values": { "en": "Question 6" } },
+            "type": "multipleChoice",
+            "question": { "values": { "en": "How should you practice?" } },
+            "alternatives": [
+                { "id": "a", "text": { "values": { "en": "Slowly and evenly" } }, "image": null, "audio": null, "feedback": null },
+                { "id": "b", "text": { "values": { "en": "As fast as possible" } }, "image": null, "audio": null, "feedback": null }
+            ],
+            "correctAlternativeIDs": ["a"],
+            "shuffleAlternatives": false,
+            "points": 1,
+            "timeLimitSeconds": null,
+            "explanation": null
+        },
+        {
+            "id": "q7",
+            "title": { "values": { "en": "Question 7" } },
+            "type": "multipleChoice",
+            "question": { "values": { "en": "Which hand starts the melody?" } },
+            "alternatives": [
+                { "id": "a", "text": { "values": { "en": "Right hand" } }, "image": null, "audio": null, "feedback": null },
+                { "id": "b", "text": { "values": { "en": "Left hand" } }, "image": null, "audio": null, "feedback": null }
+            ],
+            "correctAlternativeIDs": ["a"],
+            "shuffleAlternatives": false,
+            "points": 1,
+            "timeLimitSeconds": null,
+            "explanation": null
+        },
+        {
+            "id": "q8",
+            "title": { "values": { "en": "Question 8" } },
+            "type": "multipleChoice",
+            "question": { "values": { "en": "What number is assigned to the thumb?" } },
+            "alternatives": [
+                { "id": "a", "text": { "values": { "en": "1" } }, "image": null, "audio": null, "feedback": null },
+                { "id": "b", "text": { "values": { "en": "5" } }, "image": null, "audio": null, "feedback": null }
+            ],
+            "correctAlternativeIDs": ["a"],
+            "shuffleAlternatives": false,
+            "points": 1,
+            "timeLimitSeconds": null,
+            "explanation": null
+        },
+        {
+            "id": "q9",
+            "title": { "values": { "en": "Question 9" } },
+            "type": "multipleChoice",
+            "question": { "values": { "en": "When should you combine hands?" } },
+            "alternatives": [
+                { "id": "a", "text": { "values": { "en": "After practicing separately" } }, "image": null, "audio": null, "feedback": null },
+                { "id": "b", "text": { "values": { "en": "Immediately" } }, "image": null, "audio": null, "feedback": null }
+            ],
+            "correctAlternativeIDs": ["a"],
+            "shuffleAlternatives": false,
+            "points": 1,
+            "timeLimitSeconds": null,
+            "explanation": null
+        },
+        {
+            "id": "q10",
+            "title": { "values": { "en": "Question 10" } },
+            "type": "multipleChoice",
+            "question": { "values": { "en": "Which notes are played in this melody?" } },
+            "alternatives": [
+                { "id": "a", "text": { "values": { "en": "C-D-E" } }, "image": null, "audio": null, "feedback": null },
+                { "id": "b", "text": { "values": { "en": "G-A-B" } }, "image": null, "audio": null, "feedback": null }
+            ],
+            "correctAlternativeIDs": ["a"],
+            "shuffleAlternatives": false,
+            "points": 1,
+            "timeLimitSeconds": null,
+            "explanation": null
+        }
+    ],
+    "createdAt": "2025-08-15T12:00:00Z",
+    "updatedAt": "2025-08-15T12:00:00Z"
+}

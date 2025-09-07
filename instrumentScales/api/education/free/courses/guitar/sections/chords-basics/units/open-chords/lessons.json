@@ -1,0 +1,22 @@
+[
+    {
+        "id": "c-major-chord",
+        "level": "beginner",
+        "difficulty": "easy",
+        "name": { "values": { "en": "C Major Chord" } },
+        "description": { "values": { "en": "Learn to hold and strum the open C major chord." } },
+        "order": 1,
+        "createdAt": "2025-08-15T12:00:00Z",
+        "updatedAt": "2025-08-15T12:00:00Z"
+    },
+    {
+        "id": "g-major-chord",
+        "level": "beginner",
+        "difficulty": "easy",
+        "name": { "values": { "en": "G Major Chord" } },
+        "description": { "values": { "en": "Play the open G major chord with proper fingering." } },
+        "order": 2,
+        "createdAt": "2025-08-15T12:00:00Z",
+        "updatedAt": "2025-08-15T12:00:00Z"
+    }
+]

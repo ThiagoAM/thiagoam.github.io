@@ -1,0 +1,11 @@
+[
+    {
+        "id": "basics-technique",
+        "name": { "values": { "en": "Basics & Technique" } },
+        "description": { "values": { "en": "Fingerstyle fundamentals and rhythm." } },
+        "image": { "type": "asset", "name": "bass_basics_section" },
+        "order": 1,
+        "createdAt": "2025-08-15T12:00:00Z",
+        "updatedAt": "2025-08-15T12:00:00Z"
+    }
+]

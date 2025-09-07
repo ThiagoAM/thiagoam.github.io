@@ -1,0 +1,11 @@
+[
+    {
+        "id": "keeping-time",
+        "name": { "values": { "en": "Keeping Time" } },
+        "description": { "values": { "en": "Learn to feel and count beats." } },
+        "image": { "type": "asset", "name": "piano_unit_keeping_time" },
+        "order": 1,
+        "createdAt": "2025-08-15T12:00:00Z",
+        "updatedAt": "2025-08-15T12:00:00Z"
+    }
+]

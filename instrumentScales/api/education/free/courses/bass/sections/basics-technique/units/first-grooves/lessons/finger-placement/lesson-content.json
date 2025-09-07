@@ -1,0 +1,165 @@
+{
+    "id": "finger-placement",
+    "blocks": [
+        { "type": "text", "value": { "values": { "en": "# Finger Placement\nCurve your fingers and press the string just behind the fret." } } },
+        { "type": "text", "value": { "values": { "en": "Rest your thumb on the back of the neck for stability." } } },
+        { "type": "text", "value": { "values": { "en": "Use one finger per fret to develop reach." } } },
+        { "type": "image", "value": { "type": "asset", "name": "bass_finger_position" }, "alt": { "values": { "en": "Close shot of proper bass finger placement" } }, "caption": { "values": { "en": "Use the tip of your finger for clarity." } } },
+        { "type": "text", "value": { "values": { "en": "Avoid squeezing; apply only the pressure needed for a clean note." } } },
+        { "type": "text", "value": { "values": { "en": "Practice the chromatic exercise 1-2-3-4 on each string." } } }
+    ],
+    "tests": [
+        {
+            "id": "q1",
+            "title": { "values": { "en": "Question 1" } },
+            "type": "multipleChoice",
+            "question": { "values": { "en": "Where should you press the string?" } },
+            "alternatives": [
+                { "id": "a", "text": { "values": { "en": "Just behind the fret" } }, "image": null, "audio": null, "feedback": null },
+                { "id": "b", "text": { "values": { "en": "Directly on top of the fret" } }, "image": null, "audio": null, "feedback": null }
+            ],
+            "correctAlternativeIDs": ["a"],
+            "shuffleAlternatives": false,
+            "points": 1,
+            "timeLimitSeconds": null,
+            "explanation": null
+        },
+        {
+            "id": "q2",
+            "title": { "values": { "en": "Question 2" } },
+            "type": "multipleChoice",
+            "question": { "values": { "en": "How should your fingers be shaped?" } },
+            "alternatives": [
+                { "id": "a", "text": { "values": { "en": "Curved" } }, "image": null, "audio": null, "feedback": null },
+                { "id": "b", "text": { "values": { "en": "Flat" } }, "image": null, "audio": null, "feedback": null }
+            ],
+            "correctAlternativeIDs": ["a"],
+            "shuffleAlternatives": false,
+            "points": 1,
+            "timeLimitSeconds": null,
+            "explanation": null
+        },
+        {
+            "id": "q3",
+            "title": { "values": { "en": "Question 3" } },
+            "type": "multipleChoice",
+            "question": { "values": { "en": "Where should your thumb rest?" } },
+            "alternatives": [
+                { "id": "a", "text": { "values": { "en": "On the back of the neck" } }, "image": null, "audio": null, "feedback": null },
+                { "id": "b", "text": { "values": { "en": "Over the strings" } }, "image": null, "audio": null, "feedback": null }
+            ],
+            "correctAlternativeIDs": ["a"],
+            "shuffleAlternatives": false,
+            "points": 1,
+            "timeLimitSeconds": null,
+            "explanation": null
+        },
+        {
+            "id": "q4",
+            "title": { "values": { "en": "Question 4" } },
+            "type": "multipleChoice",
+            "question": { "values": { "en": "How many frets should each finger cover?" } },
+            "alternatives": [
+                { "id": "a", "text": { "values": { "en": "One" } }, "image": null, "audio": null, "feedback": null },
+                { "id": "b", "text": { "values": { "en": "Three" } }, "image": null, "audio": null, "feedback": null }
+            ],
+            "correctAlternativeIDs": ["a"],
+            "shuffleAlternatives": false,
+            "points": 1,
+            "timeLimitSeconds": null,
+            "explanation": null
+        },
+        {
+            "id": "q5",
+            "title": { "values": { "en": "Question 5" } },
+            "type": "multipleChoice",
+            "question": { "values": { "en": "How much pressure should you apply?" } },
+            "alternatives": [
+                { "id": "a", "text": { "values": { "en": "Only what's needed" } }, "image": null, "audio": null, "feedback": null },
+                { "id": "b", "text": { "values": { "en": "As hard as possible" } }, "image": null, "audio": null, "feedback": null }
+            ],
+            "correctAlternativeIDs": ["a"],
+            "shuffleAlternatives": false,
+            "points": 1,
+            "timeLimitSeconds": null,
+            "explanation": null
+        },
+        {
+            "id": "q6",
+            "title": { "values": { "en": "Question 6" } },
+            "type": "multipleChoice",
+            "question": { "values": { "en": "What exercise is suggested?" } },
+            "alternatives": [
+                { "id": "a", "text": { "values": { "en": "Chromatic 1-2-3-4" } }, "image": null, "audio": null, "feedback": null },
+                { "id": "b", "text": { "values": { "en": "Random strumming" } }, "image": null, "audio": null, "feedback": null }
+            ],
+            "correctAlternativeIDs": ["a"],
+            "shuffleAlternatives": false,
+            "points": 1,
+            "timeLimitSeconds": null,
+            "explanation": null
+        },
+        {
+            "id": "q7",
+            "title": { "values": { "en": "Question 7" } },
+            "type": "multipleChoice",
+            "question": { "values": { "en": "On which strings should you practice the exercise?" } },
+            "alternatives": [
+                { "id": "a", "text": { "values": { "en": "Each string" } }, "image": null, "audio": null, "feedback": null },
+                { "id": "b", "text": { "values": { "en": "Only the E string" } }, "image": null, "audio": null, "feedback": null }
+            ],
+            "correctAlternativeIDs": ["a"],
+            "shuffleAlternatives": false,
+            "points": 1,
+            "timeLimitSeconds": null,
+            "explanation": null
+        },
+        {
+            "id": "q8",
+            "title": { "values": { "en": "Question 8" } },
+            "type": "multipleChoice",
+            "question": { "values": { "en": "Why keep fingers close to the frets?" } },
+            "alternatives": [
+                { "id": "a", "text": { "values": { "en": "Increase efficiency" } }, "image": null, "audio": null, "feedback": null },
+                { "id": "b", "text": { "values": { "en": "To look busy" } }, "image": null, "audio": null, "feedback": null }
+            ],
+            "correctAlternativeIDs": ["a"],
+            "shuffleAlternatives": false,
+            "points": 1,
+            "timeLimitSeconds": null,
+            "explanation": null
+        },
+        {
+            "id": "q9",
+            "title": { "values": { "en": "Question 9" } },
+            "type": "multipleChoice",
+            "question": { "values": { "en": "Which part of the finger presses the string?" } },
+            "alternatives": [
+                { "id": "a", "text": { "values": { "en": "The tip" } }, "image": null, "audio": null, "feedback": null },
+                { "id": "b", "text": { "values": { "en": "The knuckle" } }, "image": null, "audio": null, "feedback": null }
+            ],
+            "correctAlternativeIDs": ["a"],
+            "shuffleAlternatives": false,
+            "points": 1,
+            "timeLimitSeconds": null,
+            "explanation": null
+        },
+        {
+            "id": "q10",
+            "title": { "values": { "en": "Question 10" } },
+            "type": "multipleChoice",
+            "question": { "values": { "en": "What supports your fretting hand?" } },
+            "alternatives": [
+                { "id": "a", "text": { "values": { "en": "Thumb on the back" } }, "image": null, "audio": null, "feedback": null },
+                { "id": "b", "text": { "values": { "en": "Elbow lifted high" } }, "image": null, "audio": null, "feedback": null }
+            ],
+            "correctAlternativeIDs": ["a"],
+            "shuffleAlternatives": false,
+            "points": 1,
+            "timeLimitSeconds": null,
+            "explanation": null
+        }
+    ],
+    "createdAt": "2025-08-15T12:00:00Z",
+    "updatedAt": "2025-08-15T12:00:00Z"
+}

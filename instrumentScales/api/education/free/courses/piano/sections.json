@@ -1,0 +1,20 @@
+[
+    {
+        "id": "basics-technique",
+        "name": { "values": { "en": "Basics & Technique" } },
+        "description": { "values": { "en": "Posture, hand position, and first melodies." } },
+        "image": { "type": "asset", "name": "piano_basics_section" },
+        "order": 1,
+        "createdAt": "2025-08-15T12:00:00Z",
+        "updatedAt": "2025-08-15T12:00:00Z"
+    },
+    {
+        "id": "rhythm-basics",
+        "name": { "values": { "en": "Rhythm Basics" } },
+        "description": { "values": { "en": "Clapping and tapping simple rhythms." } },
+        "image": { "type": "asset", "name": "piano_rhythm_section" },
+        "order": 2,
+        "createdAt": "2025-08-15T12:00:00Z",
+        "updatedAt": "2025-08-15T12:00:00Z"
+    }
+]

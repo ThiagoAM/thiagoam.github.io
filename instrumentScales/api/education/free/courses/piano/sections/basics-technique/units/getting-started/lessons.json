@@ -1,0 +1,22 @@
+[
+    {
+        "id": "hand-posture",
+        "level": "beginner",
+        "difficulty": "easy",
+        "name": { "values": { "en": "Hand Posture" } },
+        "description": { "values": { "en": "Place your hands with relaxed curved fingers." } },
+        "order": 1,
+        "createdAt": "2025-08-15T12:00:00Z",
+        "updatedAt": "2025-08-15T12:00:00Z"
+    },
+    {
+        "id": "first-melody",
+        "level": "beginner",
+        "difficulty": "easy",
+        "name": { "values": { "en": "First Melody" } },
+        "description": { "values": { "en": "Play a simple melody using both hands." } },
+        "order": 2,
+        "createdAt": "2025-08-15T12:00:00Z",
+        "updatedAt": "2025-08-15T12:00:00Z"
+    }
+]

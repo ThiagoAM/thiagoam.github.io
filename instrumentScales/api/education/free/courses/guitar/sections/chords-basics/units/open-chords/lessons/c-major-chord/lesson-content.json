@@ -1,0 +1,58 @@
+{
+    "id": "c-major-chord",
+    "blocks": [
+        { "type": "text", "value": { "values": { "en": "# C Major Chord\nPlace fingers for the open C major chord." } } },
+        { "type": "text", "value": { "values": { "en": "Index on B1, middle on D2, ring on A3." } } },
+        { "type": "image", "value": { "type": "asset", "name": "guitar_c_major_chord" }, "alt": { "values": { "en": "Fingers forming C chord" } }, "caption": { "values": { "en": "Keep thumb behind the neck." } } },
+        { "type": "text", "value": { "values": { "en": "Strum from the A string downward." } } }
+    ],
+    "tests": [
+        {
+            "id": "q1",
+            "title": { "values": { "en": "Question 1" } },
+            "type": "multipleChoice",
+            "question": { "values": { "en": "Which finger is on the first fret of the B string?" } },
+            "alternatives": [
+                { "id": "a", "text": { "values": { "en": "Index finger" } }, "image": null, "audio": null, "feedback": null },
+                { "id": "b", "text": { "values": { "en": "Ring finger" } }, "image": null, "audio": null, "feedback": null }
+            ],
+            "correctAlternativeIDs": ["a"],
+            "shuffleAlternatives": false,
+            "points": 1,
+            "timeLimitSeconds": null,
+            "explanation": null
+        },
+        {
+            "id": "q2",
+            "title": { "values": { "en": "Question 2" } },
+            "type": "multipleChoice",
+            "question": { "values": { "en": "Which string do you start strumming from?" } },
+            "alternatives": [
+                { "id": "a", "text": { "values": { "en": "A string" } }, "image": null, "audio": null, "feedback": null },
+                { "id": "b", "text": { "values": { "en": "Low E string" } }, "image": null, "audio": null, "feedback": null }
+            ],
+            "correctAlternativeIDs": ["a"],
+            "shuffleAlternatives": false,
+            "points": 1,
+            "timeLimitSeconds": null,
+            "explanation": null
+        },
+        {
+            "id": "q3",
+            "title": { "values": { "en": "Question 3" } },
+            "type": "multipleChoice",
+            "question": { "values": { "en": "Where should your thumb be?" } },
+            "alternatives": [
+                { "id": "a", "text": { "values": { "en": "Behind the neck" } }, "image": null, "audio": null, "feedback": null },
+                { "id": "b", "text": { "values": { "en": "Over the fretboard" } }, "image": null, "audio": null, "feedback": null }
+            ],
+            "correctAlternativeIDs": ["a"],
+            "shuffleAlternatives": false,
+            "points": 1,
+            "timeLimitSeconds": null,
+            "explanation": null
+        }
+    ],
+    "createdAt": "2025-08-15T12:00:00Z",
+    "updatedAt": "2025-08-15T12:00:00Z"
+}

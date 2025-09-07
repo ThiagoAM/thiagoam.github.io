@@ -1,0 +1,165 @@
+{
+    "id": "hand-posture",
+    "blocks": [
+        { "type": "text", "value": { "values": { "en": "# Hand Posture\nSit at the center of the keyboard with relaxed shoulders and feet flat on the floor." } } },
+        { "type": "text", "value": { "values": { "en": "Keep your elbows slightly above the keys and forearms parallel." } } },
+        { "type": "text", "value": { "values": { "en": "Curve your fingers like holding a ball and rest the tips on the keys." } } },
+        { "type": "image", "value": { "type": "asset", "name": "piano_hand_position" }, "alt": { "values": { "en": "Correct piano hand posture" } }, "caption": { "values": { "en": "Curve your fingers gently." } } },
+        { "type": "text", "value": { "values": { "en": "Keep wrists level with your forearms and avoid collapsing." } } },
+        { "type": "text", "value": { "values": { "en": "Practice lifting and dropping each finger without pressing too hard." } } }
+    ],
+    "tests": [
+        {
+            "id": "q1",
+            "title": { "values": { "en": "Question 1" } },
+            "type": "multipleChoice",
+            "question": { "values": { "en": "Where should you sit at the keyboard?" } },
+            "alternatives": [
+                { "id": "a", "text": { "values": { "en": "Center" } }, "image": null, "audio": null, "feedback": null },
+                { "id": "b", "text": { "values": { "en": "Far left" } }, "image": null, "audio": null, "feedback": null }
+            ],
+            "correctAlternativeIDs": ["a"],
+            "shuffleAlternatives": false,
+            "points": 1,
+            "timeLimitSeconds": null,
+            "explanation": null
+        },
+        {
+            "id": "q2",
+            "title": { "values": { "en": "Question 2" } },
+            "type": "multipleChoice",
+            "question": { "values": { "en": "How should your shoulders feel?" } },
+            "alternatives": [
+                { "id": "a", "text": { "values": { "en": "Relaxed" } }, "image": null, "audio": null, "feedback": null },
+                { "id": "b", "text": { "values": { "en": "Raised" } }, "image": null, "audio": null, "feedback": null }
+            ],
+            "correctAlternativeIDs": ["a"],
+            "shuffleAlternatives": false,
+            "points": 1,
+            "timeLimitSeconds": null,
+            "explanation": null
+        },
+        {
+            "id": "q3",
+            "title": { "values": { "en": "Question 3" } },
+            "type": "multipleChoice",
+            "question": { "values": { "en": "Where should your elbows be?" } },
+            "alternatives": [
+                { "id": "a", "text": { "values": { "en": "Slightly above the keys" } }, "image": null, "audio": null, "feedback": null },
+                { "id": "b", "text": { "values": { "en": "Below your knees" } }, "image": null, "audio": null, "feedback": null }
+            ],
+            "correctAlternativeIDs": ["a"],
+            "shuffleAlternatives": false,
+            "points": 1,
+            "timeLimitSeconds": null,
+            "explanation": null
+        },
+        {
+            "id": "q4",
+            "title": { "values": { "en": "Question 4" } },
+            "type": "multipleChoice",
+            "question": { "values": { "en": "How should your fingers be shaped?" } },
+            "alternatives": [
+                { "id": "a", "text": { "values": { "en": "Curved like holding a ball" } }, "image": null, "audio": null, "feedback": null },
+                { "id": "b", "text": { "values": { "en": "Flat" } }, "image": null, "audio": null, "feedback": null }
+            ],
+            "correctAlternativeIDs": ["a"],
+            "shuffleAlternatives": false,
+            "points": 1,
+            "timeLimitSeconds": null,
+            "explanation": null
+        },
+        {
+            "id": "q5",
+            "title": { "values": { "en": "Question 5" } },
+            "type": "multipleChoice",
+            "question": { "values": { "en": "How should your wrists align?" } },
+            "alternatives": [
+                { "id": "a", "text": { "values": { "en": "Level with forearms" } }, "image": null, "audio": null, "feedback": null },
+                { "id": "b", "text": { "values": { "en": "Angled downward" } }, "image": null, "audio": null, "feedback": null }
+            ],
+            "correctAlternativeIDs": ["a"],
+            "shuffleAlternatives": false,
+            "points": 1,
+            "timeLimitSeconds": null,
+            "explanation": null
+        },
+        {
+            "id": "q6",
+            "title": { "values": { "en": "Question 6" } },
+            "type": "multipleChoice",
+            "question": { "values": { "en": "What should you avoid pressing too hard?" } },
+            "alternatives": [
+                { "id": "a", "text": { "values": { "en": "The keys" } }, "image": null, "audio": null, "feedback": null },
+                { "id": "b", "text": { "values": { "en": "The bench" } }, "image": null, "audio": null, "feedback": null }
+            ],
+            "correctAlternativeIDs": ["a"],
+            "shuffleAlternatives": false,
+            "points": 1,
+            "timeLimitSeconds": null,
+            "explanation": null
+        },
+        {
+            "id": "q7",
+            "title": { "values": { "en": "Question 7" } },
+            "type": "multipleChoice",
+            "question": { "values": { "en": "Why keep fingers curved?" } },
+            "alternatives": [
+                { "id": "a", "text": { "values": { "en": "Better control" } }, "image": null, "audio": null, "feedback": null },
+                { "id": "b", "text": { "values": { "en": "To look fancy" } }, "image": null, "audio": null, "feedback": null }
+            ],
+            "correctAlternativeIDs": ["a"],
+            "shuffleAlternatives": false,
+            "points": 1,
+            "timeLimitSeconds": null,
+            "explanation": null
+        },
+        {
+            "id": "q8",
+            "title": { "values": { "en": "Question 8" } },
+            "type": "multipleChoice",
+            "question": { "values": { "en": "What practice is suggested?" } },
+            "alternatives": [
+                { "id": "a", "text": { "values": { "en": "Lift and drop fingers" } }, "image": null, "audio": null, "feedback": null },
+                { "id": "b", "text": { "values": { "en": "Slam the keys" } }, "image": null, "audio": null, "feedback": null }
+            ],
+            "correctAlternativeIDs": ["a"],
+            "shuffleAlternatives": false,
+            "points": 1,
+            "timeLimitSeconds": null,
+            "explanation": null
+        },
+        {
+            "id": "q9",
+            "title": { "values": { "en": "Question 9" } },
+            "type": "multipleChoice",
+            "question": { "values": { "en": "What does proper posture help prevent?" } },
+            "alternatives": [
+                { "id": "a", "text": { "values": { "en": "Tension" } }, "image": null, "audio": null, "feedback": null },
+                { "id": "b", "text": { "values": { "en": "Speed" } }, "image": null, "audio": null, "feedback": null }
+            ],
+            "correctAlternativeIDs": ["a"],
+            "shuffleAlternatives": false,
+            "points": 1,
+            "timeLimitSeconds": null,
+            "explanation": null
+        },
+        {
+            "id": "q10",
+            "title": { "values": { "en": "Question 10" } },
+            "type": "multipleChoice",
+            "question": { "values": { "en": "Where should your feet rest?" } },
+            "alternatives": [
+                { "id": "a", "text": { "values": { "en": "Flat on the floor" } }, "image": null, "audio": null, "feedback": null },
+                { "id": "b", "text": { "values": { "en": "Dangling" } }, "image": null, "audio": null, "feedback": null }
+            ],
+            "correctAlternativeIDs": ["a"],
+            "shuffleAlternatives": false,
+            "points": 1,
+            "timeLimitSeconds": null,
+            "explanation": null
+        }
+    ],
+    "createdAt": "2025-08-15T12:00:00Z",
+    "updatedAt": "2025-08-15T12:00:00Z"
+}
