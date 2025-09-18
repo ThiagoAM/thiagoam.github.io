@@ -1,0 +1,26 @@
+{
+  "whatsNew": [
+    {
+      "title": "Version 3.0.0",
+      "description": "In this new version we added a lot of new features!"
+    },
+    {
+      "title": "New Guitar Lessons",
+      "description": "10 new guitar lessons were added."
+    }
+  ],
+  "tips": [
+    {
+      "title": "Study your favorite instrument here!",
+      "description": "We have free courses in this app. Check it out!"
+    },
+    {
+      "title": "How to change the app colors",
+      "description": "Did you know you can change the app colors?"
+    },
+    {
+      "title": "How to use the Tuner",
+      "description": "Tap here to learn more about the tuner and how to use it!"
+    }
+  ]
+}
