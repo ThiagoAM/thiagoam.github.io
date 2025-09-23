@@ -1,6 +1,69 @@
 {
   "results": [
     {
+      "slug": "crypto-market-selloff-wipes-out-1-5b",
+      "title": "Crypto sell-off wipes out $1.5 billion as investors liquidate positions",
+      "description": "On Monday, a broad-based crypto sell-off led to $1.5B in liquidated positions; Bitcoin dropped ~3%, Ethereum ~9%, others sharper. Some see the correction as healthy amid crowded long positions.",
+      "published_at": "2025-09-22T00:00:00Z",
+      "created_at": "2025-09-22T00:00:00Z",
+      "url": "https://www.businessinsider.com/bitcoin-ethereum-price-today-crypto-selloff-liquidation-derivatives-market-2025-9",
+      "source": "Business Insider"
+    },
+    {
+      "slug": "china-brokers-pause-rwa-business-in-hong-kong",
+      "title": "China asks brokers to pause real-world asset business in Hong Kong, sources say",
+      "description": "CSRC has advised Chinese brokerages to halt their real-world asset (RWA) tokenization operations in Hong Kong, citing risk concerns and need for legitimacy; reflects divergence in approach between mainland China and Hong Kong on digital assets.",
+      "published_at": "2025-09-22T00:00:00Z",
+      "created_at": "2025-09-22T00:00:00Z",
+      "url": "https://www.reuters.com/sustainability/boards-policy-regulation/china-ask-brokers-pause-real-world-asset-business-in-hong-kong-sources-say-2025-09-22/",
+      "source": "Reuters"
+    },
+    {
+      "slug": "uk-us-task-force-digital-assets-regulation",
+      "title": "UK and US set up task force to explore co-operation on digital assets regulation",
+      "description": "The United Kingdom and United States have launched a joint “Task Force for Markets of the Future” to coordinate regulation of digital assets and capital markets, aiming to ease cross-border capital-raising and provide recommendations in about 180 days.",
+      "published_at": "2025-09-22T00:00:00Z",
+      "created_at": "2025-09-22T00:00:00Z",
+      "url": "https://www.ft.com/content/5685174a-4ef0-44d9-ae97-80eb48d70310",
+      "source": "Financial Times"
+    },
+    {
+      "slug": "first-memecoin-etf-doge-approval",
+      "title": "Dogecoin ETF to begin trading in 'watershed moment' for pro-crypto SEC",
+      "description": "The first memecoin-backed ETF, the Rex-Osprey Doge ETF, has been approved by US regulators. Seen as a notable change in SEC’s stance; could open the door for more memecoin/NFT-based ETFs.",
+      "published_at": "2025-09-18T00:00:00Z",
+      "created_at": "2025-09-18T00:00:00Z",
+      "url": "https://www.ft.com/content/9ce02f45-1060-46a1-b37f-218d0037e621",
+      "source": "Financial Times"
+    },
+    {
+      "slug": "gpu-gold-rush-miners-pivot-to-ai",
+      "title": "GPU Gold Rush: Why Bitcoin miners are powering AI’s expansion",
+      "description": "Bitcoin mining firms are retooling energy-hungry facilities into AI data centers, shifting from ASICs to GPU clusters. AI contracts are providing more stable returns than volatile crypto mining amid rising energy and difficulty costs.",
+      "published_at": "2025-09-14T09:00:00Z",
+      "created_at": "2025-09-14T09:00:00Z",
+      "url": "https://www.coindesk.com/markets/2025/09/14/ai-mining-news-gpu-gold-rush-why-bitcoin-miners-are-powering-ai-s-expansion",
+      "source": "CoinDesk"
+    },
+    {
+      "slug": "btc-mining-difficulty-hits-all-time-high",
+      "title": "Bitcoin mining difficulty paints new ATH amid centralization fears",
+      "description": "Bitcoin’s network difficulty just reached a new all-time high (~142.3 trillion), as hashrate surges. Smaller miners are increasingly squeezed, raising concerns about centralization.",
+      "published_at": "2025-09-20T00:00:00Z",
+      "created_at": "2025-09-20T00:00:00Z",
+      "url": "https://cointelegraph.com/news/bitcoin-mining-difficulty-all-time-high-centralization-fear",
+      "source": "Cointelegraph"
+    },
+    {
+      "slug": "russia-no-further-mining-bans",
+      "title": "Russian gov't rules out further regional crypto mining bans",
+      "description": "Despite talk of new restrictions, the Russian government says there will be no more crypto mining bans in additional regions; current regulatory environment remains permissive.",
+      "published_at": "2025-09-20T00:00:00Z",
+      "created_at": "2025-09-20T00:00:00Z",
+      "url": "https://finance.yahoo.com/news/russian-gov-t-rules-further-113000069.html",
+      "source": "Yahoo Finance"
+    },
+    {
       "slug": "sec-generic-etf-standards",
       "title": "SEC Approves Generic Listing Standards for Faster Crypto ETF Approvals",
       "description": "The U.S. Securities and Exchange Commission has approved generic listing standards that allow exchanges like NYSE, Nasdaq, and Cboe to list spot crypto ETFs more rapidly, without requiring individual case-by-case SEC approval. Products tied to assets like XRP, SOL, DOGE, etc., may benefit under the new rules.",
