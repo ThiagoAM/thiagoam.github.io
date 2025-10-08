@@ -1,26 +1,39 @@
 {
-  "whatsNew": [
-    {
-      "title": "Version 3.0.0",
-      "description": "In this new version we added a lot of new features!"
-    },
-    {
-      "title": "New Guitar Lessons",
-      "description": "10 new guitar lessons were added."
-    }
-  ],
-  "tips": [
-    {
-      "title": "Study your favorite instrument here!",
-      "description": "We have free courses in this app. Check it out!"
-    },
-    {
-      "title": "How to change the app colors",
-      "description": "Did you know you can change the app colors?"
-    },
-    {
-      "title": "How to use the Tuner",
-      "description": "Tap here to learn more about the tuner and how to use it!"
-    }
-  ]
+  "whatsNew": {
+    "en": [
+      {
+        "title": "Version 3.0",
+        "description": "We’ve completely redesigned the app with exciting new features, including a fresh interface, Scale Search with Apple Intelligence, interactive Courses, and stunning new color themes!"
+      }
+    ],
+    "pt-BR": [
+      {
+        "title": "Versão 3.0",
+        "description": "Reformulamos completamente o app com recursos incríveis, incluindo uma nova interface, Busca de Escalas com suporte à Apple Intelligence, Cursos interativos e novos temas de cores incríveis!"
+      }
+    ]
+  },
+  "tips": {
+    "en": [
+      {
+        "title": "Use Scale Tabs",
+        "description": "Did you know you can tap the '+' button in the bottom-right corner of the Scales tab to open a new tab? This lets you quickly switch between different instruments and scale setups!"
+      },
+      {
+        "title": "Note Sounds",
+        "description": "In the Scales tab, you can tap anywhere on your instrument to hear the sound of each note."
+      }
+    ],
+    "pt-BR": [
+      {
+        "title": "Use Abas de Escalas",
+        "description": "Você sabia que é possível tocar no botão “+” no canto inferior direito da aba Escalas para abrir uma nova aba? Assim, você pode alternar facilmente entre diferentes instrumentos e configurações de escalas!"
+      },
+      {
+        "title": "Sons de Notas",
+        "description": "Na aba Escalas, você pode tocar em qualquer parte do instrumento para ouvir o som de cada nota."
+      }
+    ]
+  },
+  "updatedAt": "2025-10-08T01:40:00Z"
 }
