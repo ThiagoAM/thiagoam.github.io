@@ -11,6 +11,12 @@
         "title": "Versão 3.0",
         "description": "Reformulamos completamente o app com recursos incríveis, incluindo uma nova interface, Busca de Escalas com suporte à Apple Intelligence, Cursos interativos e novos temas de cores incríveis!"
       }
+    ],
+    "ja": [
+      {
+        "title": "バージョン 3.0",
+        "description": "アプリを完全にリニューアルし、新しいインターフェース、Apple Intelligence 対応のスケール検索、インタラクティブなコース、そして美しい新しいカラーテーマなど、エキサイティングな新機能を追加しました！"
+      }
     ]
   },
   "tips": {
@@ -32,6 +38,16 @@
       {
         "title": "Sons de Notas",
         "description": "Na aba Escalas, você pode tocar em qualquer parte do instrumento para ouvir o som de cada nota."
+      }
+    ],
+    "ja": [
+      {
+        "title": "スケールタブを使おう",
+        "description": "スケールタブの右下にある「＋」ボタンをタップすると、新しいタブを開くことができます。これにより、さまざまな楽器やスケール設定を素早く切り替えることができます！"
+      },
+      {
+        "title": "音を聞いてみよう",
+        "description": "スケールタブでは、楽器のどこでもタップすると各音符のサウンドを聞くことができます。"
       }
     ]
   },
