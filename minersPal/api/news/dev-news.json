@@ -1,6 +1,99 @@
 {
   "results": [
     {
+      "slug": "jpmorgan-collateral-btc-eth",
+      "title": "JPMorgan to Allow Bitcoin and Ether as Collateral in Crypto Push",
+      "description": "Bloomberg reports JPMorgan will let institutional clients pledge BTC and ETH as loan collateral via a program using third-party custody—another step toward mainstreaming digital assets in traditional finance.",
+      "published_at": "2025-10-24T15:00:00Z",
+      "created_at": "2025-10-24T15:00:00Z",
+      "url": "[https://www.bloomberg.com/news/articles/2025-10-24/jpmorgan-to-allow-bitcoin-ether-as-collateral-in-crypto-push](https://www.bloomberg.com/news/articles/2025-10-24/jpmorgan-to-allow-bitcoin-ether-as-collateral-in-crypto-push)",
+      "source": "Bloomberg"
+    },
+    {
+      "slug": "coindesk-jpmorgan-collateral",
+      "title": "JPMorgan to Allow Clients to Pledge Bitcoin and Ether as Collateral: Bloomberg",
+      "description": "CoinDesk corroborates Bloomberg’s scoop: JPMorgan will permit BTC/ETH as collateral under a global program, with assets safeguarded by a third-party custodian.",
+      "published_at": "2025-10-24T17:50:00Z",
+      "created_at": "2025-10-24T17:50:00Z",
+      "url": "[https://www.coindesk.com/markets/2025/10/24/jpmorgan-to-allow-clients-to-pledge-bitcoin-and-ether-as-collateral-bloomberg](https://www.coindesk.com/markets/2025/10/24/jpmorgan-to-allow-clients-to-pledge-bitcoin-and-ether-as-collateral-bloomberg)",
+      "source": "CoinDesk"
+    },
+    {
+      "slug": "cz-pardon-reuters",
+      "title": "Trump Pardons Binance Founder Changpeng Zhao",
+      "description": "The White House said President Trump pardoned Binance founder CZ, expunging his money-laundering conviction—another signal of friendlier U.S. policy toward crypto under the current administration.",
+      "published_at": "2025-10-23T20:00:00Z",
+      "created_at": "2025-10-23T20:00:00Z",
+      "url": "[https://www.reuters.com/world/us/trump-pardons-convicted-binance-founder-zhao-white-house-says-2025-10-23/](https://www.reuters.com/world/us/trump-pardons-convicted-binance-founder-zhao-white-house-says-2025-10-23/)",
+      "source": "Reuters"
+    },
+    {
+      "slug": "markets-today-btc-110k",
+      "title": "Crypto Markets Today: BTC Reclaims $110K as Softer CPI Lifts Sentiment",
+      "description": "A cooler U.S. inflation print revived risk appetite; bitcoin bounced back above $110,000 while most altcoins lagged, per CoinDesk’s afternoon wrap.",
+      "published_at": "2025-10-24T18:17:00Z",
+      "created_at": "2025-10-24T18:17:00Z",
+      "url": "[https://www.coindesk.com/markets/2025/10/24/crypto-markets-today-btc-reclaims-usd110k-as-softer-cpi-boosts-market-sentiment-altcoins-lag](https://www.coindesk.com/markets/2025/10/24/crypto-markets-today-btc-reclaims-usd110k-as-softer-cpi-boosts-market-sentiment-altcoins-lag)",
+      "source": "CoinDesk"
+    },
+    {
+      "slug": "btc-rally-cools-derivatives-hedging",
+      "title": "Bitcoin’s Rally Cools as Traders Hedge With Defensive Derivatives",
+      "description": "After record highs earlier in October, BTC slipped below key cost-basis levels as long-term holders took profit and traders rotated to downside protection.",
+      "published_at": "2025-10-24T10:11:00Z",
+      "created_at": "2025-10-24T10:11:00Z",
+      "url": "[https://www.coindesk.com/markets/2025/10/24/bitcoin-s-rally-cools-as-traders-hedge-the-heat](https://www.coindesk.com/markets/2025/10/24/bitcoin-s-rally-cools-as-traders-hedge-the-heat)",
+      "source": "CoinDesk"
+    },
+    {
+      "slug": "fsb-warns-gaps-crypto-rules",
+      "title": "G20 Watchdog Flags ‘Significant Gaps’ in Global Crypto Regulation",
+      "description": "The Financial Stability Board warned that uneven national rules leave financial-stability risks, urging countries to align with 2023 recommendations.",
+      "published_at": "2025-10-16T12:00:00Z",
+      "created_at": "2025-10-16T12:00:00Z",
+      "url": "[https://www.reuters.com/sustainability/boards-policy-regulation/g20-risk-watchdog-warns-significant-gaps-global-crypto-rules-2025-10-16/](https://www.reuters.com/sustainability/boards-policy-regulation/g20-risk-watchdog-warns-significant-gaps-global-crypto-rules-2025-10-16/)",
+      "source": "Reuters"
+    },
+    {
+      "slug": "tokenized-stocks-flags",
+      "title": "Race to Tokenize Stocks Raises Investor-Protection Concerns",
+      "description": "Traditional finance firms and experts warn tokenized equities may lack standard rights and protections, raising regulatory questions as tokenization efforts accelerate.",
+      "published_at": "2025-10-08T14:00:00Z",
+      "created_at": "2025-10-08T14:00:00Z",
+      "url": "[https://www.reuters.com/sustainability/boards-policy-regulation/crypto-race-tokenize-stocks-raises-investor-protection-flags-2025-10-08/](https://www.reuters.com/sustainability/boards-policy-regulation/crypto-race-tokenize-stocks-raises-investor-protection-flags-2025-10-08/)",
+      "source": "Reuters"
+    },
+
+    // --- Mining-focused items ---
+
+    {
+      "slug": "brazil-clean-energy-miners",
+      "title": "Clean Energy Glut Draws Crypto Miners to Brazil",
+      "description": "A $200 million, 100-MW wind-powered mining project in Bahia underscores Brazil’s growing appeal to miners seeking cheap renewable energy.",
+      "published_at": "2025-10-01T12:00:00Z",
+      "created_at": "2025-10-01T12:00:00Z",
+      "url": "[https://www.reuters.com/business/energy/clean-energy-glut-draws-cryptocurrency-miners-brazil-2025-09-30/](https://www.reuters.com/business/energy/clean-energy-glut-draws-cryptocurrency-miners-brazil-2025-09-30/)",
+      "source": "Reuters"
+    },
+    {
+      "slug": "laos-to-cut-miner-power-2026",
+      "title": "Laos Plans to Pull Plug on Crypto Miners by Early 2026",
+      "description": "Laos aims to halt electricity supply to crypto miners in Q1 2026 to reserve power for higher-value industries after a rapid expansion of mining since 2021.",
+      "published_at": "2025-10-16T06:00:00Z",
+      "created_at": "2025-10-16T06:00:00Z",
+      "url": "[https://www.reuters.com/sustainability/boards-policy-regulation/laos-plans-pull-plug-crypto-miners-by-early-2026-2025-10-16/](https://www.reuters.com/sustainability/boards-policy-regulation/laos-plans-pull-plug-crypto-miners-by-early-2026-2025-10-16/)",
+      "source": "Reuters"
+    },
+    {
+      "slug": "bitcoin-hashrate-breather",
+      "title": "Bitcoin Network Hashrate Takes a Breather After Record Highs",
+      "description": "JPMorgan notes BTC hashrate dipped ~5 EH/s in early October after hitting records in August–September, easing miner difficulty pressures slightly.",
+      "published_at": "2025-10-16T10:00:00Z",
+      "created_at": "2025-10-16T10:00:00Z",
+      "url": "[https://www.coindesk.com/markets/2025/10/16/bitcoin-network-hashrate-took-breather-in-first-two-weeks-of-october-jpmorgan](https://www.coindesk.com/markets/2025/10/16/bitcoin-network-hashrate-took-breather-in-first-two-weeks-of-october-jpmorgan)",
+      "source": "CoinDesk"
+    },
+    {
       "slug": "crypto-market-selloff-wipes-out-1-5b",
       "title": "Crypto sell-off wipes out $1.5 billion as investors liquidate positions",
       "description": "On Monday, a broad-based crypto sell-off led to $1.5B in liquidated positions; Bitcoin dropped ~3%, Ethereum ~9%, others sharper. Some see the correction as healthy amid crowded long positions.",
