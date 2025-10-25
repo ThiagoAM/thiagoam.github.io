@@ -1,6 +1,115 @@
 {
   "results": [
     {
+      "slug": "jpmorgan-btc-eth-collateral-bloomberg",
+      "title": "JPMorgan to Allow Bitcoin, Ether as Collateral in Crypto Push",
+      "description": "JPMorgan plans to let institutional clients pledge BTC and ETH as loan collateral by year-end, deepening Wall Street’s integration with digital assets.",
+      "published_at": "2025-10-24T00:00:00Z",
+      "created_at": "2025-10-24T00:00:00Z",
+      "url": "[https://www.bloomberg.com/news/articles/2025-10-24/jpmorgan-to-allow-bitcoin-ether-as-collateral-in-crypto-push](https://www.bloomberg.com/news/articles/2025-10-24/jpmorgan-to-allow-bitcoin-ether-as-collateral-in-crypto-push)",
+      "source": "Bloomberg"
+    },
+    {
+      "slug": "coindesk-jpmorgan-collateral-follow",
+      "title": "JPMorgan to Allow Clients to Pledge Bitcoin and Ether as Collateral: Bloomberg",
+      "description": "CoinDesk echoes Bloomberg’s scoop: BTC and ETH holdings will be accepted as collateral for institutional loans at JPMorgan by year-end.",
+      "published_at": "2025-10-24T00:00:00Z",
+      "created_at": "2025-10-24T00:00:00Z",
+      "url": "[https://www.coindesk.com/markets/2025/10/24/jpmorgan-to-allow-clients-to-pledge-bitcoin-and-ether-as-collateral-bloomberg](https://www.coindesk.com/markets/2025/10/24/jpmorgan-to-allow-clients-to-pledge-bitcoin-and-ether-as-collateral-bloomberg)",
+      "source": "CoinDesk"
+    },
+    {
+      "slug": "crypto-com-us-bank-charter",
+      "title": "Crypto.com Joins Digital-Asset Firms Pursuing U.S. Bank Charters",
+      "description": "Crypto.com is seeking a U.S. bank charter to expand custody and related services, underscoring a broader shift toward regulated structures.",
+      "published_at": "2025-10-24T00:00:00Z",
+      "created_at": "2025-10-24T00:00:00Z",
+      "url": "[https://www.bloomberg.com/news/articles/2025-10-24/crypto-com-joins-digital-asset-firms-pursuing-us-bank-charters](https://www.bloomberg.com/news/articles/2025-10-24/crypto-com-joins-digital-asset-firms-pursuing-us-bank-charters)",
+      "source": "Bloomberg"
+    },
+    {
+      "slug": "polymarket-token-airdrop",
+      "title": "Polymarket Will Launch Token and Airdrop After U.S. Relaunch, CMO Says",
+      "description": "Prediction-market platform Polymarket plans a token and airdrop tied to its U.S. return via a regulated venue.",
+      "published_at": "2025-10-24T00:00:00Z",
+      "created_at": "2025-10-24T00:00:00Z",
+      "url": "[https://www.coindesk.com/markets/2025/10/24/polymarket-will-launch-token-and-airdrop-after-u-s-relaunch-cmo-says](https://www.coindesk.com/markets/2025/10/24/polymarket-will-launch-token-and-airdrop-after-u-s-relaunch-cmo-says)",
+      "source": "CoinDesk"
+    },
+    {
+      "slug": "market-wrap-btc-reclaims-110k",
+      "title": "Crypto Markets Today: BTC Reclaims $110K as Softer CPI Lifts Sentiment",
+      "description": "Bitcoin moved back above $110,000 after a cooler U.S. CPI print; ether and majors followed, though altcoins lagged.",
+      "published_at": "2025-10-24T00:00:00Z",
+      "created_at": "2025-10-24T00:00:00Z",
+      "url": "[https://www.coindesk.com/markets/2025/10/24/crypto-markets-today-btc-reclaims-usd110k-as-softer-cpi-boosts-market-sentiment-altcoins-lag](https://www.coindesk.com/markets/2025/10/24/crypto-markets-today-btc-reclaims-usd110k-as-softer-cpi-boosts-market-sentiment-altcoins-lag)",
+      "source": "CoinDesk"
+    },
+    {
+      "slug": "altcoin-market-800b-gap",
+      "title": "Altcoin Market Falls $800B Short as Retail Traders Vanish",
+      "description": "With liquidity thinning, altcoins remain far below prior cycle peaks; institutions focus on BTC and ETH while retail interest stays muted.",
+      "published_at": "2025-10-24T00:00:00Z",
+      "created_at": "2025-10-24T00:00:00Z",
+      "url": "[https://fortune.com/crypto/2025/10/24/altcoin-market-falls-800-billion-short-retail-traders-vanish-bitcoin-ethereum/](https://fortune.com/crypto/2025/10/24/altcoin-market-falls-800-billion-short-retail-traders-vanish-bitcoin-ethereum/)",
+      "source": "Fortune (via Bloomberg)"
+    },
+    {
+      "slug": "coinbase-upgraded-jpm",
+      "title": "JPMorgan Upgrades Coinbase to Overweight, Citing New Monetization",
+      "description": "JPMorgan raised Coinbase’s rating and target, pointing to Base, derivatives, and improved risk backdrop as drivers.",
+      "published_at": "2025-10-24T00:00:00Z",
+      "created_at": "2025-10-24T00:00:00Z",
+      "url": "[https://www.coindesk.com/markets/2025/10/24/jpmorgan-upgrades-coinbase-sees-potential-usd34b-opportunity-in-base-token](https://www.coindesk.com/markets/2025/10/24/jpmorgan-upgrades-coinbase-sees-potential-usd34b-opportunity-in-base-token)",
+      "source": "CoinDesk"
+    },
+    {
+      "slug": "regulatory-cftc-chair-pick",
+      "title": "Trump Chooses Michael Selig for CFTC Chair, Report Says",
+      "description": "The White House is set to nominate Michael Selig, a crypto-focused regulator, to lead the CFTC, signaling continued policy emphasis on digital assets.",
+      "published_at": "2025-10-24T00:00:00Z",
+      "created_at": "2025-10-24T00:00:00Z",
+      "url": "[https://www.reuters.com/business/trump-chooses-michael-selig-cftc-chair-bloomberg-news-reports-2025-10-24/](https://www.reuters.com/business/trump-chooses-michael-selig-cftc-chair-bloomberg-news-reports-2025-10-24/)",
+      "source": "Reuters"
+    },
+
+    {
+      "slug": "miner-huge-junk-deal",
+      "title": "Crypto Miner Draws $11B-Plus Orders in Blockbuster Junk-Bond Deal",
+      "description": "A major bitcoin miner attracted outsized demand for a high-yield offering, highlighting investor appetite for mining and compute infrastructure.",
+      "published_at": "2025-10-24T00:00:00Z",
+      "created_at": "2025-10-24T00:00:00Z",
+      "url": "[https://www.bloomberg.com/news/articles/2025-10-24/crypto-miner-evokes-barbarians-at-the-gate-with-huge-junk-deal](https://www.bloomberg.com/news/articles/2025-10-24/crypto-miner-evokes-barbarians-at-the-gate-with-huge-junk-deal)",
+      "source": "Bloomberg"
+    },
+    {
+      "slug": "cleanspark-ai-hpc-pivot",
+      "title": "CleanSpark Expands Into AI/HPC; Mining Stocks Rally",
+      "description": "CleanSpark is building AI data-center capacity in Georgia and hiring leadership for its HPC push, joining peers diversifying beyond pure bitcoin mining.",
+      "published_at": "2025-10-20T00:00:00Z",
+      "created_at": "2025-10-20T00:00:00Z",
+      "url": "[https://www.investors.com/news/cleanspark-stock-bitcoin-miner-ai-high-performane-computing-hpc-clsk-stock/](https://www.investors.com/news/cleanspark-stock-bitcoin-miner-ai-high-performane-computing-hpc-clsk-stock/)",
+      "source": "Investor’s Business Daily"
+    },
+    {
+      "slug": "miner-leaderboard-q3-preview",
+      "title": "Miner Weekly: Bitcoin Mining Leaderboard Shakes Up Ahead of Q3 Earnings",
+      "description": "Fresh analysis shows shifts among top miners in hashrate, efficiency and treasury positions heading into earnings season.",
+      "published_at": "2025-10-23T00:00:00Z",
+      "created_at": "2025-10-23T00:00:00Z",
+      "url": "[https://theminermag.com/news/2025-10-23/bitcoin-mining-q3-2025-leaderboard](https://theminermag.com/news/2025-10-23/bitcoin-mining-q3-2025-leaderboard)",
+      "source": "TheMinerMag"
+    },
+    {
+      "slug": "miner-debt-surges-vaneck",
+      "title": "Bitcoin Miner Debt Surges 500% in 12 Months: VanEck",
+      "description": "Miners’ total debt ballooned from $2.1B to $12.7B as firms scale for AI and post-halving competition, per VanEck analysis.",
+      "published_at": "2025-10-23T00:00:00Z",
+      "created_at": "2025-10-23T00:00:00Z",
+      "url": "[https://www.tradingview.com/news/cointelegraph%3A7e2350068094b%3A0-bitcoin-miner-debt-surges-500-as-miners-beef-up-for-the-hashrate-fight/](https://www.tradingview.com/news/cointelegraph%3A7e2350068094b%3A0-bitcoin-miner-debt-surges-500-as-miners-beef-up-for-the-hashrate-fight/)",
+      "source": "Cointelegraph (via TradingView)"
+    },
+    {
       "slug": "crypto-market-selloff-wipes-out-1-5b",
       "title": "Crypto sell-off wipes out $1.5 billion as investors liquidate positions",
       "description": "On Monday, a broad-based crypto sell-off led to $1.5B in liquidated positions; Bitcoin dropped ~3%, Ethereum ~9%, others sharper. Some see the correction as healthy amid crowded long positions.",
