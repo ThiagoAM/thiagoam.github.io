@@ -1,10 +1,14 @@
 {
   "lessonIDs": [
-    "guitar/basics-technique/first-steps/tuning-and-posture",
-    "guitar/basics-technique/first-steps/first-notes",
-    "guitar/chords-basics/open-chords/c-major-chord",
-    "guitar/chords-basics/open-chords/g-major-chord"
+    "guitar/guitar-getting-started-scales/basic-scale-concepts/what-is-a-scale-steps",
+    "guitar/guitar-getting-started-scales/basic-scale-concepts/reading-scale-diagrams-fingering",
+    "guitar/guitar-getting-started-scales/first-scale-shapes/c-major-one-octave-open",
+    "guitar/guitar-getting-started-scales/first-scale-shapes/a-minor-pentatonic-box-1",
+    "guitar/guitar-simple-practice-routines/warm-up-coordination/chromatic-warm-up-one-string",
+    "guitar/guitar-simple-practice-routines/warm-up-coordination/four-finger-exercise-one-position",
+    "guitar/guitar-simple-practice-routines/first-improvisation-ideas/minor-pentatonic-simple-groove",
+    "guitar/guitar-simple-practice-routines/first-improvisation-ideas/call-and-response-phrases"
   ],
-  "createdAt": "2025-09-07T12:00:00Z",
-  "updatedAt": "2025-09-07T12:00:00Z"
+  "createdAt": "2025-11-27T00:00:00Z",
+  "updatedAt": "2025-11-27T00:00:00Z"
 }
