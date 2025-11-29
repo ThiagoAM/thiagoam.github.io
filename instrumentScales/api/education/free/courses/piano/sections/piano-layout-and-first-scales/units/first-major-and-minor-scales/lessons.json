@@ -1,0 +1,38 @@
+[
+  {
+    "id": "c-major-scale-one-octave-right-hand",
+    "level": "beginner",
+    "difficulty": "easy",
+    "name": {
+      "values": {
+        "en": "C Major Scale – One Octave, Right Hand"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Play a one-octave C major scale with comfortable right-hand fingering."
+      }
+    },
+    "order": 1,
+    "createdAt": "2025-11-27T00:00:00Z",
+    "updatedAt": "2025-11-27T00:00:00Z"
+  },
+  {
+    "id": "a-natural-minor-scale-one-octave-right-hand",
+    "level": "beginner",
+    "difficulty": "easy",
+    "name": {
+      "values": {
+        "en": "A Natural Minor Scale – One Octave, Right Hand"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Learn a right-hand fingering for a one-octave A natural minor scale."
+      }
+    },
+    "order": 2,
+    "createdAt": "2025-11-27T00:00:00Z",
+    "updatedAt": "2025-11-27T00:00:00Z"
+  }
+]

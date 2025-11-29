@@ -1,0 +1,38 @@
+[
+  {
+    "id": "open-strings-first-position-notes",
+    "level": "beginner",
+    "difficulty": "easy",
+    "name": {
+      "values": {
+        "en": "Open Strings and First-Position Notes"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Name the open strings and learn the first few fretted notes on each."
+      }
+    },
+    "order": 1,
+    "createdAt": "2025-11-27T00:00:00Z",
+    "updatedAt": "2025-11-27T00:00:00Z"
+  },
+  {
+    "id": "finding-same-note-different-strings",
+    "level": "beginner",
+    "difficulty": "easy",
+    "name": {
+      "values": {
+        "en": "Finding the Same Note on Different Strings"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Locate matching pitches in multiple places to understand the fretboard layout."
+      }
+    },
+    "order": 2,
+    "createdAt": "2025-11-27T00:00:00Z",
+    "updatedAt": "2025-11-27T00:00:00Z"
+  }
+]

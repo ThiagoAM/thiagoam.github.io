@@ -1,0 +1,38 @@
+[
+  {
+    "id": "playing-roots-quarter-notes",
+    "level": "beginner",
+    "difficulty": "easy",
+    "name": {
+      "values": {
+        "en": "Playing Roots with Quarter Notes"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Lock in time by playing root notes as steady quarter notes."
+      }
+    },
+    "order": 1,
+    "createdAt": "2025-11-27T00:00:00Z",
+    "updatedAt": "2025-11-27T00:00:00Z"
+  },
+  {
+    "id": "adding-the-fifth-using-pentatonic-notes",
+    "level": "beginner",
+    "difficulty": "easy",
+    "name": {
+      "values": {
+        "en": "Adding the Fifth Using Pentatonic Notes"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Expand the groove by adding the fifth from the A minor pentatonic pattern."
+      }
+    },
+    "order": 2,
+    "createdAt": "2025-11-27T00:00:00Z",
+    "updatedAt": "2025-11-27T00:00:00Z"
+  }
+]

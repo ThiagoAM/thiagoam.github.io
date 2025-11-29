@@ -1,11 +1,36 @@
 [
-    {
-        "id": "basics-technique",
-        "name": { "values": { "en": "Basics & Technique" } },
-        "description": { "values": { "en": "Fingerstyle fundamentals and rhythm." } },
-        "image": { "type": "asset", "name": "bass_basics_section" },
-        "order": 1,
-        "createdAt": "2025-08-15T12:00:00Z",
-        "updatedAt": "2025-08-15T12:00:00Z"
-    }
+  {
+    "id": "bass-fretboard-basics",
+    "name": {
+      "values": {
+        "en": "Bass Fretboard Basics"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Get oriented on the neck and start your first scales."
+      }
+    },
+    "image": { "type": "asset", "name": "bass_fretboard_basics_section" },
+    "order": 1,
+    "createdAt": "2025-11-27T00:00:00Z",
+    "updatedAt": "2025-11-27T00:00:00Z"
+  },
+  {
+    "id": "simple-grooves-with-scales",
+    "name": {
+      "values": {
+        "en": "Simple Grooves with Scales"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Use scales to build foundational bass grooves."
+      }
+    },
+    "image": { "type": "asset", "name": "bass_simple_grooves_section" },
+    "order": 2,
+    "createdAt": "2025-11-27T00:00:00Z",
+    "updatedAt": "2025-11-27T00:00:00Z"
+  }
 ]

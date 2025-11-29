@@ -1,0 +1,36 @@
+[
+  {
+    "id": "getting-oriented-neck",
+    "name": {
+      "values": {
+        "en": "Getting Oriented on the Neck"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Learn open strings and where notes repeat across strings."
+      }
+    },
+    "image": { "type": "asset", "name": "bass_unit_getting_oriented_neck" },
+    "order": 1,
+    "createdAt": "2025-11-27T00:00:00Z",
+    "updatedAt": "2025-11-27T00:00:00Z"
+  },
+  {
+    "id": "first-scales-for-bass",
+    "name": {
+      "values": {
+        "en": "First Scales for Bass"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Play your first major and pentatonic patterns in low positions."
+      }
+    },
+    "image": { "type": "asset", "name": "bass_unit_first_scales" },
+    "order": 2,
+    "createdAt": "2025-11-27T00:00:00Z",
+    "updatedAt": "2025-11-27T00:00:00Z"
+  }
+]

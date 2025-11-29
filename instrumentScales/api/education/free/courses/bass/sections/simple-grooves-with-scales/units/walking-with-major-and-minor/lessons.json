@@ -1,0 +1,38 @@
+[
+  {
+    "id": "walking-bass-line-with-c-major-scale",
+    "level": "beginner",
+    "difficulty": "easy",
+    "name": {
+      "values": {
+        "en": "Walking Bass Line with C Major Scale"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Create a short walking line using the C major scale."
+      }
+    },
+    "order": 1,
+    "createdAt": "2025-11-27T00:00:00Z",
+    "updatedAt": "2025-11-27T00:00:00Z"
+  },
+  {
+    "id": "walking-bass-line-with-a-natural-minor",
+    "level": "beginner",
+    "difficulty": "easy",
+    "name": {
+      "values": {
+        "en": "Walking Bass Line with A Natural Minor"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Build a simple walking idea using the A natural minor scale."
+      }
+    },
+    "order": 2,
+    "createdAt": "2025-11-27T00:00:00Z",
+    "updatedAt": "2025-11-27T00:00:00Z"
+  }
+]

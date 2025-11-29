@@ -1,0 +1,36 @@
+[
+  {
+    "id": "coordination-basics",
+    "name": {
+      "values": {
+        "en": "Coordination Basics"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Strengthen left-hand motion and keep rhythm steady."
+      }
+    },
+    "image": { "type": "asset", "name": "piano_unit_coordination_basics" },
+    "order": 1,
+    "createdAt": "2025-11-27T00:00:00Z",
+    "updatedAt": "2025-11-27T00:00:00Z"
+  },
+  {
+    "id": "using-scales-musically",
+    "name": {
+      "values": {
+        "en": "Using Scales Musically"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Turn scale notes into short melodies and motifs."
+      }
+    },
+    "image": { "type": "asset", "name": "piano_unit_using_scales" },
+    "order": 2,
+    "createdAt": "2025-11-27T00:00:00Z",
+    "updatedAt": "2025-11-27T00:00:00Z"
+  }
+]

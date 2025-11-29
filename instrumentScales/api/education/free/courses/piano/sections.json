@@ -1,20 +1,36 @@
 [
-    {
-        "id": "basics-technique",
-        "name": { "values": { "en": "Basics & Technique" } },
-        "description": { "values": { "en": "Posture, hand position, and first melodies." } },
-        "image": { "type": "asset", "name": "piano_basics_section" },
-        "order": 1,
-        "createdAt": "2025-08-15T12:00:00Z",
-        "updatedAt": "2025-08-15T12:00:00Z"
+  {
+    "id": "piano-layout-and-first-scales",
+    "name": {
+      "values": {
+        "en": "Piano Layout and First Scales"
+      }
     },
-    {
-        "id": "rhythm-basics",
-        "name": { "values": { "en": "Rhythm Basics" } },
-        "description": { "values": { "en": "Clapping and tapping simple rhythms." } },
-        "image": { "type": "asset", "name": "piano_rhythm_section" },
-        "order": 2,
-        "createdAt": "2025-08-15T12:00:00Z",
-        "updatedAt": "2025-08-15T12:00:00Z"
-    }
+    "description": {
+      "values": {
+        "en": "Learn the keyboard layout and play your first major and minor scales."
+      }
+    },
+    "image": { "type": "asset", "name": "piano_layout_first_scales_section" },
+    "order": 1,
+    "createdAt": "2025-11-27T00:00:00Z",
+    "updatedAt": "2025-11-27T00:00:00Z"
+  },
+  {
+    "id": "hands-and-simple-patterns",
+    "name": {
+      "values": {
+        "en": "Hands and Simple Patterns"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Coordinate your hands and use scales in short musical ideas."
+      }
+    },
+    "image": { "type": "asset", "name": "piano_hands_patterns_section" },
+    "order": 2,
+    "createdAt": "2025-11-27T00:00:00Z",
+    "updatedAt": "2025-11-27T00:00:00Z"
+  }
 ]

@@ -1,0 +1,38 @@
+[
+  {
+    "id": "c-major-one-octave-2nd-position",
+    "level": "beginner",
+    "difficulty": "easy",
+    "name": {
+      "values": {
+        "en": "C Major Scale – One Octave (2nd Position)"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Play a one-octave C major scale starting in second position."
+      }
+    },
+    "order": 1,
+    "createdAt": "2025-11-27T00:00:00Z",
+    "updatedAt": "2025-11-27T00:00:00Z"
+  },
+  {
+    "id": "a-minor-pentatonic-basic-box",
+    "level": "beginner",
+    "difficulty": "easy",
+    "name": {
+      "values": {
+        "en": "A Minor Pentatonic – Basic Box Shape"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Learn a simple A minor pentatonic box that fits common bass lines."
+      }
+    },
+    "order": 2,
+    "createdAt": "2025-11-27T00:00:00Z",
+    "updatedAt": "2025-11-27T00:00:00Z"
+  }
+]

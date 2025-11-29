@@ -1,0 +1,38 @@
+[
+  {
+    "id": "simple-melody-using-c-major-scale",
+    "level": "beginner",
+    "difficulty": "easy",
+    "name": {
+      "values": {
+        "en": "Simple Melody Using C Major Scale"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Create a short melody that sticks to the C major notes."
+      }
+    },
+    "order": 1,
+    "createdAt": "2025-11-27T00:00:00Z",
+    "updatedAt": "2025-11-27T00:00:00Z"
+  },
+  {
+    "id": "creating-a-short-motif-with-a-minor",
+    "level": "beginner",
+    "difficulty": "easy",
+    "name": {
+      "values": {
+        "en": "Creating a Short Motif with A Minor"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Use A minor scale tones to build a repeating motif."
+      }
+    },
+    "order": 2,
+    "createdAt": "2025-11-27T00:00:00Z",
+    "updatedAt": "2025-11-27T00:00:00Z"
+  }
+]

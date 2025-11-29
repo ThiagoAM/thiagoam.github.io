@@ -1,0 +1,38 @@
+[
+  {
+    "id": "c-major-scale-one-octave-left-hand",
+    "level": "beginner",
+    "difficulty": "easy",
+    "name": {
+      "values": {
+        "en": "C Major Scale – One Octave, Left Hand"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Practice a steady left-hand fingering for one octave of C major."
+      }
+    },
+    "order": 1,
+    "createdAt": "2025-11-27T00:00:00Z",
+    "updatedAt": "2025-11-27T00:00:00Z"
+  },
+  {
+    "id": "c-major-scale-hands-separate-with-simple-rhythm",
+    "level": "beginner",
+    "difficulty": "easy",
+    "name": {
+      "values": {
+        "en": "C Major Scale – Hands Separate with Simple Rhythm"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Play C major separately in each hand while keeping a basic rhythm."
+      }
+    },
+    "order": 2,
+    "createdAt": "2025-11-27T00:00:00Z",
+    "updatedAt": "2025-11-27T00:00:00Z"
+  }
+]

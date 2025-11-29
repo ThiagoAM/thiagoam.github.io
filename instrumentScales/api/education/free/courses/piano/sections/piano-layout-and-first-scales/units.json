@@ -1,0 +1,36 @@
+[
+  {
+    "id": "keyboard-orientation",
+    "name": {
+      "values": {
+        "en": "Keyboard Orientation"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Find Cs, middle C, and the repeating white-key pattern."
+      }
+    },
+    "image": { "type": "asset", "name": "piano_unit_keyboard_orientation" },
+    "order": 1,
+    "createdAt": "2025-11-27T00:00:00Z",
+    "updatedAt": "2025-11-27T00:00:00Z"
+  },
+  {
+    "id": "first-major-and-minor-scales",
+    "name": {
+      "values": {
+        "en": "First Major and Minor Scales"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Play C major and A natural minor in a single octave."
+      }
+    },
+    "image": { "type": "asset", "name": "piano_unit_first_scales" },
+    "order": 2,
+    "createdAt": "2025-11-27T00:00:00Z",
+    "updatedAt": "2025-11-27T00:00:00Z"
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "id": "finding-cs-and-middle-c-on-the-keyboard",
+    "level": "beginner",
+    "difficulty": "easy",
+    "name": {
+      "values": {
+        "en": "Finding Cs and Middle C on the Keyboard"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Locate every C on the keyboard and anchor yourself at middle C."
+      }
+    },
+    "order": 1,
+    "createdAt": "2025-11-27T00:00:00Z",
+    "updatedAt": "2025-11-27T00:00:00Z"
+  },
+  {
+    "id": "understanding-white-keys-and-note-names",
+    "level": "beginner",
+    "difficulty": "easy",
+    "name": {
+      "values": {
+        "en": "Understanding White Keys and Note Names"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Memorize the repeating pattern of white keys and their letter names."
+      }
+    },
+    "order": 2,
+    "createdAt": "2025-11-27T00:00:00Z",
+    "updatedAt": "2025-11-27T00:00:00Z"
+  }
+]
