@@ -2,23 +2,23 @@
   {
     "id": "guitar-fretboard-foundations",
     "name": {
-      "values": {
+        "values": {
         "en": "Fretboard Foundations",
-        "zh-Hans": "Fretboard Foundations",
-        "de": "Fretboard Foundations",
-        "ja": "Fretboard Foundations",
-        "pt-BR": "Fretboard Foundations",
-        "es": "Fretboard Foundations"
+        "zh-Hans": "指板基础",
+        "de": "Griffbrett-Grundlagen",
+        "ja": "指板の基礎",
+        "pt-BR": "Fundamentos do braço",
+        "es": "Fundamentos del diapasón"
       }
     },
     "description": {
       "values": {
         "en": "Landmarks and navigation for confident scale playing.",
-        "zh-Hans": "Landmarks and navigation for confident scale playing.",
-        "de": "Landmarks and navigation for confident scale playing.",
-        "ja": "Landmarks and navigation for confident scale playing.",
-        "pt-BR": "Landmarks and navigation for confident scale playing.",
-        "es": "Landmarks and navigation for confident scale playing."
+        "zh-Hans": "指板定位与导航，帮助自信地演奏音阶。",
+        "de": "Orientierungspunkte und Navigation für sicheres Skalen-Spiel.",
+        "ja": "自信を持ってスケールを弾くための目印とナビゲーション。",
+        "pt-BR": "Referências no braço e navegação para tocar escalas com confiança.",
+        "es": "Puntos de referencia y navegación para tocar escalas con seguridad."
       }
     },
     "image": null,
@@ -29,23 +29,23 @@
   {
     "id": "guitar-pentatonic-and-blues-power",
     "name": {
-      "values": {
+        "values": {
         "en": "Pentatonic & Blues Power",
-        "zh-Hans": "Pentatonic & Blues Power",
-        "de": "Pentatonic & Blues Power",
-        "ja": "Pentatonic & Blues Power",
-        "pt-BR": "Pentatonic & Blues Power",
-        "es": "Pentatonic & Blues Power"
+        "zh-Hans": "五声音阶与布鲁斯力量",
+        "de": "Pentatonik- und Blues-Power",
+        "ja": "ペンタトニックとブルースの力",
+        "pt-BR": "Poder da pentatônica e do blues",
+        "es": "Poder de la pentatónica y el blues"
       }
     },
     "description": {
       "values": {
         "en": "Pentatonic control and blues phrasing for lead playing.",
-        "zh-Hans": "Pentatonic control and blues phrasing for lead playing.",
-        "de": "Pentatonic control and blues phrasing for lead playing.",
-        "ja": "Pentatonic control and blues phrasing for lead playing.",
-        "pt-BR": "Pentatonic control and blues phrasing for lead playing.",
-        "es": "Pentatonic control and blues phrasing for lead playing."
+        "zh-Hans": "掌握五声音阶与布鲁斯乐句以强化独奏。",
+        "de": "Pentatonik-Kontrolle und Blues-Phrasierung für Leadspiel.",
+        "ja": "リード演奏のためのペンタトニックのコントロールとブルースのフレージング。",
+        "pt-BR": "Controle da pentatônica e fraseado de blues para solos.",
+        "es": "Control de la pentatónica y fraseo bluesero para el lead."
       }
     },
     "image": null,
@@ -56,23 +56,23 @@
   {
     "id": "guitar-modes-and-diatonic-scales",
     "name": {
-      "values": {
+        "values": {
         "en": "Modes and Diatonic Scales",
-        "zh-Hans": "Modes and Diatonic Scales",
-        "de": "Modes and Diatonic Scales",
-        "ja": "Modes and Diatonic Scales",
-        "pt-BR": "Modes and Diatonic Scales",
-        "es": "Modes and Diatonic Scales"
+        "zh-Hans": "调式与全音阶",
+        "de": "Modi und diatonische Skalen",
+        "ja": "モードとダイアトニック・スケール",
+        "pt-BR": "Modos e escalas diatônicas",
+        "es": "Modos y escalas diatónicas"
       }
     },
     "description": {
       "values": {
         "en": "Map major scale positions and apply modal sounds.",
-        "zh-Hans": "Map major scale positions and apply modal sounds.",
-        "de": "Map major scale positions and apply modal sounds.",
-        "ja": "Map major scale positions and apply modal sounds.",
-        "pt-BR": "Map major scale positions and apply modal sounds.",
-        "es": "Map major scale positions and apply modal sounds."
+        "zh-Hans": "标记大调音阶位置并运用调式音色。",
+        "de": "Lagen der Durtonleiter kartieren und modale Klänge anwenden.",
+        "ja": "メジャースケールのポジションを把握し、モーダルな響きを活用する。",
+        "pt-BR": "Mapear posições da escala maior e aplicar sonoridades modais.",
+        "es": "Mapea las posiciones de la escala mayor y aplica sonoridades modales."
       }
     },
     "image": null,
@@ -83,23 +83,23 @@
   {
     "id": "guitar-applying-scales-in-improvisation",
     "name": {
-      "values": {
+        "values": {
         "en": "Applying Scales in Improvisation",
-        "zh-Hans": "Applying Scales in Improvisation",
-        "de": "Applying Scales in Improvisation",
-        "ja": "Applying Scales in Improvisation",
-        "pt-BR": "Applying Scales in Improvisation",
-        "es": "Applying Scales in Improvisation"
+        "zh-Hans": "即兴中的音阶应用",
+        "de": "Skalen im Improvisieren anwenden",
+        "ja": "即興でのスケール活用",
+        "pt-BR": "Aplicando escalas na improvisação",
+        "es": "Aplicar escalas en la improvisación"
       }
     },
     "description": {
       "values": {
         "en": "Phrase creatively and target chord tones with scales.",
-        "zh-Hans": "Phrase creatively and target chord tones with scales.",
-        "de": "Phrase creatively and target chord tones with scales.",
-        "ja": "Phrase creatively and target chord tones with scales.",
-        "pt-BR": "Phrase creatively and target chord tones with scales.",
-        "es": "Phrase creatively and target chord tones with scales."
+        "zh-Hans": "用音阶创造性地措辞并瞄准和弦音。",
+        "de": "Kreativ phrasieren und Akkordtöne mit Skalen ansteuern.",
+        "ja": "スケールで創造的にフレーズを作り、コードトーンを狙う。",
+        "pt-BR": "Frasear com criatividade e mirar os acordes usando escalas.",
+        "es": "Frasea con creatividad y apunta a los tonos de acorde con escalas."
       }
     },
     "image": null,
