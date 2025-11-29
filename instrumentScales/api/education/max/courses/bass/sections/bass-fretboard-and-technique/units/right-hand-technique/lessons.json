@@ -1,0 +1,86 @@
+[
+  {
+    "id": "alternating-fingers-index-middle",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Alternating Fingers (Index/Middle)",
+        "zh-Hans": "Alternating Fingers (Index/Middle)",
+        "de": "Alternating Fingers (Index/Middle)",
+        "ja": "Alternating Fingers (Index/Middle)",
+        "pt-BR": "Alternating Fingers (Index/Middle)",
+        "es": "Alternating Fingers (Index/Middle)"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Lesson content coming soon.",
+        "zh-Hans": "内容即将上线。",
+        "de": "Inhalt folgt in Kürze.",
+        "ja": "コンテンツはまもなく追加されます。",
+        "pt-BR": "Conteúdo chegando em breve.",
+        "es": "Contenido disponible pronto."
+      }
+    },
+    "order": 1,
+    "createdAt": "2025-12-01T00:00:00Z",
+    "updatedAt": "2025-12-01T00:00:00Z"
+  },
+  {
+    "id": "consistent-plucking-dynamics",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Consistent Plucking Dynamics",
+        "zh-Hans": "Consistent Plucking Dynamics",
+        "de": "Consistent Plucking Dynamics",
+        "ja": "Consistent Plucking Dynamics",
+        "pt-BR": "Consistent Plucking Dynamics",
+        "es": "Consistent Plucking Dynamics"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Lesson content coming soon.",
+        "zh-Hans": "内容即将上线。",
+        "de": "Inhalt folgt in Kürze.",
+        "ja": "コンテンツはまもなく追加されます。",
+        "pt-BR": "Conteúdo chegando em breve.",
+        "es": "Contenido disponible pronto."
+      }
+    },
+    "order": 2,
+    "createdAt": "2025-12-01T00:00:00Z",
+    "updatedAt": "2025-12-01T00:00:00Z"
+  },
+  {
+    "id": "string-crossing-with-scale-patterns",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "String Crossing with Scale Patterns",
+        "zh-Hans": "String Crossing with Scale Patterns",
+        "de": "String Crossing with Scale Patterns",
+        "ja": "String Crossing with Scale Patterns",
+        "pt-BR": "String Crossing with Scale Patterns",
+        "es": "String Crossing with Scale Patterns"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Lesson content coming soon.",
+        "zh-Hans": "内容即将上线。",
+        "de": "Inhalt folgt in Kürze.",
+        "ja": "コンテンツはまもなく追加されます。",
+        "pt-BR": "Conteúdo chegando em breve.",
+        "es": "Contenido disponible pronto."
+      }
+    },
+    "order": 3,
+    "createdAt": "2025-12-01T00:00:00Z",
+    "updatedAt": "2025-12-01T00:00:00Z"
+  }
+]

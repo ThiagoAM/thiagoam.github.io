@@ -1,0 +1,83 @@
+[
+  {
+    "id": "fretboard-landmarks-for-bass",
+    "name": {
+      "values": {
+        "en": "Fretboard Landmarks for Bass",
+        "zh-Hans": "Fretboard Landmarks for Bass",
+        "de": "Fretboard Landmarks for Bass",
+        "ja": "Fretboard Landmarks for Bass",
+        "pt-BR": "Fretboard Landmarks for Bass",
+        "es": "Fretboard Landmarks for Bass"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Fretboard Landmarks for Bass",
+        "zh-Hans": "Fretboard Landmarks for Bass",
+        "de": "Fretboard Landmarks for Bass",
+        "ja": "Fretboard Landmarks for Bass",
+        "pt-BR": "Fretboard Landmarks for Bass",
+        "es": "Fretboard Landmarks for Bass"
+      }
+    },
+    "image": null,
+    "order": 1,
+    "createdAt": "2025-12-01T00:00:00Z",
+    "updatedAt": "2025-12-01T00:00:00Z"
+  },
+  {
+    "id": "right-hand-technique",
+    "name": {
+      "values": {
+        "en": "Right-Hand Technique",
+        "zh-Hans": "Right-Hand Technique",
+        "de": "Right-Hand Technique",
+        "ja": "Right-Hand Technique",
+        "pt-BR": "Right-Hand Technique",
+        "es": "Right-Hand Technique"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Right-Hand Technique",
+        "zh-Hans": "Right-Hand Technique",
+        "de": "Right-Hand Technique",
+        "ja": "Right-Hand Technique",
+        "pt-BR": "Right-Hand Technique",
+        "es": "Right-Hand Technique"
+      }
+    },
+    "image": null,
+    "order": 2,
+    "createdAt": "2025-12-01T00:00:00Z",
+    "updatedAt": "2025-12-01T00:00:00Z"
+  },
+  {
+    "id": "major-and-minor-scale-foundations",
+    "name": {
+      "values": {
+        "en": "Major and Minor Scale Foundations",
+        "zh-Hans": "Major and Minor Scale Foundations",
+        "de": "Major and Minor Scale Foundations",
+        "ja": "Major and Minor Scale Foundations",
+        "pt-BR": "Major and Minor Scale Foundations",
+        "es": "Major and Minor Scale Foundations"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Major and Minor Scale Foundations",
+        "zh-Hans": "Major and Minor Scale Foundations",
+        "de": "Major and Minor Scale Foundations",
+        "ja": "Major and Minor Scale Foundations",
+        "pt-BR": "Major and Minor Scale Foundations",
+        "es": "Major and Minor Scale Foundations"
+      }
+    },
+    "image": null,
+    "order": 3,
+    "createdAt": "2025-12-01T00:00:00Z",
+    "updatedAt": "2025-12-01T00:00:00Z"
+  }
+]

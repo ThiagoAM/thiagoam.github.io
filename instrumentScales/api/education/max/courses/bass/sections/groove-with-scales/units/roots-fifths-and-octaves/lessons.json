@@ -1,0 +1,86 @@
+[
+  {
+    "id": "basic-rock-groove-using-root-and-fifth",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Basic Rock Groove Using Root and Fifth",
+        "zh-Hans": "Basic Rock Groove Using Root and Fifth",
+        "de": "Basic Rock Groove Using Root and Fifth",
+        "ja": "Basic Rock Groove Using Root and Fifth",
+        "pt-BR": "Basic Rock Groove Using Root and Fifth",
+        "es": "Basic Rock Groove Using Root and Fifth"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Lesson content coming soon.",
+        "zh-Hans": "内容即将上线。",
+        "de": "Inhalt folgt in Kürze.",
+        "ja": "コンテンツはまもなく追加されます。",
+        "pt-BR": "Conteúdo chegando em breve.",
+        "es": "Contenido disponible pronto."
+      }
+    },
+    "order": 1,
+    "createdAt": "2025-12-01T00:00:00Z",
+    "updatedAt": "2025-12-01T00:00:00Z"
+  },
+  {
+    "id": "adding-the-octave-to-pentatonic-lines",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Adding the Octave to Pentatonic Lines",
+        "zh-Hans": "Adding the Octave to Pentatonic Lines",
+        "de": "Adding the Octave to Pentatonic Lines",
+        "ja": "Adding the Octave to Pentatonic Lines",
+        "pt-BR": "Adding the Octave to Pentatonic Lines",
+        "es": "Adding the Octave to Pentatonic Lines"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Lesson content coming soon.",
+        "zh-Hans": "内容即将上线。",
+        "de": "Inhalt folgt in Kürze.",
+        "ja": "コンテンツはまもなく追加されます。",
+        "pt-BR": "Conteúdo chegando em breve.",
+        "es": "Contenido disponible pronto."
+      }
+    },
+    "order": 2,
+    "createdAt": "2025-12-01T00:00:00Z",
+    "updatedAt": "2025-12-01T00:00:00Z"
+  },
+  {
+    "id": "combining-scale-notes-with-groove-patterns",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Combining Scale Notes with Groove Patterns",
+        "zh-Hans": "Combining Scale Notes with Groove Patterns",
+        "de": "Combining Scale Notes with Groove Patterns",
+        "ja": "Combining Scale Notes with Groove Patterns",
+        "pt-BR": "Combining Scale Notes with Groove Patterns",
+        "es": "Combining Scale Notes with Groove Patterns"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Lesson content coming soon.",
+        "zh-Hans": "内容即将上线。",
+        "de": "Inhalt folgt in Kürze.",
+        "ja": "コンテンツはまもなく追加されます。",
+        "pt-BR": "Conteúdo chegando em breve.",
+        "es": "Contenido disponible pronto."
+      }
+    },
+    "order": 3,
+    "createdAt": "2025-12-01T00:00:00Z",
+    "updatedAt": "2025-12-01T00:00:00Z"
+  }
+]

@@ -1,0 +1,110 @@
+[
+  {
+    "id": "guitar-fretboard-foundations",
+    "name": {
+      "values": {
+        "en": "Fretboard Foundations",
+        "zh-Hans": "Fretboard Foundations",
+        "de": "Fretboard Foundations",
+        "ja": "Fretboard Foundations",
+        "pt-BR": "Fretboard Foundations",
+        "es": "Fretboard Foundations"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Landmarks and navigation for confident scale playing.",
+        "zh-Hans": "Landmarks and navigation for confident scale playing.",
+        "de": "Landmarks and navigation for confident scale playing.",
+        "ja": "Landmarks and navigation for confident scale playing.",
+        "pt-BR": "Landmarks and navigation for confident scale playing.",
+        "es": "Landmarks and navigation for confident scale playing."
+      }
+    },
+    "image": null,
+    "order": 1,
+    "createdAt": "2025-12-01T00:00:00Z",
+    "updatedAt": "2025-12-01T00:00:00Z"
+  },
+  {
+    "id": "guitar-pentatonic-and-blues-power",
+    "name": {
+      "values": {
+        "en": "Pentatonic & Blues Power",
+        "zh-Hans": "Pentatonic & Blues Power",
+        "de": "Pentatonic & Blues Power",
+        "ja": "Pentatonic & Blues Power",
+        "pt-BR": "Pentatonic & Blues Power",
+        "es": "Pentatonic & Blues Power"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Pentatonic control and blues phrasing for lead playing.",
+        "zh-Hans": "Pentatonic control and blues phrasing for lead playing.",
+        "de": "Pentatonic control and blues phrasing for lead playing.",
+        "ja": "Pentatonic control and blues phrasing for lead playing.",
+        "pt-BR": "Pentatonic control and blues phrasing for lead playing.",
+        "es": "Pentatonic control and blues phrasing for lead playing."
+      }
+    },
+    "image": null,
+    "order": 2,
+    "createdAt": "2025-12-01T00:00:00Z",
+    "updatedAt": "2025-12-01T00:00:00Z"
+  },
+  {
+    "id": "guitar-modes-and-diatonic-scales",
+    "name": {
+      "values": {
+        "en": "Modes and Diatonic Scales",
+        "zh-Hans": "Modes and Diatonic Scales",
+        "de": "Modes and Diatonic Scales",
+        "ja": "Modes and Diatonic Scales",
+        "pt-BR": "Modes and Diatonic Scales",
+        "es": "Modes and Diatonic Scales"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Map major scale positions and apply modal sounds.",
+        "zh-Hans": "Map major scale positions and apply modal sounds.",
+        "de": "Map major scale positions and apply modal sounds.",
+        "ja": "Map major scale positions and apply modal sounds.",
+        "pt-BR": "Map major scale positions and apply modal sounds.",
+        "es": "Map major scale positions and apply modal sounds."
+      }
+    },
+    "image": null,
+    "order": 3,
+    "createdAt": "2025-12-01T00:00:00Z",
+    "updatedAt": "2025-12-01T00:00:00Z"
+  },
+  {
+    "id": "guitar-applying-scales-in-improvisation",
+    "name": {
+      "values": {
+        "en": "Applying Scales in Improvisation",
+        "zh-Hans": "Applying Scales in Improvisation",
+        "de": "Applying Scales in Improvisation",
+        "ja": "Applying Scales in Improvisation",
+        "pt-BR": "Applying Scales in Improvisation",
+        "es": "Applying Scales in Improvisation"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Phrase creatively and target chord tones with scales.",
+        "zh-Hans": "Phrase creatively and target chord tones with scales.",
+        "de": "Phrase creatively and target chord tones with scales.",
+        "ja": "Phrase creatively and target chord tones with scales.",
+        "pt-BR": "Phrase creatively and target chord tones with scales.",
+        "es": "Phrase creatively and target chord tones with scales."
+      }
+    },
+    "image": null,
+    "order": 4,
+    "createdAt": "2025-12-01T00:00:00Z",
+    "updatedAt": "2025-12-01T00:00:00Z"
+  }
+]

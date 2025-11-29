@@ -1,0 +1,86 @@
+[
+  {
+    "id": "ionian-and-dorian-from-c-major",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Ionian and Dorian from C Major",
+        "zh-Hans": "Ionian and Dorian from C Major",
+        "de": "Ionian and Dorian from C Major",
+        "ja": "Ionian and Dorian from C Major",
+        "pt-BR": "Ionian and Dorian from C Major",
+        "es": "Ionian and Dorian from C Major"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Lesson content coming soon.",
+        "zh-Hans": "内容即将上线。",
+        "de": "Inhalt folgt in Kürze.",
+        "ja": "コンテンツはまもなく追加されます。",
+        "pt-BR": "Conteúdo chegando em breve.",
+        "es": "Contenido disponible pronto."
+      }
+    },
+    "order": 1,
+    "createdAt": "2025-12-01T00:00:00Z",
+    "updatedAt": "2025-12-01T00:00:00Z"
+  },
+  {
+    "id": "mixolydian-and-aeolian-from-c-major",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Mixolydian and Aeolian from C Major",
+        "zh-Hans": "Mixolydian and Aeolian from C Major",
+        "de": "Mixolydian and Aeolian from C Major",
+        "ja": "Mixolydian and Aeolian from C Major",
+        "pt-BR": "Mixolydian and Aeolian from C Major",
+        "es": "Mixolydian and Aeolian from C Major"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Lesson content coming soon.",
+        "zh-Hans": "内容即将上线。",
+        "de": "Inhalt folgt in Kürze.",
+        "ja": "コンテンツはまもなく追加されます。",
+        "pt-BR": "Conteúdo chegando em breve.",
+        "es": "Contenido disponible pronto."
+      }
+    },
+    "order": 2,
+    "createdAt": "2025-12-01T00:00:00Z",
+    "updatedAt": "2025-12-01T00:00:00Z"
+  },
+  {
+    "id": "comparing-mode-colors-on-the-same-chords",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Comparing Mode Colors on the Same Chords",
+        "zh-Hans": "Comparing Mode Colors on the Same Chords",
+        "de": "Comparing Mode Colors on the Same Chords",
+        "ja": "Comparing Mode Colors on the Same Chords",
+        "pt-BR": "Comparing Mode Colors on the Same Chords",
+        "es": "Comparing Mode Colors on the Same Chords"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Lesson content coming soon.",
+        "zh-Hans": "内容即将上线。",
+        "de": "Inhalt folgt in Kürze.",
+        "ja": "コンテンツはまもなく追加されます。",
+        "pt-BR": "Conteúdo chegando em breve.",
+        "es": "Contenido disponible pronto."
+      }
+    },
+    "order": 3,
+    "createdAt": "2025-12-01T00:00:00Z",
+    "updatedAt": "2025-12-01T00:00:00Z"
+  }
+]

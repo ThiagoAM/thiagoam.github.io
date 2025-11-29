@@ -1,0 +1,86 @@
+[
+  {
+    "id": "low-e-string-landmarks-3rd-5th-7th-12th-frets",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Low E String Landmarks (3rd, 5th, 7th, 12th Frets)",
+        "zh-Hans": "Low E String Landmarks (3rd, 5th, 7th, 12th Frets)",
+        "de": "Low E String Landmarks (3rd, 5th, 7th, 12th Frets)",
+        "ja": "Low E String Landmarks (3rd, 5th, 7th, 12th Frets)",
+        "pt-BR": "Low E String Landmarks (3rd, 5th, 7th, 12th Frets)",
+        "es": "Low E String Landmarks (3rd, 5th, 7th, 12th Frets)"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Lesson content coming soon.",
+        "zh-Hans": "内容即将上线。",
+        "de": "Inhalt folgt in Kürze.",
+        "ja": "コンテンツはまもなく追加されます。",
+        "pt-BR": "Conteúdo chegando em breve.",
+        "es": "Contenido disponible pronto."
+      }
+    },
+    "order": 1,
+    "createdAt": "2025-12-01T00:00:00Z",
+    "updatedAt": "2025-12-01T00:00:00Z"
+  },
+  {
+    "id": "a-string-landmarks-and-octave-shapes",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "A String Landmarks and Octave Shapes",
+        "zh-Hans": "A String Landmarks and Octave Shapes",
+        "de": "A String Landmarks and Octave Shapes",
+        "ja": "A String Landmarks and Octave Shapes",
+        "pt-BR": "A String Landmarks and Octave Shapes",
+        "es": "A String Landmarks and Octave Shapes"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Lesson content coming soon.",
+        "zh-Hans": "内容即将上线。",
+        "de": "Inhalt folgt in Kürze.",
+        "ja": "コンテンツはまもなく追加されます。",
+        "pt-BR": "Conteúdo chegando em breve.",
+        "es": "Contenido disponible pronto."
+      }
+    },
+    "order": 2,
+    "createdAt": "2025-12-01T00:00:00Z",
+    "updatedAt": "2025-12-01T00:00:00Z"
+  },
+  {
+    "id": "building-a-mental-map-of-the-fretboard",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Building a Mental Map of the Fretboard",
+        "zh-Hans": "Building a Mental Map of the Fretboard",
+        "de": "Building a Mental Map of the Fretboard",
+        "ja": "Building a Mental Map of the Fretboard",
+        "pt-BR": "Building a Mental Map of the Fretboard",
+        "es": "Building a Mental Map of the Fretboard"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Lesson content coming soon.",
+        "zh-Hans": "内容即将上线。",
+        "de": "Inhalt folgt in Kürze.",
+        "ja": "コンテンツはまもなく追加されます。",
+        "pt-BR": "Conteúdo chegando em breve.",
+        "es": "Contenido disponible pronto."
+      }
+    },
+    "order": 3,
+    "createdAt": "2025-12-01T00:00:00Z",
+    "updatedAt": "2025-12-01T00:00:00Z"
+  }
+]

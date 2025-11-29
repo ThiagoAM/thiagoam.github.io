@@ -1,0 +1,83 @@
+[
+  {
+    "id": "landmarks-and-positions",
+    "name": {
+      "values": {
+        "en": "Landmarks and Positions",
+        "zh-Hans": "Landmarks and Positions",
+        "de": "Landmarks and Positions",
+        "ja": "Landmarks and Positions",
+        "pt-BR": "Landmarks and Positions",
+        "es": "Landmarks and Positions"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Landmarks and Positions",
+        "zh-Hans": "Landmarks and Positions",
+        "de": "Landmarks and Positions",
+        "ja": "Landmarks and Positions",
+        "pt-BR": "Landmarks and Positions",
+        "es": "Landmarks and Positions"
+      }
+    },
+    "image": null,
+    "order": 1,
+    "createdAt": "2025-12-01T00:00:00Z",
+    "updatedAt": "2025-12-01T00:00:00Z"
+  },
+  {
+    "id": "reading-and-practicing-scales",
+    "name": {
+      "values": {
+        "en": "Reading and Practicing Scales",
+        "zh-Hans": "Reading and Practicing Scales",
+        "de": "Reading and Practicing Scales",
+        "ja": "Reading and Practicing Scales",
+        "pt-BR": "Reading and Practicing Scales",
+        "es": "Reading and Practicing Scales"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Reading and Practicing Scales",
+        "zh-Hans": "Reading and Practicing Scales",
+        "de": "Reading and Practicing Scales",
+        "ja": "Reading and Practicing Scales",
+        "pt-BR": "Reading and Practicing Scales",
+        "es": "Reading and Practicing Scales"
+      }
+    },
+    "image": null,
+    "order": 2,
+    "createdAt": "2025-12-01T00:00:00Z",
+    "updatedAt": "2025-12-01T00:00:00Z"
+  },
+  {
+    "id": "major-and-natural-minor-basics",
+    "name": {
+      "values": {
+        "en": "Major and Natural Minor Basics",
+        "zh-Hans": "Major and Natural Minor Basics",
+        "de": "Major and Natural Minor Basics",
+        "ja": "Major and Natural Minor Basics",
+        "pt-BR": "Major and Natural Minor Basics",
+        "es": "Major and Natural Minor Basics"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Major and Natural Minor Basics",
+        "zh-Hans": "Major and Natural Minor Basics",
+        "de": "Major and Natural Minor Basics",
+        "ja": "Major and Natural Minor Basics",
+        "pt-BR": "Major and Natural Minor Basics",
+        "es": "Major and Natural Minor Basics"
+      }
+    },
+    "image": null,
+    "order": 3,
+    "createdAt": "2025-12-01T00:00:00Z",
+    "updatedAt": "2025-12-01T00:00:00Z"
+  }
+]

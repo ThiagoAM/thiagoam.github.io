@@ -1,0 +1,83 @@
+[
+  {
+    "id": "major-scale-positions",
+    "name": {
+      "values": {
+        "en": "Major Scale Positions",
+        "zh-Hans": "Major Scale Positions",
+        "de": "Major Scale Positions",
+        "ja": "Major Scale Positions",
+        "pt-BR": "Major Scale Positions",
+        "es": "Major Scale Positions"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Major Scale Positions",
+        "zh-Hans": "Major Scale Positions",
+        "de": "Major Scale Positions",
+        "ja": "Major Scale Positions",
+        "pt-BR": "Major Scale Positions",
+        "es": "Major Scale Positions"
+      }
+    },
+    "image": null,
+    "order": 1,
+    "createdAt": "2025-12-01T00:00:00Z",
+    "updatedAt": "2025-12-01T00:00:00Z"
+  },
+  {
+    "id": "understanding-modes",
+    "name": {
+      "values": {
+        "en": "Understanding Modes",
+        "zh-Hans": "Understanding Modes",
+        "de": "Understanding Modes",
+        "ja": "Understanding Modes",
+        "pt-BR": "Understanding Modes",
+        "es": "Understanding Modes"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Understanding Modes",
+        "zh-Hans": "Understanding Modes",
+        "de": "Understanding Modes",
+        "ja": "Understanding Modes",
+        "pt-BR": "Understanding Modes",
+        "es": "Understanding Modes"
+      }
+    },
+    "image": null,
+    "order": 2,
+    "createdAt": "2025-12-01T00:00:00Z",
+    "updatedAt": "2025-12-01T00:00:00Z"
+  },
+  {
+    "id": "modes-in-real-music",
+    "name": {
+      "values": {
+        "en": "Modes in Real Music",
+        "zh-Hans": "Modes in Real Music",
+        "de": "Modes in Real Music",
+        "ja": "Modes in Real Music",
+        "pt-BR": "Modes in Real Music",
+        "es": "Modes in Real Music"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Modes in Real Music",
+        "zh-Hans": "Modes in Real Music",
+        "de": "Modes in Real Music",
+        "ja": "Modes in Real Music",
+        "pt-BR": "Modes in Real Music",
+        "es": "Modes in Real Music"
+      }
+    },
+    "image": null,
+    "order": 3,
+    "createdAt": "2025-12-01T00:00:00Z",
+    "updatedAt": "2025-12-01T00:00:00Z"
+  }
+]

@@ -1,0 +1,86 @@
+[
+  {
+    "id": "how-to-read-scale-degrees-and-intervals",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "How to Read Scale Degrees and Intervals",
+        "zh-Hans": "How to Read Scale Degrees and Intervals",
+        "de": "How to Read Scale Degrees and Intervals",
+        "ja": "How to Read Scale Degrees and Intervals",
+        "pt-BR": "How to Read Scale Degrees and Intervals",
+        "es": "How to Read Scale Degrees and Intervals"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Lesson content coming soon.",
+        "zh-Hans": "内容即将上线。",
+        "de": "Inhalt folgt in Kürze.",
+        "ja": "コンテンツはまもなく追加されます。",
+        "pt-BR": "Conteúdo chegando em breve.",
+        "es": "Contenido disponible pronto."
+      }
+    },
+    "order": 1,
+    "createdAt": "2025-12-01T00:00:00Z",
+    "updatedAt": "2025-12-01T00:00:00Z"
+  },
+  {
+    "id": "fingerings-for-one-and-two-octave-scales",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Fingerings for One- and Two-Octave Scales",
+        "zh-Hans": "Fingerings for One- and Two-Octave Scales",
+        "de": "Fingerings for One- and Two-Octave Scales",
+        "ja": "Fingerings for One- and Two-Octave Scales",
+        "pt-BR": "Fingerings for One- and Two-Octave Scales",
+        "es": "Fingerings for One- and Two-Octave Scales"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Lesson content coming soon.",
+        "zh-Hans": "内容即将上线。",
+        "de": "Inhalt folgt in Kürze.",
+        "ja": "コンテンツはまもなく追加されます。",
+        "pt-BR": "Conteúdo chegando em breve.",
+        "es": "Contenido disponible pronto."
+      }
+    },
+    "order": 2,
+    "createdAt": "2025-12-01T00:00:00Z",
+    "updatedAt": "2025-12-01T00:00:00Z"
+  },
+  {
+    "id": "alternate-picking-for-scale-practice",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Alternate Picking for Scale Practice",
+        "zh-Hans": "Alternate Picking for Scale Practice",
+        "de": "Alternate Picking for Scale Practice",
+        "ja": "Alternate Picking for Scale Practice",
+        "pt-BR": "Alternate Picking for Scale Practice",
+        "es": "Alternate Picking for Scale Practice"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Lesson content coming soon.",
+        "zh-Hans": "内容即将上线。",
+        "de": "Inhalt folgt in Kürze.",
+        "ja": "コンテンツはまもなく追加されます。",
+        "pt-BR": "Conteúdo chegando em breve.",
+        "es": "Contenido disponible pronto."
+      }
+    },
+    "order": 3,
+    "createdAt": "2025-12-01T00:00:00Z",
+    "updatedAt": "2025-12-01T00:00:00Z"
+  }
+]

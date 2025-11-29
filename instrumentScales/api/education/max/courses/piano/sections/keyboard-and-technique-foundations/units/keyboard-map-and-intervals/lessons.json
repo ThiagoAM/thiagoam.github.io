@@ -1,0 +1,86 @@
+[
+  {
+    "id": "identifying-all-notes-on-the-keyboard",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Identifying All Notes on the Keyboard",
+        "zh-Hans": "Identifying All Notes on the Keyboard",
+        "de": "Identifying All Notes on the Keyboard",
+        "ja": "Identifying All Notes on the Keyboard",
+        "pt-BR": "Identifying All Notes on the Keyboard",
+        "es": "Identifying All Notes on the Keyboard"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Lesson content coming soon.",
+        "zh-Hans": "内容即将上线。",
+        "de": "Inhalt folgt in Kürze.",
+        "ja": "コンテンツはまもなく追加されます。",
+        "pt-BR": "Conteúdo chegando em breve.",
+        "es": "Contenido disponible pronto."
+      }
+    },
+    "order": 1,
+    "createdAt": "2025-12-01T00:00:00Z",
+    "updatedAt": "2025-12-01T00:00:00Z"
+  },
+  {
+    "id": "whole-steps-half-steps-and-intervals",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Whole Steps, Half Steps, and Intervals",
+        "zh-Hans": "Whole Steps, Half Steps, and Intervals",
+        "de": "Whole Steps, Half Steps, and Intervals",
+        "ja": "Whole Steps, Half Steps, and Intervals",
+        "pt-BR": "Whole Steps, Half Steps, and Intervals",
+        "es": "Whole Steps, Half Steps, and Intervals"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Lesson content coming soon.",
+        "zh-Hans": "内容即将上线。",
+        "de": "Inhalt folgt in Kürze.",
+        "ja": "コンテンツはまもなく追加されます。",
+        "pt-BR": "Conteúdo chegando em breve.",
+        "es": "Contenido disponible pronto."
+      }
+    },
+    "order": 2,
+    "createdAt": "2025-12-01T00:00:00Z",
+    "updatedAt": "2025-12-01T00:00:00Z"
+  },
+  {
+    "id": "simple-interval-exercises-using-c-major",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Simple Interval Exercises Using C Major",
+        "zh-Hans": "Simple Interval Exercises Using C Major",
+        "de": "Simple Interval Exercises Using C Major",
+        "ja": "Simple Interval Exercises Using C Major",
+        "pt-BR": "Simple Interval Exercises Using C Major",
+        "es": "Simple Interval Exercises Using C Major"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Lesson content coming soon.",
+        "zh-Hans": "内容即将上线。",
+        "de": "Inhalt folgt in Kürze.",
+        "ja": "コンテンツはまもなく追加されます。",
+        "pt-BR": "Conteúdo chegando em breve.",
+        "es": "Contenido disponible pronto."
+      }
+    },
+    "order": 3,
+    "createdAt": "2025-12-01T00:00:00Z",
+    "updatedAt": "2025-12-01T00:00:00Z"
+  }
+]

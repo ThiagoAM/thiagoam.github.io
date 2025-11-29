@@ -2,28 +2,102 @@
   "schemaVersion": 1,
   "courses": [
     {
-      "id": "course1",
-      "slug": "course-1",
-      "name": { "values": { "en": "Course 1 (Remote)" } },
-      "summary": null,
+      "id": "guitar",
+      "slug": "guitar",
+      "name": {
+        "values": {
+          "en": "Guitar – Max",
+          "zh-Hans": "Guitar – Max",
+          "de": "Guitar – Max",
+          "ja": "Guitar – Max",
+          "pt-BR": "Guitar – Max",
+          "es": "Guitar – Max"
+        }
+      },
+      "summary": {
+        "values": {
+          "en": "Advanced scale studies and fretboard control for guitar.",
+          "zh-Hans": "Advanced scale studies and fretboard control for guitar.",
+          "de": "Advanced scale studies and fretboard control for guitar.",
+          "ja": "Advanced scale studies and fretboard control for guitar.",
+          "pt-BR": "Advanced scale studies and fretboard control for guitar.",
+          "es": "Advanced scale studies and fretboard control for guitar."
+        }
+      },
       "image": null,
-      "tags": ["tag1"],
+      "tags": [
+        "guitar",
+        "advanced"
+      ],
       "order": 1,
-      "createdAt": "1970-01-01T00:00:00Z",
-      "updatedAt": null
+      "createdAt": "2025-12-01T00:00:00Z",
+      "updatedAt": "2025-12-01T00:00:00Z"
     },
     {
-      "id": "course2",
-      "slug": "course-2",
-      "name": { "values": { "en": "Course 2 (Remote)" } },
-      "summary": null,
+      "id": "bass",
+      "slug": "bass",
+      "name": {
+        "values": {
+          "en": "Bass – Max",
+          "zh-Hans": "Bass – Max",
+          "de": "Bass – Max",
+          "ja": "Bass – Max",
+          "pt-BR": "Bass – Max",
+          "es": "Bass – Max"
+        }
+      },
+      "summary": {
+        "values": {
+          "en": "Advanced scale applications and groove development for bass.",
+          "zh-Hans": "Advanced scale applications and groove development for bass.",
+          "de": "Advanced scale applications and groove development for bass.",
+          "ja": "Advanced scale applications and groove development for bass.",
+          "pt-BR": "Advanced scale applications and groove development for bass.",
+          "es": "Advanced scale applications and groove development for bass."
+        }
+      },
       "image": null,
-      "tags": ["tag2"],
+      "tags": [
+        "bass",
+        "advanced"
+      ],
       "order": 2,
-      "createdAt": "1970-01-01T00:00:00Z",
-      "updatedAt": null
+      "createdAt": "2025-12-01T00:00:00Z",
+      "updatedAt": "2025-12-01T00:00:00Z"
+    },
+    {
+      "id": "piano",
+      "slug": "piano",
+      "name": {
+        "values": {
+          "en": "Piano – Max",
+          "zh-Hans": "Piano – Max",
+          "de": "Piano – Max",
+          "ja": "Piano – Max",
+          "pt-BR": "Piano – Max",
+          "es": "Piano – Max"
+        }
+      },
+      "summary": {
+        "values": {
+          "en": "Keyboard-focused scale studies and applied harmony.",
+          "zh-Hans": "Keyboard-focused scale studies and applied harmony.",
+          "de": "Keyboard-focused scale studies and applied harmony.",
+          "ja": "Keyboard-focused scale studies and applied harmony.",
+          "pt-BR": "Keyboard-focused scale studies and applied harmony.",
+          "es": "Keyboard-focused scale studies and applied harmony."
+        }
+      },
+      "image": null,
+      "tags": [
+        "piano",
+        "advanced"
+      ],
+      "order": 3,
+      "createdAt": "2025-12-01T00:00:00Z",
+      "updatedAt": "2025-12-01T00:00:00Z"
     }
   ],
-  "createdAt": "1970-01-01T00:00:00Z",
-  "updatedAt": null
+  "createdAt": "2025-12-01T00:00:00Z",
+  "updatedAt": "2025-12-01T00:00:00Z"
 }

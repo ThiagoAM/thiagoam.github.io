@@ -1,0 +1,86 @@
+[
+  {
+    "id": "designing-a-10-minute-warm-up-using-scales",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Designing a 10-Minute Warm-Up Using Scales",
+        "zh-Hans": "Designing a 10-Minute Warm-Up Using Scales",
+        "de": "Designing a 10-Minute Warm-Up Using Scales",
+        "ja": "Designing a 10-Minute Warm-Up Using Scales",
+        "pt-BR": "Designing a 10-Minute Warm-Up Using Scales",
+        "es": "Designing a 10-Minute Warm-Up Using Scales"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Lesson content coming soon.",
+        "zh-Hans": "内容即将上线。",
+        "de": "Inhalt folgt in Kürze.",
+        "ja": "コンテンツはまもなく追加されます。",
+        "pt-BR": "Conteúdo chegando em breve.",
+        "es": "Contenido disponible pronto."
+      }
+    },
+    "order": 1,
+    "createdAt": "2025-12-01T00:00:00Z",
+    "updatedAt": "2025-12-01T00:00:00Z"
+  },
+  {
+    "id": "balancing-technique-theory-and-creativity",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Balancing Technique, Theory, and Creativity",
+        "zh-Hans": "Balancing Technique, Theory, and Creativity",
+        "de": "Balancing Technique, Theory, and Creativity",
+        "ja": "Balancing Technique, Theory, and Creativity",
+        "pt-BR": "Balancing Technique, Theory, and Creativity",
+        "es": "Balancing Technique, Theory, and Creativity"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Lesson content coming soon.",
+        "zh-Hans": "内容即将上线。",
+        "de": "Inhalt folgt in Kürze.",
+        "ja": "コンテンツはまもなく追加されます。",
+        "pt-BR": "Conteúdo chegando em breve.",
+        "es": "Contenido disponible pronto."
+      }
+    },
+    "order": 2,
+    "createdAt": "2025-12-01T00:00:00Z",
+    "updatedAt": "2025-12-01T00:00:00Z"
+  },
+  {
+    "id": "saving-custom-routines-in-instrument-scales",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Saving Custom Routines in Instrument Scales",
+        "zh-Hans": "Saving Custom Routines in Instrument Scales",
+        "de": "Saving Custom Routines in Instrument Scales",
+        "ja": "Saving Custom Routines in Instrument Scales",
+        "pt-BR": "Saving Custom Routines in Instrument Scales",
+        "es": "Saving Custom Routines in Instrument Scales"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Lesson content coming soon.",
+        "zh-Hans": "内容即将上线。",
+        "de": "Inhalt folgt in Kürze.",
+        "ja": "コンテンツはまもなく追加されます。",
+        "pt-BR": "Conteúdo chegando em breve.",
+        "es": "Contenido disponible pronto."
+      }
+    },
+    "order": 3,
+    "createdAt": "2025-12-01T00:00:00Z",
+    "updatedAt": "2025-12-01T00:00:00Z"
+  }
+]

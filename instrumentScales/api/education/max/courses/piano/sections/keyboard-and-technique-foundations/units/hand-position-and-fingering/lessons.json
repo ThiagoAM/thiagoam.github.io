@@ -1,0 +1,86 @@
+[
+  {
+    "id": "basic-5-finger-position-in-c",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Basic 5-Finger Position in C",
+        "zh-Hans": "Basic 5-Finger Position in C",
+        "de": "Basic 5-Finger Position in C",
+        "ja": "Basic 5-Finger Position in C",
+        "pt-BR": "Basic 5-Finger Position in C",
+        "es": "Basic 5-Finger Position in C"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Lesson content coming soon.",
+        "zh-Hans": "内容即将上线。",
+        "de": "Inhalt folgt in Kürze.",
+        "ja": "コンテンツはまもなく追加されます。",
+        "pt-BR": "Conteúdo chegando em breve.",
+        "es": "Contenido disponible pronto."
+      }
+    },
+    "order": 1,
+    "createdAt": "2025-12-01T00:00:00Z",
+    "updatedAt": "2025-12-01T00:00:00Z"
+  },
+  {
+    "id": "standard-fingerings-for-c-major-and-g-major",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Standard Fingerings for C Major and G Major",
+        "zh-Hans": "Standard Fingerings for C Major and G Major",
+        "de": "Standard Fingerings for C Major and G Major",
+        "ja": "Standard Fingerings for C Major and G Major",
+        "pt-BR": "Standard Fingerings for C Major and G Major",
+        "es": "Standard Fingerings for C Major and G Major"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Lesson content coming soon.",
+        "zh-Hans": "内容即将上线。",
+        "de": "Inhalt folgt in Kürze.",
+        "ja": "コンテンツはまもなく追加されます。",
+        "pt-BR": "Conteúdo chegando em breve.",
+        "es": "Contenido disponible pronto."
+      }
+    },
+    "order": 2,
+    "createdAt": "2025-12-01T00:00:00Z",
+    "updatedAt": "2025-12-01T00:00:00Z"
+  },
+  {
+    "id": "finger-independence-exercises",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Finger Independence Exercises",
+        "zh-Hans": "Finger Independence Exercises",
+        "de": "Finger Independence Exercises",
+        "ja": "Finger Independence Exercises",
+        "pt-BR": "Finger Independence Exercises",
+        "es": "Finger Independence Exercises"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Lesson content coming soon.",
+        "zh-Hans": "内容即将上线。",
+        "de": "Inhalt folgt in Kürze.",
+        "ja": "コンテンツはまもなく追加されます。",
+        "pt-BR": "Conteúdo chegando em breve.",
+        "es": "Contenido disponible pronto."
+      }
+    },
+    "order": 3,
+    "createdAt": "2025-12-01T00:00:00Z",
+    "updatedAt": "2025-12-01T00:00:00Z"
+  }
+]

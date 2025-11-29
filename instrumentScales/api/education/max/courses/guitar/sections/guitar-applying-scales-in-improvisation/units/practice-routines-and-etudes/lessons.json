@@ -1,0 +1,86 @@
+[
+  {
+    "id": "daily-pentatonic-routine-warm-up-patterns-licks",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Daily Pentatonic Routine (Warm-Up, Patterns, Licks)",
+        "zh-Hans": "Daily Pentatonic Routine (Warm-Up, Patterns, Licks)",
+        "de": "Daily Pentatonic Routine (Warm-Up, Patterns, Licks)",
+        "ja": "Daily Pentatonic Routine (Warm-Up, Patterns, Licks)",
+        "pt-BR": "Daily Pentatonic Routine (Warm-Up, Patterns, Licks)",
+        "es": "Daily Pentatonic Routine (Warm-Up, Patterns, Licks)"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Lesson content coming soon.",
+        "zh-Hans": "内容即将上线。",
+        "de": "Inhalt folgt in Kürze.",
+        "ja": "コンテンツはまもなく追加されます。",
+        "pt-BR": "Conteúdo chegando em breve.",
+        "es": "Contenido disponible pronto."
+      }
+    },
+    "order": 1,
+    "createdAt": "2025-12-01T00:00:00Z",
+    "updatedAt": "2025-12-01T00:00:00Z"
+  },
+  {
+    "id": "major-scale-routine-across-the-neck",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Major Scale Routine Across the Neck",
+        "zh-Hans": "Major Scale Routine Across the Neck",
+        "de": "Major Scale Routine Across the Neck",
+        "ja": "Major Scale Routine Across the Neck",
+        "pt-BR": "Major Scale Routine Across the Neck",
+        "es": "Major Scale Routine Across the Neck"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Lesson content coming soon.",
+        "zh-Hans": "内容即将上线。",
+        "de": "Inhalt folgt in Kürze.",
+        "ja": "コンテンツはまもなく追加されます。",
+        "pt-BR": "Conteúdo chegando em breve.",
+        "es": "Contenido disponible pronto."
+      }
+    },
+    "order": 2,
+    "createdAt": "2025-12-01T00:00:00Z",
+    "updatedAt": "2025-12-01T00:00:00Z"
+  },
+  {
+    "id": "full-song-etude-using-multiple-positions",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Full-Song Etude Using Multiple Positions",
+        "zh-Hans": "Full-Song Etude Using Multiple Positions",
+        "de": "Full-Song Etude Using Multiple Positions",
+        "ja": "Full-Song Etude Using Multiple Positions",
+        "pt-BR": "Full-Song Etude Using Multiple Positions",
+        "es": "Full-Song Etude Using Multiple Positions"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Lesson content coming soon.",
+        "zh-Hans": "内容即将上线。",
+        "de": "Inhalt folgt in Kürze.",
+        "ja": "コンテンツはまもなく追加されます。",
+        "pt-BR": "Conteúdo chegando em breve.",
+        "es": "Contenido disponible pronto."
+      }
+    },
+    "order": 3,
+    "createdAt": "2025-12-01T00:00:00Z",
+    "updatedAt": "2025-12-01T00:00:00Z"
+  }
+]

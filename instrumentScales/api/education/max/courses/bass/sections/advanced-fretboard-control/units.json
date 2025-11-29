@@ -1,0 +1,83 @@
+[
+  {
+    "id": "across-the-neck-patterns",
+    "name": {
+      "values": {
+        "en": "Across-the-Neck Patterns",
+        "zh-Hans": "Across-the-Neck Patterns",
+        "de": "Across-the-Neck Patterns",
+        "ja": "Across-the-Neck Patterns",
+        "pt-BR": "Across-the-Neck Patterns",
+        "es": "Across-the-Neck Patterns"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Across-the-Neck Patterns",
+        "zh-Hans": "Across-the-Neck Patterns",
+        "de": "Across-the-Neck Patterns",
+        "ja": "Across-the-Neck Patterns",
+        "pt-BR": "Across-the-Neck Patterns",
+        "es": "Across-the-Neck Patterns"
+      }
+    },
+    "image": null,
+    "order": 1,
+    "createdAt": "2025-12-01T00:00:00Z",
+    "updatedAt": "2025-12-01T00:00:00Z"
+  },
+  {
+    "id": "modes-for-bass-lines",
+    "name": {
+      "values": {
+        "en": "Modes for Bass Lines",
+        "zh-Hans": "Modes for Bass Lines",
+        "de": "Modes for Bass Lines",
+        "ja": "Modes for Bass Lines",
+        "pt-BR": "Modes for Bass Lines",
+        "es": "Modes for Bass Lines"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Modes for Bass Lines",
+        "zh-Hans": "Modes for Bass Lines",
+        "de": "Modes for Bass Lines",
+        "ja": "Modes for Bass Lines",
+        "pt-BR": "Modes for Bass Lines",
+        "es": "Modes for Bass Lines"
+      }
+    },
+    "image": null,
+    "order": 2,
+    "createdAt": "2025-12-01T00:00:00Z",
+    "updatedAt": "2025-12-01T00:00:00Z"
+  },
+  {
+    "id": "melodic-bass-playing",
+    "name": {
+      "values": {
+        "en": "Melodic Bass Playing",
+        "zh-Hans": "Melodic Bass Playing",
+        "de": "Melodic Bass Playing",
+        "ja": "Melodic Bass Playing",
+        "pt-BR": "Melodic Bass Playing",
+        "es": "Melodic Bass Playing"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Melodic Bass Playing",
+        "zh-Hans": "Melodic Bass Playing",
+        "de": "Melodic Bass Playing",
+        "ja": "Melodic Bass Playing",
+        "pt-BR": "Melodic Bass Playing",
+        "es": "Melodic Bass Playing"
+      }
+    },
+    "image": null,
+    "order": 3,
+    "createdAt": "2025-12-01T00:00:00Z",
+    "updatedAt": "2025-12-01T00:00:00Z"
+  }
+]

@@ -1,0 +1,110 @@
+[
+  {
+    "id": "keyboard-and-technique-foundations",
+    "name": {
+      "values": {
+        "en": "Keyboard and Technique Foundations",
+        "zh-Hans": "Keyboard and Technique Foundations",
+        "de": "Keyboard and Technique Foundations",
+        "ja": "Keyboard and Technique Foundations",
+        "pt-BR": "Keyboard and Technique Foundations",
+        "es": "Keyboard and Technique Foundations"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Map the keyboard and strengthen core technique.",
+        "zh-Hans": "Map the keyboard and strengthen core technique.",
+        "de": "Map the keyboard and strengthen core technique.",
+        "ja": "Map the keyboard and strengthen core technique.",
+        "pt-BR": "Map the keyboard and strengthen core technique.",
+        "es": "Map the keyboard and strengthen core technique."
+      }
+    },
+    "image": null,
+    "order": 1,
+    "createdAt": "2025-12-01T00:00:00Z",
+    "updatedAt": "2025-12-01T00:00:00Z"
+  },
+  {
+    "id": "scales-chords-and-harmony",
+    "name": {
+      "values": {
+        "en": "Scales, Chords, and Harmony",
+        "zh-Hans": "Scales, Chords, and Harmony",
+        "de": "Scales, Chords, and Harmony",
+        "ja": "Scales, Chords, and Harmony",
+        "pt-BR": "Scales, Chords, and Harmony",
+        "es": "Scales, Chords, and Harmony"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Connect scale theory to chord building and harmony.",
+        "zh-Hans": "Connect scale theory to chord building and harmony.",
+        "de": "Connect scale theory to chord building and harmony.",
+        "ja": "Connect scale theory to chord building and harmony.",
+        "pt-BR": "Connect scale theory to chord building and harmony.",
+        "es": "Connect scale theory to chord building and harmony."
+      }
+    },
+    "image": null,
+    "order": 2,
+    "createdAt": "2025-12-01T00:00:00Z",
+    "updatedAt": "2025-12-01T00:00:00Z"
+  },
+  {
+    "id": "modes-and-melodic-playing",
+    "name": {
+      "values": {
+        "en": "Modes and Melodic Playing",
+        "zh-Hans": "Modes and Melodic Playing",
+        "de": "Modes and Melodic Playing",
+        "ja": "Modes and Melodic Playing",
+        "pt-BR": "Modes and Melodic Playing",
+        "es": "Modes and Melodic Playing"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Explore modes and apply them to melodic work.",
+        "zh-Hans": "Explore modes and apply them to melodic work.",
+        "de": "Explore modes and apply them to melodic work.",
+        "ja": "Explore modes and apply them to melodic work.",
+        "pt-BR": "Explore modes and apply them to melodic work.",
+        "es": "Explore modes and apply them to melodic work."
+      }
+    },
+    "image": null,
+    "order": 3,
+    "createdAt": "2025-12-01T00:00:00Z",
+    "updatedAt": "2025-12-01T00:00:00Z"
+  },
+  {
+    "id": "scale-based-practice-routines",
+    "name": {
+      "values": {
+        "en": "Scale-Based Practice Routines",
+        "zh-Hans": "Scale-Based Practice Routines",
+        "de": "Scale-Based Practice Routines",
+        "ja": "Scale-Based Practice Routines",
+        "pt-BR": "Scale-Based Practice Routines",
+        "es": "Scale-Based Practice Routines"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Daily routines that blend technique and applied scales.",
+        "zh-Hans": "Daily routines that blend technique and applied scales.",
+        "de": "Daily routines that blend technique and applied scales.",
+        "ja": "Daily routines that blend technique and applied scales.",
+        "pt-BR": "Daily routines that blend technique and applied scales.",
+        "es": "Daily routines that blend technique and applied scales."
+      }
+    },
+    "image": null,
+    "order": 4,
+    "createdAt": "2025-12-01T00:00:00Z",
+    "updatedAt": "2025-12-01T00:00:00Z"
+  }
+]

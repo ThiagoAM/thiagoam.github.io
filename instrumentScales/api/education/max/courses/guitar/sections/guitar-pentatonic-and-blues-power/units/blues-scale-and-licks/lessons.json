@@ -1,0 +1,86 @@
+[
+  {
+    "id": "adding-the-blue-note-to-minor-pentatonic",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Adding the Blue Note to Minor Pentatonic",
+        "zh-Hans": "Adding the Blue Note to Minor Pentatonic",
+        "de": "Adding the Blue Note to Minor Pentatonic",
+        "ja": "Adding the Blue Note to Minor Pentatonic",
+        "pt-BR": "Adding the Blue Note to Minor Pentatonic",
+        "es": "Adding the Blue Note to Minor Pentatonic"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Lesson content coming soon.",
+        "zh-Hans": "内容即将上线。",
+        "de": "Inhalt folgt in Kürze.",
+        "ja": "コンテンツはまもなく追加されます。",
+        "pt-BR": "Conteúdo chegando em breve.",
+        "es": "Contenido disponible pronto."
+      }
+    },
+    "order": 1,
+    "createdAt": "2025-12-01T00:00:00Z",
+    "updatedAt": "2025-12-01T00:00:00Z"
+  },
+  {
+    "id": "simple-12-bar-blues-licks-in-a",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Simple 12-Bar Blues Licks in A",
+        "zh-Hans": "Simple 12-Bar Blues Licks in A",
+        "de": "Simple 12-Bar Blues Licks in A",
+        "ja": "Simple 12-Bar Blues Licks in A",
+        "pt-BR": "Simple 12-Bar Blues Licks in A",
+        "es": "Simple 12-Bar Blues Licks in A"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Lesson content coming soon.",
+        "zh-Hans": "内容即将上线。",
+        "de": "Inhalt folgt in Kürze.",
+        "ja": "コンテンツはまもなく追加されます。",
+        "pt-BR": "Conteúdo chegando em breve.",
+        "es": "Contenido disponible pronto."
+      }
+    },
+    "order": 2,
+    "createdAt": "2025-12-01T00:00:00Z",
+    "updatedAt": "2025-12-01T00:00:00Z"
+  },
+  {
+    "id": "creating-your-own-blues-phrases",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Creating Your Own Blues Phrases",
+        "zh-Hans": "Creating Your Own Blues Phrases",
+        "de": "Creating Your Own Blues Phrases",
+        "ja": "Creating Your Own Blues Phrases",
+        "pt-BR": "Creating Your Own Blues Phrases",
+        "es": "Creating Your Own Blues Phrases"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Lesson content coming soon.",
+        "zh-Hans": "内容即将上线。",
+        "de": "Inhalt folgt in Kürze.",
+        "ja": "コンテンツはまもなく追加されます。",
+        "pt-BR": "Conteúdo chegando em breve.",
+        "es": "Contenido disponible pronto."
+      }
+    },
+    "order": 3,
+    "createdAt": "2025-12-01T00:00:00Z",
+    "updatedAt": "2025-12-01T00:00:00Z"
+  }
+]

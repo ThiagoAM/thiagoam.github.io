@@ -1,0 +1,86 @@
+[
+  {
+    "id": "five-position-system-for-c-major",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "5-Position System for C Major",
+        "zh-Hans": "5-Position System for C Major",
+        "de": "5-Position System for C Major",
+        "ja": "5-Position System for C Major",
+        "pt-BR": "5-Position System for C Major",
+        "es": "5-Position System for C Major"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Lesson content coming soon.",
+        "zh-Hans": "内容即将上线。",
+        "de": "Inhalt folgt in Kürze.",
+        "ja": "コンテンツはまもなく追加されます。",
+        "pt-BR": "Conteúdo chegando em breve.",
+        "es": "Contenido disponible pronto."
+      }
+    },
+    "order": 1,
+    "createdAt": "2025-12-01T00:00:00Z",
+    "updatedAt": "2025-12-01T00:00:00Z"
+  },
+  {
+    "id": "three-notes-per-string-patterns-in-c-major",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "3-Notes-Per-String Patterns in C Major",
+        "zh-Hans": "3-Notes-Per-String Patterns in C Major",
+        "de": "3-Notes-Per-String Patterns in C Major",
+        "ja": "3-Notes-Per-String Patterns in C Major",
+        "pt-BR": "3-Notes-Per-String Patterns in C Major",
+        "es": "3-Notes-Per-String Patterns in C Major"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Lesson content coming soon.",
+        "zh-Hans": "内容即将上线。",
+        "de": "Inhalt folgt in Kürze.",
+        "ja": "コンテンツはまもなく追加されます。",
+        "pt-BR": "Conteúdo chegando em breve.",
+        "es": "Contenido disponible pronto."
+      }
+    },
+    "order": 2,
+    "createdAt": "2025-12-01T00:00:00Z",
+    "updatedAt": "2025-12-01T00:00:00Z"
+  },
+  {
+    "id": "connecting-positions-horizontally",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Connecting Positions Horizontally",
+        "zh-Hans": "Connecting Positions Horizontally",
+        "de": "Connecting Positions Horizontally",
+        "ja": "Connecting Positions Horizontally",
+        "pt-BR": "Connecting Positions Horizontally",
+        "es": "Connecting Positions Horizontally"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Lesson content coming soon.",
+        "zh-Hans": "内容即将上线。",
+        "de": "Inhalt folgt in Kürze.",
+        "ja": "コンテンツはまもなく追加されます。",
+        "pt-BR": "Conteúdo chegando em breve.",
+        "es": "Contenido disponible pronto."
+      }
+    },
+    "order": 3,
+    "createdAt": "2025-12-01T00:00:00Z",
+    "updatedAt": "2025-12-01T00:00:00Z"
+  }
+]

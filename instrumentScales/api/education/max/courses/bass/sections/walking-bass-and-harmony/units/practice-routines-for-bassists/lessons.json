@@ -1,0 +1,86 @@
+[
+  {
+    "id": "daily-scale-routine-for-fingerboard-mastery",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Daily Scale Routine for Fingerboard Mastery",
+        "zh-Hans": "Daily Scale Routine for Fingerboard Mastery",
+        "de": "Daily Scale Routine for Fingerboard Mastery",
+        "ja": "Daily Scale Routine for Fingerboard Mastery",
+        "pt-BR": "Daily Scale Routine for Fingerboard Mastery",
+        "es": "Daily Scale Routine for Fingerboard Mastery"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Lesson content coming soon.",
+        "zh-Hans": "内容即将上线。",
+        "de": "Inhalt folgt in Kürze.",
+        "ja": "コンテンツはまもなく追加されます。",
+        "pt-BR": "Conteúdo chegando em breve.",
+        "es": "Contenido disponible pronto."
+      }
+    },
+    "order": 1,
+    "createdAt": "2025-12-01T00:00:00Z",
+    "updatedAt": "2025-12-01T00:00:00Z"
+  },
+  {
+    "id": "groove-plus-scale-combination-exercises",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Groove + Scale Combination Exercises",
+        "zh-Hans": "Groove + Scale Combination Exercises",
+        "de": "Groove + Scale Combination Exercises",
+        "ja": "Groove + Scale Combination Exercises",
+        "pt-BR": "Groove + Scale Combination Exercises",
+        "es": "Groove + Scale Combination Exercises"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Lesson content coming soon.",
+        "zh-Hans": "内容即将上线。",
+        "de": "Inhalt folgt in Kürze.",
+        "ja": "コンテンツはまもなく追加されます。",
+        "pt-BR": "Conteúdo chegando em breve.",
+        "es": "Contenido disponible pronto."
+      }
+    },
+    "order": 2,
+    "createdAt": "2025-12-01T00:00:00Z",
+    "updatedAt": "2025-12-01T00:00:00Z"
+  },
+  {
+    "id": "creating-your-own-walking-practice-loops",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Creating Your Own Walking Practice Loops",
+        "zh-Hans": "Creating Your Own Walking Practice Loops",
+        "de": "Creating Your Own Walking Practice Loops",
+        "ja": "Creating Your Own Walking Practice Loops",
+        "pt-BR": "Creating Your Own Walking Practice Loops",
+        "es": "Creating Your Own Walking Practice Loops"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Lesson content coming soon.",
+        "zh-Hans": "内容即将上线。",
+        "de": "Inhalt folgt in Kürze.",
+        "ja": "コンテンツはまもなく追加されます。",
+        "pt-BR": "Conteúdo chegando em breve.",
+        "es": "Contenido disponible pronto."
+      }
+    },
+    "order": 3,
+    "createdAt": "2025-12-01T00:00:00Z",
+    "updatedAt": "2025-12-01T00:00:00Z"
+  }
+]

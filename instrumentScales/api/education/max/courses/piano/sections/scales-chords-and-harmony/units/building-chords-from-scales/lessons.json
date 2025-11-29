@@ -1,0 +1,86 @@
+[
+  {
+    "id": "triads-from-c-major-scale",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Triads from C Major Scale",
+        "zh-Hans": "Triads from C Major Scale",
+        "de": "Triads from C Major Scale",
+        "ja": "Triads from C Major Scale",
+        "pt-BR": "Triads from C Major Scale",
+        "es": "Triads from C Major Scale"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Lesson content coming soon.",
+        "zh-Hans": "内容即将上线。",
+        "de": "Inhalt folgt in Kürze.",
+        "ja": "コンテンツはまもなく追加されます。",
+        "pt-BR": "Conteúdo chegando em breve.",
+        "es": "Contenido disponible pronto."
+      }
+    },
+    "order": 1,
+    "createdAt": "2025-12-01T00:00:00Z",
+    "updatedAt": "2025-12-01T00:00:00Z"
+  },
+  {
+    "id": "inversions-of-major-and-minor-triads",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Inversions of Major and Minor Triads",
+        "zh-Hans": "Inversions of Major and Minor Triads",
+        "de": "Inversions of Major and Minor Triads",
+        "ja": "Inversions of Major and Minor Triads",
+        "pt-BR": "Inversions of Major and Minor Triads",
+        "es": "Inversions of Major and Minor Triads"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Lesson content coming soon.",
+        "zh-Hans": "内容即将上线。",
+        "de": "Inhalt folgt in Kürze.",
+        "ja": "コンテンツはまもなく追加されます。",
+        "pt-BR": "Conteúdo chegando em breve.",
+        "es": "Contenido disponible pronto."
+      }
+    },
+    "order": 2,
+    "createdAt": "2025-12-01T00:00:00Z",
+    "updatedAt": "2025-12-01T00:00:00Z"
+  },
+  {
+    "id": "broken-chord-patterns-using-scales",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Broken Chord Patterns Using Scales",
+        "zh-Hans": "Broken Chord Patterns Using Scales",
+        "de": "Broken Chord Patterns Using Scales",
+        "ja": "Broken Chord Patterns Using Scales",
+        "pt-BR": "Broken Chord Patterns Using Scales",
+        "es": "Broken Chord Patterns Using Scales"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Lesson content coming soon.",
+        "zh-Hans": "内容即将上线。",
+        "de": "Inhalt folgt in Kürze.",
+        "ja": "コンテンツはまもなく追加されます。",
+        "pt-BR": "Conteúdo chegando em breve.",
+        "es": "Contenido disponible pronto."
+      }
+    },
+    "order": 3,
+    "createdAt": "2025-12-01T00:00:00Z",
+    "updatedAt": "2025-12-01T00:00:00Z"
+  }
+]

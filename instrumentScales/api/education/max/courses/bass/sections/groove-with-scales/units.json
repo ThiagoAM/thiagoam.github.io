@@ -1,0 +1,83 @@
+[
+  {
+    "id": "roots-fifths-and-octaves",
+    "name": {
+      "values": {
+        "en": "Roots, Fifths, and Octaves",
+        "zh-Hans": "Roots, Fifths, and Octaves",
+        "de": "Roots, Fifths, and Octaves",
+        "ja": "Roots, Fifths, and Octaves",
+        "pt-BR": "Roots, Fifths, and Octaves",
+        "es": "Roots, Fifths, and Octaves"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Roots, Fifths, and Octaves",
+        "zh-Hans": "Roots, Fifths, and Octaves",
+        "de": "Roots, Fifths, and Octaves",
+        "ja": "Roots, Fifths, and Octaves",
+        "pt-BR": "Roots, Fifths, and Octaves",
+        "es": "Roots, Fifths, and Octaves"
+      }
+    },
+    "image": null,
+    "order": 1,
+    "createdAt": "2025-12-01T00:00:00Z",
+    "updatedAt": "2025-12-01T00:00:00Z"
+  },
+  {
+    "id": "pentatonic-and-blues-for-bass",
+    "name": {
+      "values": {
+        "en": "Pentatonic and Blues for Bass",
+        "zh-Hans": "Pentatonic and Blues for Bass",
+        "de": "Pentatonic and Blues for Bass",
+        "ja": "Pentatonic and Blues for Bass",
+        "pt-BR": "Pentatonic and Blues for Bass",
+        "es": "Pentatonic and Blues for Bass"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Pentatonic and Blues for Bass",
+        "zh-Hans": "Pentatonic and Blues for Bass",
+        "de": "Pentatonic and Blues for Bass",
+        "ja": "Pentatonic and Blues for Bass",
+        "pt-BR": "Pentatonic and Blues for Bass",
+        "es": "Pentatonic and Blues for Bass"
+      }
+    },
+    "image": null,
+    "order": 2,
+    "createdAt": "2025-12-01T00:00:00Z",
+    "updatedAt": "2025-12-01T00:00:00Z"
+  },
+  {
+    "id": "major-scale-grooves",
+    "name": {
+      "values": {
+        "en": "Major Scale Grooves",
+        "zh-Hans": "Major Scale Grooves",
+        "de": "Major Scale Grooves",
+        "ja": "Major Scale Grooves",
+        "pt-BR": "Major Scale Grooves",
+        "es": "Major Scale Grooves"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Major Scale Grooves",
+        "zh-Hans": "Major Scale Grooves",
+        "de": "Major Scale Grooves",
+        "ja": "Major Scale Grooves",
+        "pt-BR": "Major Scale Grooves",
+        "es": "Major Scale Grooves"
+      }
+    },
+    "image": null,
+    "order": 3,
+    "createdAt": "2025-12-01T00:00:00Z",
+    "updatedAt": "2025-12-01T00:00:00Z"
+  }
+]

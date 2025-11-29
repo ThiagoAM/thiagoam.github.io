@@ -1,0 +1,86 @@
+[
+  {
+    "id": "using-c-major-scale-over-pop-progressions",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Using C Major Scale over Pop Progressions",
+        "zh-Hans": "Using C Major Scale over Pop Progressions",
+        "de": "Using C Major Scale over Pop Progressions",
+        "ja": "Using C Major Scale over Pop Progressions",
+        "pt-BR": "Using C Major Scale over Pop Progressions",
+        "es": "Using C Major Scale over Pop Progressions"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Lesson content coming soon.",
+        "zh-Hans": "内容即将上线。",
+        "de": "Inhalt folgt in Kürze.",
+        "ja": "コンテンツはまもなく追加されます。",
+        "pt-BR": "Conteúdo chegando em breve.",
+        "es": "Contenido disponible pronto."
+      }
+    },
+    "order": 1,
+    "createdAt": "2025-12-01T00:00:00Z",
+    "updatedAt": "2025-12-01T00:00:00Z"
+  },
+  {
+    "id": "combining-chord-arpeggios-with-scale-runs",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Combining Chord Arpeggios with Scale Runs",
+        "zh-Hans": "Combining Chord Arpeggios with Scale Runs",
+        "de": "Combining Chord Arpeggios with Scale Runs",
+        "ja": "Combining Chord Arpeggios with Scale Runs",
+        "pt-BR": "Combining Chord Arpeggios with Scale Runs",
+        "es": "Combining Chord Arpeggios with Scale Runs"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Lesson content coming soon.",
+        "zh-Hans": "内容即将上线。",
+        "de": "Inhalt folgt in Kürze.",
+        "ja": "コンテンツはまもなく追加されます。",
+        "pt-BR": "Conteúdo chegando em breve.",
+        "es": "Contenido disponible pronto."
+      }
+    },
+    "order": 2,
+    "createdAt": "2025-12-01T00:00:00Z",
+    "updatedAt": "2025-12-01T00:00:00Z"
+  },
+  {
+    "id": "creating-fill-ins-between-chords",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Creating Fill-Ins Between Chords",
+        "zh-Hans": "Creating Fill-Ins Between Chords",
+        "de": "Creating Fill-Ins Between Chords",
+        "ja": "Creating Fill-Ins Between Chords",
+        "pt-BR": "Creating Fill-Ins Between Chords",
+        "es": "Creating Fill-Ins Between Chords"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Lesson content coming soon.",
+        "zh-Hans": "内容即将上线。",
+        "de": "Inhalt folgt in Kürze.",
+        "ja": "コンテンツはまもなく追加されます。",
+        "pt-BR": "Conteúdo chegando em breve.",
+        "es": "Contenido disponible pronto."
+      }
+    },
+    "order": 3,
+    "createdAt": "2025-12-01T00:00:00Z",
+    "updatedAt": "2025-12-01T00:00:00Z"
+  }
+]

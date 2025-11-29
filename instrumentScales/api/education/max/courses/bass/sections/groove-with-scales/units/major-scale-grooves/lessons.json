@@ -1,0 +1,86 @@
+[
+  {
+    "id": "creating-bass-lines-from-c-major-scale",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Creating Bass Lines from C Major Scale",
+        "zh-Hans": "Creating Bass Lines from C Major Scale",
+        "de": "Creating Bass Lines from C Major Scale",
+        "ja": "Creating Bass Lines from C Major Scale",
+        "pt-BR": "Creating Bass Lines from C Major Scale",
+        "es": "Creating Bass Lines from C Major Scale"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Lesson content coming soon.",
+        "zh-Hans": "内容即将上线。",
+        "de": "Inhalt folgt in Kürze.",
+        "ja": "コンテンツはまもなく追加されます。",
+        "pt-BR": "Conteúdo chegando em breve.",
+        "es": "Contenido disponible pronto."
+      }
+    },
+    "order": 1,
+    "createdAt": "2025-12-01T00:00:00Z",
+    "updatedAt": "2025-12-01T00:00:00Z"
+  },
+  {
+    "id": "using-passing-notes-between-chord-tones",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Using Passing Notes Between Chord Tones",
+        "zh-Hans": "Using Passing Notes Between Chord Tones",
+        "de": "Using Passing Notes Between Chord Tones",
+        "ja": "Using Passing Notes Between Chord Tones",
+        "pt-BR": "Using Passing Notes Between Chord Tones",
+        "es": "Using Passing Notes Between Chord Tones"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Lesson content coming soon.",
+        "zh-Hans": "内容即将上线。",
+        "de": "Inhalt folgt in Kürze.",
+        "ja": "コンテンツはまもなく追加されます。",
+        "pt-BR": "Conteúdo chegando em breve.",
+        "es": "Contenido disponible pronto."
+      }
+    },
+    "order": 2,
+    "createdAt": "2025-12-01T00:00:00Z",
+    "updatedAt": "2025-12-01T00:00:00Z"
+  },
+  {
+    "id": "scale-based-fills-at-the-end-of-phrases",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Scale-Based Fills at the End of Phrases",
+        "zh-Hans": "Scale-Based Fills at the End of Phrases",
+        "de": "Scale-Based Fills at the End of Phrases",
+        "ja": "Scale-Based Fills at the End of Phrases",
+        "pt-BR": "Scale-Based Fills at the End of Phrases",
+        "es": "Scale-Based Fills at the End of Phrases"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Lesson content coming soon.",
+        "zh-Hans": "内容即将上线。",
+        "de": "Inhalt folgt in Kürze.",
+        "ja": "コンテンツはまもなく追加されます。",
+        "pt-BR": "Conteúdo chegando em breve.",
+        "es": "Contenido disponible pronto."
+      }
+    },
+    "order": 3,
+    "createdAt": "2025-12-01T00:00:00Z",
+    "updatedAt": "2025-12-01T00:00:00Z"
+  }
+]

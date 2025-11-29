@@ -1,0 +1,83 @@
+[
+  {
+    "id": "building-chords-from-scales",
+    "name": {
+      "values": {
+        "en": "Building Chords from Scales",
+        "zh-Hans": "Building Chords from Scales",
+        "de": "Building Chords from Scales",
+        "ja": "Building Chords from Scales",
+        "pt-BR": "Building Chords from Scales",
+        "es": "Building Chords from Scales"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Building Chords from Scales",
+        "zh-Hans": "Building Chords from Scales",
+        "de": "Building Chords from Scales",
+        "ja": "Building Chords from Scales",
+        "pt-BR": "Building Chords from Scales",
+        "es": "Building Chords from Scales"
+      }
+    },
+    "image": null,
+    "order": 1,
+    "createdAt": "2025-12-01T00:00:00Z",
+    "updatedAt": "2025-12-01T00:00:00Z"
+  },
+  {
+    "id": "harmonic-context-for-scales",
+    "name": {
+      "values": {
+        "en": "Harmonic Context for Scales",
+        "zh-Hans": "Harmonic Context for Scales",
+        "de": "Harmonic Context for Scales",
+        "ja": "Harmonic Context for Scales",
+        "pt-BR": "Harmonic Context for Scales",
+        "es": "Harmonic Context for Scales"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Harmonic Context for Scales",
+        "zh-Hans": "Harmonic Context for Scales",
+        "de": "Harmonic Context for Scales",
+        "ja": "Harmonic Context for Scales",
+        "pt-BR": "Harmonic Context for Scales",
+        "es": "Harmonic Context for Scales"
+      }
+    },
+    "image": null,
+    "order": 2,
+    "createdAt": "2025-12-01T00:00:00Z",
+    "updatedAt": "2025-12-01T00:00:00Z"
+  },
+  {
+    "id": "pentatonic-and-blues-on-piano",
+    "name": {
+      "values": {
+        "en": "Pentatonic and Blues on Piano",
+        "zh-Hans": "Pentatonic and Blues on Piano",
+        "de": "Pentatonic and Blues on Piano",
+        "ja": "Pentatonic and Blues on Piano",
+        "pt-BR": "Pentatonic and Blues on Piano",
+        "es": "Pentatonic and Blues on Piano"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Pentatonic and Blues on Piano",
+        "zh-Hans": "Pentatonic and Blues on Piano",
+        "de": "Pentatonic and Blues on Piano",
+        "ja": "Pentatonic and Blues on Piano",
+        "pt-BR": "Pentatonic and Blues on Piano",
+        "es": "Pentatonic and Blues on Piano"
+      }
+    },
+    "image": null,
+    "order": 3,
+    "createdAt": "2025-12-01T00:00:00Z",
+    "updatedAt": "2025-12-01T00:00:00Z"
+  }
+]

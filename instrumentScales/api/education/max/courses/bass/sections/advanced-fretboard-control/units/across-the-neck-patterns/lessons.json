@@ -1,0 +1,86 @@
+[
+  {
+    "id": "three-notes-per-string-patterns-for-bass",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "3-Notes-Per-String Patterns for Bass",
+        "zh-Hans": "3-Notes-Per-String Patterns for Bass",
+        "de": "3-Notes-Per-String Patterns for Bass",
+        "ja": "3-Notes-Per-String Patterns for Bass",
+        "pt-BR": "3-Notes-Per-String Patterns for Bass",
+        "es": "3-Notes-Per-String Patterns for Bass"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Lesson content coming soon.",
+        "zh-Hans": "内容即将上线。",
+        "de": "Inhalt folgt in Kürze.",
+        "ja": "コンテンツはまもなく追加されます。",
+        "pt-BR": "Conteúdo chegando em breve.",
+        "es": "Contenido disponible pronto."
+      }
+    },
+    "order": 1,
+    "createdAt": "2025-12-01T00:00:00Z",
+    "updatedAt": "2025-12-01T00:00:00Z"
+  },
+  {
+    "id": "diagonal-scale-shapes-up-the-neck",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Diagonal Scale Shapes Up the Neck",
+        "zh-Hans": "Diagonal Scale Shapes Up the Neck",
+        "de": "Diagonal Scale Shapes Up the Neck",
+        "ja": "Diagonal Scale Shapes Up the Neck",
+        "pt-BR": "Diagonal Scale Shapes Up the Neck",
+        "es": "Diagonal Scale Shapes Up the Neck"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Lesson content coming soon.",
+        "zh-Hans": "内容即将上线。",
+        "de": "Inhalt folgt in Kürze.",
+        "ja": "コンテンツはまもなく追加されます。",
+        "pt-BR": "Conteúdo chegando em breve.",
+        "es": "Contenido disponible pronto."
+      }
+    },
+    "order": 2,
+    "createdAt": "2025-12-01T00:00:00Z",
+    "updatedAt": "2025-12-01T00:00:00Z"
+  },
+  {
+    "id": "combining-vertical-and-horizontal-movement",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Combining Vertical and Horizontal Movement",
+        "zh-Hans": "Combining Vertical and Horizontal Movement",
+        "de": "Combining Vertical and Horizontal Movement",
+        "ja": "Combining Vertical and Horizontal Movement",
+        "pt-BR": "Combining Vertical and Horizontal Movement",
+        "es": "Combining Vertical and Horizontal Movement"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Lesson content coming soon.",
+        "zh-Hans": "内容即将上线。",
+        "de": "Inhalt folgt in Kürze.",
+        "ja": "コンテンツはまもなく追加されます。",
+        "pt-BR": "Conteúdo chegando em breve.",
+        "es": "Contenido disponible pronto."
+      }
+    },
+    "order": 3,
+    "createdAt": "2025-12-01T00:00:00Z",
+    "updatedAt": "2025-12-01T00:00:00Z"
+  }
+]

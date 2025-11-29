@@ -1,0 +1,83 @@
+[
+  {
+    "id": "daily-technical-routine",
+    "name": {
+      "values": {
+        "en": "Daily Technical Routine",
+        "zh-Hans": "Daily Technical Routine",
+        "de": "Daily Technical Routine",
+        "ja": "Daily Technical Routine",
+        "pt-BR": "Daily Technical Routine",
+        "es": "Daily Technical Routine"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Daily Technical Routine",
+        "zh-Hans": "Daily Technical Routine",
+        "de": "Daily Technical Routine",
+        "ja": "Daily Technical Routine",
+        "pt-BR": "Daily Technical Routine",
+        "es": "Daily Technical Routine"
+      }
+    },
+    "image": null,
+    "order": 1,
+    "createdAt": "2025-12-01T00:00:00Z",
+    "updatedAt": "2025-12-01T00:00:00Z"
+  },
+  {
+    "id": "applying-scales-to-real-progressions",
+    "name": {
+      "values": {
+        "en": "Applying Scales to Real Progressions",
+        "zh-Hans": "Applying Scales to Real Progressions",
+        "de": "Applying Scales to Real Progressions",
+        "ja": "Applying Scales to Real Progressions",
+        "pt-BR": "Applying Scales to Real Progressions",
+        "es": "Applying Scales to Real Progressions"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Applying Scales to Real Progressions",
+        "zh-Hans": "Applying Scales to Real Progressions",
+        "de": "Applying Scales to Real Progressions",
+        "ja": "Applying Scales to Real Progressions",
+        "pt-BR": "Applying Scales to Real Progressions",
+        "es": "Applying Scales to Real Progressions"
+      }
+    },
+    "image": null,
+    "order": 2,
+    "createdAt": "2025-12-01T00:00:00Z",
+    "updatedAt": "2025-12-01T00:00:00Z"
+  },
+  {
+    "id": "creating-your-own-practice-plan",
+    "name": {
+      "values": {
+        "en": "Creating Your Own Practice Plan",
+        "zh-Hans": "Creating Your Own Practice Plan",
+        "de": "Creating Your Own Practice Plan",
+        "ja": "Creating Your Own Practice Plan",
+        "pt-BR": "Creating Your Own Practice Plan",
+        "es": "Creating Your Own Practice Plan"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Creating Your Own Practice Plan",
+        "zh-Hans": "Creating Your Own Practice Plan",
+        "de": "Creating Your Own Practice Plan",
+        "ja": "Creating Your Own Practice Plan",
+        "pt-BR": "Creating Your Own Practice Plan",
+        "es": "Creating Your Own Practice Plan"
+      }
+    },
+    "image": null,
+    "order": 3,
+    "createdAt": "2025-12-01T00:00:00Z",
+    "updatedAt": "2025-12-01T00:00:00Z"
+  }
+]

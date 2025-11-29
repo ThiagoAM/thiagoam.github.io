@@ -1,0 +1,83 @@
+[
+  {
+    "id": "major-scale-modes-on-piano",
+    "name": {
+      "values": {
+        "en": "Major Scale Modes on Piano",
+        "zh-Hans": "Major Scale Modes on Piano",
+        "de": "Major Scale Modes on Piano",
+        "ja": "Major Scale Modes on Piano",
+        "pt-BR": "Major Scale Modes on Piano",
+        "es": "Major Scale Modes on Piano"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Major Scale Modes on Piano",
+        "zh-Hans": "Major Scale Modes on Piano",
+        "de": "Major Scale Modes on Piano",
+        "ja": "Major Scale Modes on Piano",
+        "pt-BR": "Major Scale Modes on Piano",
+        "es": "Major Scale Modes on Piano"
+      }
+    },
+    "image": null,
+    "order": 1,
+    "createdAt": "2025-12-01T00:00:00Z",
+    "updatedAt": "2025-12-01T00:00:00Z"
+  },
+  {
+    "id": "modal-improvisation",
+    "name": {
+      "values": {
+        "en": "Modal Improvisation",
+        "zh-Hans": "Modal Improvisation",
+        "de": "Modal Improvisation",
+        "ja": "Modal Improvisation",
+        "pt-BR": "Modal Improvisation",
+        "es": "Modal Improvisation"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Modal Improvisation",
+        "zh-Hans": "Modal Improvisation",
+        "de": "Modal Improvisation",
+        "ja": "Modal Improvisation",
+        "pt-BR": "Modal Improvisation",
+        "es": "Modal Improvisation"
+      }
+    },
+    "image": null,
+    "order": 2,
+    "createdAt": "2025-12-01T00:00:00Z",
+    "updatedAt": "2025-12-01T00:00:00Z"
+  },
+  {
+    "id": "melodic-etudes",
+    "name": {
+      "values": {
+        "en": "Melodic Etudes",
+        "zh-Hans": "Melodic Etudes",
+        "de": "Melodic Etudes",
+        "ja": "Melodic Etudes",
+        "pt-BR": "Melodic Etudes",
+        "es": "Melodic Etudes"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Melodic Etudes",
+        "zh-Hans": "Melodic Etudes",
+        "de": "Melodic Etudes",
+        "ja": "Melodic Etudes",
+        "pt-BR": "Melodic Etudes",
+        "es": "Melodic Etudes"
+      }
+    },
+    "image": null,
+    "order": 3,
+    "createdAt": "2025-12-01T00:00:00Z",
+    "updatedAt": "2025-12-01T00:00:00Z"
+  }
+]

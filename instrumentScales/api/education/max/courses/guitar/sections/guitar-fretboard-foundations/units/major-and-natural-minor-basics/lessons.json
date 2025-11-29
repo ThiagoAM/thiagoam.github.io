@@ -1,0 +1,86 @@
+[
+  {
+    "id": "c-major-scale-two-positions",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "C Major Scale – Two Positions",
+        "zh-Hans": "C Major Scale – Two Positions",
+        "de": "C Major Scale – Two Positions",
+        "ja": "C Major Scale – Two Positions",
+        "pt-BR": "C Major Scale – Two Positions",
+        "es": "C Major Scale – Two Positions"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Lesson content coming soon.",
+        "zh-Hans": "内容即将上线。",
+        "de": "Inhalt folgt in Kürze.",
+        "ja": "コンテンツはまもなく追加されます。",
+        "pt-BR": "Conteúdo chegando em breve.",
+        "es": "Contenido disponible pronto."
+      }
+    },
+    "order": 1,
+    "createdAt": "2025-12-01T00:00:00Z",
+    "updatedAt": "2025-12-01T00:00:00Z"
+  },
+  {
+    "id": "a-natural-minor-scale-two-positions",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "A Natural Minor Scale – Two Positions",
+        "zh-Hans": "A Natural Minor Scale – Two Positions",
+        "de": "A Natural Minor Scale – Two Positions",
+        "ja": "A Natural Minor Scale – Two Positions",
+        "pt-BR": "A Natural Minor Scale – Two Positions",
+        "es": "A Natural Minor Scale – Two Positions"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Lesson content coming soon.",
+        "zh-Hans": "内容即将上线。",
+        "de": "Inhalt folgt in Kürze.",
+        "ja": "コンテンツはまもなく追加されます。",
+        "pt-BR": "Conteúdo chegando em breve.",
+        "es": "Contenido disponible pronto."
+      }
+    },
+    "order": 2,
+    "createdAt": "2025-12-01T00:00:00Z",
+    "updatedAt": "2025-12-01T00:00:00Z"
+  },
+  {
+    "id": "connecting-major-and-relative-minor",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Connecting Major and Relative Minor",
+        "zh-Hans": "Connecting Major and Relative Minor",
+        "de": "Connecting Major and Relative Minor",
+        "ja": "Connecting Major and Relative Minor",
+        "pt-BR": "Connecting Major and Relative Minor",
+        "es": "Connecting Major and Relative Minor"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Lesson content coming soon.",
+        "zh-Hans": "内容即将上线。",
+        "de": "Inhalt folgt in Kürze.",
+        "ja": "コンテンツはまもなく追加されます。",
+        "pt-BR": "Conteúdo chegando em breve.",
+        "es": "Contenido disponible pronto."
+      }
+    },
+    "order": 3,
+    "createdAt": "2025-12-01T00:00:00Z",
+    "updatedAt": "2025-12-01T00:00:00Z"
+  }
+]

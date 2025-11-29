@@ -1,0 +1,86 @@
+[
+  {
+    "id": "c-major-etude-for-right-hand",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "C Major Etude for Right Hand",
+        "zh-Hans": "C Major Etude for Right Hand",
+        "de": "C Major Etude for Right Hand",
+        "ja": "C Major Etude for Right Hand",
+        "pt-BR": "C Major Etude for Right Hand",
+        "es": "C Major Etude for Right Hand"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Lesson content coming soon.",
+        "zh-Hans": "内容即将上线。",
+        "de": "Inhalt folgt in Kürze.",
+        "ja": "コンテンツはまもなく追加されます。",
+        "pt-BR": "Conteúdo chegando em breve.",
+        "es": "Contenido disponible pronto."
+      }
+    },
+    "order": 1,
+    "createdAt": "2025-12-01T00:00:00Z",
+    "updatedAt": "2025-12-01T00:00:00Z"
+  },
+  {
+    "id": "two-hands-etude-using-broken-chords-and-scales",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Two-Hands Etude Using Broken Chords and Scales",
+        "zh-Hans": "Two-Hands Etude Using Broken Chords and Scales",
+        "de": "Two-Hands Etude Using Broken Chords and Scales",
+        "ja": "Two-Hands Etude Using Broken Chords and Scales",
+        "pt-BR": "Two-Hands Etude Using Broken Chords and Scales",
+        "es": "Two-Hands Etude Using Broken Chords and Scales"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Lesson content coming soon.",
+        "zh-Hans": "内容即将上线。",
+        "de": "Inhalt folgt in Kürze.",
+        "ja": "コンテンツはまもなく追加されます。",
+        "pt-BR": "Conteúdo chegando em breve.",
+        "es": "Contenido disponible pronto."
+      }
+    },
+    "order": 2,
+    "createdAt": "2025-12-01T00:00:00Z",
+    "updatedAt": "2025-12-01T00:00:00Z"
+  },
+  {
+    "id": "modal-etude-combining-dorian-and-mixolydian",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Modal Etude Combining Dorian and Mixolydian",
+        "zh-Hans": "Modal Etude Combining Dorian and Mixolydian",
+        "de": "Modal Etude Combining Dorian and Mixolydian",
+        "ja": "Modal Etude Combining Dorian and Mixolydian",
+        "pt-BR": "Modal Etude Combining Dorian and Mixolydian",
+        "es": "Modal Etude Combining Dorian and Mixolydian"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Lesson content coming soon.",
+        "zh-Hans": "内容即将上线。",
+        "de": "Inhalt folgt in Kürze.",
+        "ja": "コンテンツはまもなく追加されます。",
+        "pt-BR": "Conteúdo chegando em breve.",
+        "es": "Contenido disponible pronto."
+      }
+    },
+    "order": 3,
+    "createdAt": "2025-12-01T00:00:00Z",
+    "updatedAt": "2025-12-01T00:00:00Z"
+  }
+]

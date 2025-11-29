@@ -1,0 +1,83 @@
+[
+  {
+    "id": "phrasing-and-rhythm",
+    "name": {
+      "values": {
+        "en": "Phrasing and Rhythm",
+        "zh-Hans": "Phrasing and Rhythm",
+        "de": "Phrasing and Rhythm",
+        "ja": "Phrasing and Rhythm",
+        "pt-BR": "Phrasing and Rhythm",
+        "es": "Phrasing and Rhythm"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Phrasing and Rhythm",
+        "zh-Hans": "Phrasing and Rhythm",
+        "de": "Phrasing and Rhythm",
+        "ja": "Phrasing and Rhythm",
+        "pt-BR": "Phrasing and Rhythm",
+        "es": "Phrasing and Rhythm"
+      }
+    },
+    "image": null,
+    "order": 1,
+    "createdAt": "2025-12-01T00:00:00Z",
+    "updatedAt": "2025-12-01T00:00:00Z"
+  },
+  {
+    "id": "target-notes-and-chord-tones",
+    "name": {
+      "values": {
+        "en": "Target Notes and Chord Tones",
+        "zh-Hans": "Target Notes and Chord Tones",
+        "de": "Target Notes and Chord Tones",
+        "ja": "Target Notes and Chord Tones",
+        "pt-BR": "Target Notes and Chord Tones",
+        "es": "Target Notes and Chord Tones"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Target Notes and Chord Tones",
+        "zh-Hans": "Target Notes and Chord Tones",
+        "de": "Target Notes and Chord Tones",
+        "ja": "Target Notes and Chord Tones",
+        "pt-BR": "Target Notes and Chord Tones",
+        "es": "Target Notes and Chord Tones"
+      }
+    },
+    "image": null,
+    "order": 2,
+    "createdAt": "2025-12-01T00:00:00Z",
+    "updatedAt": "2025-12-01T00:00:00Z"
+  },
+  {
+    "id": "practice-routines-and-etudes",
+    "name": {
+      "values": {
+        "en": "Practice Routines and Etudes",
+        "zh-Hans": "Practice Routines and Etudes",
+        "de": "Practice Routines and Etudes",
+        "ja": "Practice Routines and Etudes",
+        "pt-BR": "Practice Routines and Etudes",
+        "es": "Practice Routines and Etudes"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Practice Routines and Etudes",
+        "zh-Hans": "Practice Routines and Etudes",
+        "de": "Practice Routines and Etudes",
+        "ja": "Practice Routines and Etudes",
+        "pt-BR": "Practice Routines and Etudes",
+        "es": "Practice Routines and Etudes"
+      }
+    },
+    "image": null,
+    "order": 3,
+    "createdAt": "2025-12-01T00:00:00Z",
+    "updatedAt": "2025-12-01T00:00:00Z"
+  }
+]

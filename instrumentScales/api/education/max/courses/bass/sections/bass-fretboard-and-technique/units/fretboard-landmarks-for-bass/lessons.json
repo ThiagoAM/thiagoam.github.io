@@ -1,0 +1,86 @@
+[
+  {
+    "id": "open-strings-and-octave-shapes",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Open Strings and Octave Shapes",
+        "zh-Hans": "Open Strings and Octave Shapes",
+        "de": "Open Strings and Octave Shapes",
+        "ja": "Open Strings and Octave Shapes",
+        "pt-BR": "Open Strings and Octave Shapes",
+        "es": "Open Strings and Octave Shapes"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Lesson content coming soon.",
+        "zh-Hans": "内容即将上线。",
+        "de": "Inhalt folgt in Kürze.",
+        "ja": "コンテンツはまもなく追加されます。",
+        "pt-BR": "Conteúdo chegando em breve.",
+        "es": "Contenido disponible pronto."
+      }
+    },
+    "order": 1,
+    "createdAt": "2025-12-01T00:00:00Z",
+    "updatedAt": "2025-12-01T00:00:00Z"
+  },
+  {
+    "id": "5th-and-7th-fret-landmarks-on-all-strings",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "5th and 7th Fret Landmarks on All Strings",
+        "zh-Hans": "5th and 7th Fret Landmarks on All Strings",
+        "de": "5th and 7th Fret Landmarks on All Strings",
+        "ja": "5th and 7th Fret Landmarks on All Strings",
+        "pt-BR": "5th and 7th Fret Landmarks on All Strings",
+        "es": "5th and 7th Fret Landmarks on All Strings"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Lesson content coming soon.",
+        "zh-Hans": "内容即将上线。",
+        "de": "Inhalt folgt in Kürze.",
+        "ja": "コンテンツはまもなく追加されます。",
+        "pt-BR": "Conteúdo chegando em breve.",
+        "es": "Contenido disponible pronto."
+      }
+    },
+    "order": 2,
+    "createdAt": "2025-12-01T00:00:00Z",
+    "updatedAt": "2025-12-01T00:00:00Z"
+  },
+  {
+    "id": "visualizing-the-neck-in-positions",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Visualizing the Neck in Positions",
+        "zh-Hans": "Visualizing the Neck in Positions",
+        "de": "Visualizing the Neck in Positions",
+        "ja": "Visualizing the Neck in Positions",
+        "pt-BR": "Visualizing the Neck in Positions",
+        "es": "Visualizing the Neck in Positions"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Lesson content coming soon.",
+        "zh-Hans": "内容即将上线。",
+        "de": "Inhalt folgt in Kürze.",
+        "ja": "コンテンツはまもなく追加されます。",
+        "pt-BR": "Conteúdo chegando em breve.",
+        "es": "Contenido disponible pronto."
+      }
+    },
+    "order": 3,
+    "createdAt": "2025-12-01T00:00:00Z",
+    "updatedAt": "2025-12-01T00:00:00Z"
+  }
+]

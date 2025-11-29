@@ -1,0 +1,86 @@
+[
+  {
+    "id": "walking-over-a-simple-ii-v-i-in-c",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Walking over a Simple ii–V–I in C",
+        "zh-Hans": "Walking over a Simple ii–V–I in C",
+        "de": "Walking over a Simple ii–V–I in C",
+        "ja": "Walking over a Simple ii–V–I in C",
+        "pt-BR": "Walking over a Simple ii–V–I in C",
+        "es": "Walking over a Simple ii–V–I in C"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Lesson content coming soon.",
+        "zh-Hans": "内容即将上线。",
+        "de": "Inhalt folgt in Kürze.",
+        "ja": "コンテンツはまもなく追加されます。",
+        "pt-BR": "Conteúdo chegando em breve.",
+        "es": "Contenido disponible pronto."
+      }
+    },
+    "order": 1,
+    "createdAt": "2025-12-01T00:00:00Z",
+    "updatedAt": "2025-12-01T00:00:00Z"
+  },
+  {
+    "id": "using-modes-for-walking-lines",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Using Modes for Walking Lines",
+        "zh-Hans": "Using Modes for Walking Lines",
+        "de": "Using Modes for Walking Lines",
+        "ja": "Using Modes for Walking Lines",
+        "pt-BR": "Using Modes for Walking Lines",
+        "es": "Using Modes for Walking Lines"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Lesson content coming soon.",
+        "zh-Hans": "内容即将上线。",
+        "de": "Inhalt folgt in Kürze.",
+        "ja": "コンテンツはまもなく追加されます。",
+        "pt-BR": "Conteúdo chegando em breve.",
+        "es": "Contenido disponible pronto."
+      }
+    },
+    "order": 2,
+    "createdAt": "2025-12-01T00:00:00Z",
+    "updatedAt": "2025-12-01T00:00:00Z"
+  },
+  {
+    "id": "combining-scale-and-arpeggio-tones",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Combining Scale and Arpeggio Tones",
+        "zh-Hans": "Combining Scale and Arpeggio Tones",
+        "de": "Combining Scale and Arpeggio Tones",
+        "ja": "Combining Scale and Arpeggio Tones",
+        "pt-BR": "Combining Scale and Arpeggio Tones",
+        "es": "Combining Scale and Arpeggio Tones"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Lesson content coming soon.",
+        "zh-Hans": "内容即将上线。",
+        "de": "Inhalt folgt in Kürze.",
+        "ja": "コンテンツはまもなく追加されます。",
+        "pt-BR": "Conteúdo chegando em breve.",
+        "es": "Contenido disponible pronto."
+      }
+    },
+    "order": 3,
+    "createdAt": "2025-12-01T00:00:00Z",
+    "updatedAt": "2025-12-01T00:00:00Z"
+  }
+]

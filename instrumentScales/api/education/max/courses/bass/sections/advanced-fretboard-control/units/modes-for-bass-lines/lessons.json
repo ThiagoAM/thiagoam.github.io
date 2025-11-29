@@ -1,0 +1,86 @@
+[
+  {
+    "id": "dorian-for-funk-grooves",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Dorian for Funk Grooves",
+        "zh-Hans": "Dorian for Funk Grooves",
+        "de": "Dorian for Funk Grooves",
+        "ja": "Dorian for Funk Grooves",
+        "pt-BR": "Dorian for Funk Grooves",
+        "es": "Dorian for Funk Grooves"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Lesson content coming soon.",
+        "zh-Hans": "内容即将上线。",
+        "de": "Inhalt folgt in Kürze.",
+        "ja": "コンテンツはまもなく追加されます。",
+        "pt-BR": "Conteúdo chegando em breve.",
+        "es": "Contenido disponible pronto."
+      }
+    },
+    "order": 1,
+    "createdAt": "2025-12-01T00:00:00Z",
+    "updatedAt": "2025-12-01T00:00:00Z"
+  },
+  {
+    "id": "mixolydian-for-dominant-bass-lines",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Mixolydian for Dominant Bass Lines",
+        "zh-Hans": "Mixolydian for Dominant Bass Lines",
+        "de": "Mixolydian for Dominant Bass Lines",
+        "ja": "Mixolydian for Dominant Bass Lines",
+        "pt-BR": "Mixolydian for Dominant Bass Lines",
+        "es": "Mixolydian for Dominant Bass Lines"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Lesson content coming soon.",
+        "zh-Hans": "内容即将上线。",
+        "de": "Inhalt folgt in Kürze.",
+        "ja": "コンテンツはまもなく追加されます。",
+        "pt-BR": "Conteúdo chegando em breve.",
+        "es": "Contenido disponible pronto."
+      }
+    },
+    "order": 2,
+    "createdAt": "2025-12-01T00:00:00Z",
+    "updatedAt": "2025-12-01T00:00:00Z"
+  },
+  {
+    "id": "aeolian-for-rock-and-metal-lines",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Aeolian for Rock and Metal Lines",
+        "zh-Hans": "Aeolian for Rock and Metal Lines",
+        "de": "Aeolian for Rock and Metal Lines",
+        "ja": "Aeolian for Rock and Metal Lines",
+        "pt-BR": "Aeolian for Rock and Metal Lines",
+        "es": "Aeolian for Rock and Metal Lines"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Lesson content coming soon.",
+        "zh-Hans": "内容即将上线。",
+        "de": "Inhalt folgt in Kürze.",
+        "ja": "コンテンツはまもなく追加されます。",
+        "pt-BR": "Conteúdo chegando em breve.",
+        "es": "Contenido disponible pronto."
+      }
+    },
+    "order": 3,
+    "createdAt": "2025-12-01T00:00:00Z",
+    "updatedAt": "2025-12-01T00:00:00Z"
+  }
+]

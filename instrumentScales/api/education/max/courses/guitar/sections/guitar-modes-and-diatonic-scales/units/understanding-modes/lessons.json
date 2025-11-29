@@ -1,0 +1,86 @@
+[
+  {
+    "id": "ionian-dorian-and-mixolydian-overview",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Ionian, Dorian, and Mixolydian Overview",
+        "zh-Hans": "Ionian, Dorian, and Mixolydian Overview",
+        "de": "Ionian, Dorian, and Mixolydian Overview",
+        "ja": "Ionian, Dorian, and Mixolydian Overview",
+        "pt-BR": "Ionian, Dorian, and Mixolydian Overview",
+        "es": "Ionian, Dorian, and Mixolydian Overview"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Lesson content coming soon.",
+        "zh-Hans": "内容即将上线。",
+        "de": "Inhalt folgt in Kürze.",
+        "ja": "コンテンツはまもなく追加されます。",
+        "pt-BR": "Conteúdo chegando em breve.",
+        "es": "Contenido disponible pronto."
+      }
+    },
+    "order": 1,
+    "createdAt": "2025-12-01T00:00:00Z",
+    "updatedAt": "2025-12-01T00:00:00Z"
+  },
+  {
+    "id": "d-dorian-shapes-and-common-chord-progressions",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "D Dorian Shapes and Common Chord Progressions",
+        "zh-Hans": "D Dorian Shapes and Common Chord Progressions",
+        "de": "D Dorian Shapes and Common Chord Progressions",
+        "ja": "D Dorian Shapes and Common Chord Progressions",
+        "pt-BR": "D Dorian Shapes and Common Chord Progressions",
+        "es": "D Dorian Shapes and Common Chord Progressions"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Lesson content coming soon.",
+        "zh-Hans": "内容即将上线。",
+        "de": "Inhalt folgt in Kürze.",
+        "ja": "コンテンツはまもなく追加されます。",
+        "pt-BR": "Conteúdo chegando em breve.",
+        "es": "Contenido disponible pronto."
+      }
+    },
+    "order": 2,
+    "createdAt": "2025-12-01T00:00:00Z",
+    "updatedAt": "2025-12-01T00:00:00Z"
+  },
+  {
+    "id": "g-mixolydian-over-dominant-chords",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "G Mixolydian over Dominant Chords",
+        "zh-Hans": "G Mixolydian over Dominant Chords",
+        "de": "G Mixolydian over Dominant Chords",
+        "ja": "G Mixolydian over Dominant Chords",
+        "pt-BR": "G Mixolydian over Dominant Chords",
+        "es": "G Mixolydian over Dominant Chords"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Lesson content coming soon.",
+        "zh-Hans": "内容即将上线。",
+        "de": "Inhalt folgt in Kürze.",
+        "ja": "コンテンツはまもなく追加されます。",
+        "pt-BR": "Conteúdo chegando em breve.",
+        "es": "Contenido disponible pronto."
+      }
+    },
+    "order": 3,
+    "createdAt": "2025-12-01T00:00:00Z",
+    "updatedAt": "2025-12-01T00:00:00Z"
+  }
+]

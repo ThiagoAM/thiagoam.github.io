@@ -1,0 +1,83 @@
+[
+  {
+    "id": "building-walking-lines",
+    "name": {
+      "values": {
+        "en": "Building Walking Lines",
+        "zh-Hans": "Building Walking Lines",
+        "de": "Building Walking Lines",
+        "ja": "Building Walking Lines",
+        "pt-BR": "Building Walking Lines",
+        "es": "Building Walking Lines"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Building Walking Lines",
+        "zh-Hans": "Building Walking Lines",
+        "de": "Building Walking Lines",
+        "ja": "Building Walking Lines",
+        "pt-BR": "Building Walking Lines",
+        "es": "Building Walking Lines"
+      }
+    },
+    "image": null,
+    "order": 1,
+    "createdAt": "2025-12-01T00:00:00Z",
+    "updatedAt": "2025-12-01T00:00:00Z"
+  },
+  {
+    "id": "ii-v-i-and-jazz-basics",
+    "name": {
+      "values": {
+        "en": "ii–V–I and Jazz Basics",
+        "zh-Hans": "ii–V–I and Jazz Basics",
+        "de": "ii–V–I and Jazz Basics",
+        "ja": "ii–V–I and Jazz Basics",
+        "pt-BR": "ii–V–I and Jazz Basics",
+        "es": "ii–V–I and Jazz Basics"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "ii–V–I and Jazz Basics",
+        "zh-Hans": "ii–V–I and Jazz Basics",
+        "de": "ii–V–I and Jazz Basics",
+        "ja": "ii–V–I and Jazz Basics",
+        "pt-BR": "ii–V–I and Jazz Basics",
+        "es": "ii–V–I and Jazz Basics"
+      }
+    },
+    "image": null,
+    "order": 2,
+    "createdAt": "2025-12-01T00:00:00Z",
+    "updatedAt": "2025-12-01T00:00:00Z"
+  },
+  {
+    "id": "practice-routines-for-bassists",
+    "name": {
+      "values": {
+        "en": "Practice Routines for Bassists",
+        "zh-Hans": "Practice Routines for Bassists",
+        "de": "Practice Routines for Bassists",
+        "ja": "Practice Routines for Bassists",
+        "pt-BR": "Practice Routines for Bassists",
+        "es": "Practice Routines for Bassists"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Practice Routines for Bassists",
+        "zh-Hans": "Practice Routines for Bassists",
+        "de": "Practice Routines for Bassists",
+        "ja": "Practice Routines for Bassists",
+        "pt-BR": "Practice Routines for Bassists",
+        "es": "Practice Routines for Bassists"
+      }
+    },
+    "image": null,
+    "order": 3,
+    "createdAt": "2025-12-01T00:00:00Z",
+    "updatedAt": "2025-12-01T00:00:00Z"
+  }
+]

@@ -1,0 +1,83 @@
+[
+  {
+    "id": "minor-pentatonic-shapes",
+    "name": {
+      "values": {
+        "en": "Minor Pentatonic Shapes",
+        "zh-Hans": "Minor Pentatonic Shapes",
+        "de": "Minor Pentatonic Shapes",
+        "ja": "Minor Pentatonic Shapes",
+        "pt-BR": "Minor Pentatonic Shapes",
+        "es": "Minor Pentatonic Shapes"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Minor Pentatonic Shapes",
+        "zh-Hans": "Minor Pentatonic Shapes",
+        "de": "Minor Pentatonic Shapes",
+        "ja": "Minor Pentatonic Shapes",
+        "pt-BR": "Minor Pentatonic Shapes",
+        "es": "Minor Pentatonic Shapes"
+      }
+    },
+    "image": null,
+    "order": 1,
+    "createdAt": "2025-12-01T00:00:00Z",
+    "updatedAt": "2025-12-01T00:00:00Z"
+  },
+  {
+    "id": "major-pentatonic-and-conversions",
+    "name": {
+      "values": {
+        "en": "Major Pentatonic and Conversions",
+        "zh-Hans": "Major Pentatonic and Conversions",
+        "de": "Major Pentatonic and Conversions",
+        "ja": "Major Pentatonic and Conversions",
+        "pt-BR": "Major Pentatonic and Conversions",
+        "es": "Major Pentatonic and Conversions"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Major Pentatonic and Conversions",
+        "zh-Hans": "Major Pentatonic and Conversions",
+        "de": "Major Pentatonic and Conversions",
+        "ja": "Major Pentatonic and Conversions",
+        "pt-BR": "Major Pentatonic and Conversions",
+        "es": "Major Pentatonic and Conversions"
+      }
+    },
+    "image": null,
+    "order": 2,
+    "createdAt": "2025-12-01T00:00:00Z",
+    "updatedAt": "2025-12-01T00:00:00Z"
+  },
+  {
+    "id": "blues-scale-and-licks",
+    "name": {
+      "values": {
+        "en": "Blues Scale and Licks",
+        "zh-Hans": "Blues Scale and Licks",
+        "de": "Blues Scale and Licks",
+        "ja": "Blues Scale and Licks",
+        "pt-BR": "Blues Scale and Licks",
+        "es": "Blues Scale and Licks"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Blues Scale and Licks",
+        "zh-Hans": "Blues Scale and Licks",
+        "de": "Blues Scale and Licks",
+        "ja": "Blues Scale and Licks",
+        "pt-BR": "Blues Scale and Licks",
+        "es": "Blues Scale and Licks"
+      }
+    },
+    "image": null,
+    "order": 3,
+    "createdAt": "2025-12-01T00:00:00Z",
+    "updatedAt": "2025-12-01T00:00:00Z"
+  }
+]

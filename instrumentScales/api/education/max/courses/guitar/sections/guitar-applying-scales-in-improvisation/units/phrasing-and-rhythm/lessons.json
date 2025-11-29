@@ -1,0 +1,86 @@
+[
+  {
+    "id": "phrasing-with-rests-and-repetition",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Phrasing with Rests and Repetition",
+        "zh-Hans": "Phrasing with Rests and Repetition",
+        "de": "Phrasing with Rests and Repetition",
+        "ja": "Phrasing with Rests and Repetition",
+        "pt-BR": "Phrasing with Rests and Repetition",
+        "es": "Phrasing with Rests and Repetition"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Lesson content coming soon.",
+        "zh-Hans": "内容即将上线。",
+        "de": "Inhalt folgt in Kürze.",
+        "ja": "コンテンツはまもなく追加されます。",
+        "pt-BR": "Conteúdo chegando em breve.",
+        "es": "Contenido disponible pronto."
+      }
+    },
+    "order": 1,
+    "createdAt": "2025-12-01T00:00:00Z",
+    "updatedAt": "2025-12-01T00:00:00Z"
+  },
+  {
+    "id": "syncopated-scale-patterns",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Syncopated Scale Patterns",
+        "zh-Hans": "Syncopated Scale Patterns",
+        "de": "Syncopated Scale Patterns",
+        "ja": "Syncopated Scale Patterns",
+        "pt-BR": "Syncopated Scale Patterns",
+        "es": "Syncopated Scale Patterns"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Lesson content coming soon.",
+        "zh-Hans": "内容即将上线。",
+        "de": "Inhalt folgt in Kürze.",
+        "ja": "コンテンツはまもなく追加されます。",
+        "pt-BR": "Conteúdo chegando em breve.",
+        "es": "Contenido disponible pronto."
+      }
+    },
+    "order": 2,
+    "createdAt": "2025-12-01T00:00:00Z",
+    "updatedAt": "2025-12-01T00:00:00Z"
+  },
+  {
+    "id": "using-different-note-values-in-solos",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Using Different Note Values in Solos",
+        "zh-Hans": "Using Different Note Values in Solos",
+        "de": "Using Different Note Values in Solos",
+        "ja": "Using Different Note Values in Solos",
+        "pt-BR": "Using Different Note Values in Solos",
+        "es": "Using Different Note Values in Solos"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Lesson content coming soon.",
+        "zh-Hans": "内容即将上线。",
+        "de": "Inhalt folgt in Kürze.",
+        "ja": "コンテンツはまもなく追加されます。",
+        "pt-BR": "Conteúdo chegando em breve.",
+        "es": "Contenido disponible pronto."
+      }
+    },
+    "order": 3,
+    "createdAt": "2025-12-01T00:00:00Z",
+    "updatedAt": "2025-12-01T00:00:00Z"
+  }
+]

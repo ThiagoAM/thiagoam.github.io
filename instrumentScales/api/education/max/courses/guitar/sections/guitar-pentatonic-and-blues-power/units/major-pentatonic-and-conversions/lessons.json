@@ -1,0 +1,86 @@
+[
+  {
+    "id": "c-major-pentatonic-box-1",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "C Major Pentatonic – Box 1",
+        "zh-Hans": "C Major Pentatonic – Box 1",
+        "de": "C Major Pentatonic – Box 1",
+        "ja": "C Major Pentatonic – Box 1",
+        "pt-BR": "C Major Pentatonic – Box 1",
+        "es": "C Major Pentatonic – Box 1"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Lesson content coming soon.",
+        "zh-Hans": "内容即将上线。",
+        "de": "Inhalt folgt in Kürze.",
+        "ja": "コンテンツはまもなく追加されます。",
+        "pt-BR": "Conteúdo chegando em breve.",
+        "es": "Contenido disponible pronto."
+      }
+    },
+    "order": 1,
+    "createdAt": "2025-12-01T00:00:00Z",
+    "updatedAt": "2025-12-01T00:00:00Z"
+  },
+  {
+    "id": "converting-minor-pentatonic-shapes-to-major",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Converting Minor Pentatonic Shapes to Major",
+        "zh-Hans": "Converting Minor Pentatonic Shapes to Major",
+        "de": "Converting Minor Pentatonic Shapes to Major",
+        "ja": "Converting Minor Pentatonic Shapes to Major",
+        "pt-BR": "Converting Minor Pentatonic Shapes to Major",
+        "es": "Converting Minor Pentatonic Shapes to Major"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Lesson content coming soon.",
+        "zh-Hans": "内容即将上线。",
+        "de": "Inhalt folgt in Kürze.",
+        "ja": "コンテンツはまもなく追加されます。",
+        "pt-BR": "Conteúdo chegando em breve.",
+        "es": "Contenido disponible pronto."
+      }
+    },
+    "order": 2,
+    "createdAt": "2025-12-01T00:00:00Z",
+    "updatedAt": "2025-12-01T00:00:00Z"
+  },
+  {
+    "id": "switching-major-minor-over-the-same-progression",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Switching Major/Minor Over the Same Progression",
+        "zh-Hans": "Switching Major/Minor Over the Same Progression",
+        "de": "Switching Major/Minor Over the Same Progression",
+        "ja": "Switching Major/Minor Over the Same Progression",
+        "pt-BR": "Switching Major/Minor Over the Same Progression",
+        "es": "Switching Major/Minor Over the Same Progression"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Lesson content coming soon.",
+        "zh-Hans": "内容即将上线。",
+        "de": "Inhalt folgt in Kürze.",
+        "ja": "コンテンツはまもなく追加されます。",
+        "pt-BR": "Conteúdo chegando em breve.",
+        "es": "Contenido disponible pronto."
+      }
+    },
+    "order": 3,
+    "createdAt": "2025-12-01T00:00:00Z",
+    "updatedAt": "2025-12-01T00:00:00Z"
+  }
+]

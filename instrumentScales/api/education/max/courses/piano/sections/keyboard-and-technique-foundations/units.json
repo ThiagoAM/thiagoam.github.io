@@ -1,0 +1,83 @@
+[
+  {
+    "id": "keyboard-map-and-intervals",
+    "name": {
+      "values": {
+        "en": "Keyboard Map and Intervals",
+        "zh-Hans": "Keyboard Map and Intervals",
+        "de": "Keyboard Map and Intervals",
+        "ja": "Keyboard Map and Intervals",
+        "pt-BR": "Keyboard Map and Intervals",
+        "es": "Keyboard Map and Intervals"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Keyboard Map and Intervals",
+        "zh-Hans": "Keyboard Map and Intervals",
+        "de": "Keyboard Map and Intervals",
+        "ja": "Keyboard Map and Intervals",
+        "pt-BR": "Keyboard Map and Intervals",
+        "es": "Keyboard Map and Intervals"
+      }
+    },
+    "image": null,
+    "order": 1,
+    "createdAt": "2025-12-01T00:00:00Z",
+    "updatedAt": "2025-12-01T00:00:00Z"
+  },
+  {
+    "id": "hand-position-and-fingering",
+    "name": {
+      "values": {
+        "en": "Hand Position and Fingering",
+        "zh-Hans": "Hand Position and Fingering",
+        "de": "Hand Position and Fingering",
+        "ja": "Hand Position and Fingering",
+        "pt-BR": "Hand Position and Fingering",
+        "es": "Hand Position and Fingering"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Hand Position and Fingering",
+        "zh-Hans": "Hand Position and Fingering",
+        "de": "Hand Position and Fingering",
+        "ja": "Hand Position and Fingering",
+        "pt-BR": "Hand Position and Fingering",
+        "es": "Hand Position and Fingering"
+      }
+    },
+    "image": null,
+    "order": 2,
+    "createdAt": "2025-12-01T00:00:00Z",
+    "updatedAt": "2025-12-01T00:00:00Z"
+  },
+  {
+    "id": "major-and-natural-minor-scales",
+    "name": {
+      "values": {
+        "en": "Major and Natural Minor Scales",
+        "zh-Hans": "Major and Natural Minor Scales",
+        "de": "Major and Natural Minor Scales",
+        "ja": "Major and Natural Minor Scales",
+        "pt-BR": "Major and Natural Minor Scales",
+        "es": "Major and Natural Minor Scales"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Major and Natural Minor Scales",
+        "zh-Hans": "Major and Natural Minor Scales",
+        "de": "Major and Natural Minor Scales",
+        "ja": "Major and Natural Minor Scales",
+        "pt-BR": "Major and Natural Minor Scales",
+        "es": "Major and Natural Minor Scales"
+      }
+    },
+    "image": null,
+    "order": 3,
+    "createdAt": "2025-12-01T00:00:00Z",
+    "updatedAt": "2025-12-01T00:00:00Z"
+  }
+]

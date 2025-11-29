@@ -1,0 +1,86 @@
+[
+  {
+    "id": "stepwise-motion-in-major-keys",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Stepwise Motion in Major Keys",
+        "zh-Hans": "Stepwise Motion in Major Keys",
+        "de": "Stepwise Motion in Major Keys",
+        "ja": "Stepwise Motion in Major Keys",
+        "pt-BR": "Stepwise Motion in Major Keys",
+        "es": "Stepwise Motion in Major Keys"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Lesson content coming soon.",
+        "zh-Hans": "内容即将上线。",
+        "de": "Inhalt folgt in Kürze.",
+        "ja": "コンテンツはまもなく追加されます。",
+        "pt-BR": "Conteúdo chegando em breve.",
+        "es": "Contenido disponible pronto."
+      }
+    },
+    "order": 1,
+    "createdAt": "2025-12-01T00:00:00Z",
+    "updatedAt": "2025-12-01T00:00:00Z"
+  },
+  {
+    "id": "using-thirds-and-fifths-in-walking-lines",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Using Thirds and Fifths in Walking Lines",
+        "zh-Hans": "Using Thirds and Fifths in Walking Lines",
+        "de": "Using Thirds and Fifths in Walking Lines",
+        "ja": "Using Thirds and Fifths in Walking Lines",
+        "pt-BR": "Using Thirds and Fifths in Walking Lines",
+        "es": "Using Thirds and Fifths in Walking Lines"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Lesson content coming soon.",
+        "zh-Hans": "内容即将上线。",
+        "de": "Inhalt folgt in Kürze.",
+        "ja": "コンテンツはまもなく追加されます。",
+        "pt-BR": "Conteúdo chegando em breve.",
+        "es": "Contenido disponible pronto."
+      }
+    },
+    "order": 2,
+    "createdAt": "2025-12-01T00:00:00Z",
+    "updatedAt": "2025-12-01T00:00:00Z"
+  },
+  {
+    "id": "chromatic-approaches-to-chord-tones",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Chromatic Approaches to Chord Tones",
+        "zh-Hans": "Chromatic Approaches to Chord Tones",
+        "de": "Chromatic Approaches to Chord Tones",
+        "ja": "Chromatic Approaches to Chord Tones",
+        "pt-BR": "Chromatic Approaches to Chord Tones",
+        "es": "Chromatic Approaches to Chord Tones"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Lesson content coming soon.",
+        "zh-Hans": "内容即将上线。",
+        "de": "Inhalt folgt in Kürze.",
+        "ja": "コンテンツはまもなく追加されます。",
+        "pt-BR": "Conteúdo chegando em breve.",
+        "es": "Contenido disponible pronto."
+      }
+    },
+    "order": 3,
+    "createdAt": "2025-12-01T00:00:00Z",
+    "updatedAt": "2025-12-01T00:00:00Z"
+  }
+]

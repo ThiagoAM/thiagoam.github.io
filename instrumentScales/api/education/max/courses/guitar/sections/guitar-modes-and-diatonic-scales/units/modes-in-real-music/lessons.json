@@ -1,0 +1,86 @@
+[
+  {
+    "id": "soloing-with-d-dorian-over-a-ii-v-progression",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Soloing with D Dorian over a ii–V Progression",
+        "zh-Hans": "Soloing with D Dorian over a ii–V Progression",
+        "de": "Soloing with D Dorian over a ii–V Progression",
+        "ja": "Soloing with D Dorian over a ii–V Progression",
+        "pt-BR": "Soloing with D Dorian over a ii–V Progression",
+        "es": "Soloing with D Dorian over a ii–V Progression"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Lesson content coming soon.",
+        "zh-Hans": "内容即将上线。",
+        "de": "Inhalt folgt in Kürze.",
+        "ja": "コンテンツはまもなく追加されます。",
+        "pt-BR": "Conteúdo chegando em breve.",
+        "es": "Contenido disponible pronto."
+      }
+    },
+    "order": 1,
+    "createdAt": "2025-12-01T00:00:00Z",
+    "updatedAt": "2025-12-01T00:00:00Z"
+  },
+  {
+    "id": "mixolydian-for-rock-and-blues-grooves",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Mixolydian for Rock and Blues Grooves",
+        "zh-Hans": "Mixolydian for Rock and Blues Grooves",
+        "de": "Mixolydian for Rock and Blues Grooves",
+        "ja": "Mixolydian for Rock and Blues Grooves",
+        "pt-BR": "Mixolydian for Rock and Blues Grooves",
+        "es": "Mixolydian for Rock and Blues Grooves"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Lesson content coming soon.",
+        "zh-Hans": "内容即将上线。",
+        "de": "Inhalt folgt in Kürze.",
+        "ja": "コンテンツはまもなく追加されます。",
+        "pt-BR": "Conteúdo chegando em breve.",
+        "es": "Contenido disponible pronto."
+      }
+    },
+    "order": 2,
+    "createdAt": "2025-12-01T00:00:00Z",
+    "updatedAt": "2025-12-01T00:00:00Z"
+  },
+  {
+    "id": "creating-modal-jam-routines-with-instrument-scales",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Creating Modal Jam Routines with Instrument Scales",
+        "zh-Hans": "Creating Modal Jam Routines with Instrument Scales",
+        "de": "Creating Modal Jam Routines with Instrument Scales",
+        "ja": "Creating Modal Jam Routines with Instrument Scales",
+        "pt-BR": "Creating Modal Jam Routines with Instrument Scales",
+        "es": "Creating Modal Jam Routines with Instrument Scales"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Lesson content coming soon.",
+        "zh-Hans": "内容即将上线。",
+        "de": "Inhalt folgt in Kürze.",
+        "ja": "コンテンツはまもなく追加されます。",
+        "pt-BR": "Conteúdo chegando em breve.",
+        "es": "Contenido disponible pronto."
+      }
+    },
+    "order": 3,
+    "createdAt": "2025-12-01T00:00:00Z",
+    "updatedAt": "2025-12-01T00:00:00Z"
+  }
+]

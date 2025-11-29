@@ -1,0 +1,86 @@
+[
+  {
+    "id": "creating-counter-melodies-with-scales",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Creating Counter-Melodies with Scales",
+        "zh-Hans": "Creating Counter-Melodies with Scales",
+        "de": "Creating Counter-Melodies with Scales",
+        "ja": "Creating Counter-Melodies with Scales",
+        "pt-BR": "Creating Counter-Melodies with Scales",
+        "es": "Creating Counter-Melodies with Scales"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Lesson content coming soon.",
+        "zh-Hans": "内容即将上线。",
+        "de": "Inhalt folgt in Kürze.",
+        "ja": "コンテンツはまもなく追加されます。",
+        "pt-BR": "Conteúdo chegando em breve.",
+        "es": "Contenido disponible pronto."
+      }
+    },
+    "order": 1,
+    "createdAt": "2025-12-01T00:00:00Z",
+    "updatedAt": "2025-12-01T00:00:00Z"
+  },
+  {
+    "id": "chord-tone-emphasis-in-melodic-lines",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Chord Tone Emphasis in Melodic Lines",
+        "zh-Hans": "Chord Tone Emphasis in Melodic Lines",
+        "de": "Chord Tone Emphasis in Melodic Lines",
+        "ja": "Chord Tone Emphasis in Melodic Lines",
+        "pt-BR": "Chord Tone Emphasis in Melodic Lines",
+        "es": "Chord Tone Emphasis in Melodic Lines"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Lesson content coming soon.",
+        "zh-Hans": "内容即将上线。",
+        "de": "Inhalt folgt in Kürze.",
+        "ja": "コンテンツはまもなく追加されます。",
+        "pt-BR": "Conteúdo chegando em breve.",
+        "es": "Contenido disponible pronto."
+      }
+    },
+    "order": 2,
+    "createdAt": "2025-12-01T00:00:00Z",
+    "updatedAt": "2025-12-01T00:00:00Z"
+  },
+  {
+    "id": "building-melodic-etudes-from-scales",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Building Melodic Etudes from Scales",
+        "zh-Hans": "Building Melodic Etudes from Scales",
+        "de": "Building Melodic Etudes from Scales",
+        "ja": "Building Melodic Etudes from Scales",
+        "pt-BR": "Building Melodic Etudes from Scales",
+        "es": "Building Melodic Etudes from Scales"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Lesson content coming soon.",
+        "zh-Hans": "内容即将上线。",
+        "de": "Inhalt folgt in Kürze.",
+        "ja": "コンテンツはまもなく追加されます。",
+        "pt-BR": "Conteúdo chegando em breve.",
+        "es": "Contenido disponible pronto."
+      }
+    },
+    "order": 3,
+    "createdAt": "2025-12-01T00:00:00Z",
+    "updatedAt": "2025-12-01T00:00:00Z"
+  }
+]

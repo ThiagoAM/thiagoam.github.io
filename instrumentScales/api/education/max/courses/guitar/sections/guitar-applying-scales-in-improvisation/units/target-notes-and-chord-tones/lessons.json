@@ -1,0 +1,86 @@
+[
+  {
+    "id": "finding-chord-tones-inside-scales",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Finding Chord Tones Inside Scales",
+        "zh-Hans": "Finding Chord Tones Inside Scales",
+        "de": "Finding Chord Tones Inside Scales",
+        "ja": "Finding Chord Tones Inside Scales",
+        "pt-BR": "Finding Chord Tones Inside Scales",
+        "es": "Finding Chord Tones Inside Scales"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Lesson content coming soon.",
+        "zh-Hans": "内容即将上线。",
+        "de": "Inhalt folgt in Kürze.",
+        "ja": "コンテンツはまもなく追加されます。",
+        "pt-BR": "Conteúdo chegando em breve.",
+        "es": "Contenido disponible pronto."
+      }
+    },
+    "order": 1,
+    "createdAt": "2025-12-01T00:00:00Z",
+    "updatedAt": "2025-12-01T00:00:00Z"
+  },
+  {
+    "id": "target-notes-on-strong-beats",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Target Notes on Strong Beats",
+        "zh-Hans": "Target Notes on Strong Beats",
+        "de": "Target Notes on Strong Beats",
+        "ja": "Target Notes on Strong Beats",
+        "pt-BR": "Target Notes on Strong Beats",
+        "es": "Target Notes on Strong Beats"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Lesson content coming soon.",
+        "zh-Hans": "内容即将上线。",
+        "de": "Inhalt folgt in Kürze.",
+        "ja": "コンテンツはまもなく追加されます。",
+        "pt-BR": "Conteúdo chegando em breve.",
+        "es": "Contenido disponible pronto."
+      }
+    },
+    "order": 2,
+    "createdAt": "2025-12-01T00:00:00Z",
+    "updatedAt": "2025-12-01T00:00:00Z"
+  },
+  {
+    "id": "combining-scale-runs-with-chord-tones",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Combining Scale Runs with Chord Tones",
+        "zh-Hans": "Combining Scale Runs with Chord Tones",
+        "de": "Combining Scale Runs with Chord Tones",
+        "ja": "Combining Scale Runs with Chord Tones",
+        "pt-BR": "Combining Scale Runs with Chord Tones",
+        "es": "Combining Scale Runs with Chord Tones"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Lesson content coming soon.",
+        "zh-Hans": "内容即将上线。",
+        "de": "Inhalt folgt in Kürze.",
+        "ja": "コンテンツはまもなく追加されます。",
+        "pt-BR": "Conteúdo chegando em breve.",
+        "es": "Contenido disponible pronto."
+      }
+    },
+    "order": 3,
+    "createdAt": "2025-12-01T00:00:00Z",
+    "updatedAt": "2025-12-01T00:00:00Z"
+  }
+]

@@ -1,0 +1,86 @@
+[
+  {
+    "id": "i-iv-v-progressions-in-c-major",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "I–IV–V Progressions in C Major",
+        "zh-Hans": "I–IV–V Progressions in C Major",
+        "de": "I–IV–V Progressions in C Major",
+        "ja": "I–IV–V Progressions in C Major",
+        "pt-BR": "I–IV–V Progressions in C Major",
+        "es": "I–IV–V Progressions in C Major"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Lesson content coming soon.",
+        "zh-Hans": "内容即将上线。",
+        "de": "Inhalt folgt in Kürze.",
+        "ja": "コンテンツはまもなく追加されます。",
+        "pt-BR": "Conteúdo chegando em breve.",
+        "es": "Contenido disponible pronto."
+      }
+    },
+    "order": 1,
+    "createdAt": "2025-12-01T00:00:00Z",
+    "updatedAt": "2025-12-01T00:00:00Z"
+  },
+  {
+    "id": "ii-v-i-progressions-using-diatonic-chords",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "ii–V–I Progressions Using Diatonic Chords",
+        "zh-Hans": "ii–V–I Progressions Using Diatonic Chords",
+        "de": "ii–V–I Progressions Using Diatonic Chords",
+        "ja": "ii–V–I Progressions Using Diatonic Chords",
+        "pt-BR": "ii–V–I Progressions Using Diatonic Chords",
+        "es": "ii–V–I Progressions Using Diatonic Chords"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Lesson content coming soon.",
+        "zh-Hans": "内容即将上线。",
+        "de": "Inhalt folgt in Kürze.",
+        "ja": "コンテンツはまもなく追加されます。",
+        "pt-BR": "Conteúdo chegando em breve.",
+        "es": "Contenido disponible pronto."
+      }
+    },
+    "order": 2,
+    "createdAt": "2025-12-01T00:00:00Z",
+    "updatedAt": "2025-12-01T00:00:00Z"
+  },
+  {
+    "id": "using-scales-to-connect-chords",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Using Scales to Connect Chords",
+        "zh-Hans": "Using Scales to Connect Chords",
+        "de": "Using Scales to Connect Chords",
+        "ja": "Using Scales to Connect Chords",
+        "pt-BR": "Using Scales to Connect Chords",
+        "es": "Using Scales to Connect Chords"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Lesson content coming soon.",
+        "zh-Hans": "内容即将上线。",
+        "de": "Inhalt folgt in Kürze.",
+        "ja": "コンテンツはまもなく追加されます。",
+        "pt-BR": "Conteúdo chegando em breve.",
+        "es": "Contenido disponible pronto."
+      }
+    },
+    "order": 3,
+    "createdAt": "2025-12-01T00:00:00Z",
+    "updatedAt": "2025-12-01T00:00:00Z"
+  }
+]

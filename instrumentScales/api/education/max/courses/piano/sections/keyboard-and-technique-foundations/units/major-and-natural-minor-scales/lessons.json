@@ -1,0 +1,86 @@
+[
+  {
+    "id": "c-major-scale-two-octaves-hands-separate",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "C Major Scale – Two Octaves, Hands Separate",
+        "zh-Hans": "C Major Scale – Two Octaves, Hands Separate",
+        "de": "C Major Scale – Two Octaves, Hands Separate",
+        "ja": "C Major Scale – Two Octaves, Hands Separate",
+        "pt-BR": "C Major Scale – Two Octaves, Hands Separate",
+        "es": "C Major Scale – Two Octaves, Hands Separate"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Lesson content coming soon.",
+        "zh-Hans": "内容即将上线。",
+        "de": "Inhalt folgt in Kürze.",
+        "ja": "コンテンツはまもなく追加されます。",
+        "pt-BR": "Conteúdo chegando em breve.",
+        "es": "Contenido disponible pronto."
+      }
+    },
+    "order": 1,
+    "createdAt": "2025-12-01T00:00:00Z",
+    "updatedAt": "2025-12-01T00:00:00Z"
+  },
+  {
+    "id": "g-and-f-major-scales-hands-separate",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "G and F Major Scales – Hands Separate",
+        "zh-Hans": "G and F Major Scales – Hands Separate",
+        "de": "G and F Major Scales – Hands Separate",
+        "ja": "G and F Major Scales – Hands Separate",
+        "pt-BR": "G and F Major Scales – Hands Separate",
+        "es": "G and F Major Scales – Hands Separate"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Lesson content coming soon.",
+        "zh-Hans": "内容即将上线。",
+        "de": "Inhalt folgt in Kürze.",
+        "ja": "コンテンツはまもなく追加されます。",
+        "pt-BR": "Conteúdo chegando em breve.",
+        "es": "Contenido disponible pronto."
+      }
+    },
+    "order": 2,
+    "createdAt": "2025-12-01T00:00:00Z",
+    "updatedAt": "2025-12-01T00:00:00Z"
+  },
+  {
+    "id": "a-natural-minor-and-e-natural-minor-scales",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "A Natural Minor and E Natural Minor Scales",
+        "zh-Hans": "A Natural Minor and E Natural Minor Scales",
+        "de": "A Natural Minor and E Natural Minor Scales",
+        "ja": "A Natural Minor and E Natural Minor Scales",
+        "pt-BR": "A Natural Minor and E Natural Minor Scales",
+        "es": "A Natural Minor and E Natural Minor Scales"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Lesson content coming soon.",
+        "zh-Hans": "内容即将上线。",
+        "de": "Inhalt folgt in Kürze.",
+        "ja": "コンテンツはまもなく追加されます。",
+        "pt-BR": "Conteúdo chegando em breve.",
+        "es": "Contenido disponible pronto."
+      }
+    },
+    "order": 3,
+    "createdAt": "2025-12-01T00:00:00Z",
+    "updatedAt": "2025-12-01T00:00:00Z"
+  }
+]
