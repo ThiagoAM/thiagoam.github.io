@@ -6,12 +6,12 @@
       "slug": "guitar",
       "name": {
         "values": {
-          "en": "Guitar – Max",
-          "zh-Hans": "Guitar – Max",
-          "de": "Guitar – Max",
-          "ja": "Guitar – Max",
-          "pt-BR": "Guitar – Max",
-          "es": "Guitar – Max"
+          "en": "Guitar",
+          "zh-Hans": "Guitar",
+          "de": "Guitar",
+          "ja": "Guitar",
+          "pt-BR": "Guitar",
+          "es": "Guitar"
         }
       },
       "summary": {
@@ -25,10 +25,7 @@
         }
       },
       "image": null,
-      "tags": [
-        "guitar",
-        "advanced"
-      ],
+      "tags": ["guitar", "advanced"],
       "order": 1,
       "createdAt": "2025-12-01T00:00:00Z",
       "updatedAt": "2025-12-01T00:00:00Z"
@@ -57,10 +54,7 @@
         }
       },
       "image": null,
-      "tags": [
-        "bass",
-        "advanced"
-      ],
+      "tags": ["bass", "advanced"],
       "order": 2,
       "createdAt": "2025-12-01T00:00:00Z",
       "updatedAt": "2025-12-01T00:00:00Z"
@@ -89,10 +83,7 @@
         }
       },
       "image": null,
-      "tags": [
-        "piano",
-        "advanced"
-      ],
+      "tags": ["piano", "advanced"],
       "order": 3,
       "createdAt": "2025-12-01T00:00:00Z",
       "updatedAt": "2025-12-01T00:00:00Z"
