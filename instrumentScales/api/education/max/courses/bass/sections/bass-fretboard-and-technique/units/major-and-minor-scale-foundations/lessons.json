@@ -6,11 +6,11 @@
     "name": {
       "values": {
         "en": "C Major Two-Octave Scale – Position-Based",
-        "zh-Hans": "C Major Two-Octave Scale – Position-Based",
-        "de": "C Major Two-Octave Scale – Position-Based",
-        "ja": "C Major Two-Octave Scale – Position-Based",
-        "pt-BR": "C Major Two-Octave Scale – Position-Based",
-        "es": "C Major Two-Octave Scale – Position-Based"
+        "zh-Hans": "C大调两组八度音阶（基于位置）",
+        "de": "C-Dur-Zweioctaven-Tonleiter – positionsbasiert",
+        "ja": "Cメジャー2オクターブ・スケール（ポジション基準）",
+        "pt-BR": "Escala de Dó maior em duas oitavas — baseada em posições",
+        "es": "Escala de Do mayor de dos octavas — basada en posiciones"
       }
     },
     "description": {
@@ -34,11 +34,11 @@
     "name": {
       "values": {
         "en": "A Natural Minor Scale in Multiple Positions",
-        "zh-Hans": "A Natural Minor Scale in Multiple Positions",
-        "de": "A Natural Minor Scale in Multiple Positions",
-        "ja": "A Natural Minor Scale in Multiple Positions",
-        "pt-BR": "A Natural Minor Scale in Multiple Positions",
-        "es": "A Natural Minor Scale in Multiple Positions"
+        "zh-Hans": "A自然小调音阶（多位置）",
+        "de": "A-Natürlich-Moll in mehreren Positionen",
+        "ja": "Aナチュラルマイナースケール（複数ポジション）",
+        "pt-BR": "Escala de Lá menor natural em múltiplas posições",
+        "es": "Escala de La menor natural en múltiples posiciones"
       }
     },
     "description": {
@@ -62,11 +62,11 @@
     "name": {
       "values": {
         "en": "Connecting Major and Minor Shapes Across the Neck",
-        "zh-Hans": "Connecting Major and Minor Shapes Across the Neck",
-        "de": "Connecting Major and Minor Shapes Across the Neck",
-        "ja": "Connecting Major and Minor Shapes Across the Neck",
-        "pt-BR": "Connecting Major and Minor Shapes Across the Neck",
-        "es": "Connecting Major and Minor Shapes Across the Neck"
+        "zh-Hans": "在指板上连接大调与小调音型",
+        "de": "Dur- und Moll-Formen über das Griffbrett verbinden",
+        "ja": "ネック全体でメジャー／マイナーの形をつなぐ",
+        "pt-BR": "Conectando formas maiores e menores pelo braço",
+        "es": "Conectando formas mayores y menores a lo largo del mástil"
       }
     },
     "description": {

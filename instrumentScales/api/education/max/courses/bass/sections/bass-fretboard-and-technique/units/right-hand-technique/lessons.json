@@ -6,11 +6,11 @@
     "name": {
       "values": {
         "en": "Alternating Fingers (Index/Middle)",
-        "zh-Hans": "Alternating Fingers (Index/Middle)",
-        "de": "Alternating Fingers (Index/Middle)",
-        "ja": "Alternating Fingers (Index/Middle)",
-        "pt-BR": "Alternating Fingers (Index/Middle)",
-        "es": "Alternating Fingers (Index/Middle)"
+        "zh-Hans": "交替拨弦（食指/中指）",
+        "de": "Wechselnde Finger (Zeige-/Mittelfinger)",
+        "ja": "交互運指（人差し指／中指）",
+        "pt-BR": "Dedos alternados (indicador/médio)",
+        "es": "Dedos alternados (índice/medio)"
       }
     },
     "description": {
@@ -34,11 +34,11 @@
     "name": {
       "values": {
         "en": "Consistent Plucking Dynamics",
-        "zh-Hans": "Consistent Plucking Dynamics",
-        "de": "Consistent Plucking Dynamics",
-        "ja": "Consistent Plucking Dynamics",
-        "pt-BR": "Consistent Plucking Dynamics",
-        "es": "Consistent Plucking Dynamics"
+        "zh-Hans": "均匀拨弦力度",
+        "de": "Konstante Anschlagsdynamik",
+        "ja": "一定したピッキングのダイナミクス",
+        "pt-BR": "Dinâmica consistente na palhetada/dedilhado",
+        "es": "Dinámica consistente al pulsar las cuerdas"
       }
     },
     "description": {
@@ -62,11 +62,11 @@
     "name": {
       "values": {
         "en": "String Crossing with Scale Patterns",
-        "zh-Hans": "String Crossing with Scale Patterns",
-        "de": "String Crossing with Scale Patterns",
-        "ja": "String Crossing with Scale Patterns",
-        "pt-BR": "String Crossing with Scale Patterns",
-        "es": "String Crossing with Scale Patterns"
+        "zh-Hans": "结合音阶型的跨弦练习",
+        "de": "Saitenwechsel mit Tonleitermustern",
+        "ja": "スケールパターンを使った弦移動",
+        "pt-BR": "Troca de cordas com padrões de escala",
+        "es": "Cruce de cuerdas con patrones de escala"
       }
     },
     "description": {

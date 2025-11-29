@@ -4,21 +4,21 @@
     "name": {
       "values": {
         "en": "Roots, Fifths, and Octaves",
-        "zh-Hans": "Roots, Fifths, and Octaves",
-        "de": "Roots, Fifths, and Octaves",
-        "ja": "Roots, Fifths, and Octaves",
-        "pt-BR": "Roots, Fifths, and Octaves",
-        "es": "Roots, Fifths, and Octaves"
+        "zh-Hans": "根音、五度与八度",
+        "de": "Grundtöne, Quinten und Oktaven",
+        "ja": "ルート、五度、オクターブ",
+        "pt-BR": "Tônicas, Quintas e Oitavas",
+        "es": "Tónicas, Quintas y Octavas"
       }
     },
     "description": {
       "values": {
         "en": "Roots, Fifths, and Octaves",
-        "zh-Hans": "Roots, Fifths, and Octaves",
-        "de": "Roots, Fifths, and Octaves",
-        "ja": "Roots, Fifths, and Octaves",
-        "pt-BR": "Roots, Fifths, and Octaves",
-        "es": "Roots, Fifths, and Octaves"
+        "zh-Hans": "根音、五度与八度",
+        "de": "Grundtöne, Quinten und Oktaven",
+        "ja": "ルート、五度、オクターブ",
+        "pt-BR": "Tônicas, Quintas e Oitavas",
+        "es": "Tónicas, Quintas y Octavas"
       }
     },
     "image": null,
@@ -31,21 +31,21 @@
     "name": {
       "values": {
         "en": "Pentatonic and Blues for Bass",
-        "zh-Hans": "Pentatonic and Blues for Bass",
-        "de": "Pentatonic and Blues for Bass",
-        "ja": "Pentatonic and Blues for Bass",
-        "pt-BR": "Pentatonic and Blues for Bass",
-        "es": "Pentatonic and Blues for Bass"
+        "zh-Hans": "贝斯五声音阶与布鲁斯",
+        "de": "Pentatonik und Blues für Bass",
+        "ja": "ベースのペンタトニックとブルース",
+        "pt-BR": "Pentatônica e Blues para Baixo",
+        "es": "Pentatónica y Blues para Bajo"
       }
     },
     "description": {
       "values": {
         "en": "Pentatonic and Blues for Bass",
-        "zh-Hans": "Pentatonic and Blues for Bass",
-        "de": "Pentatonic and Blues for Bass",
-        "ja": "Pentatonic and Blues for Bass",
-        "pt-BR": "Pentatonic and Blues for Bass",
-        "es": "Pentatonic and Blues for Bass"
+        "zh-Hans": "贝斯五声音阶与布鲁斯",
+        "de": "Pentatonik und Blues für Bass",
+        "ja": "ベースのペンタトニックとブルース",
+        "pt-BR": "Pentatônica e Blues para Baixo",
+        "es": "Pentatónica y Blues para Bajo"
       }
     },
     "image": null,
@@ -58,21 +58,21 @@
     "name": {
       "values": {
         "en": "Major Scale Grooves",
-        "zh-Hans": "Major Scale Grooves",
-        "de": "Major Scale Grooves",
-        "ja": "Major Scale Grooves",
-        "pt-BR": "Major Scale Grooves",
-        "es": "Major Scale Grooves"
+        "zh-Hans": "大调音阶律动",
+        "de": "Grooves mit der Dur-Tonleiter",
+        "ja": "メジャースケール・グルーヴ",
+        "pt-BR": "Grooves com Escala Maior",
+        "es": "Grooves con Escala Mayor"
       }
     },
     "description": {
       "values": {
         "en": "Major Scale Grooves",
-        "zh-Hans": "Major Scale Grooves",
-        "de": "Major Scale Grooves",
-        "ja": "Major Scale Grooves",
-        "pt-BR": "Major Scale Grooves",
-        "es": "Major Scale Grooves"
+        "zh-Hans": "大调音阶律动",
+        "de": "Grooves mit der Dur-Tonleiter",
+        "ja": "メジャースケール・グルーヴ",
+        "pt-BR": "Grooves com Escala Maior",
+        "es": "Grooves con Escala Mayor"
       }
     },
     "image": null,

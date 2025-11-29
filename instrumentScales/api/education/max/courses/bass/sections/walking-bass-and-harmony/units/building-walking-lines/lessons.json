@@ -6,11 +6,11 @@
     "name": {
       "values": {
         "en": "Stepwise Motion in Major Keys",
-        "zh-Hans": "Stepwise Motion in Major Keys",
-        "de": "Stepwise Motion in Major Keys",
-        "ja": "Stepwise Motion in Major Keys",
-        "pt-BR": "Stepwise Motion in Major Keys",
-        "es": "Stepwise Motion in Major Keys"
+        "zh-Hans": "大调中的级进运动",
+        "de": "Schrittweise Bewegung in Dur-Tonarten",
+        "ja": "メジャーキーにおけるステップワイズモーション",
+        "pt-BR": "Movimento Conjunto em Tonalidades Maiores",
+        "es": "Movimiento conjunto en tonalidades mayores"
       }
     },
     "description": {
@@ -34,11 +34,11 @@
     "name": {
       "values": {
         "en": "Using Thirds and Fifths in Walking Lines",
-        "zh-Hans": "Using Thirds and Fifths in Walking Lines",
-        "de": "Using Thirds and Fifths in Walking Lines",
-        "ja": "Using Thirds and Fifths in Walking Lines",
-        "pt-BR": "Using Thirds and Fifths in Walking Lines",
-        "es": "Using Thirds and Fifths in Walking Lines"
+        "zh-Hans": "在行进贝斯中使用三度与五度",
+        "de": "Terzen und Quinten in Walking Lines verwenden",
+        "ja": "ウォーキングラインでの3度と5度の活用",
+        "pt-BR": "Usando Terças e Quintas em Linhas de Walking Bass",
+        "es": "Uso de terceras y quintas en líneas de walking bass"
       }
     },
     "description": {
@@ -62,11 +62,11 @@
     "name": {
       "values": {
         "en": "Chromatic Approaches to Chord Tones",
-        "zh-Hans": "Chromatic Approaches to Chord Tones",
-        "de": "Chromatic Approaches to Chord Tones",
-        "ja": "Chromatic Approaches to Chord Tones",
-        "pt-BR": "Chromatic Approaches to Chord Tones",
-        "es": "Chromatic Approaches to Chord Tones"
+        "zh-Hans": "和弦音的半音接近技巧",
+        "de": "Chromatische Annäherungen an Akkordtöne",
+        "ja": "コードトーンへのクロマチックアプローチ",
+        "pt-BR": "Abordagens Cromáticas aos Tons do Acorde",
+        "es": "Enfoques cromáticos hacia notas de acorde"
       }
     },
     "description": {

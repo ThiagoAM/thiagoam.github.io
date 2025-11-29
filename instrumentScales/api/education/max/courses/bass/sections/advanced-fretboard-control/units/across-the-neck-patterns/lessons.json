@@ -6,11 +6,11 @@
     "name": {
       "values": {
         "en": "3-Notes-Per-String Patterns for Bass",
-        "zh-Hans": "3-Notes-Per-String Patterns for Bass",
-        "de": "3-Notes-Per-String Patterns for Bass",
-        "ja": "3-Notes-Per-String Patterns for Bass",
-        "pt-BR": "3-Notes-Per-String Patterns for Bass",
-        "es": "3-Notes-Per-String Patterns for Bass"
+        "zh-Hans": "贝斯的每弦三音型模式",
+        "de": "Drei-Noten-pro-Saite-Patterns für Bass",
+        "ja": "ベースの3ノート・パー・ストリング・パターン",
+        "pt-BR": "Padrões de três notas por corda para baixo",
+        "es": "Patrones de tres notas por cuerda para bajo"
       }
     },
     "description": {
@@ -34,11 +34,11 @@
     "name": {
       "values": {
         "en": "Diagonal Scale Shapes Up the Neck",
-        "zh-Hans": "Diagonal Scale Shapes Up the Neck",
-        "de": "Diagonal Scale Shapes Up the Neck",
-        "ja": "Diagonal Scale Shapes Up the Neck",
-        "pt-BR": "Diagonal Scale Shapes Up the Neck",
-        "es": "Diagonal Scale Shapes Up the Neck"
+        "zh-Hans": "指板上的斜向音阶形状",
+        "de": "Diagonale Tonleiterformen über das Griffbrett",
+        "ja": "ネック上を斜めに移動するスケール形",
+        "pt-BR": "Formas diagonais de escala pelo braço",
+        "es": "Formas diagonales de escala a lo largo del mástil"
       }
     },
     "description": {
@@ -62,11 +62,11 @@
     "name": {
       "values": {
         "en": "Combining Vertical and Horizontal Movement",
-        "zh-Hans": "Combining Vertical and Horizontal Movement",
-        "de": "Combining Vertical and Horizontal Movement",
-        "ja": "Combining Vertical and Horizontal Movement",
-        "pt-BR": "Combining Vertical and Horizontal Movement",
-        "es": "Combining Vertical and Horizontal Movement"
+        "zh-Hans": "结合纵向与横向移动",
+        "de": "Vertikale und horizontale Bewegungen kombinieren",
+        "ja": "縦方向と横方向の動きを組み合わせる",
+        "pt-BR": "Combinando movimento vertical e horizontal",
+        "es": "Combinando movimiento vertical y horizontal"
       }
     },
     "description": {

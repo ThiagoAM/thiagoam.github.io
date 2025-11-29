@@ -6,11 +6,11 @@
     "name": {
       "values": {
         "en": "Daily Scale Routine for Fingerboard Mastery",
-        "zh-Hans": "Daily Scale Routine for Fingerboard Mastery",
-        "de": "Daily Scale Routine for Fingerboard Mastery",
-        "ja": "Daily Scale Routine for Fingerboard Mastery",
-        "pt-BR": "Daily Scale Routine for Fingerboard Mastery",
-        "es": "Daily Scale Routine for Fingerboard Mastery"
+        "zh-Hans": "提升指板掌握度的每日音阶练习",
+        "de": "Tägliche Skalenroutine zur Griffbrettsicherheit",
+        "ja": "指板習熟のための毎日のスケールルーティン",
+        "pt-BR": "Rotina Diária de Escalas para Domínio do Braço",
+        "es": "Rutina Diaria de Escalas para Dominar el Diapasón"
       }
     },
     "description": {
@@ -34,11 +34,11 @@
     "name": {
       "values": {
         "en": "Groove + Scale Combination Exercises",
-        "zh-Hans": "Groove + Scale Combination Exercises",
-        "de": "Groove + Scale Combination Exercises",
-        "ja": "Groove + Scale Combination Exercises",
-        "pt-BR": "Groove + Scale Combination Exercises",
-        "es": "Groove + Scale Combination Exercises"
+        "zh-Hans": "律动＋音阶组合练习",
+        "de": "Groove- und Skalenkombinationsübungen",
+        "ja": "グルーヴ＋スケールの組み合わせ練習",
+        "pt-BR": "Exercícios de Combinação entre Groove e Escala",
+        "es": "Ejercicios de Combinación de Groove y Escala"
       }
     },
     "description": {
@@ -62,11 +62,11 @@
     "name": {
       "values": {
         "en": "Creating Your Own Walking Practice Loops",
-        "zh-Hans": "Creating Your Own Walking Practice Loops",
-        "de": "Creating Your Own Walking Practice Loops",
-        "ja": "Creating Your Own Walking Practice Loops",
-        "pt-BR": "Creating Your Own Walking Practice Loops",
-        "es": "Creating Your Own Walking Practice Loops"
+        "zh-Hans": "创建你自己的行进贝司练习循环",
+        "de": "Eigene Walking-Übungsschleifen erstellen",
+        "ja": "自分だけのウォーキング練習ループを作る",
+        "pt-BR": "Criando Seus Próprios Loops de Walking Bass",
+        "es": "Crear tus propios loops de práctica de walking bass"
       }
     },
     "description": {
