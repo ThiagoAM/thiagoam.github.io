@@ -4,7 +4,7 @@
   "updatedAt": "2025-08-15T12:00:00Z",
   "courses": [
     {
-      "id": "guitar",
+      "id": "guitar-free",
       "slug": "guitar",
       "name": { "values": { "en": "Guitar" } },
       "summary": {
@@ -22,7 +22,7 @@
       "updatedAt": "2025-08-15T12:00:00Z"
     },
     {
-      "id": "bass",
+      "id": "bass-free",
       "slug": "bass",
       "name": { "values": { "en": "Bass" } },
       "summary": {
@@ -40,7 +40,7 @@
       "updatedAt": "2025-08-15T12:00:00Z"
     },
     {
-      "id": "piano",
+      "id": "piano-free",
       "slug": "piano",
       "name": { "values": { "en": "Piano" } },
       "summary": {
