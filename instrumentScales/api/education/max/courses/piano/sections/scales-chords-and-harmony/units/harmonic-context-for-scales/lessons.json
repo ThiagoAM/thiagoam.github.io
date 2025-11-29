@@ -6,11 +6,11 @@
     "name": {
       "values": {
         "en": "I–IV–V Progressions in C Major",
-        "zh-Hans": "I–IV–V Progressions in C Major",
-        "de": "I–IV–V Progressions in C Major",
-        "ja": "I–IV–V Progressions in C Major",
-        "pt-BR": "I–IV–V Progressions in C Major",
-        "es": "I–IV–V Progressions in C Major"
+        "zh-Hans": "C大调中的I–IV–V进行",
+        "de": "I–IV–V-Progressionen in C-Dur",
+        "ja": "CメジャーのI–IV–V進行",
+        "pt-BR": "Progressões I–IV–V em Dó Maior",
+        "es": "Progresiones I–IV–V en Do Mayor"
       }
     },
     "description": {
@@ -34,11 +34,11 @@
     "name": {
       "values": {
         "en": "ii–V–I Progressions Using Diatonic Chords",
-        "zh-Hans": "ii–V–I Progressions Using Diatonic Chords",
-        "de": "ii–V–I Progressions Using Diatonic Chords",
-        "ja": "ii–V–I Progressions Using Diatonic Chords",
-        "pt-BR": "ii–V–I Progressions Using Diatonic Chords",
-        "es": "ii–V–I Progressions Using Diatonic Chords"
+        "zh-Hans": "使用自然和弦的ii–V–I进行",
+        "de": "ii–V–I-Progressionen mit diatonischen Akkorden",
+        "ja": "ダイアトニックコードを使ったii–V–I進行",
+        "pt-BR": "Progressões ii–V–I Usando Acordes Diatônicos",
+        "es": "Progresiones ii–V–I usando acordes diatónicos"
       }
     },
     "description": {
@@ -62,11 +62,11 @@
     "name": {
       "values": {
         "en": "Using Scales to Connect Chords",
-        "zh-Hans": "Using Scales to Connect Chords",
-        "de": "Using Scales to Connect Chords",
-        "ja": "Using Scales to Connect Chords",
-        "pt-BR": "Using Scales to Connect Chords",
-        "es": "Using Scales to Connect Chords"
+        "zh-Hans": "使用音阶连接和弦",
+        "de": "Verwendung von Skalen zur Verbindung von Akkorden",
+        "ja": "スケールを使ったコードの接続",
+        "pt-BR": "Usando Escalas para Conectar Acordes",
+        "es": "Uso de escalas para conectar acordes"
       }
     },
     "description": {

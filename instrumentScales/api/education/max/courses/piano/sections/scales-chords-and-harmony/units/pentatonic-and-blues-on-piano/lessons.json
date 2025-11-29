@@ -6,11 +6,11 @@
     "name": {
       "values": {
         "en": "C Major and A Minor Pentatonic Scales",
-        "zh-Hans": "C Major and A Minor Pentatonic Scales",
-        "de": "C Major and A Minor Pentatonic Scales",
-        "ja": "C Major and A Minor Pentatonic Scales",
-        "pt-BR": "C Major and A Minor Pentatonic Scales",
-        "es": "C Major and A Minor Pentatonic Scales"
+        "zh-Hans": "C大调与A小调五声音阶",
+        "de": "C-Dur- und a-Moll-Pentatonik",
+        "ja": "CメジャーとAマイナーのペンタトニックスケール",
+        "pt-BR": "Escalas Pentatônicas de Dó Maior e Lá Menor",
+        "es": "Escalas pentatónicas de Do Mayor y La Menor"
       }
     },
     "description": {
@@ -34,11 +34,11 @@
     "name": {
       "values": {
         "en": "Blues Scale in C – Patterns and Riffs",
-        "zh-Hans": "Blues Scale in C – Patterns and Riffs",
-        "de": "Blues Scale in C – Patterns and Riffs",
-        "ja": "Blues Scale in C – Patterns and Riffs",
-        "pt-BR": "Blues Scale in C – Patterns and Riffs",
-        "es": "Blues Scale in C – Patterns and Riffs"
+        "zh-Hans": "C调布鲁斯音阶 —— 模式与乐句",
+        "de": "Blues-Skala in C – Muster und Riffs",
+        "ja": "Cブルーススケール – パターンとリフ",
+        "pt-BR": "Escala Blues em Dó – Padrões e Riffs",
+        "es": "Escala de Blues en Do – Patrones y riffs"
       }
     },
     "description": {
@@ -62,11 +62,11 @@
     "name": {
       "values": {
         "en": "Simple Blues Improvisation with Right Hand",
-        "zh-Hans": "Simple Blues Improvisation with Right Hand",
-        "de": "Simple Blues Improvisation with Right Hand",
-        "ja": "Simple Blues Improvisation with Right Hand",
-        "pt-BR": "Simple Blues Improvisation with Right Hand",
-        "es": "Simple Blues Improvisation with Right Hand"
+        "zh-Hans": "右手简单的布鲁斯即兴",
+        "de": "Einfache Blues-Improvisation mit der rechten Hand",
+        "ja": "右手の簡単なブルース即興",
+        "pt-BR": "Improvisação Simples de Blues com a Mão Direita",
+        "es": "Improvisación simple de blues con la mano derecha"
       }
     },
     "description": {

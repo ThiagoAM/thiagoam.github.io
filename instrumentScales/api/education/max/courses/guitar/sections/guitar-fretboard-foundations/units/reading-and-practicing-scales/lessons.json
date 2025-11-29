@@ -6,11 +6,11 @@
     "name": {
       "values": {
         "en": "How to Read Scale Degrees and Intervals",
-        "zh-Hans": "How to Read Scale Degrees and Intervals",
-        "de": "How to Read Scale Degrees and Intervals",
-        "ja": "How to Read Scale Degrees and Intervals",
-        "pt-BR": "How to Read Scale Degrees and Intervals",
-        "es": "How to Read Scale Degrees and Intervals"
+        "zh-Hans": "如何阅读音级与音程",
+        "de": "Wie man Skalenstufen und Intervalle liest",
+        "ja": "スケール度数と音程の読み方",
+        "pt-BR": "Como Ler Graus de Escala e Intervalos",
+        "es": "Cómo leer grados de escala e intervalos"
       }
     },
     "description": {
@@ -34,11 +34,11 @@
     "name": {
       "values": {
         "en": "Fingerings for One- and Two-Octave Scales",
-        "zh-Hans": "Fingerings for One- and Two-Octave Scales",
-        "de": "Fingerings for One- and Two-Octave Scales",
-        "ja": "Fingerings for One- and Two-Octave Scales",
-        "pt-BR": "Fingerings for One- and Two-Octave Scales",
-        "es": "Fingerings for One- and Two-Octave Scales"
+        "zh-Hans": "一个和两个八度音阶的指法",
+        "de": "Fingersätze für ein- und zweioktavige Skalen",
+        "ja": "1オクターブおよび2オクターブスケールの運指",
+        "pt-BR": "Dedilhados para Escalas de Uma e Duas Oitavas",
+        "es": "Digitaciones para escalas de una y dos octavas"
       }
     },
     "description": {
@@ -62,11 +62,11 @@
     "name": {
       "values": {
         "en": "Alternate Picking for Scale Practice",
-        "zh-Hans": "Alternate Picking for Scale Practice",
-        "de": "Alternate Picking for Scale Practice",
-        "ja": "Alternate Picking for Scale Practice",
-        "pt-BR": "Alternate Picking for Scale Practice",
-        "es": "Alternate Picking for Scale Practice"
+        "zh-Hans": "音阶练习中的交替拨弦",
+        "de": "Wechselschlag für Skalenübungen",
+        "ja": "スケール練習のためのオルタネイトピッキング",
+        "pt-BR": "Palhetada Alternada para Prática de Escalas",
+        "es": "Púa alternada para práctica de escalas"
       }
     },
     "description": {

@@ -6,11 +6,11 @@
     "name": {
       "values": {
         "en": "Parallel Motion Scales, Two Octaves",
-        "zh-Hans": "Parallel Motion Scales, Two Octaves",
-        "de": "Parallel Motion Scales, Two Octaves",
-        "ja": "Parallel Motion Scales, Two Octaves",
-        "pt-BR": "Parallel Motion Scales, Two Octaves",
-        "es": "Parallel Motion Scales, Two Octaves"
+        "zh-Hans": "两个八度的平行运动音阶",
+        "de": "Tonleitern in Parallelbewegung, zwei Oktaven",
+        "ja": "2オクターブの平行進行スケール",
+        "pt-BR": "Escalas em Movimento Paralelo, Duas Oitavas",
+        "es": "Escalas en movimiento paralelo, dos octavas"
       }
     },
     "description": {
@@ -34,11 +34,11 @@
     "name": {
       "values": {
         "en": "Contrary Motion Scales in C and G",
-        "zh-Hans": "Contrary Motion Scales in C and G",
-        "de": "Contrary Motion Scales in C and G",
-        "ja": "Contrary Motion Scales in C and G",
-        "pt-BR": "Contrary Motion Scales in C and G",
-        "es": "Contrary Motion Scales in C and G"
+        "zh-Hans": "C大调与G大调的反向运动音阶",
+        "de": "Tonleitern in Gegenbewegung in C und G",
+        "ja": "CとGの反進行スケール",
+        "pt-BR": "Escalas em Movimento Contrário em Dó e Sol",
+        "es": "Escalas en movimiento contrario en Do y Sol"
       }
     },
     "description": {
@@ -62,11 +62,11 @@
     "name": {
       "values": {
         "en": "Scale Sequences in Thirds and Sixths",
-        "zh-Hans": "Scale Sequences in Thirds and Sixths",
-        "de": "Scale Sequences in Thirds and Sixths",
-        "ja": "Scale Sequences in Thirds and Sixths",
-        "pt-BR": "Scale Sequences in Thirds and Sixths",
-        "es": "Scale Sequences in Thirds and Sixths"
+        "zh-Hans": "三度与六度模进音阶",
+        "de": "Skalensequenzen in Terzen und Sexten",
+        "ja": "3度と6度のスケールシーケンス",
+        "pt-BR": "Sequências de Escala em Terças e Sextas",
+        "es": "Secuencias de escalas en terceras y sextas"
       }
     },
     "description": {

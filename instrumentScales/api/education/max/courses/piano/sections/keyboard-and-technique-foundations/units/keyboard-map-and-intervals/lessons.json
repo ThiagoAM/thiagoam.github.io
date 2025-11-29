@@ -6,11 +6,11 @@
     "name": {
       "values": {
         "en": "Identifying All Notes on the Keyboard",
-        "zh-Hans": "Identifying All Notes on the Keyboard",
-        "de": "Identifying All Notes on the Keyboard",
-        "ja": "Identifying All Notes on the Keyboard",
-        "pt-BR": "Identifying All Notes on the Keyboard",
-        "es": "Identifying All Notes on the Keyboard"
+        "zh-Hans": "识别键盘上的所有音符",
+        "de": "Alle Noten auf der Tastatur erkennen",
+        "ja": "キーボード上のすべての音を識別する",
+        "pt-BR": "Identificando Todas as Notas no Teclado",
+        "es": "Identificación de todas las notas del teclado"
       }
     },
     "description": {
@@ -34,11 +34,11 @@
     "name": {
       "values": {
         "en": "Whole Steps, Half Steps, and Intervals",
-        "zh-Hans": "Whole Steps, Half Steps, and Intervals",
-        "de": "Whole Steps, Half Steps, and Intervals",
-        "ja": "Whole Steps, Half Steps, and Intervals",
-        "pt-BR": "Whole Steps, Half Steps, and Intervals",
-        "es": "Whole Steps, Half Steps, and Intervals"
+        "zh-Hans": "全音、半音与音程",
+        "de": "Ganztonschritte, Halbtonschritte und Intervalle",
+        "ja": "全音、半音、および音程",
+        "pt-BR": "Tons, Semitons e Intervalos",
+        "es": "Tonos, semitonos e intervalos"
       }
     },
     "description": {
@@ -62,11 +62,11 @@
     "name": {
       "values": {
         "en": "Simple Interval Exercises Using C Major",
-        "zh-Hans": "Simple Interval Exercises Using C Major",
-        "de": "Simple Interval Exercises Using C Major",
-        "ja": "Simple Interval Exercises Using C Major",
-        "pt-BR": "Simple Interval Exercises Using C Major",
-        "es": "Simple Interval Exercises Using C Major"
+        "zh-Hans": "使用C大调的简单音程练习",
+        "de": "Einfache Intervallübungen in C-Dur",
+        "ja": "Cメジャーを使った簡単な音程練習",
+        "pt-BR": "Exercícios Simples de Intervalo Usando Dó Maior",
+        "es": "Ejercicios simples de intervalos usando Do Mayor"
       }
     },
     "description": {

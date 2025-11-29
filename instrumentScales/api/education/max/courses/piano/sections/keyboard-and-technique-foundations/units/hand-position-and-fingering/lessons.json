@@ -6,11 +6,11 @@
     "name": {
       "values": {
         "en": "Basic 5-Finger Position in C",
-        "zh-Hans": "Basic 5-Finger Position in C",
-        "de": "Basic 5-Finger Position in C",
-        "ja": "Basic 5-Finger Position in C",
-        "pt-BR": "Basic 5-Finger Position in C",
-        "es": "Basic 5-Finger Position in C"
+        "zh-Hans": "C调基本五指位置",
+        "de": "Grundlegende 5-Finger-Position in C",
+        "ja": "Cの基本的な5本指のポジション",
+        "pt-BR": "Posição Básica de 5 Dedos em Dó",
+        "es": "Posición básica de 5 dedos en Do"
       }
     },
     "description": {
@@ -34,11 +34,11 @@
     "name": {
       "values": {
         "en": "Standard Fingerings for C Major and G Major",
-        "zh-Hans": "Standard Fingerings for C Major and G Major",
-        "de": "Standard Fingerings for C Major and G Major",
-        "ja": "Standard Fingerings for C Major and G Major",
-        "pt-BR": "Standard Fingerings for C Major and G Major",
-        "es": "Standard Fingerings for C Major and G Major"
+        "zh-Hans": "C大调与G大调的标准指法",
+        "de": "Standard-Fingersätze für C-Dur und G-Dur",
+        "ja": "CメジャーとGメジャーの標準的な運指",
+        "pt-BR": "Dedilhados Padrão para Dó Maior e Sol Maior",
+        "es": "Digitaciones estándar para Do Mayor y Sol Mayor"
       }
     },
     "description": {
@@ -62,11 +62,11 @@
     "name": {
       "values": {
         "en": "Finger Independence Exercises",
-        "zh-Hans": "Finger Independence Exercises",
-        "de": "Finger Independence Exercises",
-        "ja": "Finger Independence Exercises",
-        "pt-BR": "Finger Independence Exercises",
-        "es": "Finger Independence Exercises"
+        "zh-Hans": "手指独立性练习",
+        "de": "Übungen zur Fingerunabhängigkeit",
+        "ja": "指の独立練習",
+        "pt-BR": "Exercícios de Independência dos Dedos",
+        "es": "Ejercicios de independencia de dedos"
       }
     },
     "description": {

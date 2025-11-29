@@ -6,11 +6,11 @@
     "name": {
       "values": {
         "en": "C Major Scale – Two Octaves, Hands Separate",
-        "zh-Hans": "C Major Scale – Two Octaves, Hands Separate",
-        "de": "C Major Scale – Two Octaves, Hands Separate",
-        "ja": "C Major Scale – Two Octaves, Hands Separate",
-        "pt-BR": "C Major Scale – Two Octaves, Hands Separate",
-        "es": "C Major Scale – Two Octaves, Hands Separate"
+        "zh-Hans": "C大调音阶 —— 两个八度，分手练习",
+        "de": "C-Dur-Tonleiter – Zwei Oktaven, Hände getrennt",
+        "ja": "Cメジャースケール – 2オクターブ、片手ずつ",
+        "pt-BR": "Escala de Dó Maior – Duas Oitavas, Mãos Separadas",
+        "es": "Escala de Do Mayor – Dos octavas, manos separadas"
       }
     },
     "description": {
@@ -34,11 +34,11 @@
     "name": {
       "values": {
         "en": "G and F Major Scales – Hands Separate",
-        "zh-Hans": "G and F Major Scales – Hands Separate",
-        "de": "G and F Major Scales – Hands Separate",
-        "ja": "G and F Major Scales – Hands Separate",
-        "pt-BR": "G and F Major Scales – Hands Separate",
-        "es": "G and F Major Scales – Hands Separate"
+        "zh-Hans": "G大调与F大调音阶 —— 分手练习",
+        "de": "G- und F-Dur-Tonleitern – Hände getrennt",
+        "ja": "GメジャーおよびFメジャースケール – 片手ずつ",
+        "pt-BR": "Escalas de Sol e Fá Maior – Mãos Separadas",
+        "es": "Escalas de Sol y Fa Mayor – Manos separadas"
       }
     },
     "description": {
@@ -62,11 +62,11 @@
     "name": {
       "values": {
         "en": "A Natural Minor and E Natural Minor Scales",
-        "zh-Hans": "A Natural Minor and E Natural Minor Scales",
-        "de": "A Natural Minor and E Natural Minor Scales",
-        "ja": "A Natural Minor and E Natural Minor Scales",
-        "pt-BR": "A Natural Minor and E Natural Minor Scales",
-        "es": "A Natural Minor and E Natural Minor Scales"
+        "zh-Hans": "A自然小调与E自然小调音阶",
+        "de": "a-Moll und e-Moll (natürlich) Tonleitern",
+        "ja": "AナチュラルマイナーおよびEナチュラルマイナースケール",
+        "pt-BR": "Escalas de Lá Menor Natural e Mi Menor Natural",
+        "es": "Escalas de La Menor Natural y Mi Menor Natural"
       }
     },
     "description": {

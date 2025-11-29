@@ -6,11 +6,11 @@
     "name": {
       "values": {
         "en": "Finding Chord Tones Inside Scales",
-        "zh-Hans": "Finding Chord Tones Inside Scales",
-        "de": "Finding Chord Tones Inside Scales",
-        "ja": "Finding Chord Tones Inside Scales",
-        "pt-BR": "Finding Chord Tones Inside Scales",
-        "es": "Finding Chord Tones Inside Scales"
+        "zh-Hans": "在音阶中寻找和弦音",
+        "de": "Finden von Akkordtönen innerhalb von Skalen",
+        "ja": "スケール内のコードトーンを見つける",
+        "pt-BR": "Encontrando Tons de Acordes Dentro das Escalas",
+        "es": "Encontrar tonos de acordes dentro de las escalas"
       }
     },
     "description": {
@@ -34,11 +34,11 @@
     "name": {
       "values": {
         "en": "Target Notes on Strong Beats",
-        "zh-Hans": "Target Notes on Strong Beats",
-        "de": "Target Notes on Strong Beats",
-        "ja": "Target Notes on Strong Beats",
-        "pt-BR": "Target Notes on Strong Beats",
-        "es": "Target Notes on Strong Beats"
+        "zh-Hans": "强拍上的目标音",
+        "de": "Zielnoten auf starken Zählzeiten",
+        "ja": "強拍のターゲットノート",
+        "pt-BR": "Notas Alvo em Batidas Fortes",
+        "es": "Notas objetivo en tiempos fuertes"
       }
     },
     "description": {
@@ -62,11 +62,11 @@
     "name": {
       "values": {
         "en": "Combining Scale Runs with Chord Tones",
-        "zh-Hans": "Combining Scale Runs with Chord Tones",
-        "de": "Combining Scale Runs with Chord Tones",
-        "ja": "Combining Scale Runs with Chord Tones",
-        "pt-BR": "Combining Scale Runs with Chord Tones",
-        "es": "Combining Scale Runs with Chord Tones"
+        "zh-Hans": "结合音阶跑动与和弦音",
+        "de": "Kombination von Skalenläufen mit Akkordtönen",
+        "ja": "スケールランとコードトーンの組み合わせ",
+        "pt-BR": "Combinando Corridas de Escala com Tons de Acordes",
+        "es": "Combinación de ejecuciones de escala con tonos de acordes"
       }
     },
     "description": {

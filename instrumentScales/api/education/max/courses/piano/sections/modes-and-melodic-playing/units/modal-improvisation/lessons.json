@@ -6,11 +6,11 @@
     "name": {
       "values": {
         "en": "D Dorian over a Static Dm7 Groove",
-        "zh-Hans": "D Dorian over a Static Dm7 Groove",
-        "de": "D Dorian over a Static Dm7 Groove",
-        "ja": "D Dorian over a Static Dm7 Groove",
-        "pt-BR": "D Dorian over a Static Dm7 Groove",
-        "es": "D Dorian over a Static Dm7 Groove"
+        "zh-Hans": "在静态Dm7律动上的D多利亚练习",
+        "de": "D-Dorisch über einen statischen Dm7-Groove",
+        "ja": "静的なDm7グルーヴ上のDドリアン",
+        "pt-BR": "Ré Dórico sobre um Groove Estático de Dm7",
+        "es": "Re Dórico sobre un groove estático de Rem7"
       }
     },
     "description": {
@@ -34,11 +34,11 @@
     "name": {
       "values": {
         "en": "G Mixolydian over Dominant Grooves",
-        "zh-Hans": "G Mixolydian over Dominant Grooves",
-        "de": "G Mixolydian over Dominant Grooves",
-        "ja": "G Mixolydian over Dominant Grooves",
-        "pt-BR": "G Mixolydian over Dominant Grooves",
-        "es": "G Mixolydian over Dominant Grooves"
+        "zh-Hans": "在属律动上的G混合利底亚练习",
+        "de": "G-Mixolydisch über Dominant-Grooves",
+        "ja": "ドミナントグルーヴ上のGミクソリディア",
+        "pt-BR": "Sol Mixolídio sobre Grooves Dominantes",
+        "es": "Sol Mixolidio sobre grooves dominantes"
       }
     },
     "description": {
@@ -62,11 +62,11 @@
     "name": {
       "values": {
         "en": "Using Modes for Simple Left-Right Hand Patterns",
-        "zh-Hans": "Using Modes for Simple Left-Right Hand Patterns",
-        "de": "Using Modes for Simple Left-Right Hand Patterns",
-        "ja": "Using Modes for Simple Left-Right Hand Patterns",
-        "pt-BR": "Using Modes for Simple Left-Right Hand Patterns",
-        "es": "Using Modes for Simple Left-Right Hand Patterns"
+        "zh-Hans": "使用调式进行简单的左右手配合",
+        "de": "Verwendung von Modi für einfache Muster der linken und rechten Hand",
+        "ja": "左右の手の簡単なパターンにモードを使用する",
+        "pt-BR": "Usando Modos para Padrões Simples de Mão Esquerda e Direita",
+        "es": "Uso de modos para patrones simples de mano izquierda y derecha"
       }
     },
     "description": {

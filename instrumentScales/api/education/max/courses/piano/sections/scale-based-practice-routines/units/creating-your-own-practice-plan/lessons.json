@@ -6,11 +6,11 @@
     "name": {
       "values": {
         "en": "Designing a 10-Minute Warm-Up Using Scales",
-        "zh-Hans": "Designing a 10-Minute Warm-Up Using Scales",
-        "de": "Designing a 10-Minute Warm-Up Using Scales",
-        "ja": "Designing a 10-Minute Warm-Up Using Scales",
-        "pt-BR": "Designing a 10-Minute Warm-Up Using Scales",
-        "es": "Designing a 10-Minute Warm-Up Using Scales"
+        "zh-Hans": "设计基于音阶的10分钟热身练习",
+        "de": "Gestaltung eines 10-minütigen Aufwärmtrainings mit Skalen",
+        "ja": "スケールを使った10分間のウォームアップの設計",
+        "pt-BR": "Projetando um Aquecimento de 10 Minutos Usando Escalas",
+        "es": "Diseño de un calentamiento de 10 minutos usando escalas"
       }
     },
     "description": {
@@ -34,11 +34,11 @@
     "name": {
       "values": {
         "en": "Balancing Technique, Theory, and Creativity",
-        "zh-Hans": "Balancing Technique, Theory, and Creativity",
-        "de": "Balancing Technique, Theory, and Creativity",
-        "ja": "Balancing Technique, Theory, and Creativity",
-        "pt-BR": "Balancing Technique, Theory, and Creativity",
-        "es": "Balancing Technique, Theory, and Creativity"
+        "zh-Hans": "平衡技巧、理论与创造力",
+        "de": "Balance zwischen Technik, Theorie und Kreativität",
+        "ja": "テクニック、理論、創造性のバランス",
+        "pt-BR": "Equilibrando Técnica, Teoria e Criatividade",
+        "es": "Equilibrio entre técnica, teoría y creatividad"
       }
     },
     "description": {
@@ -62,11 +62,11 @@
     "name": {
       "values": {
         "en": "Saving Custom Routines in Instrument Scales",
-        "zh-Hans": "Saving Custom Routines in Instrument Scales",
-        "de": "Saving Custom Routines in Instrument Scales",
-        "ja": "Saving Custom Routines in Instrument Scales",
-        "pt-BR": "Saving Custom Routines in Instrument Scales",
-        "es": "Saving Custom Routines in Instrument Scales"
+        "zh-Hans": "在 Instrument Scales 中保存自定义练习",
+        "de": "Speichern eigener Routinen in Instrument Scales",
+        "ja": "Instrument Scales でのカスタムルーチンの保存",
+        "pt-BR": "Salvando Rotinas Personalizadas no Instrument Scales",
+        "es": "Guardar rutinas personalizadas en Instrument Scales"
       }
     },
     "description": {

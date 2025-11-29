@@ -4,21 +4,21 @@
     "name": {
       "values": {
         "en": "Phrasing and Rhythm",
-        "zh-Hans": "Phrasing and Rhythm",
-        "de": "Phrasing and Rhythm",
-        "ja": "Phrasing and Rhythm",
-        "pt-BR": "Phrasing and Rhythm",
-        "es": "Phrasing and Rhythm"
+        "zh-Hans": "乐句划分与节奏",
+        "de": "Phrasierung und Rhythmus",
+        "ja": "フレージングとリズム",
+        "pt-BR": "Fraseado e Ritmo",
+        "es": "Fraseo y ritmo"
       }
     },
     "description": {
       "values": {
         "en": "Phrasing and Rhythm",
-        "zh-Hans": "Phrasing and Rhythm",
-        "de": "Phrasing and Rhythm",
-        "ja": "Phrasing and Rhythm",
-        "pt-BR": "Phrasing and Rhythm",
-        "es": "Phrasing and Rhythm"
+        "zh-Hans": "乐句划分与节奏",
+        "de": "Phrasierung und Rhythmus",
+        "ja": "フレージングとリズム",
+        "pt-BR": "Fraseado e Ritmo",
+        "es": "Fraseo y ritmo"
       }
     },
     "image": null,
@@ -31,21 +31,21 @@
     "name": {
       "values": {
         "en": "Target Notes and Chord Tones",
-        "zh-Hans": "Target Notes and Chord Tones",
-        "de": "Target Notes and Chord Tones",
-        "ja": "Target Notes and Chord Tones",
-        "pt-BR": "Target Notes and Chord Tones",
-        "es": "Target Notes and Chord Tones"
+        "zh-Hans": "目标音与和弦音",
+        "de": "Zielnoten und Akkordtöne",
+        "ja": "ターゲットノートとコードトーン",
+        "pt-BR": "Notas Alvo e Tons de Acordes",
+        "es": "Notas objetivo y tonos de acorde"
       }
     },
     "description": {
       "values": {
         "en": "Target Notes and Chord Tones",
-        "zh-Hans": "Target Notes and Chord Tones",
-        "de": "Target Notes and Chord Tones",
-        "ja": "Target Notes and Chord Tones",
-        "pt-BR": "Target Notes and Chord Tones",
-        "es": "Target Notes and Chord Tones"
+        "zh-Hans": "目标音与和弦音",
+        "de": "Zielnoten und Akkordtöne",
+        "ja": "ターゲットノートとコードトーン",
+        "pt-BR": "Notas Alvo e Tons de Acordes",
+        "es": "Notas objetivo y tonos de acorde"
       }
     },
     "image": null,
@@ -58,21 +58,21 @@
     "name": {
       "values": {
         "en": "Practice Routines and Etudes",
-        "zh-Hans": "Practice Routines and Etudes",
-        "de": "Practice Routines and Etudes",
-        "ja": "Practice Routines and Etudes",
-        "pt-BR": "Practice Routines and Etudes",
-        "es": "Practice Routines and Etudes"
+        "zh-Hans": "练习常规与练习曲",
+        "de": "Übungsroutinen und Etüden",
+        "ja": "練習ルーチンとエチュード",
+        "pt-BR": "Rotinas de Prática e Estudos",
+        "es": "Rutinas de práctica y estudios"
       }
     },
     "description": {
       "values": {
         "en": "Practice Routines and Etudes",
-        "zh-Hans": "Practice Routines and Etudes",
-        "de": "Practice Routines and Etudes",
-        "ja": "Practice Routines and Etudes",
-        "pt-BR": "Practice Routines and Etudes",
-        "es": "Practice Routines and Etudes"
+        "zh-Hans": "练习常规与练习曲",
+        "de": "Übungsroutinen und Etüden",
+        "ja": "練習ルーチンとエチュード",
+        "pt-BR": "Rotinas de Prática e Estudos",
+        "es": "Rutinas de práctica y estudios"
       }
     },
     "image": null,

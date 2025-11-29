@@ -6,11 +6,11 @@
     "name": {
       "values": {
         "en": "Ionian and Dorian from C Major",
-        "zh-Hans": "Ionian and Dorian from C Major",
-        "de": "Ionian and Dorian from C Major",
-        "ja": "Ionian and Dorian from C Major",
-        "pt-BR": "Ionian and Dorian from C Major",
-        "es": "Ionian and Dorian from C Major"
+        "zh-Hans": "基于C大调的爱奥尼亚与多利亚调式",
+        "de": "Ionisch und Dorisch aus C-Dur",
+        "ja": "Cメジャーからのイオニアンとドリアン",
+        "pt-BR": "Jônico e Dórico de Dó Maior",
+        "es": "Jónico y Dórico desde Do Mayor"
       }
     },
     "description": {
@@ -34,11 +34,11 @@
     "name": {
       "values": {
         "en": "Mixolydian and Aeolian from C Major",
-        "zh-Hans": "Mixolydian and Aeolian from C Major",
-        "de": "Mixolydian and Aeolian from C Major",
-        "ja": "Mixolydian and Aeolian from C Major",
-        "pt-BR": "Mixolydian and Aeolian from C Major",
-        "es": "Mixolydian and Aeolian from C Major"
+        "zh-Hans": "基于C大调的混合利底亚与爱奥利亚调式",
+        "de": "Mixolydisch und Äolisch aus C-Dur",
+        "ja": "Cメジャーからのミクソリディアとエオリアン",
+        "pt-BR": "Mixolídio e Eólio de Dó Maior",
+        "es": "Mixolidio y Eólico desde Do Mayor"
       }
     },
     "description": {
@@ -62,11 +62,11 @@
     "name": {
       "values": {
         "en": "Comparing Mode Colors on the Same Chords",
-        "zh-Hans": "Comparing Mode Colors on the Same Chords",
-        "de": "Comparing Mode Colors on the Same Chords",
-        "ja": "Comparing Mode Colors on the Same Chords",
-        "pt-BR": "Comparing Mode Colors on the Same Chords",
-        "es": "Comparing Mode Colors on the Same Chords"
+        "zh-Hans": "在相同和弦上比较调式色彩",
+        "de": "Vergleich von Modusfarben auf denselben Akkorden",
+        "ja": "同じコードでのモードの色彩比較",
+        "pt-BR": "Comparando Cores Modais nos Mesmos Acordes",
+        "es": "Comparación de colores modales en los mismos acordes"
       }
     },
     "description": {

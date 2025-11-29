@@ -6,11 +6,11 @@
     "name": {
       "values": {
         "en": "Using C Major Scale over Pop Progressions",
-        "zh-Hans": "Using C Major Scale over Pop Progressions",
-        "de": "Using C Major Scale over Pop Progressions",
-        "ja": "Using C Major Scale over Pop Progressions",
-        "pt-BR": "Using C Major Scale over Pop Progressions",
-        "es": "Using C Major Scale over Pop Progressions"
+        "zh-Hans": "在流行音乐和弦进行中使用C大调音阶",
+        "de": "Verwendung der C-Dur-Tonleiter über Pop-Progressionen",
+        "ja": "ポップスの進行におけるCメジャースケールの使用",
+        "pt-BR": "Usando a Escala de Dó Maior sobre Progressões Pop",
+        "es": "Uso de la escala de Do Mayor sobre progresiones pop"
       }
     },
     "description": {
@@ -34,11 +34,11 @@
     "name": {
       "values": {
         "en": "Combining Chord Arpeggios with Scale Runs",
-        "zh-Hans": "Combining Chord Arpeggios with Scale Runs",
-        "de": "Combining Chord Arpeggios with Scale Runs",
-        "ja": "Combining Chord Arpeggios with Scale Runs",
-        "pt-BR": "Combining Chord Arpeggios with Scale Runs",
-        "es": "Combining Chord Arpeggios with Scale Runs"
+        "zh-Hans": "结合和弦琶音与音阶跑动",
+        "de": "Kombination von Akkordarpeggios mit Skalenläufen",
+        "ja": "コードアルペジオとスケールランの組み合わせ",
+        "pt-BR": "Combinando Arpejos de Acordes com Corridas de Escala",
+        "es": "Combinación de arpegios de acordes con ejecuciones de escala"
       }
     },
     "description": {
@@ -62,11 +62,11 @@
     "name": {
       "values": {
         "en": "Creating Fill-Ins Between Chords",
-        "zh-Hans": "Creating Fill-Ins Between Chords",
-        "de": "Creating Fill-Ins Between Chords",
-        "ja": "Creating Fill-Ins Between Chords",
-        "pt-BR": "Creating Fill-Ins Between Chords",
-        "es": "Creating Fill-Ins Between Chords"
+        "zh-Hans": "在和弦之间创作填充乐句",
+        "de": "Erstellen von Fill-Ins zwischen Akkorden",
+        "ja": "コード間のフィルインの作成",
+        "pt-BR": "Criando Preenchimentos Entre Acordes",
+        "es": "Creación de rellenos entre acordes"
       }
     },
     "description": {

@@ -6,11 +6,11 @@
     "name": {
       "values": {
         "en": "Low E String Landmarks (3rd, 5th, 7th, 12th Frets)",
-        "zh-Hans": "Low E String Landmarks (3rd, 5th, 7th, 12th Frets)",
-        "de": "Low E String Landmarks (3rd, 5th, 7th, 12th Frets)",
-        "ja": "Low E String Landmarks (3rd, 5th, 7th, 12th Frets)",
-        "pt-BR": "Low E String Landmarks (3rd, 5th, 7th, 12th Frets)",
-        "es": "Low E String Landmarks (3rd, 5th, 7th, 12th Frets)"
+        "zh-Hans": "低音E弦地标（第3、5、7、12品）",
+        "de": "Orientierungspunkte auf der tiefen E-Saite (3., 5., 7., 12. Bund)",
+        "ja": "ローE弦のランドマーク（3、5、7、12フレット）",
+        "pt-BR": "Pontos de Referência na Corda Mi Grave (Casas 3, 5, 7, 12)",
+        "es": "Puntos de referencia en la cuerda Mi grave (trastes 3, 5, 7, 12)"
       }
     },
     "description": {
@@ -34,11 +34,11 @@
     "name": {
       "values": {
         "en": "A String Landmarks and Octave Shapes",
-        "zh-Hans": "A String Landmarks and Octave Shapes",
-        "de": "A String Landmarks and Octave Shapes",
-        "ja": "A String Landmarks and Octave Shapes",
-        "pt-BR": "A String Landmarks and Octave Shapes",
-        "es": "A String Landmarks and Octave Shapes"
+        "zh-Hans": "A弦地标与八度形状",
+        "de": "Orientierungspunkte auf der A-Saite und Oktavformen",
+        "ja": "A弦のランドマークとオクターブの形",
+        "pt-BR": "Pontos de Referência na Corda Lá e Formas de Oitava",
+        "es": "Puntos de referencia en la cuerda La y formas de octava"
       }
     },
     "description": {
@@ -62,11 +62,11 @@
     "name": {
       "values": {
         "en": "Building a Mental Map of the Fretboard",
-        "zh-Hans": "Building a Mental Map of the Fretboard",
-        "de": "Building a Mental Map of the Fretboard",
-        "ja": "Building a Mental Map of the Fretboard",
-        "pt-BR": "Building a Mental Map of the Fretboard",
-        "es": "Building a Mental Map of the Fretboard"
+        "zh-Hans": "建立指板的心理地图",
+        "de": "Aufbau einer mentalen Karte des Griffbretts",
+        "ja": "指板のメンタルマップの構築",
+        "pt-BR": "Construindo um Mapa Mental do Braço",
+        "es": "Construcción de un mapa mental del diapasón"
       }
     },
     "description": {

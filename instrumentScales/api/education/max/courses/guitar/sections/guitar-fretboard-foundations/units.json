@@ -4,21 +4,21 @@
     "name": {
       "values": {
         "en": "Landmarks and Positions",
-        "zh-Hans": "Landmarks and Positions",
-        "de": "Landmarks and Positions",
-        "ja": "Landmarks and Positions",
-        "pt-BR": "Landmarks and Positions",
-        "es": "Landmarks and Positions"
+        "zh-Hans": "指板地标与位置",
+        "de": "Orientierungspunkte und Positionen",
+        "ja": "ランドマークとポジション",
+        "pt-BR": "Pontos de Referência e Posições",
+        "es": "Puntos de referencia y posiciones"
       }
     },
     "description": {
       "values": {
         "en": "Landmarks and Positions",
-        "zh-Hans": "Landmarks and Positions",
-        "de": "Landmarks and Positions",
-        "ja": "Landmarks and Positions",
-        "pt-BR": "Landmarks and Positions",
-        "es": "Landmarks and Positions"
+        "zh-Hans": "指板地标与位置",
+        "de": "Orientierungspunkte und Positionen",
+        "ja": "ランドマークとポジション",
+        "pt-BR": "Pontos de Referência e Posições",
+        "es": "Puntos de referencia y posiciones"
       }
     },
     "image": null,
@@ -31,21 +31,21 @@
     "name": {
       "values": {
         "en": "Reading and Practicing Scales",
-        "zh-Hans": "Reading and Practicing Scales",
-        "de": "Reading and Practicing Scales",
-        "ja": "Reading and Practicing Scales",
-        "pt-BR": "Reading and Practicing Scales",
-        "es": "Reading and Practicing Scales"
+        "zh-Hans": "读谱与音阶练习",
+        "de": "Lesen und Üben von Skalen",
+        "ja": "スケールの読み方と練習",
+        "pt-BR": "Lendo e Praticando Escalas",
+        "es": "Lectura y práctica de escalas"
       }
     },
     "description": {
       "values": {
         "en": "Reading and Practicing Scales",
-        "zh-Hans": "Reading and Practicing Scales",
-        "de": "Reading and Practicing Scales",
-        "ja": "Reading and Practicing Scales",
-        "pt-BR": "Reading and Practicing Scales",
-        "es": "Reading and Practicing Scales"
+        "zh-Hans": "读谱与音阶练习",
+        "de": "Lesen und Üben von Skalen",
+        "ja": "スケールの読み方と練習",
+        "pt-BR": "Lendo e Praticando Escalas",
+        "es": "Lectura y práctica de escalas"
       }
     },
     "image": null,
@@ -58,21 +58,21 @@
     "name": {
       "values": {
         "en": "Major and Natural Minor Basics",
-        "zh-Hans": "Major and Natural Minor Basics",
-        "de": "Major and Natural Minor Basics",
-        "ja": "Major and Natural Minor Basics",
-        "pt-BR": "Major and Natural Minor Basics",
-        "es": "Major and Natural Minor Basics"
+        "zh-Hans": "大调与自然小调基础",
+        "de": "Grundlagen von Dur und natürlichem Moll",
+        "ja": "メジャーとナチュラルマイナーの基礎",
+        "pt-BR": "Fundamentos de Maior e Menor Natural",
+        "es": "Conceptos básicos de mayor y menor natural"
       }
     },
     "description": {
       "values": {
         "en": "Major and Natural Minor Basics",
-        "zh-Hans": "Major and Natural Minor Basics",
-        "de": "Major and Natural Minor Basics",
-        "ja": "Major and Natural Minor Basics",
-        "pt-BR": "Major and Natural Minor Basics",
-        "es": "Major and Natural Minor Basics"
+        "zh-Hans": "大调与自然小调基础",
+        "de": "Grundlagen von Dur und natürlichem Moll",
+        "ja": "メジャーとナチュラルマイナーの基礎",
+        "pt-BR": "Fundamentos de Maior e Menor Natural",
+        "es": "Conceptos básicos de mayor y menor natural"
       }
     },
     "image": null,
