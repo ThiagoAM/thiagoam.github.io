@@ -35,12 +35,12 @@
       "slug": "bass",
       "name": {
         "values": {
-          "en": "Bass – Max",
-          "zh-Hans": "Bass – Max",
-          "de": "Bass – Max",
-          "ja": "Bass – Max",
-          "pt-BR": "Bass – Max",
-          "es": "Bass – Max"
+          "en": "Bass",
+          "zh-Hans": "Bass",
+          "de": "Bass",
+          "ja": "Bass",
+          "pt-BR": "Bass",
+          "es": "Bass"
         }
       },
       "summary": {
@@ -64,12 +64,12 @@
       "slug": "piano",
       "name": {
         "values": {
-          "en": "Piano – Max",
-          "zh-Hans": "Piano – Max",
-          "de": "Piano – Max",
-          "ja": "Piano – Max",
-          "pt-BR": "Piano – Max",
-          "es": "Piano – Max"
+          "en": "Piano",
+          "zh-Hans": "Piano",
+          "de": "Piano",
+          "ja": "Piano",
+          "pt-BR": "Piano",
+          "es": "Piano"
         }
       },
       "summary": {
