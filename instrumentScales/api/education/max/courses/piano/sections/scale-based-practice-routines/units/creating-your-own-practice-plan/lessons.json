@@ -54,33 +54,5 @@
     "order": 2,
     "createdAt": "2025-12-01T00:00:00Z",
     "updatedAt": "2025-12-01T00:00:00Z"
-  },
-  {
-    "id": "saving-custom-routines-in-instrument-scales",
-    "level": "intermediate",
-    "difficulty": "medium",
-    "name": {
-      "values": {
-        "en": "Saving Custom Routines in Instrument Scales",
-        "zh-Hans": "在 Instrument Scales 中保存自定义练习",
-        "de": "Speichern eigener Routinen in Instrument Scales",
-        "ja": "Instrument Scales でのカスタムルーチンの保存",
-        "pt-BR": "Salvando Rotinas Personalizadas no Instrument Scales",
-        "es": "Guardar rutinas personalizadas en Instrument Scales"
-      }
-    },
-    "description": {
-      "values": {
-        "en": "Lesson content coming soon.",
-        "zh-Hans": "内容即将上线。",
-        "de": "Inhalt folgt in Kürze.",
-        "ja": "コンテンツはまもなく追加されます。",
-        "pt-BR": "Conteúdo chegando em breve.",
-        "es": "Contenido disponible pronto."
-      }
-    },
-    "order": 3,
-    "createdAt": "2025-12-01T00:00:00Z",
-    "updatedAt": "2025-12-01T00:00:00Z"
   }
 ]
