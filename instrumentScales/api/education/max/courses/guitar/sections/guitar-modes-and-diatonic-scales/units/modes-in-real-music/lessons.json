@@ -54,33 +54,5 @@
     "order": 2,
     "createdAt": "2025-12-01T00:00:00Z",
     "updatedAt": "2025-12-01T00:00:00Z"
-  },
-  {
-    "id": "creating-modal-jam-routines-with-instrument-scales",
-    "level": "intermediate",
-    "difficulty": "medium",
-    "name": {
-      "values": {
-        "en": "Creating Modal Jam Routines with Instrument Scales",
-        "zh-Hans": "使用音阶创建调式即兴练习套路",
-        "de": "Modale Jam-Routinen mit Instrument-Skalen erstellen",
-        "ja": "スケールを使ってモーダル・ジャムのルーティンを作る",
-        "pt-BR": "Criando rotinas modais de jam com escalas do instrumento",
-        "es": "Crear rutinas de jam modales usando escalas del instrumento"
-      }
-    },
-    "description": {
-      "values": {
-        "en": "Lesson content coming soon.",
-        "zh-Hans": "内容即将上线。",
-        "de": "Inhalt folgt in Kürze.",
-        "ja": "コンテンツはまもなく追加されます。",
-        "pt-BR": "Conteúdo chegando em breve.",
-        "es": "Contenido disponible pronto."
-      }
-    },
-    "order": 3,
-    "createdAt": "2025-12-01T00:00:00Z",
-    "updatedAt": "2025-12-01T00:00:00Z"
   }
 ]
