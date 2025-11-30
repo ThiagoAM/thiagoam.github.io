@@ -1,4 +1,62 @@
 {
   "id": "string-crossing-with-scale-patterns",
-  "blocks": []
+  "blocks": [
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# String crossing with scale patterns\nIn this lesson you’ll combine **alternating fingers** with **simple scale patterns** that move across strings.\n\nThe goal is to cross strings smoothly while keeping:\n- The **i–m–i–m** pattern intact\n- **Even tone and volume**\n- No extra noise from unused strings",
+          "zh-Hans": "# 用音阶指型练习换弦\n在本课中，你会把右手的**交替拨弦**和会跨弦的**简单音阶指型**结合起来练习。\n\n目标是：\n- 换弦时依然保持 **i–m–i–m** 的顺序\n- 让音色和音量尽量**均匀**\n- 尽量避免没弹到的弦发出**多余杂音**"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# Right-hand setup\n- Use **index (i)** and **middle (m)** fingers in strict alternation\n- Rest your **thumb** on the pickup or on the lowest string you’re not playing\n- Pluck **across the string** towards your palm\n- Let your fingers come to rest on the **next string** when possible (rest stroke)\n\nThis gives you a stable base for clean string changes.",
+          "zh-Hans": "# 右手准备\n- 严格使用 **食指 (i)** 和 **中指 (m)** 交替拨弦\n- **大拇指**搭在拾音器上，或搭在你此刻没有弹到的最低那根弦上\n- 手指向手掌方向**横向拨弦**，不要往外猛抠\n- 尽量让拨完弦的手指**落在下一根弦上**（rest stroke），帮助消音\n\n这样可以让换弦时更稳定、更干净。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# Two-string C major pattern (A and D strings)\nWe’ll use a small **C major** pattern that crosses one string.\n\nOn the **A and D strings**:\n- A string, 3rd fret – **C**  \n- A string, 5th fret – **D**  \n- D string, 2nd fret – **E**  \n- D string, 3rd fret – **F**\n\nRight hand:\n- Play **i – m – i – m** the whole time  \n- When you move from A → D, **don’t restart** with the same finger – keep the pattern going\n\nLoop C–D–E–F up and down a few times and focus on **smooth, quiet** string crossing.",
+          "zh-Hans": "# A、D 弦上的 C 大调两弦指型\n先用一个只跨一根弦的小 **C 大调**指型。\n\n在 **A 弦和 D 弦**上：\n- A 弦 第3品 – **C**  \n- A 弦 第5品 – **D**  \n- D 弦 第2品 – **E**  \n- D 弦 第3品 – **F**\n\n右手：\n- 全程保持 **i – m – i – m** 的顺序  \n- 从 A 弦换到 D 弦时，**不要重新从同一根手指开始**，顺着模式继续\n\n把 C–D–E–F 上下反复几遍，重点感受换弦时的**连贯和安静**。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# Three-string C major pattern (A, D and G strings)\nNow extend to a full **one-octave C major** across three strings.\n\nOn **A, D and G strings**:\n- A string, 3rd fret – **C**  \n- A string, 5th fret – **D**  \n- D string, 2nd fret – **E**  \n- D string, 3rd fret – **F**  \n- D string, 5th fret – **G**  \n- G string, 2nd fret – **A**  \n- G string, 4th fret – **B**  \n- G string, 5th fret – **C**\n\nPlay up and then back down, always alternating **i–m–i–m…**.\n\nIf you get lost, stop and say out loud which finger should come next before you play.",
+          "zh-Hans": "# A、D、G 弦上的 C 大调三弦指型\n现在把它扩展成跨三根弦的 **一组音 C 大调**。\n\n在 **A、D、G 弦**上：\n- A 弦 第3品 – **C**  \n- A 弦 第5品 – **D**  \n- D 弦 第2品 – **E**  \n- D 弦 第3品 – **F**  \n- D 弦 第5品 – **G**  \n- G 弦 第2品 – **A**  \n- G 弦 第4品 – **B**  \n- G 弦 第5品 – **C**\n\n上行一遍再下行一遍，全程都保持 **i–m–i–m…** 的交替。\n\n如果手指顺序乱了，就先停下来，**先用嘴巴说出下一个应该用哪根手指**，再弹。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# String-crossing drill ideas\nTry these ways of slicing the pattern:\n\n1. **Two notes per string**  \n   - C (A3) – D (A5) → E (D2) – F (D3) → G (D5) – A (G2)…\n2. **One note per string**  \n   - C (A3) → E (D2) → G (D5) → B (G4)…\n3. **Back-and-forth crossing**  \n   - C (A3) → E (D2) → D (A5) → F (D3)…\n\nIn every case, keep the **right hand pattern** more important than speed. Slow and clean wins.",
+          "zh-Hans": "# 换弦练习的小变体\n可以用几种不同的方式“切片”这个指型：\n\n1. **每弦两个音**  \n   - C (A3) – D (A5) → E (D2) – F (D3) → G (D5) – A (G2)…\n2. **每弦一个音**  \n   - C (A3) → E (D2) → G (D5) → B (G4)…\n3. **来回式换弦**  \n   - C (A3) → E (D2) → D (A5) → F (D3)…\n\n无论用哪一种，**右手的交替顺序**都比速度更重要——慢而干净永远比快而乱更有用。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# Quick practice routine\n1. **Warm-up:** 1–2 minutes of alternating i–m on a single string (any note).  \n2. **Two-string pattern:** C–D–E–F on A and D strings, up and down 4–5 times.  \n3. **Three-string pattern:** full C major across A–D–G, very slow, focus on clean crossings.  \n4. **Variation:** pick one of the drill ideas and loop it for a minute.\n\nAfter a few days of this, scale patterns that cross strings will start to feel **automatic** in your right hand.",
+          "zh-Hans": "# 快速练习流程\n1. **热身：** 在任意一根弦上用 i–m 交替拨同一个音 1–2 分钟。  \n2. **两弦指型：** 在 A、D 弦上练 C–D–E–F，上下各弹 4–5 遍。  \n3. **三弦指型：** 在 A–D–G 弦上完整弹一组 C 大调，速度放慢，专注在干净换弦。  \n4. **小变体：** 从上面的练习变体中选一个，循环约 1 分钟。\n\n坚持练几天，跨弦的音阶指型在右手上就会开始变得**自然顺手**。"
+        }
+      }
+    }
+  ],
+  "tests": [],
+  "createdAt": "2025-11-30T00:00:00Z",
+  "updatedAt": "2025-11-30T00:00:00Z"
 }
