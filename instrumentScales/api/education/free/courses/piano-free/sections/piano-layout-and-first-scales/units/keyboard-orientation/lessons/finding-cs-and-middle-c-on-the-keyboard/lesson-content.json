@@ -1,7 +1,60 @@
 {
   "id": "finding-cs-and-middle-c-on-the-keyboard",
-  "blocks": [],
+  "blocks": [
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# The black key pattern\nThe piano keyboard might look like an endless row of keys, but there is a pattern.\n\nFocus on the **black keys**. You will see they are arranged in alternating groups of **two** and **three**.\n\nThis grouping is your map to finding every note.",
+          "zh-Hans": "# 黑键的规律\n钢琴键盘看起来像是一排无尽的琴键，但其实是有规律的。\n\n请注意**黑键**。你会发现它们是按**两个**一组和**三个**一组交替排列的。\n\n这个分组就是你找到所有音符的地图。",
+          "de": "# Das Muster der schwarzen Tasten\nDie Klaviertastatur mag wie eine endlose Reihe von Tasten aussehen, aber es gibt ein Muster.\n\nAchte auf die **schwarzen Tasten**. Sie sind abwechselnd in Gruppen von **zwei** und **drei** Tasten angeordnet.\n\nDiese Gruppierung ist dein Wegweiser zu jedem Ton.",
+          "ja": "# 黒鍵のパターン\nピアノの鍵盤は延々と並んでいるように見えますが、実はパターンがあります。\n\n**黒い鍵盤（黒鍵）**に注目してください。よく見ると、**2本**のグループと**3本**のグループが交互に並んでいます。\n\nこの並び方が、音を見つけるための地図になります。",
+          "pt-BR": "# O padrão das teclas pretas\nO teclado do piano pode parecer uma fila infinita de teclas, mas existe um padrão.\n\nConcentre-se nas **teclas pretas**. Você verá que elas são organizadas em grupos alternados de **duas** e **três**.\n\nEsse agrupamento é o seu mapa para encontrar qualquer nota.",
+          "es": "# El patrón de las teclas negras\nEl teclado del piano puede parecer una fila interminable de teclas, pero hay un patrón.\n\nFíjate en las **teclas negras**. Verás que están organizadas en grupos alternos de **dos** y **tres**.\n\nEsta agrupación es tu mapa para encontrar cualquier nota."
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# Finding C\nTo find a **C**, look for any group of **two black keys**.\n\nThe white key immediately to the **left** of those two black keys is always **C**.\n\nGo ahead and find a few Cs up and down the keyboard.",
+          "zh-Hans": "# 寻找 C\n要找到 **C**，请先找到任意一组**两个黑键**。\n\n这组黑键紧邻**左边**的那个白键永远是 **C**。\n\n试着在键盘上高低不同的位置找几个 C。",
+          "de": "# Das C finden\nUm ein **C** zu finden, suche nach einer Gruppe von **zwei schwarzen Tasten**.\n\nDie weiße Taste direkt **links** neben diesen zwei schwarzen Tasten ist immer ein **C**.\n\nSuch dir ein paar Cs an verschiedenen Stellen auf der Tastatur.",
+          "ja": "# 「C（ド）」の見つけ方\n**C（ド）**を見つけるには、**2本の黒鍵**のグループを探します。\n\nその2本の黒鍵のすぐ**左**にある白い鍵盤が、必ず**C**になります。\n\n鍵盤のあちこちにあるCを探してみましょう。",
+          "pt-BR": "# Encontrando o Dó (C)\nPara encontrar um **Dó (C)**, procure por qualquer grupo de **duas teclas pretas**.\n\nA tecla branca imediatamente à **esquerda** dessas duas teclas pretas é sempre um **C**.\n\nVá em frente e encontre alguns Dós ao longo do teclado.",
+          "es": "# Encontrar el Do (C)\nPara encontrar un **Do (C)**, busca cualquier grupo de **dos teclas negras**.\n\nLa tecla blanca que está justo a la **izquierda** de esas dos teclas negras es siempre un **C**.\n\nAdelante, busca algunos Do a lo largo del teclado."
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# Middle C\n**Middle C** is the most important landmark for beginners. As the name suggests, it is the C located closest to the **middle** of your keyboard.\n\nOn an acoustic piano, it's usually right under the brand name logo.\n\nThis note acts as the anchor between your left and right hand.",
+          "zh-Hans": "# 中央 C (Middle C)\n**中央 C** 是初学者最重要的路标。顾名思义，它是最靠近键盘**中间**位置的那个 C。\n\n在声学钢琴上，它通常就在品牌标志的正下方。\n\n这个音符是你左手和右手之间的定位锚点。",
+          "de": "# Das mittlere C (Middle C)\nDas **mittlere C** ist der wichtigste Orientierungspunkt für Anfänger. Wie der Name schon sagt, ist es das C, das der **Mitte** deiner Tastatur am nächsten liegt.\n\nBei einem akustischen Klavier befindet es sich meist direkt unter dem Markenlogo.\n\nDieser Ton ist der Ankerpunkt zwischen deiner linken und rechten Hand.",
+          "ja": "# 真ん中のC（ミドルC）\n**真ん中のC（ミドルC）**は、初心者にとって一番重要な目印です。その名の通り、鍵盤の**中央**に一番近いCのことです。\n\nアコースティックピアノでは、だいたいメーカーのロゴの真下にあります。\n\nこの音は、左手と右手のポジションを決める基準になります。",
+          "pt-BR": "# Dó Central (Middle C)\nO **Dó Central** é o ponto de referência mais importante para iniciantes. Como o nome sugere, é o C localizado mais próximo do **meio** do seu teclado.\n\nEm um piano acústico, ele geralmente fica logo abaixo do logotipo da marca.\n\nEssa nota funciona como a âncora entre sua mão esquerda e direita.",
+          "es": "# Do Central (Middle C)\nEl **Do Central** es la referencia más importante para principiantes. Como su nombre indica, es el C situado más cerca del **centro** de tu teclado.\n\nEn un piano acústico, suele estar justo debajo del logotipo de la marca.\n\nEsta nota actúa como ancla entre tu mano izquierda y derecha."
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# Quick exercise\n1. Start at the very **left** (lowest notes) of your piano.\n2. Find the first group of **two black keys**.\n3. Play the **C** next to them.\n4. Move to the right, finding and playing **every single C** until you run out of keys.\n\nThis builds your visual recognition of the pattern.",
+          "zh-Hans": "# 快速练习\n1. 从钢琴的最**左边**（低音区）开始。\n2. 找到第一组**两个黑键**。\n3. 弹奏它们旁边的 **C**。\n4. 向右移动，找到并弹奏**每一个 C**，直到键盘尽头。\n\n这能帮你建立对键盘规律的视觉认知。",
+          "de": "# Kurze Übung\n1. Beginne ganz **links** (bei den tiefsten Tönen) auf deinem Klavier.\n2. Suche die erste Gruppe von **zwei schwarzen Tasten**.\n3. Spiele das **C** daneben.\n4. Gehe nach rechts weiter und spiele **jedes einzelne C**, bis die Tasten zu Ende sind.\n\nDas trainiert dein visuelles Gedächtnis für das Tastenmuster.",
+          "ja": "# クイック練習\n1. ピアノの一番**左端**（一番低い音）から始めます。\n2. 最初の**黒鍵2つ**のグループを見つけます。\n3. その横にある**C**を弾きます。\n4. 右へ移動しながら、鍵盤がなくなるまで**すべてのC**を見つけて弾いていきましょう。\n\nこれで鍵盤のパターンの見た目に慣れることができます。",
+          "pt-BR": "# Exercício rápido\n1. Comece bem à **esquerda** (notas mais graves) do seu piano.\n2. Encontre o primeiro grupo de **duas teclas pretas**.\n3. Toque o **C** ao lado delas.\n4. Mova-se para a direita, encontrando e tocando **todo e qualquer C** até acabarem as teclas.\n\nIsso constrói o seu reconhecimento visual do padrão.",
+          "es": "# Ejercicio rápido\n1. Empieza en el extremo **izquierdo** (notas más graves) de tu piano.\n2. Busca el primer grupo de **dos teclas negras**.\n3. Toca el **Do (C)** que hay junto a ellas.\n4. Muévete hacia la derecha, encontrando y tocando **cada Do (C)** hasta que se acaben las teclas.\n\nEsto entrena tu reconocimiento visual del patrón."
+        }
+      }
+    }
+  ],
   "tests": [],
-  "createdAt": "2025-11-27T00:00:00Z",
-  "updatedAt": "2025-11-27T00:00:00Z"
+  "createdAt": "2025-11-30T10:00:00Z",
+  "updatedAt": "2025-11-30T10:00:00Z"
 }
